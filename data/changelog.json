@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-02T18:44:32Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "GPU Rent Hub",
+    "slug": "gpu-rent-hub",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/gpu-rent-hub",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-02T16:49:38Z",
     "type": "STATUS_CHANGE",
     "severity": "high",

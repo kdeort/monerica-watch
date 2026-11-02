@@ -8357,6 +8357,26 @@
     "added": "2026-06-17",
     "updated": "2026-10-21"
   },
+  "gpu-rent-hub": {
+    "name": "GPU Rent Hub",
+    "slug": "gpu-rent-hub",
+    "profileUrl": "https://monerica.com/site/gpu-rent-hub",
+    "website": "https://gpurenthub.com/",
+    "category": "Web Hosting",
+    "subcategory": "VPS & Dedicated Server Providers",
+    "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "Email Not Required",
+      "Sells Dedicated Servers"
+    ],
+    "country": "US",
+    "founded": "2026-09-05",
+    "description": "Dedicated bare-metal GPU servers (H100, H200, B200, RTX 5090 and more) rented by the week or month from US datacenters. Pay in XMR or other crypto.",
+    "added": "2026-11-02",
+    "updated": "2026-11-02"
+  },
   "gpu-screen-recorder": {
     "name": "GPU Screen Recorder",
     "slug": "gpu-screen-recorder",
