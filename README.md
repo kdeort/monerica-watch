@@ -12,7 +12,7 @@ An open-source, zero-dependency watchdog that monitors all 1,423+ Monero service
 - **RSS 2.0 Alert Feed (`data/feed.xml`):** Subscribe in any RSS reader.
 - **Telegram Webhook Support:** Optional instant push alerts via environment variables.
 
-## v1.0 Roadmap (Funded via Kuno — 4 XMR Goal)
+## v1.0 Roadmap (Funded via Kuno https://kuno.anne.media/fundraiser/mjrj/— 4 XMR Goal)
 - [ ] **Milestone 1 (1.5 XMR):** SimpleX Chat & Matrix bot integration so users can subscribe to KYC/scam alerts without Telegram.
 - [ ] **Milestone 2 (1.5 XMR):** Automated `.onion` & clearnet uptime prober to detect when listed services go offline before users send funds.
 - [ ] **Milestone 3 (1.0 XMR):** Dedicated Tor `.onion` mirror and No-JS server-side HTML archive.
