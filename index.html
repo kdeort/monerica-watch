@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Monerica Watch — KYC & Scam Alert Monitor</title>
+  <style>
+    :root {
+      --bg: #121212;
+      --panel: #1c1c1c;
+      --border: #2e2e2e;
+      --accent: #ff6600;
+      --text: #e8e8e8;
+      --muted: #9e9e9e;
+      --danger: #ff4d4d;
+      --ok: #2ecc71;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      padding: 1.5rem;
+    }
+    .container { max-width: 1100px; margin: 0 auto; }
+    header {
+      border-bottom: 2px solid var(--accent);
+      padding-bottom: 1rem;
+      margin-bottom: 1.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+    }
+    h1 { margin: 0; font-size: 1.5rem; color: var(--accent); }
+    .btn {
+      display: inline-block;
+      padding: 0.5rem 0.9rem;
+      background: var(--accent);
+      color: #000;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 4px;
+      font-size: 0.85rem;
+    }
+    .btn-outline {
+      background: transparent;
+      color: var(--accent);
+      border: 1px solid var(--accent);
+    }
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(155px, 1fr));
+      gap: 0.8rem;
+      margin-bottom: 1.5rem;
+    }
+    .stat-card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      padding: 1rem;
+      border-radius: 6px;
+    }
+    .stat-value { font-size: 1.6rem; font-weight: bold; color: var(--accent); }
+    .stat-label { font-size: 0.8rem; color: var(--muted); }
+    .controls {
+      display: flex;
+      gap: 0.8rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+    input, select {
+      background: var(--panel);
+      color: var(--text);
+      border: 1px solid var(--border);
+      padding: 0.5rem 0.8rem;
+      border-radius: 4px;
+      font-family: inherit;
+    }
+    input { flex: 1; min-width: 220px; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      margin-bottom: 2rem;
+      font-size: 0.88rem;
+    }
+    th, td {
+      text-align: left;
+      padding: 0.65rem 0.8rem;
+      border-bottom: 1px solid var(--border);
+    }
+    th { color: var(--accent); background: #171717; }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .badge {
+      padding: 0.15rem 0.45rem;
+      border-radius: 3px;
+      font-size: 0.75rem;
+      font-weight: bold;
+    }
+    .badge-high { background: rgba(255, 77, 77, 0.2); color: var(--danger); border: 1px solid var(--danger); }
+    .badge-info { background: rgba(46, 204, 113, 0.15); color: var(--ok); border: 1px solid var(--ok); }
+    footer {
+      border-top: 1px solid var(--border);
+      padding-top: 1rem;
+      color: var(--muted);
+      font-size: 0.82rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div>
+        <h1>Monerica Watch (v0.1)</h1>
+        <div style="color: var(--muted); font-size: 0.85rem;">
+          Automated KYC policy, status &amp; scam-flag diff monitor for Monero services
+        </div>
+      </div>
+      <div style="display: flex; gap: 0.6rem;">
+        <a class="btn btn-outline" href="./data/feed.xml">RSS Feed</a>
+        <!-- Replace with your live Kuno URL once submitted -->
+        <a class="btn" href="https://kuno.anne.media/" target="_blank" rel="noopener">Support v1.0 on Kuno</a>
+      </div>
+    </header>
+
+    <div class="stats-grid">
+      <div class="stat-card"><div class="stat-value" id="st-total">-</div><div class="stat-label">Total Tracked</div></div>
+      <div class="stat-card"><div class="stat-value" id="st-verified">-</div><div class="stat-label">Verified</div></div>
+      <div class="stat-card"><div class="stat-value" id="st-nokyc">-</div><div class="stat-label">Guaranteed No KYC</div></div>
+      <div class="stat-card"><div class="stat-value" id="st-tor">-</div><div class="stat-label">Tor (.onion) Ready</div></div>
+      <div class="stat-card"><div class="stat-value" id="st-scam" style="color: var(--danger);">-</div><div class="stat-label">Flagged Scam</div></div>
+      <div class="stat-card"><div class="stat-value" id="st-quest">-</div><div class="stat-label">Questionable</div></div>
+    </div>
+
+    <div class="controls">
+      <input type="text" id="searchInput" placeholder="Filter by service name, category, or KYC change..." />
+      <select id="severityFilter">
+        <option value="all">All Events</option>
+        <option value="high">High Severity (Scams / KYC Downgrades)</option>
+        <option value="info">Info / New &amp; Verified</option>
+      </select>
+    </div>
+
+    <h2 style="font-size: 1.1rem;">Recent Directory Changes &amp; Alerts</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Event</th>
+          <th>Service</th>
+          <th>Category</th>
+          <th>Details</th>
+        </tr>
+      </thead>
+      <tbody id="eventsBody"></tbody>
+    </table>
+
+    <footer>
+      Data sourced from <a href="https://monerica.com/data.json" target="_blank" rel="noopener">monerica.com/data.json</a>.
+      Zero ads, zero trackers, 100% open-source.
+    </footer>
+  </div>
+
+  <script>
+    let allEvents = [];
+
+    function renderRows() {
+      const query = document.getElementById("searchInput").value.toLowerCase();
+      const sev = document.getElementById("severityFilter").value;
+      const tbody = document.getElementById("eventsBody");
+      tbody.textContent = "";
+
+      const filtered = allEvents.filter(ev => {
+        if (sev !== "all" && ev.severity !== sev) return false;
+        const text = `${ev.name} ${ev.category} ${ev.detail} ${ev.type}`.toLowerCase();
+        return text.includes(query);
+      });
+
+      for (const ev of filtered) {
+        const tr = document.createElement("tr");
+
+        const tdDate = document.createElement("td");
+        tdDate.textContent = (ev.timestamp || "").slice(0, 10);
+
+        const tdType = document.createElement("td");
+        const badge = document.createElement("span");
+        badge.className = "badge " + (ev.severity === "high" ? "badge-high" : "badge-info");
+        badge.textContent = ev.type;
+        tdType.appendChild(badge);
+
+        const tdName = document.createElement("td");
+        const link = document.createElement("a");
+        link.href = ev.profileUrl || "https://monerica.com";
+        link.target = "_blank";
+        link.rel = "noopener";
+        link.textContent = ev.name;
+        tdName.appendChild(link);
+
+        const tdCat = document.createElement("td");
+        tdCat.textContent = ev.category;
+
+        const tdDetail = document.createElement("td");
+        tdDetail.textContent = ev.detail;
+
+        tr.append(tdDate, tdType, tdName, tdCat, tdDetail);
+        tbody.appendChild(tr);
+      }
+    }
+
+    async function init() {
+      const [sumRes, logRes] = await Promise.all([
+        fetch("./data/status_summary.json"),
+        fetch("./data/changelog.json")
+      ]);
+      const summary = await sumRes.json();
+      allEvents = await logRes.json();
+
+      document.getElementById("st-total").textContent = summary.total;
+      document.getElementById("st-verified").textContent = summary.verified;
+      document.getElementById("st-nokyc").textContent = summary.no_kyc;
+      document.getElementById("st-tor").textContent = summary.tor_enabled;
+      document.getElementById("st-scam").textContent = summary.scam;
+      document.getElementById("st-quest").textContent = summary.questionable;
+
+      renderRows();
+    }
+
+    document.getElementById("searchInput").addEventListener("input", renderRows);
+    document.getElementById("severityFilter").addEventListener("change", renderRows);
+    init();
+  </script>
+</body>
+</html>
