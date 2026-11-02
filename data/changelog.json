@@ -1,0 +1,302 @@
+[
+  {
+    "timestamp": "2026-11-02",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Alchimex",
+    "slug": "alchimex",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/alchimex",
+    "detail": "Status: Verified | KYC: Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-11-02",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Expeer",
+    "slug": "expeer",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/expeer",
+    "detail": "Status: Admitted | KYC: Rare KYC"
+  },
+  {
+    "timestamp": "2026-11-02",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "rdp.monster",
+    "slug": "rdp-monster",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/rdp-monster",
+    "detail": "Status: Verified | KYC: Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-11-02",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "BTCVPS",
+    "slug": "btcvps",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/btcvps",
+    "detail": "Status: Verified | KYC: Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-11-02",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Changee",
+    "slug": "changee",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/changee",
+    "detail": "Status: Verified | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Monero Checkout",
+    "slug": "monero-checkout",
+    "category": "Merchant Services \u203a Open Source Projects",
+    "profileUrl": "https://monerica.com/site/monero-checkout",
+    "detail": "Status: Admitted | KYC: Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "high",
+    "name": "monerotalk.org",
+    "slug": "monerotalk-org",
+    "category": "Communities \u203a Forums",
+    "profileUrl": "https://monerica.com/site/monerotalk-org",
+    "detail": "Status: Questionable | KYC: Not Stated"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "NefiSwap",
+    "slug": "nefiswap",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/nefiswap",
+    "detail": "Status: Admitted | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Useraven",
+    "slug": "useraven",
+    "category": "Non-Profits \u203a Technologies",
+    "profileUrl": "https://monerica.com/site/useraven",
+    "detail": "Status: Admitted | KYC: Not Stated"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "XMRchan",
+    "slug": "xmrchan",
+    "category": "Communities \u203a Forums",
+    "profileUrl": "https://monerica.com/site/xmrchan",
+    "detail": "Status: Admitted | KYC: Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Solar Swap",
+    "slug": "solar-swap",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/solar-swap",
+    "detail": "Status: Admitted | KYC: Varies By Provider"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Spinatoshi",
+    "slug": "spinatoshi",
+    "category": "Businesses \u203a Gambling",
+    "profileUrl": "https://monerica.com/site/spinatoshi",
+    "detail": "Status: Admitted | KYC: Rare KYC"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "high",
+    "name": "67.tax",
+    "slug": "67-tax",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/67-tax",
+    "detail": "Status: Questionable | KYC: Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "high",
+    "name": "StereoSwap",
+    "slug": "stereoswap",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/stereoswap",
+    "detail": "Status: Questionable | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "ExWell",
+    "slug": "exwell",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/exwell",
+    "detail": "Status: Admitted | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-11-01",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Explace",
+    "slug": "explace",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/explace",
+    "detail": "Status: Admitted | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "HushSIMs",
+    "slug": "hushsims",
+    "category": "Phone & SMS \u203a eSIMs & SIM Cards",
+    "profileUrl": "https://monerica.com/site/hushsims",
+    "detail": "Status: Admitted | KYC: Varies By Provider"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Moneroarena",
+    "slug": "moneroarena",
+    "category": "Businesses \u203a Gambling",
+    "profileUrl": "https://monerica.com/site/moneroarena",
+    "detail": "Status: Admitted | KYC: Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Breezeswap",
+    "slug": "breezeswap",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/breezeswap",
+    "detail": "Status: Admitted | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Cambio",
+    "slug": "cambio",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/cambio",
+    "detail": "Status: Admitted | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "high",
+    "name": "n.exchange",
+    "slug": "n-exchange",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/n-exchange",
+    "detail": "Status: Questionable | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "AlwaysMoney",
+    "slug": "alwaysmoney",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/alwaysmoney",
+    "detail": "Status: Admitted | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "BitSwap",
+    "slug": "bitswap",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/bitswap",
+    "detail": "Status: Admitted | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Monero Slots",
+    "slug": "monero-slots",
+    "category": "Businesses \u203a Gambling",
+    "profileUrl": "https://monerica.com/site/monero-slots",
+    "detail": "Status: Verified | KYC: Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Lighter",
+    "slug": "lighter",
+    "category": "Exchanges \u203a Decentralized Exchanges",
+    "profileUrl": "https://monerica.com/site/lighter",
+    "detail": "Status: Verified | KYC: Not Stated"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "AltQuick",
+    "slug": "altquick",
+    "category": "Exchanges \u203a Centralized Exchanges",
+    "profileUrl": "https://monerica.com/site/altquick",
+    "detail": "Status: Verified | KYC: Not Stated"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "BitXchange",
+    "slug": "bitxchange",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/bitxchange",
+    "detail": "Status: Verified | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "CCE Cash",
+    "slug": "cce-cash",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/cce-cash",
+    "detail": "Status: Verified | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "BitcoinVN",
+    "slug": "bitcoinvn",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/bitcoinvn",
+    "detail": "Status: Verified | KYC: Shotgun KYC"
+  },
+  {
+    "timestamp": "2026-10-31",
+    "type": "INITIAL_SNAPSHOT",
+    "severity": "info",
+    "name": "Alfacash",
+    "slug": "alfacash",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/alfacash",
+    "detail": "Status: Verified | KYC: Shotgun KYC"
+  }
+]

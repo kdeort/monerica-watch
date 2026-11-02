@@ -1,0 +1,512 @@
+{
+  "generated": "2026-11-02T09:57:30Z",
+  "total": 1423,
+  "verified": 281,
+  "admitted": 987,
+  "questionable": 91,
+  "scam": 64,
+  "no_kyc": 358,
+  "tor_enabled": 138,
+  "active_warnings": [
+    {
+      "name": "67.tax",
+      "slug": "67-tax",
+      "profileUrl": "https://monerica.com/site/67-tax",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-01"
+    },
+    {
+      "name": "monerotalk.org",
+      "slug": "monerotalk-org",
+      "profileUrl": "https://monerica.com/site/monerotalk-org",
+      "category": "Communities \u203a Forums",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-01"
+    },
+    {
+      "name": "StereoSwap",
+      "slug": "stereoswap",
+      "profileUrl": "https://monerica.com/site/stereoswap",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Questionable",
+      "kycPolicy": "Shotgun KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-01"
+    },
+    {
+      "name": "n.exchange",
+      "slug": "n-exchange",
+      "profileUrl": "https://monerica.com/site/n-exchange",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Questionable",
+      "kycPolicy": "Shotgun KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-31"
+    },
+    {
+      "name": "1984 Hosting",
+      "slug": "1984-hosting",
+      "profileUrl": "https://monerica.com/site/1984-hosting",
+      "category": "Web Hosting \u203a Tor & Onion Hosting",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "1xmr",
+      "slug": "1xmr",
+      "profileUrl": "https://monerica.com/site/1xmr",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "404.cash",
+      "slug": "404-cash",
+      "profileUrl": "https://monerica.com/site/404-cash",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Aeronnect",
+      "slug": "aeronnect",
+      "profileUrl": "https://monerica.com/site/aeronnect",
+      "category": "Phone & SMS \u203a eSIMs & SIM Cards",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Anon Shop",
+      "slug": "anon-shop",
+      "profileUrl": "https://monerica.com/site/anon-shop",
+      "category": "Businesses \u203a Proxy Shopping",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "AnonRDP",
+      "slug": "anonrdp",
+      "profileUrl": "https://monerica.com/site/anonrdp",
+      "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "AnonRefill.com",
+      "slug": "anonrefill-com",
+      "profileUrl": "https://monerica.com/site/anonrefill-com",
+      "category": "Cards \u203a Gift Cards",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Apple Bitcoins",
+      "slug": "apple-bitcoins",
+      "profileUrl": "https://monerica.com/site/apple-bitcoins",
+      "category": "Businesses \u203a Electronics/ Computer Hardware",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "AVA Hosting",
+      "slug": "ava-hosting",
+      "profileUrl": "https://monerica.com/site/ava-hosting",
+      "category": "Web Hosting \u203a Domain Registration & DNS Services",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "BigONE",
+      "slug": "bigone",
+      "profileUrl": "https://monerica.com/site/bigone",
+      "category": "Exchanges \u203a Centralized Exchanges",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "BingCard.org",
+      "slug": "bingcard-org",
+      "profileUrl": "https://monerica.com/site/bingcard-org",
+      "category": "Cards \u203a Prepaid Cards",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Bitgolder",
+      "slug": "bitgolder",
+      "profileUrl": "https://monerica.com/site/bitgolder",
+      "category": "Businesses \u203a Precious Metals",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Bitpapa",
+      "slug": "bitpapa",
+      "profileUrl": "https://monerica.com/site/bitpapa",
+      "category": "Exchanges \u203a Centralized Exchanges",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Buy Claude With Crypto",
+      "slug": "buy-claude-with-crypto",
+      "profileUrl": "https://monerica.com/site/buy-claude-with-crypto",
+      "category": "Cards \u203a Gift Cards",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "ChangeHero",
+      "slug": "changehero",
+      "profileUrl": "https://monerica.com/site/changehero",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Questionable",
+      "kycPolicy": "Rare KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Changer-man",
+      "slug": "changer-man",
+      "profileUrl": "https://monerica.com/site/changer-man",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "CharityHost.org",
+      "slug": "charityhost-org",
+      "profileUrl": "https://monerica.com/site/charityhost-org",
+      "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Cloudarion",
+      "slug": "cloudarion",
+      "profileUrl": "https://monerica.com/site/cloudarion",
+      "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Crypto Luxury Store",
+      "slug": "crypto-luxury-store",
+      "profileUrl": "https://monerica.com/site/crypto-luxury-store",
+      "category": "Businesses \u203a Luxury Goods",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Crypton.sh",
+      "slug": "crypton-sh",
+      "profileUrl": "https://monerica.com/site/crypton-sh",
+      "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Cryptostamps",
+      "slug": "cryptostamps",
+      "profileUrl": "https://monerica.com/site/cryptostamps",
+      "category": "Businesses \u203a Postage & Shipping Services",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "CyberFear",
+      "slug": "cyberfear",
+      "profileUrl": "https://monerica.com/site/cyberfear",
+      "category": "Businesses \u203a Email Providers/ Forwarders",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Dex.CR",
+      "slug": "dex-cr",
+      "profileUrl": "https://monerica.com/site/dex-cr",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "disapeer",
+      "slug": "disapeer",
+      "profileUrl": "https://monerica.com/site/disapeer",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "DotWee",
+      "slug": "dotwee",
+      "profileUrl": "https://monerica.com/site/dotwee",
+      "category": "Web Hosting \u203a Domain Registration & DNS Services",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "EagleSwap",
+      "slug": "eagleswap",
+      "profileUrl": "https://monerica.com/site/eagleswap",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "EasyCCV",
+      "slug": "easyccv",
+      "profileUrl": "https://monerica.com/site/easyccv",
+      "category": "Cards \u203a Prepaid Cards",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "FMFW.io",
+      "slug": "fmfw-io",
+      "profileUrl": "https://monerica.com/site/fmfw-io",
+      "category": "Exchanges \u203a Centralized Exchanges",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Gamegram.com",
+      "slug": "gamegram-com",
+      "profileUrl": "https://monerica.com/site/gamegram-com",
+      "category": "Businesses \u203a Gambling",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "HitBTC",
+      "slug": "hitbtc",
+      "profileUrl": "https://monerica.com/site/hitbtc",
+      "category": "Exchanges \u203a Centralized Exchanges",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Hostry",
+      "slug": "hostry",
+      "profileUrl": "https://monerica.com/site/hostry",
+      "category": "Web Hosting \u203a Domain Registration & DNS Services",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "HostSlim",
+      "slug": "hostslim",
+      "profileUrl": "https://monerica.com/site/hostslim",
+      "category": "Web Hosting \u203a Tor & Onion Hosting",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "HTX",
+      "slug": "htx",
+      "profileUrl": "https://monerica.com/site/htx",
+      "category": "Exchanges \u203a Centralized Exchanges",
+      "status": "Questionable",
+      "kycPolicy": "Mandatory KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Hyperliquid",
+      "slug": "hyperliquid",
+      "profileUrl": "https://monerica.com/site/hyperliquid",
+      "category": "Exchanges \u203a Decentralized Exchanges",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "IncogNET",
+      "slug": "incognet",
+      "profileUrl": "https://monerica.com/site/incognet",
+      "category": "Web Hosting \u203a Tor & Onion Hosting",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Mexc",
+      "slug": "mexc",
+      "profileUrl": "https://monerica.com/site/mexc",
+      "category": "Exchanges \u203a Centralized Exchanges",
+      "status": "Questionable",
+      "kycPolicy": "Mandatory KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Monero Forum",
+      "slug": "monero-forum",
+      "profileUrl": "https://monerica.com/site/monero-forum",
+      "category": "Communities \u203a Forums",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "MoneroIndex.com",
+      "slug": "moneroindex-com",
+      "profileUrl": "https://monerica.com/site/moneroindex-com",
+      "category": "Other Directories \u203a Monero Directories",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Moneropostage",
+      "slug": "moneropostage",
+      "profileUrl": "https://monerica.com/site/moneropostage",
+      "category": "Businesses \u203a Postage & Shipping Services",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "MoneroSMS",
+      "slug": "monerosms",
+      "profileUrl": "https://monerica.com/site/monerosms",
+      "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "NiceVPS.net",
+      "slug": "nicevps-net",
+      "profileUrl": "https://monerica.com/site/nicevps-net",
+      "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "Njalla",
+      "slug": "njalla",
+      "profileUrl": "https://monerica.com/site/njalla",
+      "category": "Web Hosting \u203a Domain Registration & DNS Services",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "NonLogs",
+      "slug": "nonlogs",
+      "profileUrl": "https://monerica.com/site/nonlogs",
+      "category": "Exchanges \u203a Centralized Exchanges",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "OctoSwap",
+      "slug": "octoswap",
+      "profileUrl": "https://monerica.com/site/octoswap",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "OrangeWebsite",
+      "slug": "orangewebsite",
+      "profileUrl": "https://monerica.com/site/orangewebsite",
+      "category": "Web Hosting \u203a Domain Registration & DNS Services",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-10-30"
+    },
+    {
+      "name": "OwnSpy",
+      "slug": "ownspy",
+      "profileUrl": "https://monerica.com/site/ownspy",
+      "category": "Businesses \u203a Digital Goods/ Services",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-10-30"
+    }
+  ]
+}
