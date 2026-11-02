@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-02T16:49:38Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Expeer",
+    "slug": "expeer",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/expeer",
+    "detail": "Status changed: Admitted \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-02T16:49:38Z",
+    "type": "KYC_CHANGE",
+    "severity": "medium",
+    "name": "Expeer",
+    "slug": "expeer",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/expeer",
+    "detail": "KYC policy changed: Rare KYC \u2192 Shotgun KYC"
+  },
+  {
     "timestamp": "2026-11-02",
     "type": "INITIAL_SNAPSHOT",
     "severity": "info",

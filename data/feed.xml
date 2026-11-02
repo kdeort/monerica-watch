@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Mon, 02 Nov 2026 12:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:49:38 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] Expeer — Status changed: Admitted → Questionable</title>
+      <link>https://monerica.com/site/expeer</link>
+      <description>Category: Exchanges › Instant Swaps | Status changed: Admitted → Questionable</description>
+      <guid isPermaLink="false">expeer-STATUS_CHANGE-2026-11-02T16:49:38Z</guid>
+    </item>
+    <item>
+      <title>[KYC_CHANGE] Expeer — KYC policy changed: Rare KYC → Shotgun KYC</title>
+      <link>https://monerica.com/site/expeer</link>
+      <description>Category: Exchanges › Instant Swaps | KYC policy changed: Rare KYC → Shotgun KYC</description>
+      <guid isPermaLink="false">expeer-KYC_CHANGE-2026-11-02T16:49:38Z</guid>
+    </item>
     <item>
       <title>[INITIAL_SNAPSHOT] Alchimex — Status: Verified | KYC: Guaranteed No KYC</title>
       <link>https://monerica.com/site/alchimex</link>

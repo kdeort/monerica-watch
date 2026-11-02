@@ -3901,7 +3901,7 @@
     "founded": "2026-09-04",
     "description": "A simple, privacy-focused crypto swap service for people who don't want to jump through 37 hoops just to swap some coins.",
     "added": "2026-09-15",
-    "updated": "2026-09-15"
+    "updated": "2026-11-02"
   },
   "cbuy": {
     "name": "cbuy",
@@ -7013,15 +7013,14 @@
     "category": "Exchanges",
     "subcategory": "Instant Swaps",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Admitted",
-    "kycPolicy": "Rare KYC",
+    "status": "Questionable",
+    "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "Email Not Required"
     ],
-    "country": "GB",
     "founded": "2025-01-01",
     "description": "Fast, secure, and fully automated crypto-to-crypto exchange. No registration required. Non-custodial instant swaps with competitive rates.",
     "added": "2026-05-23",
