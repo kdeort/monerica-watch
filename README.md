@@ -6,16 +6,21 @@ An open-source, zero-dependency watchdog that monitors all 1,423+ Monero service
 - Receives an inline **Scam / Reliability Warning**
 - Joins or leaves the directory
 
+**Live Links:**
+- **Web Dashboard:** [https://kdeort.github.io/monerica-watch/](https://kdeort.github.io/monerica-watch/)
+- **RSS 2.0 Alert Feed:** [https://kdeort.github.io/monerica-watch/data/feed.xml](https://kdeort.github.io/monerica-watch/data/feed.xml)
+- **Support v1.0 on Kuno:** [https://kuno.anne.media/fundraiser/mjrj/](https://kuno.anne.media/fundraiser/mjrj/)
+
 ## Features Live in v0.1
 - **Zero-Dependency Diff Engine (`monerica_watch.py`):** Uses only Python 3 standard library.
 - **Static Web Dashboard (`index.html`):** Filterable dark-mode alert table with zero trackers.
 - **RSS 2.0 Alert Feed (`data/feed.xml`):** Subscribe in any RSS reader.
 - **Telegram Webhook Support:** Optional instant push alerts via environment variables.
 
-## v1.0 Roadmap (Funded via Kuno https://kuno.anne.media/fundraiser/mjrj/— 4 XMR Goal)
+## v1.0 Roadmap (Funded via [Kuno #mjrj](https://kuno.anne.media/fundraiser/mjrj/) — 4 XMR Goal)
 - [ ] **Milestone 1 (1.5 XMR):** SimpleX Chat & Matrix bot integration so users can subscribe to KYC/scam alerts without Telegram.
 - [ ] **Milestone 2 (1.5 XMR):** Automated `.onion` & clearnet uptime prober to detect when listed services go offline before users send funds.
 - [ ] **Milestone 3 (1.0 XMR):** Dedicated Tor `.onion` mirror and No-JS server-side HTML archive.
 
 ## Supporters Wall
-- *Become the first supporter on Kuno to have your handle listed here!*
+- *Become the first supporter on [Kuno](https://kuno.anne.media/fundraiser/mjrj/) to have your handle listed here!*
