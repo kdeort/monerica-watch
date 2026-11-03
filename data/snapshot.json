@@ -717,15 +717,15 @@
     "slug": "airvpn",
     "profileUrl": "https://monerica.com/site/airvpn",
     "website": "https://airvpn.org",
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Admitted",
     "country": "IT",
     "founded": "2010-05-31",
     "description": "A VPN based on OpenVPN and operated by activists and hacktivists in defense of net neutrality, privacy and against censorship.",
     "added": "2022-06-22",
-    "updated": "2026-06-09"
+    "updated": "2026-11-03"
   },
   "al-uy": {
     "name": "al.uy",
@@ -991,14 +991,14 @@
     "slug": "amneziavpn",
     "profileUrl": "https://monerica.com/site/amneziavpn",
     "website": "https://amnezia.org",
-    "category": "VPNs",
-    "subcategory": "Global / Unspecified",
-    "categoryUrl": "https://monerica.com/vpns/global-unspecified",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "founded": "2020-11-24",
     "description": "A versatile client that supports multiple protocols, including OpenVPN, OpenVPN over Cloak, WireGuard, AmneziaWG, IKEV2, XRay Reality, and ShadowSocks.",
     "added": "2025-07-11",
-    "updated": "2026-07-24"
+    "updated": "2026-11-03"
   },
   "amrita-peptides": {
     "name": "Amrita Peptides",
@@ -1585,15 +1585,15 @@
     "slug": "astrillvpn",
     "profileUrl": "https://monerica.com/site/astrillvpn",
     "website": "https://www.astrill.com",
-    "category": "VPNs",
-    "subcategory": "Asia & Africa",
-    "categoryUrl": "https://monerica.com/vpns/asia",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "SC",
     "founded": "2009-12-03",
     "description": "Private no-logs VPN that supports multiple protocols and works on Windows, macOS, Linux, Android, iOS and routers",
     "added": "2024-04-24",
-    "updated": "2026-07-24"
+    "updated": "2026-11-03"
   },
   "asura-hosting": {
     "name": "Asura Hosting",
@@ -2095,9 +2095,9 @@
     "slug": "bespale",
     "profileUrl": "https://monerica.com/site/bespale",
     "website": "https://bespale.com",
-    "category": "VPNs",
-    "subcategory": "Global / Unspecified",
-    "categoryUrl": "https://monerica.com/vpns/global-unspecified",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -2108,7 +2108,7 @@
     "founded": "2022-02-14",
     "description": "No-logs doubleVPN, de-Googled secure smartphone, bootable encrypted privacy-OS SSD, personals messengers and private email. No account required to order.",
     "added": "2026-06-01",
-    "updated": "2026-08-04"
+    "updated": "2026-11-03"
   },
   "best-wallet": {
     "name": "Best Wallet",
@@ -2913,9 +2913,9 @@
     "slug": "black-cat-vpn",
     "profileUrl": "https://monerica.com/site/black-cat-vpn",
     "website": "https://blackcat.is",
-    "category": "VPNs",
-    "subcategory": "Global / Unspecified",
-    "categoryUrl": "https://monerica.com/vpns/global-unspecified",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -2929,7 +2929,7 @@
       "reviews": 1
     },
     "added": "2026-10-10",
-    "updated": "2026-10-16"
+    "updated": "2026-11-03"
   },
   "black-metal-shop": {
     "name": "Black Metal Shop",
@@ -4388,26 +4388,6 @@
     "added": "2024-09-01",
     "updated": "2026-10-30"
   },
-  "cloudzy": {
-    "name": "Cloudzy",
-    "slug": "cloudzy",
-    "profileUrl": "https://monerica.com/site/cloudzy",
-    "website": "https://cloudzy.com/",
-    "category": "Web Hosting",
-    "subcategory": "VPS & Dedicated Server Providers",
-    "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
-    "status": "Admitted",
-    "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
-    "country": "AE",
-    "founded": "2015-12-17",
-    "description": "Cloud VPS provider with AMD EPYC servers and NVMe storage across 13 global regions, offering shared and high-performance VPS plans. Accepts cryptocurrency payment.",
-    "added": "2026-05-08",
-    "updated": "2026-10-30"
-  },
   "clover-bot": {
     "name": "Clover bot",
     "slug": "clover-bot",
@@ -4898,16 +4878,16 @@
     "slug": "coinvpn",
     "profileUrl": "https://monerica.com/site/coinvpn",
     "website": "https://coinvpn.me/",
-    "category": "VPNs",
-    "subcategory": "Asia & Africa",
-    "categoryUrl": "https://monerica.com/vpns/asia",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "country": "LT",
     "founded": "2025-04-08",
     "description": "VPN service with 75 global locations, 10 devices per account, P2P allowed and apps for Windows, Mac, iOS, Android, Linux and Firestick. Pay with crypto incl. Monero (XMR).",
     "added": "2022-11-09",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "coinwarz-com": {
     "name": "coinwarz.com",
@@ -5483,15 +5463,15 @@
         "url": "http://cs.i2p"
       }
     ],
-    "category": "VPNs",
-    "subcategory": "Europe (Non-EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-non-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Verified",
     "country": "IS",
     "founded": "2013-08-16",
     "description": "VPN service with roots in Iceland: bare-metal servers, no logs, token-based access, OpenVPN and WireGuard, open-source server configs and multihop. Pay with Monero (XMR).",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "cryptowoo": {
     "name": "CryptoWoo",
@@ -5712,9 +5692,9 @@
         "url": "http://cypherokam63ar6v52rx3d2bnavwjcrkpws6l4ukuwdbkiag6m6igwyd.onion"
       }
     ],
-    "category": "VPNs",
-    "subcategory": "Global / Unspecified",
-    "categoryUrl": "https://monerica.com/vpns/global-unspecified",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "tags": [
       "Account Not Required",
@@ -5724,7 +5704,7 @@
     "founded": "2026-07-03",
     "description": "No-account VPN, no email, no KYC - credentials are generated in your browser. VLESS/Reality and AmneziaWG exits in the Netherlands, Romania and Finland. From $1.99/week.",
     "added": "2026-08-29",
-    "updated": "2026-09-25"
+    "updated": "2026-11-03"
   },
   "cypherfaucet": {
     "name": "CypherFaucet",
@@ -6414,15 +6394,15 @@
     "slug": "dripvpn-com",
     "profileUrl": "https://monerica.com/site/dripvpn-com",
     "website": "https://DripVPN.com",
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Admitted",
     "country": "SE",
     "founded": "2025-09-03",
     "description": "VPN service with AES-256 encryption, kill switch, unlimited bandwidth, servers in 50+ countries and up to 3 simultaneous connections, with plans from $1.50 per month.",
     "added": "2025-09-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "droidfs": {
     "name": "DroidFS",
@@ -7345,9 +7325,9 @@
     "slug": "fleetproxy-io",
     "profileUrl": "https://monerica.com/site/fleetproxy-io",
     "website": "https://fleetproxy.io",
-    "category": "Businesses",
+    "category": "VPNs & Proxies",
     "subcategory": "Proxies",
-    "categoryUrl": "https://monerica.com/businesses/proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -7841,14 +7821,14 @@
     "slug": "gatepath-vpn",
     "profileUrl": "https://monerica.com/site/gatepath-vpn",
     "website": "https://gatepath.cc",
-    "category": "VPNs",
-    "subcategory": "Global / Unspecified",
-    "categoryUrl": "https://monerica.com/vpns/global-unspecified",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "founded": "2025-12-29",
     "description": "Protect your privacy with our premium proxy and VPN services. No logs, maximum speed, complete anonymity.",
     "added": "2026-01-27",
-    "updated": "2026-02-16"
+    "updated": "2026-11-03"
   },
   "get-privacy-freedom": {
     "name": "Get Privacy Freedom",
@@ -7870,9 +7850,9 @@
     "slug": "getastatic",
     "profileUrl": "https://monerica.com/site/getastatic",
     "website": "https://getastatic.com/",
-    "category": "VPNs",
-    "subcategory": "USA & North America",
-    "categoryUrl": "https://monerica.com/vpns/usa",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "tags": [
       "Email Not Required"
@@ -7880,7 +7860,7 @@
     "founded": "2026-05-31",
     "description": "A permanent public IPv4 address over WireGuard. Reach devices behind CGNAT and host services with open ports.",
     "added": "2026-10-25",
-    "updated": "2026-10-25"
+    "updated": "2026-11-03"
   },
   "getatext": {
     "name": "Getatext",
@@ -8841,21 +8821,6 @@
     "added": "2025-09-06",
     "updated": "2026-02-16"
   },
-  "hiddence": {
-    "name": "Hiddence",
-    "slug": "hiddence",
-    "profileUrl": "https://monerica.com/site/hiddence",
-    "website": "https://hiddence.net",
-    "category": "Web Hosting",
-    "subcategory": "Offshore & Privacy-Focused Hosting",
-    "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
-    "status": "Questionable",
-    "country": "DE",
-    "founded": "2024-08-28",
-    "description": "Offshore VPS solutions for projects of any scale, reliable performance, anonymity, and convenience.",
-    "added": "2025-01-03",
-    "updated": "2026-09-29"
-  },
   "hiddenswap": {
     "name": "HiddenSwap",
     "slug": "hiddenswap",
@@ -8882,30 +8847,30 @@
     "slug": "hide-me",
     "profileUrl": "https://monerica.com/site/hide-me",
     "website": "https://hide.me",
-    "category": "VPNs",
-    "subcategory": "USA & North America",
-    "categoryUrl": "https://monerica.com/vpns/usa",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Admitted",
     "country": "US",
     "founded": "2008-04-29",
     "description": "A comprehensive VPN product with no logging, strong encryption, and robust protection against DNS.",
     "added": "2022-11-09",
-    "updated": "2026-02-16"
+    "updated": "2026-11-03"
   },
   "hidemy-name": {
     "name": "HideMy.Name",
     "slug": "hidemy-name",
     "profileUrl": "https://monerica.com/site/hidemy-name",
     "website": "https://hide.mn/en/",
-    "category": "VPNs",
-    "subcategory": "USA & North America",
-    "categoryUrl": "https://monerica.com/vpns/usa",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "BZ",
     "founded": "2018-11-29",
     "description": "VPN service for secure, anonymous and unrestricted internet access on all devices.",
     "added": "2022-06-22",
-    "updated": "2026-02-16"
+    "updated": "2026-11-03"
   },
   "hideonchain": {
     "name": "HideONchain",
@@ -8934,15 +8899,15 @@
     "slug": "hideour-name",
     "profileUrl": "https://monerica.com/site/hideour-name",
     "website": "https://hideour.name/",
-    "category": "VPNs",
-    "subcategory": "Europe (Non-EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-non-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "UA",
     "founded": "2025-01-26",
     "description": "VPN service for secure, anonymous and unrestricted internet access on all devices",
     "added": "2025-10-02",
-    "updated": "2026-02-16"
+    "updated": "2026-11-03"
   },
   "hipersemillas": {
     "name": "Hipersemillas",
@@ -9878,9 +9843,9 @@
     "slug": "ivpn",
     "profileUrl": "https://monerica.com/site/ivpn",
     "website": "https://www.ivpn.net",
-    "category": "VPNs",
-    "subcategory": "Europe (Non-EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-non-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -9896,7 +9861,7 @@
       "reviews": 2
     },
     "added": "2023-09-12",
-    "updated": "2026-08-23"
+    "updated": "2026-11-03"
   },
   "ivy-cyber": {
     "name": "Ivy Cyber",
@@ -9992,27 +9957,6 @@
     "description": "Budget and debt payoff spreadsheet templates for Excel and Google Sheets. Instant download after checkout, no account or email required. Includes a free mini version.",
     "added": "2026-10-20",
     "updated": "2026-10-20"
-  },
-  "jink-host": {
-    "name": "Jink Host",
-    "slug": "jink-host",
-    "profileUrl": "https://monerica.com/site/jink-host",
-    "website": "https://jink.host",
-    "category": "Web Hosting",
-    "subcategory": "VPS & Dedicated Server Providers",
-    "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
-    "status": "Questionable",
-    "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "API Available",
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
-    "country": "US",
-    "founded": "2023-06-16",
-    "description": "High-performance Proxmox VPS hosting, dedicated servers & cloud storage with AMD Ryzen, EPYC & Intel Xeon hardware in USA & Europe. Budget VPS from $0.99/mo.",
-    "added": "2026-05-13",
-    "updated": "2026-06-23"
   },
   "jobsonblocks": {
     "name": "JobsOnBlocks",
@@ -10130,9 +10074,9 @@
     "slug": "k1vpn",
     "profileUrl": "https://monerica.com/site/k1vpn",
     "website": "https://k1vpn.com/en/",
-    "category": "VPNs",
-    "subcategory": "USA & North America",
-    "categoryUrl": "https://monerica.com/vpns/usa",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -10143,7 +10087,7 @@
     "founded": "2026-05-10",
     "description": "Privacy focused VPN with 93+ servers in 54+ countries. Accounts can be created without personal details, and a no-activity-logs policy is published.",
     "added": "2026-10-19",
-    "updated": "2026-10-19"
+    "updated": "2026-11-03"
   },
   "kapkap": {
     "name": "Kapkap",
@@ -10330,9 +10274,9 @@
     "slug": "keynode-vpn",
     "profileUrl": "https://monerica.com/site/keynode-vpn",
     "website": "https://keynodevpn.com",
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -10345,7 +10289,7 @@
     "founded": "2026-03-13",
     "description": "Private no-logs network gateway with strict low-density nodes and pre-configured split-tunneling. Token-based login with zero identity verification required.",
     "added": "2026-09-09",
-    "updated": "2026-09-09"
+    "updated": "2026-11-03"
   },
   "keys-4-coins": {
     "name": "Keys 4 Coins",
@@ -11585,7 +11529,7 @@
     "category": "Web Hosting",
     "subcategory": "Offshore & Privacy-Focused Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
-    "status": "Admitted",
+    "status": "Questionable",
     "tags": [
       "Sells Domain Registration",
       "VPS"
@@ -11594,7 +11538,7 @@
     "founded": "2019-07-22",
     "description": "Offshore hosting provider offering shared web hosting, Linux and Windows VPS, dedicated and 10Gbps servers, anti-DDoS, VPN, domains, colocation and managed services.",
     "added": "2025-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-02"
   },
   "mabji1-no-kyc": {
     "name": "mabji1 No-KYC",
@@ -11888,14 +11832,14 @@
     "slug": "meile-dvpn",
     "profileUrl": "https://monerica.com/site/meile-dvpn",
     "website": "https://meile.app",
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "EE",
     "description": "A decentralized VPN powered by the Sentinel blockchain. 5000+ community ran nodes.",
     "added": "2024-08-30",
-    "updated": "2026-07-24"
+    "updated": "2026-11-03"
   },
   "mellowads": {
     "name": "MellowAds",
@@ -15108,9 +15052,9 @@
         "url": "http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion"
       }
     ],
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -15125,7 +15069,7 @@
       "reviews": 10
     },
     "added": "2022-06-22",
-    "updated": "2026-08-19"
+    "updated": "2026-11-03"
   },
   "munchy-bot": {
     "name": "Munchy Bot",
@@ -15276,9 +15220,9 @@
         "url": "http://wg2vbtdwfo6tacuykviwdiyeaslezxohb4or4xjcjxbtspdcxgbs2pad.onion/"
       }
     ],
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -15294,7 +15238,7 @@
       "reviews": 1
     },
     "added": "2025-05-09",
-    "updated": "2026-10-25"
+    "updated": "2026-11-03"
   },
   "nadeko-monero-node": {
     "name": "Nadeko Monero Node",
@@ -15681,8 +15625,8 @@
     "founded": "2016-11-02",
     "description": "Privacy-focused provider of domain name registration with anycast DNS and email forwarding, VPS servers and a VPN service, with domains from 15 EUR per year.",
     "rating": {
-      "average": 4,
-      "reviews": 2
+      "average": 3.7,
+      "reviews": 3
     },
     "added": "2022-06-22",
     "updated": "2026-10-30"
@@ -16133,9 +16077,9 @@
     "slug": "nym-vpn",
     "profileUrl": "https://monerica.com/site/nym-vpn",
     "website": "https://nym.com",
-    "category": "VPNs",
-    "subcategory": "Europe (Non-EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-non-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "CH",
     "founded": "2025-03-13",
@@ -16145,7 +16089,7 @@
       "reviews": 1
     },
     "added": "2025-03-30",
-    "updated": "2026-07-24"
+    "updated": "2026-11-03"
   },
   "obscura": {
     "name": "Obscura",
@@ -16158,9 +16102,9 @@
         "url": "http://ngmmbxlzfpptluh4tbdt57prk3zxmq4ztew7l2whmg7hkqaof2nzf7id.onion/"
       }
     ],
-    "category": "VPNs",
-    "subcategory": "USA & North America",
-    "categoryUrl": "https://monerica.com/vpns/usa",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -16171,7 +16115,7 @@
     "founded": "2023-09-27",
     "description": "VPN service with a two-party relay design, no email needed, and apps for iOS, macOS, Android, Windows and Linux plus WireGuard configs. Pay with Monero (XMR) or Lightning.",
     "added": "2025-11-03",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "obscurify-ai": {
     "name": "Obscurify.ai",
@@ -17102,9 +17046,9 @@
     "slug": "pangea-vpn",
     "profileUrl": "https://monerica.com/site/pangea-vpn",
     "website": "https://pangeavpn.org",
-    "category": "VPNs",
-    "subcategory": "Europe (Non-EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-non-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -17116,7 +17060,7 @@
     "founded": "2026-03-08",
     "description": "Attempts to work on every network as quietly as it can, with the ISP or network admin being nonthewiser about the user being connected to a VPN.",
     "added": "2026-07-28",
-    "updated": "2026-08-19"
+    "updated": "2026-11-03"
   },
   "paralelna-polis-bratislava": {
     "name": "Paraleln\u00e1 Polis - Bratislava",
@@ -17155,15 +17099,15 @@
     "slug": "party-vpn",
     "profileUrl": "https://monerica.com/site/party-vpn",
     "website": "https://partyvpn.com",
-    "category": "VPNs",
-    "subcategory": "USA & North America",
-    "categoryUrl": "https://monerica.com/vpns/usa",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Admitted",
     "country": "US",
     "founded": "2025-08-01",
     "description": "Privacy-first VPN, no logs policy, and pay-as-you-go pricing. No subscriptions. Powered by WireGuard. Unlimited devices. Full REST API.",
     "added": "2025-12-18",
-    "updated": "2026-02-16"
+    "updated": "2026-11-03"
   },
   "paykassa": {
     "name": "PayKassa",
@@ -17546,6 +17490,26 @@
     "added": "2025-04-17",
     "updated": "2026-10-30"
   },
+  "pivarena": {
+    "name": "PIVArena",
+    "slug": "pivarena",
+    "profileUrl": "https://monerica.com/site/pivarena",
+    "website": "https://pivarena.com",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://pivare3bj3mnwvt5so7hbqbgqiojioeer6rlefw3uxh3fwzoe6sxr2qd.onion"
+      }
+    ],
+    "category": "Businesses",
+    "subcategory": "Gambling",
+    "categoryUrl": "https://monerica.com/businesses/gambling",
+    "status": "Admitted",
+    "founded": "2026-10-25",
+    "description": "Player-versus-player games including coin flip, dice, chess, hold'em, liar's dice, mines and battleship. Players stake against each other, not the house. Each account gets its",
+    "added": "2026-11-02",
+    "updated": "2026-11-02"
+  },
   "plaintext": {
     "name": "Plaintext",
     "slug": "plaintext",
@@ -17734,9 +17698,9 @@
     "slug": "premsocks",
     "profileUrl": "https://monerica.com/site/premsocks",
     "website": "https://premsocks.com",
-    "category": "Businesses",
+    "category": "VPNs & Proxies",
     "subcategory": "Proxies",
-    "categoryUrl": "https://monerica.com/businesses/proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
     "status": "Admitted",
     "country": "IS",
     "founded": "2014-04-11",
@@ -18188,9 +18152,9 @@
     "slug": "proxmint",
     "profileUrl": "https://monerica.com/site/proxmint",
     "website": "https://proxmint.com",
-    "category": "Businesses",
+    "category": "VPNs & Proxies",
     "subcategory": "Proxies",
-    "categoryUrl": "https://monerica.com/businesses/proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
     "status": "Verified",
     "kycPolicy": "Rare KYC",
     "tags": [
@@ -18231,9 +18195,9 @@
     "slug": "proxys-io",
     "profileUrl": "https://monerica.com/site/proxys-io",
     "website": "https://proxys.io/",
-    "category": "Businesses",
+    "category": "VPNs & Proxies",
     "subcategory": "Proxies",
-    "categoryUrl": "https://monerica.com/businesses/proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -18254,9 +18218,9 @@
     "slug": "proxysocks5",
     "profileUrl": "https://monerica.com/site/proxysocks5",
     "website": "https://proxysocks5.com",
-    "category": "Businesses",
+    "category": "VPNs & Proxies",
     "subcategory": "Proxies",
-    "categoryUrl": "https://monerica.com/businesses/proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
     "status": "Admitted",
     "country": "RO",
     "founded": "2019-08-14",
@@ -18528,9 +18492,9 @@
     "slug": "quantum-proxies",
     "profileUrl": "https://monerica.com/site/quantum-proxies",
     "website": "https://quantumproxies.io/",
-    "category": "Businesses",
+    "category": "VPNs & Proxies",
     "subcategory": "Proxies",
-    "categoryUrl": "https://monerica.com/businesses/proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
     "status": "Verified",
     "tags": [
       "Affiliate Program"
@@ -18597,7 +18561,7 @@
     "description": "Best rates for XMR. Private swaps are available now. Get cashback and become VIP.",
     "rating": {
       "average": 5,
-      "reviews": 6
+      "reviews": 7
     },
     "added": "2024-06-14",
     "updated": "2026-10-23"
@@ -19343,15 +19307,15 @@
     "slug": "safing-privacy-network",
     "profileUrl": "https://monerica.com/site/safing-privacy-network",
     "website": "https://safing.io",
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Verified",
     "country": "AT",
     "founded": "2017-12-01",
     "description": "Develops the open-source privacy firewall \u201ePortmaster\u201c and runs the \u201eSafing Privacy Network\u201c (SPN) which joins features of Onion Routing and VPN.",
     "added": "2024-02-19",
-    "updated": "2026-07-24"
+    "updated": "2026-11-03"
   },
   "sageswap": {
     "name": "SageSwap",
@@ -19956,9 +19920,9 @@
         "url": "http://zukxzs5lvvwl2wuxlupgk6pyfmbt4nkhsk3epi5fff5a44gh7ckbvtid.onion"
       }
     ],
-    "category": "VPNs",
-    "subcategory": "Global / Unspecified",
-    "categoryUrl": "https://monerica.com/vpns/global-unspecified",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "founded": "2026-01-08",
     "description": "Monero-only VPN. No email, no username - just a 4-word token. WireGuard tunnels with shared exit IPs. EU and US servers. Onion mirror available.",
@@ -19967,7 +19931,7 @@
       "reviews": 1
     },
     "added": "2026-01-21",
-    "updated": "2026-03-31"
+    "updated": "2026-11-03"
   },
   "shadowswap": {
     "name": "Shadowswap",
@@ -20001,15 +19965,15 @@
     "slug": "shellfire",
     "profileUrl": "https://monerica.com/site/shellfire",
     "website": "https://www.shellfire.net",
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Admitted",
     "country": "DE",
     "founded": "2004-04-05",
     "description": "Surf freely and securely with Shellfire VPN. Protect your online privacy from cyber threats and ensure anonymous browsing. Your path to a free, secure internet starts here.",
     "added": "2025-04-28",
-    "updated": "2026-02-16"
+    "updated": "2026-11-03"
   },
   "shieldmyass": {
     "name": "ShieldMyAss",
@@ -20070,9 +20034,9 @@
     "slug": "shock-vpn",
     "profileUrl": "https://monerica.com/site/shock-vpn",
     "website": "https://shockvpn.com",
-    "category": "VPNs",
-    "subcategory": "Global / Unspecified",
-    "categoryUrl": "https://monerica.com/vpns/global-unspecified",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -20081,7 +20045,7 @@
     "founded": "2015-12-12",
     "description": "VPN service with 15+ server locations in the US, Europe, Asia, Australia, Brazil and South Africa; sign up with a random account code, no personal info, from $3/month.",
     "added": "2025-07-14",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "shopinbit": {
     "name": "ShopinBit",
@@ -20786,15 +20750,15 @@
     "slug": "snowhaze",
     "profileUrl": "https://monerica.com/site/snowhaze",
     "website": "https://snowhaze.com",
-    "category": "VPNs",
-    "subcategory": "Europe (Non-EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-non-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "CH",
     "founded": "2015-11-22",
     "description": "Swiss VPN and open-source private browser for iOS. The VPN uses Zero-Knowledge Auth so it needs no user accounts; the browser blocks ads, trackers and fingerprinting.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "snowman-research": {
     "name": "Snowman Research",
@@ -21264,9 +21228,9 @@
     "slug": "spyderproxies",
     "profileUrl": "https://monerica.com/site/spyderproxies",
     "website": "https://spyderproxy.com/",
-    "category": "Businesses",
+    "category": "VPNs & Proxies",
     "subcategory": "Proxies",
-    "categoryUrl": "https://monerica.com/businesses/proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
     "status": "Admitted",
     "tags": [
       "Affiliate Program"
@@ -23014,14 +22978,14 @@
     "slug": "uncensore-net",
     "profileUrl": "https://monerica.com/site/uncensore-net",
     "website": "https://uncensore.net",
-    "category": "VPNs",
-    "subcategory": "Global / Unspecified",
-    "categoryUrl": "https://monerica.com/vpns/global-unspecified",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "founded": "2024-10-27",
     "description": "A VPN service without registration that bypasses DPI and works in any country, even behind firewalls.",
     "added": "2025-05-27",
-    "updated": "2026-07-24"
+    "updated": "2026-11-03"
   },
   "uncensoredlabs": {
     "name": "UncensoredLabs",
@@ -23389,15 +23353,15 @@
     "slug": "veepn",
     "profileUrl": "https://monerica.com/site/veepn",
     "website": "https://veepn.com",
-    "category": "VPNs",
-    "subcategory": "Europe (Non-EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-non-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "CY",
     "founded": "2017-05-17",
     "description": "Protect your privacy, browse securely, stay anonymous, and protect your data \u2014 all-in-one cybersecurity app, no extra charge.",
     "added": "2026-01-20",
-    "updated": "2026-02-16"
+    "updated": "2026-11-03"
   },
   "veilswap": {
     "name": "VeilSwap",
@@ -23473,9 +23437,9 @@
     "slug": "veritasproxy",
     "profileUrl": "https://monerica.com/site/veritasproxy",
     "website": "https://veritasproxy.com/",
-    "category": "Businesses",
+    "category": "VPNs & Proxies",
     "subcategory": "Proxies",
-    "categoryUrl": "https://monerica.com/businesses/proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2024-12-07",
@@ -23664,42 +23628,42 @@
     "slug": "vpn-ac",
     "profileUrl": "https://monerica.com/site/vpn-ac",
     "website": "https://vpnac.org",
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "RO",
     "founded": "2019-03-29",
     "description": "Multiple VPN protocols/encryption types, innovative elliptic curve cryptography, AES-GCM, obfuscation and WireGuard support, no activity logs and no speed limit.",
     "added": "2022-06-22",
-    "updated": "2026-02-16"
+    "updated": "2026-11-03"
   },
   "vpn-sn": {
     "name": "VPN.CD",
     "slug": "vpn-sn",
     "profileUrl": "https://monerica.com/site/vpn-sn",
     "website": "https://vpn.cd/",
-    "category": "VPNs",
-    "subcategory": "Asia & Africa",
-    "categoryUrl": "https://monerica.com/vpns/asia",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "SC",
     "description": "VPN service offering shared and dedicated VPN (OpenVPN, WireGuard, L2TP), multi-hop routing, remote desktop (RDP) and Tor/I2P masking, with Monero (XMR) payments.",
     "added": "2025-07-24",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "vpn-svoboda-center": {
     "name": "VPN.svoboda.center",
     "slug": "vpn-svoboda-center",
     "profileUrl": "https://monerica.com/site/vpn-svoboda-center",
     "website": "https://t.me/svoboda_center_vpn_bot",
-    "category": "VPNs",
-    "subcategory": "Global / Unspecified",
-    "categoryUrl": "https://monerica.com/vpns/global-unspecified",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "description": "Telegram-based VPN. Multihop, no logs, DPI-resistant protocols (VLESS, AmneziaWG, SS, Trojan, VMESS), advanced security practices.",
     "added": "2025-09-18",
-    "updated": "2026-06-23"
+    "updated": "2026-11-03"
   },
   "vps-broker": {
     "name": "VPS Broker",
@@ -23779,33 +23743,6 @@
     "added": "2025-09-07",
     "updated": "2026-10-30"
   },
-  "vpslab": {
-    "name": "VPSLab",
-    "slug": "vpslab",
-    "profileUrl": "https://monerica.com/site/vpslab",
-    "website": "https://vpslab.cloud/",
-    "category": "Web Hosting",
-    "subcategory": "VPS & Dedicated Server Providers",
-    "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
-    "status": "Questionable",
-    "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "Affiliate Program",
-      "API Available",
-      "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
-    "country": "NL",
-    "founded": "2025-05-20",
-    "description": "VPS hosting provider offering Windows RDP, Linux VPS, Ryzen VPS, storage servers and game servers on NVMe, with DDoS protection and payment in BTC, Monero (XMR) and ETH.",
-    "rating": {
-      "average": 1,
-      "reviews": 1
-    },
-    "added": "2025-08-14",
-    "updated": "2026-10-30"
-  },
   "vpsoffshore": {
     "name": "VPSOffshore",
     "slug": "vpsoffshore",
@@ -23829,7 +23766,7 @@
     "category": "Web Hosting",
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
-    "status": "Admitted",
+    "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "VPS"
@@ -23837,7 +23774,7 @@
     "founded": "2026-09-07",
     "description": "Linux and Windows VPS with a dedicated IPv4 and a 1 Gbps DDoS-protected port. Monthly from 512 MB RAM. Email signup, no ID upload. Instant SSH or RDP after the wallet debit.",
     "added": "2026-09-09",
-    "updated": "2026-09-09"
+    "updated": "2026-11-02"
   },
   "vsys": {
     "name": "Vsys",
@@ -24232,15 +24169,15 @@
     "slug": "windscribe-vpn",
     "profileUrl": "https://monerica.com/site/windscribe-vpn",
     "website": "https://windscribe.com",
-    "category": "VPNs",
-    "subcategory": "USA & North America",
-    "categoryUrl": "https://monerica.com/vpns/usa",
+    "category": "VPNs & Proxies",
+    "subcategory": "Inside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Admitted",
     "country": "CA",
     "founded": "2013-06-25",
     "description": "Protect your privacy, stream global content, and mask your location with the best VPN service. Enjoy fast speeds and servers in over 130 locations.",
     "added": "2022-11-08",
-    "updated": "2026-07-24"
+    "updated": "2026-11-03"
   },
   "wizardswap": {
     "name": "WizardSwap",
@@ -24425,9 +24362,9 @@
         "url": "http://xeovok4d6ehoclmlyviwuq7zlmcvucuekhrt2677r33ny2csyd4yldyd.onion"
       }
     ],
-    "category": "VPNs",
-    "subcategory": "Europe (EU)",
-    "categoryUrl": "https://monerica.com/vpns/europe-eu",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
@@ -24441,7 +24378,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-10-24"
+    "updated": "2026-11-03"
   },
   "xgram": {
     "name": "XGRAM",
@@ -25606,15 +25543,15 @@
     "slug": "xvpnc",
     "profileUrl": "https://monerica.com/site/xvpnc",
     "website": "https://xvpn.io",
-    "category": "VPNs",
-    "subcategory": "Asia & Africa",
-    "categoryUrl": "https://monerica.com/vpns/asia",
+    "category": "VPNs & Proxies",
+    "subcategory": "Outside the 14 Eyes",
+    "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "HK",
     "founded": "2017-03-24",
     "description": "X-VPN service with free and paid plans, apps for Windows, macOS, Linux, iOS, Android, TVs and routers, a no-logs policy, RAM-only servers and a kill switch.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "xxkk": {
     "name": "XXKK",

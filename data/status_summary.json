@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-02T18:02:07Z",
-  "total": 1424,
+  "generated": "2026-11-03T00:14:45Z",
+  "total": 1421,
   "verified": 281,
-  "admitted": 987,
-  "questionable": 92,
+  "admitted": 985,
+  "questionable": 91,
   "scam": 64,
-  "no_kyc": 359,
-  "tor_enabled": 138,
+  "no_kyc": 356,
+  "tor_enabled": 139,
   "active_warnings": [
     {
       "name": "Expeer",
@@ -15,6 +15,26 @@
       "category": "Exchanges \u203a Instant Swaps",
       "status": "Questionable",
       "kycPolicy": "Shotgun KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-02"
+    },
+    {
+      "name": "Lyra Hosting",
+      "slug": "lyra-hosting",
+      "profileUrl": "https://monerica.com/site/lyra-hosting",
+      "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-02"
+    },
+    {
+      "name": "Vpster",
+      "slug": "vpster",
+      "profileUrl": "https://monerica.com/site/vpster",
+      "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
       "warning": "Marked as Questionable",
       "updated": "2026-11-02"
     },
@@ -486,26 +506,6 @@
       "status": "Scam",
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
-      "updated": "2026-10-30"
-    },
-    {
-      "name": "OctoSwap",
-      "slug": "octoswap",
-      "profileUrl": "https://monerica.com/site/octoswap",
-      "category": "Exchanges \u203a Instant Swaps",
-      "status": "Scam",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-10-30"
-    },
-    {
-      "name": "OrangeWebsite",
-      "slug": "orangewebsite",
-      "profileUrl": "https://monerica.com/site/orangewebsite",
-      "category": "Web Hosting \u203a Domain Registration & DNS Services",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
       "updated": "2026-10-30"
     }
   ]

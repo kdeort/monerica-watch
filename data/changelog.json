@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": "2026-11-03T00:36:58Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Lyra Hosting",
+    "slug": "lyra-hosting",
+    "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
+    "profileUrl": "https://monerica.com/site/lyra-hosting",
+    "detail": "Status changed: Admitted \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-03T00:36:58Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "PIVArena",
+    "slug": "pivarena",
+    "category": "Businesses \u203a Gambling",
+    "profileUrl": "https://monerica.com/site/pivarena",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-03T00:36:58Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Vpster",
+    "slug": "vpster",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/vpster",
+    "detail": "Status changed: Admitted \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-03T00:36:58Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Cloudzy",
+    "slug": "cloudzy",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/cloudzy",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-03T00:36:58Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Hiddence",
+    "slug": "hiddence",
+    "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
+    "profileUrl": "https://monerica.com/site/hiddence",
+    "detail": "Removed from directory (was Questionable)"
+  },
+  {
+    "timestamp": "2026-11-03T00:36:58Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Jink Host",
+    "slug": "jink-host",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/jink-host",
+    "detail": "Removed from directory (was Questionable)"
+  },
+  {
+    "timestamp": "2026-11-03T00:36:58Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "VPSLab",
+    "slug": "vpslab",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/vpslab",
+    "detail": "Removed from directory (was Questionable)"
+  },
+  {
     "timestamp": "2026-11-02T18:44:32Z",
     "type": "NEW_LISTING",
     "severity": "info",
