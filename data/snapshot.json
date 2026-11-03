@@ -23298,6 +23298,10 @@
     "country": "FI",
     "founded": "2026-10-05",
     "description": "Privacy-first email service built for people who just want secure, private email - no tracking, no data harvesting, no lies, no bullshit.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-10-05",
     "updated": "2026-10-28"
   },
