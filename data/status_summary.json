@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-03T07:42:03Z",
-  "total": 1422,
-  "verified": 282,
-  "admitted": 985,
+  "generated": "2026-11-03T18:27:15Z",
+  "total": 1414,
+  "verified": 281,
+  "admitted": 982,
   "questionable": 91,
-  "scam": 64,
-  "no_kyc": 356,
+  "scam": 60,
+  "no_kyc": 350,
   "tor_enabled": 140,
   "active_warnings": [
+    {
+      "name": "FleetProxy.io",
+      "slug": "fleetproxy-io",
+      "profileUrl": "https://monerica.com/site/fleetproxy-io",
+      "category": "VPNs & Proxies \u203a Proxies",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-03"
+    },
     {
       "name": "Njalla",
       "slug": "njalla",
@@ -186,16 +196,6 @@
       "status": "Scam",
       "kycPolicy": "Not Stated",
       "warning": "Listed as a scam: do not use.",
-      "updated": "2026-10-30"
-    },
-    {
-      "name": "BingCard.org",
-      "slug": "bingcard-org",
-      "profileUrl": "https://monerica.com/site/bingcard-org",
-      "category": "Cards \u203a Prepaid Cards",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
       "updated": "2026-10-30"
     },
     {

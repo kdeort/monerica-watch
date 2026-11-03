@@ -1,5 +1,175 @@
 [
   {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "EasynodeDroid",
+    "slug": "easynodedroid",
+    "category": "Nodes \u203a Node Software & Deployment",
+    "profileUrl": "https://monerica.com/site/easynodedroid",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "FleetProxy.io",
+    "slug": "fleetproxy-io",
+    "category": "VPNs & Proxies \u203a Proxies",
+    "profileUrl": "https://monerica.com/site/fleetproxy-io",
+    "detail": "Status changed: Verified \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Freedomia",
+    "slug": "freedomia",
+    "category": "Cards \u203a Reloadable Cards",
+    "profileUrl": "https://monerica.com/site/freedomia",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "moos",
+    "slug": "moos",
+    "category": "Utilities \u203a Open Source Projects",
+    "profileUrl": "https://monerica.com/site/moos",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "XMRadar",
+    "slug": "xmradar",
+    "category": "Utilities \u203a Open Source Projects",
+    "profileUrl": "https://monerica.com/site/xmradar",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "AnyCOLO",
+    "slug": "anycolo",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/anycolo",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "BingCard.org",
+    "slug": "bingcard-org",
+    "category": "Cards \u203a Prepaid Cards",
+    "profileUrl": "https://monerica.com/site/bingcard-org",
+    "detail": "Removed from directory (was Questionable)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Crypto Agorism",
+    "slug": "crypto-agorism",
+    "category": "Media \u203a Miscellaneous",
+    "profileUrl": "https://monerica.com/site/crypto-agorism",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "HostingBaba",
+    "slug": "hostingbaba",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/hostingbaba",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "MoneroDM",
+    "slug": "monerodm",
+    "category": "Non-Profits \u203a Technologies",
+    "profileUrl": "https://monerica.com/site/monerodm",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "NoKyc e-Sim",
+    "slug": "nokyc-e-sim",
+    "category": "Phone & SMS \u203a eSIMs & SIM Cards",
+    "profileUrl": "https://monerica.com/site/nokyc-e-sim",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Roboex",
+    "slug": "roboex",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/roboex",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "ServGhost",
+    "slug": "servghost",
+    "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
+    "profileUrl": "https://monerica.com/site/servghost",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "SpotGPUs",
+    "slug": "spotgpus",
+    "category": "Web Hosting \u203a Cloud & Web Hosting Providers",
+    "profileUrl": "https://monerica.com/site/spotgpus",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Uprampr",
+    "slug": "uprampr",
+    "category": "Businesses \u203a Marketplaces (Peer-to-Peer)",
+    "profileUrl": "https://monerica.com/site/uprampr",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "VPSOffshore",
+    "slug": "vpsoffshore",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/vpsoffshore",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
+    "timestamp": "2026-11-03T18:37:35Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "XCancel",
+    "slug": "xcancel",
+    "category": "Non-Profits \u203a Technologies",
+    "profileUrl": "https://monerica.com/site/xcancel",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
     "timestamp": "2026-11-03T06:49:57Z",
     "type": "STATUS_CHANGE",
     "severity": "info",

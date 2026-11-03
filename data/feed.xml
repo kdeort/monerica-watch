@@ -4,7 +4,109 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Tue, 03 Nov 2026 12:47:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:37:35 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] EasynodeDroid — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/easynodedroid</link>
+      <description>Category: Nodes › Node Software &amp; Deployment | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">easynodedroid-NEW_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] FleetProxy.io — Status changed: Verified → Questionable</title>
+      <link>https://monerica.com/site/fleetproxy-io</link>
+      <description>Category: VPNs &amp; Proxies › Proxies | Status changed: Verified → Questionable</description>
+      <guid isPermaLink="false">fleetproxy-io-STATUS_CHANGE-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Freedomia — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/freedomia</link>
+      <description>Category: Cards › Reloadable Cards | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">freedomia-NEW_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] moos — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/moos</link>
+      <description>Category: Utilities › Open Source Projects | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">moos-NEW_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] XMRadar — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/xmradar</link>
+      <description>Category: Utilities › Open Source Projects | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">xmradar-NEW_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] AnyCOLO — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/anycolo</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">anycolo-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] BingCard.org — Removed from directory (was Questionable)</title>
+      <link>https://monerica.com/site/bingcard-org</link>
+      <description>Category: Cards › Prepaid Cards | Removed from directory (was Questionable)</description>
+      <guid isPermaLink="false">bingcard-org-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] Crypto Agorism — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/crypto-agorism</link>
+      <description>Category: Media › Miscellaneous | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">crypto-agorism-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] HostingBaba — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/hostingbaba</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">hostingbaba-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] MoneroDM — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/monerodm</link>
+      <description>Category: Non-Profits › Technologies | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">monerodm-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] NoKyc e-Sim — Removed from directory (was Scam)</title>
+      <link>https://monerica.com/site/nokyc-e-sim</link>
+      <description>Category: Phone &amp; SMS › eSIMs &amp; SIM Cards | Removed from directory (was Scam)</description>
+      <guid isPermaLink="false">nokyc-e-sim-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] Roboex — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/roboex</link>
+      <description>Category: Exchanges › Instant Swaps | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">roboex-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] ServGhost — Removed from directory (was Scam)</title>
+      <link>https://monerica.com/site/servghost</link>
+      <description>Category: Web Hosting › Offshore &amp; Privacy-Focused Hosting | Removed from directory (was Scam)</description>
+      <guid isPermaLink="false">servghost-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] SpotGPUs — Removed from directory (was Scam)</title>
+      <link>https://monerica.com/site/spotgpus</link>
+      <description>Category: Web Hosting › Cloud &amp; Web Hosting Providers | Removed from directory (was Scam)</description>
+      <guid isPermaLink="false">spotgpus-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] Uprampr — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/uprampr</link>
+      <description>Category: Businesses › Marketplaces (Peer-to-Peer) | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">uprampr-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] VPSOffshore — Removed from directory (was Scam)</title>
+      <link>https://monerica.com/site/vpsoffshore</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Scam)</description>
+      <guid isPermaLink="false">vpsoffshore-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] XCancel — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/xcancel</link>
+      <description>Category: Non-Profits › Technologies | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">xcancel-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] Crypt0-Bear — Status changed: Admitted → Verified</title>
       <link>https://monerica.com/site/crypt0-bear</link>
@@ -142,108 +244,6 @@
       <link>https://monerica.com/site/solar-swap</link>
       <description>Category: Exchanges › Instant Swaps | Status: Admitted | KYC: Varies By Provider</description>
       <guid isPermaLink="false">solar-swap-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Spinatoshi — Status: Admitted | KYC: Rare KYC</title>
-      <link>https://monerica.com/site/spinatoshi</link>
-      <description>Category: Businesses › Gambling | Status: Admitted | KYC: Rare KYC</description>
-      <guid isPermaLink="false">spinatoshi-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] 67.tax — Status: Questionable | KYC: Guaranteed No KYC</title>
-      <link>https://monerica.com/site/67-tax</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Questionable | KYC: Guaranteed No KYC</description>
-      <guid isPermaLink="false">67-tax-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] StereoSwap — Status: Questionable | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/stereoswap</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Questionable | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">stereoswap-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] ExWell — Status: Admitted | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/exwell</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Admitted | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">exwell-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Explace — Status: Admitted | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/explace</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Admitted | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">explace-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] HushSIMs — Status: Admitted | KYC: Varies By Provider</title>
-      <link>https://monerica.com/site/hushsims</link>
-      <description>Category: Phone &amp; SMS › eSIMs &amp; SIM Cards | Status: Admitted | KYC: Varies By Provider</description>
-      <guid isPermaLink="false">hushsims-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Moneroarena — Status: Admitted | KYC: Guaranteed No KYC</title>
-      <link>https://monerica.com/site/moneroarena</link>
-      <description>Category: Businesses › Gambling | Status: Admitted | KYC: Guaranteed No KYC</description>
-      <guid isPermaLink="false">moneroarena-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Breezeswap — Status: Admitted | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/breezeswap</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Admitted | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">breezeswap-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Cambio — Status: Admitted | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/cambio</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Admitted | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">cambio-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] n.exchange — Status: Questionable | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/n-exchange</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Questionable | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">n-exchange-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] AlwaysMoney — Status: Admitted | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/alwaysmoney</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Admitted | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">alwaysmoney-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] BitSwap — Status: Admitted | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/bitswap</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Admitted | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">bitswap-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Monero Slots — Status: Verified | KYC: Guaranteed No KYC</title>
-      <link>https://monerica.com/site/monero-slots</link>
-      <description>Category: Businesses › Gambling | Status: Verified | KYC: Guaranteed No KYC</description>
-      <guid isPermaLink="false">monero-slots-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Lighter — Status: Verified | KYC: Not Stated</title>
-      <link>https://monerica.com/site/lighter</link>
-      <description>Category: Exchanges › Decentralized Exchanges | Status: Verified | KYC: Not Stated</description>
-      <guid isPermaLink="false">lighter-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] AltQuick — Status: Verified | KYC: Not Stated</title>
-      <link>https://monerica.com/site/altquick</link>
-      <description>Category: Exchanges › Centralized Exchanges | Status: Verified | KYC: Not Stated</description>
-      <guid isPermaLink="false">altquick-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] BitXchange — Status: Verified | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/bitxchange</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Verified | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">bitxchange-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] CCE Cash — Status: Verified | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/cce-cash</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Verified | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">cce-cash-INITIAL_SNAPSHOT-2026-10-31</guid>
     </item>
   </channel>
 </rss>
