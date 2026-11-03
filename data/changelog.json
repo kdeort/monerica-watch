@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-03T06:49:57Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Crypt0-Bear",
+    "slug": "crypt0-bear",
+    "category": "Media \u203a Music & Radio",
+    "profileUrl": "https://monerica.com/site/crypt0-bear",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-03T06:49:57Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "The Drug Users Bible",
+    "slug": "the-drug-users-bible",
+    "category": "Non-Profits \u203a Miscellaneous",
+    "profileUrl": "https://monerica.com/site/the-drug-users-bible",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-03T00:36:58Z",
     "type": "STATUS_CHANGE",
     "severity": "high",

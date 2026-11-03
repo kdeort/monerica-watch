@@ -5060,11 +5060,11 @@
     "category": "Media",
     "subcategory": "Music & Radio",
     "categoryUrl": "https://monerica.com/media/music",
-    "status": "Admitted",
+    "status": "Verified",
     "founded": "2005-07-25",
     "description": "SoundCloud artist page from Avon, US with 31 tracks of electronic DJ mixes, described as \"in the mix like a virus stuck inside the matrix.\"",
     "added": "2023-09-13",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "crypto-agorism": {
     "name": "Crypto Agorism",
@@ -15612,6 +15612,12 @@
     "slug": "njalla",
     "profileUrl": "https://monerica.com/site/njalla",
     "website": "https://njal.la/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "https://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/"
+      }
+    ],
     "category": "Web Hosting",
     "subcategory": "Domain Registration & DNS Services",
     "categoryUrl": "https://monerica.com/web-hosting/domain-registration-and-dns-services",
@@ -15629,7 +15635,7 @@
       "reviews": 3
     },
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "nocturne-cards": {
     "name": "Nocturne Cards",
@@ -17506,9 +17512,9 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Admitted",
     "founded": "2026-10-25",
-    "description": "Player-versus-player games including coin flip, dice, chess, hold'em, liar's dice, mines and battleship. Players stake against each other, not the house. Each account gets its",
+    "description": "Player-versus-player games including coin flip, dice, chess, hold'em, liar's dice, mines and battleship. Players stake against each other, not the house.",
     "added": "2026-11-02",
-    "updated": "2026-11-02"
+    "updated": "2026-11-03"
   },
   "plaintext": {
     "name": "Plaintext",
@@ -22378,6 +22384,20 @@
     "description": "Expert crypto-market insights grounded in Austrian economics. TCV helps members boost personal freedom and security through open-source software and strong cryptography.",
     "added": "2023-10-20",
     "updated": "2026-10-26"
+  },
+  "the-drug-users-bible": {
+    "name": "The Drug Users Bible",
+    "slug": "the-drug-users-bible",
+    "profileUrl": "https://monerica.com/site/the-drug-users-bible",
+    "website": "https://www.drugusersbible.com/",
+    "category": "Non-Profits",
+    "subcategory": "Miscellaneous",
+    "categoryUrl": "https://monerica.com/non-profits/miscellaneous",
+    "status": "Admitted",
+    "founded": "2018-11-18",
+    "description": "Harm reduction, Risk mitigation, Personal Safety",
+    "added": "2026-11-03",
+    "updated": "2026-11-03"
   },
   "the-monero-book": {
     "name": "The Monero Book",

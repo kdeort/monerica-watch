@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Tue, 03 Nov 2026 00:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:49:57 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] Crypt0-Bear — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/crypt0-bear</link>
+      <description>Category: Media › Music &amp; Radio | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">crypt0-bear-STATUS_CHANGE-2026-11-03T06:49:57Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] The Drug Users Bible — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/the-drug-users-bible</link>
+      <description>Category: Non-Profits › Miscellaneous | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">the-drug-users-bible-NEW_LISTING-2026-11-03T06:49:57Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] Lyra Hosting — Status changed: Admitted → Questionable</title>
       <link>https://monerica.com/site/lyra-hosting</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/cce-cash</link>
       <description>Category: Exchanges › Instant Swaps | Status: Verified | KYC: Shotgun KYC</description>
       <guid isPermaLink="false">cce-cash-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] BitcoinVN — Status: Verified | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/bitcoinvn</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Verified | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">bitcoinvn-INITIAL_SNAPSHOT-2026-10-31</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Alfacash — Status: Verified | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/alfacash</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Verified | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">alfacash-INITIAL_SNAPSHOT-2026-10-31</guid>
     </item>
   </channel>
 </rss>
