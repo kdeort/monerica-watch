@@ -4186,6 +4186,22 @@
     "added": "2025-09-11",
     "updated": "2026-10-30"
   },
+  "christhunt-productions": {
+    "name": "Christhunt Productions",
+    "slug": "christhunt-productions",
+    "profileUrl": "https://monerica.com/site/christhunt-productions",
+    "website": "https://www.christhunt-productions.com",
+    "category": "Businesses",
+    "subcategory": "Clothing, Apparel & Accessories",
+    "categoryUrl": "https://monerica.com/businesses/clothing-apparel-and-accessories",
+    "status": "Admitted",
+    "kycPolicy": "Rare KYC",
+    "country": "US",
+    "founded": "2011-08-08",
+    "description": "Black Metal Clearance Shop by Christhunt Productions. You can buy black metal clearance stock as packs.",
+    "added": "2026-11-04",
+    "updated": "2026-11-04"
+  },
   "cinfu": {
     "name": "Cinfu",
     "slug": "cinfu",
@@ -11448,6 +11464,28 @@
     "description": "Lucida is a free web-based music downloader that saves tracks from streaming services such as Qobuz, Tidal, Deezer, SoundCloud and Amazon Music.",
     "added": "2025-09-15",
     "updated": "2026-10-30"
+  },
+  "lucidswap": {
+    "name": "LucidSwap",
+    "slug": "lucidswap",
+    "profileUrl": "https://monerica.com/site/lucidswap",
+    "website": "https://lucidswap.io/",
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Rare KYC",
+    "liquidity": "Third Party",
+    "rates": "Float",
+    "tags": [
+      "Account Not Required",
+      "API Available",
+      "Email Not Required"
+    ],
+    "founded": "2026-11-03",
+    "description": "Non-custodial, walletless swap platform. Swap instantly without connecting a wallet, registration, or KYC. Fast, private, and secure.",
+    "added": "2026-11-04",
+    "updated": "2026-11-04"
   },
   "ludlow-institute": {
     "name": "Ludlow Institute",
