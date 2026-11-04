@@ -4,7 +4,37 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Tue, 03 Nov 2026 18:37:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 00:35:00 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] BIM Exchange — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
+      <link>https://monerica.com/site/bim-exchange</link>
+      <description>Category: Exchanges › Aggregators | Added to directory (Status: Admitted, KYC: Varies By Provider)</description>
+      <guid isPermaLink="false">bim-exchange-NEW_LISTING-2026-11-04T00:35:00Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] EasynodeDroid — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/easynodedroid</link>
+      <description>Category: Nodes › Node Software &amp; Deployment | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">easynodedroid-STATUS_CHANGE-2026-11-04T00:35:00Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] FleetProxy.io — Status changed: Questionable → Verified</title>
+      <link>https://monerica.com/site/fleetproxy-io</link>
+      <description>Category: VPNs &amp; Proxies › Proxies | Status changed: Questionable → Verified</description>
+      <guid isPermaLink="false">fleetproxy-io-STATUS_CHANGE-2026-11-04T00:35:00Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Swapnoir — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
+      <link>https://monerica.com/site/swapnoir</link>
+      <description>Category: Exchanges › Instant Swaps | Added to directory (Status: Admitted, KYC: Shotgun KYC)</description>
+      <guid isPermaLink="false">swapnoir-NEW_LISTING-2026-11-04T00:35:00Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] WebMonero — Status changed: Scam → Questionable</title>
+      <link>https://monerica.com/site/webmonero</link>
+      <description>Category: Wallets › Web &amp; Browser Wallets | Status changed: Scam → Questionable</description>
+      <guid isPermaLink="false">webmonero-STATUS_CHANGE-2026-11-04T00:35:00Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] EasynodeDroid — Added to directory (Status: Admitted, KYC: Not Stated)</title>
       <link>https://monerica.com/site/easynodedroid</link>
@@ -214,36 +244,6 @@
       <link>https://monerica.com/site/monero-checkout</link>
       <description>Category: Merchant Services › Open Source Projects | Status: Admitted | KYC: Guaranteed No KYC</description>
       <guid isPermaLink="false">monero-checkout-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] monerotalk.org — Status: Questionable | KYC: Not Stated</title>
-      <link>https://monerica.com/site/monerotalk-org</link>
-      <description>Category: Communities › Forums | Status: Questionable | KYC: Not Stated</description>
-      <guid isPermaLink="false">monerotalk-org-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] NefiSwap — Status: Admitted | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/nefiswap</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Admitted | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">nefiswap-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Useraven — Status: Admitted | KYC: Not Stated</title>
-      <link>https://monerica.com/site/useraven</link>
-      <description>Category: Non-Profits › Technologies | Status: Admitted | KYC: Not Stated</description>
-      <guid isPermaLink="false">useraven-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] XMRchan — Status: Admitted | KYC: Guaranteed No KYC</title>
-      <link>https://monerica.com/site/xmrchan</link>
-      <description>Category: Communities › Forums | Status: Admitted | KYC: Guaranteed No KYC</description>
-      <guid isPermaLink="false">xmrchan-INITIAL_SNAPSHOT-2026-11-01</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Solar Swap — Status: Admitted | KYC: Varies By Provider</title>
-      <link>https://monerica.com/site/solar-swap</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Admitted | KYC: Varies By Provider</description>
-      <guid isPermaLink="false">solar-swap-INITIAL_SNAPSHOT-2026-11-01</guid>
     </item>
   </channel>
 </rss>

@@ -68,7 +68,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -806,7 +806,7 @@
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -1132,7 +1132,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -2135,7 +2135,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -2210,6 +2210,23 @@
     "description": "Behind Every Line of Code, There's a Family Supporting Bill and Keonne, the Samourai Wallet developers and their loved ones",
     "added": "2026-06-23",
     "updated": "2026-06-23"
+  },
+  "bim-exchange": {
+    "name": "BIM Exchange",
+    "slug": "bim-exchange",
+    "profileUrl": "https://monerica.com/site/bim-exchange",
+    "website": "https://exchange.bim.finance/trade",
+    "category": "Exchanges",
+    "subcategory": "Aggregators",
+    "categoryUrl": "https://monerica.com/exchanges/aggregators",
+    "status": "Admitted",
+    "kycPolicy": "Varies By Provider",
+    "liquidity": "Varies By Provider",
+    "country": "VG",
+    "founded": "2022-06-30",
+    "description": "Decentralized crypto exchange for multi-chain trading. Buy, sell, swap and bridge crypto across Ethereum, Bitcoin, Solana, Polygon and more.",
+    "added": "2025-07-19",
+    "updated": "2026-11-03"
   },
   "binance": {
     "name": "Binance",
@@ -2353,7 +2370,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -3151,7 +3168,7 @@
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -3904,7 +3921,7 @@
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -3963,7 +3980,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -4005,7 +4022,7 @@
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -4078,7 +4095,7 @@
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -4595,7 +4612,7 @@
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -5326,7 +5343,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -6111,7 +6128,7 @@
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required"
     ],
@@ -6533,7 +6550,7 @@
     "category": "Nodes",
     "subcategory": "Node Software & Deployment",
     "categoryUrl": "https://monerica.com/nodes/node-software-and-deployment",
-    "status": "Admitted",
+    "status": "Verified",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -6641,7 +6658,7 @@
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -6838,7 +6855,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -7017,7 +7034,7 @@
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -7264,7 +7281,7 @@
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -7330,7 +7347,7 @@
     "category": "VPNs & Proxies",
     "subcategory": "Proxies",
     "categoryUrl": "https://monerica.com/vpns/proxies",
-    "status": "Questionable",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "Affiliate Program",
@@ -7762,7 +7779,7 @@
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program"
@@ -8004,7 +8021,7 @@
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -8233,7 +8250,7 @@
     "status": "Verified",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -10202,7 +10219,7 @@
     "country": "US",
     "description": "YouTube channel with Monero (XMR) tutorials: running your own node, solo mining XMR, verifying GUI wallet hashes, vanity addresses and receiving stream donations.",
     "added": "2025-12-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "keepassdx": {
     "name": "KeePassDX",
@@ -10503,7 +10520,7 @@
     "description": "Non-custodial cryptocurrency exchange service. Allows you to swap between crypto assets quickly and securely, without creating an account or handing over personal information.",
     "rating": {
       "average": 5,
-      "reviews": 2
+      "reviews": 3
     },
     "added": "2026-03-19",
     "updated": "2026-10-24"
@@ -12198,7 +12215,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Mixed",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -15425,7 +15442,7 @@
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -17265,13 +17282,19 @@
     "slug": "pegasusswap",
     "profileUrl": "https://monerica.com/site/pegasusswap",
     "website": "https://pegasusswap.com",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "https://zzouisjdnsh2m3baklcxdi25b5by53cjvb77sziyewyivyj7ubt6gead.onion/"
+      }
+    ],
     "category": "Exchanges",
     "subcategory": "Instant Swaps",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -17286,7 +17309,7 @@
       "reviews": 1
     },
     "added": "2025-01-22",
-    "updated": "2026-09-30"
+    "updated": "2026-11-03"
   },
   "peptimal-com": {
     "name": "Peptimal.com",
@@ -18381,7 +18404,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -18571,7 +18594,7 @@
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -19335,7 +19358,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -19382,7 +19405,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "DMCA Ignored",
@@ -19509,7 +19532,7 @@
     "status": "Verified",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -19552,7 +19575,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -20194,7 +20217,7 @@
     "status": "Verified",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -20359,7 +20382,7 @@
     "status": "Verified",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -20730,7 +20753,7 @@
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -21375,7 +21398,7 @@
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -21428,7 +21451,7 @@
     "status": "Questionable",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -21705,7 +21728,7 @@
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -21730,6 +21753,34 @@
     "description": "Mini-app on Telegram that allows you to exchange Monero (XMR) for over a thousand different cryptocurrencies, fast, simple and no registration required.",
     "added": "2025-10-03",
     "updated": "2026-07-24"
+  },
+  "swapnoir": {
+    "name": "Swapnoir",
+    "slug": "swapnoir",
+    "profileUrl": "https://monerica.com/site/swapnoir",
+    "website": "https://swapnoir.com/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://swapnoqyyp3mfh3hoypzmvpnau7gymt7c32tybx2qew3s7sw7bzz7aqd.onion/"
+      }
+    ],
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Shotgun KYC",
+    "liquidity": "Own & Third-Party",
+    "rates": "Fixed & Float",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required",
+      "No JavaScript"
+    ],
+    "founded": "2026-10-03",
+    "description": "Account-free instant swaps between XMR, BTC (incl. Lightning), ETH, USDT and 25+ coins with fixed or floating rates, routed to whichever liquidity pays out the most.",
+    "added": "2026-11-03",
+    "updated": "2026-11-03"
   },
   "swapped": {
     "name": "Swapped",
@@ -21920,7 +21971,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -21964,7 +22015,7 @@
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -22008,7 +22059,7 @@
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Own",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -23451,7 +23502,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "liquidity": "Own & Third-Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -23927,11 +23978,11 @@
     "name": "WebMonero",
     "slug": "webmonero",
     "profileUrl": "https://monerica.com/site/webmonero",
+    "website": "https://webmonero.com/",
     "category": "Wallets",
     "subcategory": "Web & Browser Wallets",
     "categoryUrl": "https://monerica.com/wallets/web-wallets",
-    "status": "Scam",
-    "warning": "Listed as a scam: do not use.",
+    "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-02-15",
     "description": "Online Monero (XMR) web wallet that runs in the browser for sending, receiving and tracking XMR, with server-side encrypted storage and QR code deposits.",
@@ -23940,7 +23991,7 @@
       "reviews": 1
     },
     "added": "2026-06-20",
-    "updated": "2026-10-30"
+    "updated": "2026-11-03"
   },
   "weex": {
     "name": "WEEX",
@@ -24352,7 +24403,7 @@
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed & float",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
