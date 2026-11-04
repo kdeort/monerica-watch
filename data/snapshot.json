@@ -2219,14 +2219,14 @@
     "category": "Exchanges",
     "subcategory": "Aggregators",
     "categoryUrl": "https://monerica.com/exchanges/aggregators",
-    "status": "Admitted",
+    "status": "Questionable",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "country": "VG",
     "founded": "2022-06-30",
     "description": "Decentralized crypto exchange for multi-chain trading. Buy, sell, swap and bridge crypto across Ethereum, Bitcoin, Solana, Polygon and more.",
     "added": "2025-07-19",
-    "updated": "2026-11-03"
+    "updated": "2026-11-04"
   },
   "binance": {
     "name": "Binance",
@@ -6718,7 +6718,7 @@
     "otherLinks": [
       {
         "label": "Tor",
-        "url": "http://ihhdslra6mbtjomabre5za4ezr4t4hp5gwaqrwvs5wknn3wl6nvqagyd.onion/"
+        "url": "http://66i46escom3bxfqcq35x4muoxifojha6c3jbabr7dzgbql4anx5t65yd.onion/"
       }
     ],
     "category": "Communities",
@@ -6727,13 +6727,14 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
+      "Account Not Required",
       "Email Not Required"
     ],
     "country": "PA",
     "founded": "2026-08-25",
     "description": "Hardened Matrix Tor Server for those who require absolute anonymity. Our server eliminates every point of failure: no numbers, no emails, no metadata, no persistent storage.",
     "added": "2026-09-09",
-    "updated": "2026-10-25"
+    "updated": "2026-11-04"
   },
   "ergo": {
     "name": "Ergo",
@@ -25483,29 +25484,6 @@
     },
     "added": "2026-04-08",
     "updated": "2026-10-25"
-  },
-  "xor-sc": {
-    "name": "XOR.SC",
-    "slug": "xor-sc",
-    "profileUrl": "https://monerica.com/site/xor-sc",
-    "website": "https://xor.sc",
-    "category": "Web Hosting",
-    "subcategory": "Offshore & Privacy-Focused Hosting",
-    "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
-    "status": "Verified",
-    "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "Account Not Required",
-      "DMCA Ignored",
-      "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
-    "country": "HK",
-    "founded": "2017-10-07",
-    "description": "Privacy-first hosting provider offering 10gbps unmetered hosting in Europe and Russia. Buy high-speed dedicated servers.",
-    "added": "2026-09-27",
-    "updated": "2026-10-23"
   },
   "xpg": {
     "name": "XPG",

@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Wed, 04 Nov 2026 00:35:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:54:34 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] BIM Exchange — Status changed: Admitted → Questionable</title>
+      <link>https://monerica.com/site/bim-exchange</link>
+      <description>Category: Exchanges › Aggregators | Status changed: Admitted → Questionable</description>
+      <guid isPermaLink="false">bim-exchange-STATUS_CHANGE-2026-11-04T06:54:34Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] XOR.SC — Removed from directory (was Verified)</title>
+      <link>https://monerica.com/site/xor-sc</link>
+      <description>Category: Web Hosting › Offshore &amp; Privacy-Focused Hosting | Removed from directory (was Verified)</description>
+      <guid isPermaLink="false">xor-sc-REMOVED_LISTING-2026-11-04T06:54:34Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] BIM Exchange — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
       <link>https://monerica.com/site/bim-exchange</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/btcvps</link>
       <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Status: Verified | KYC: Guaranteed No KYC</description>
       <guid isPermaLink="false">btcvps-INITIAL_SNAPSHOT-2026-11-02</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Changee — Status: Verified | KYC: Shotgun KYC</title>
-      <link>https://monerica.com/site/changee</link>
-      <description>Category: Exchanges › Instant Swaps | Status: Verified | KYC: Shotgun KYC</description>
-      <guid isPermaLink="false">changee-INITIAL_SNAPSHOT-2026-11-02</guid>
-    </item>
-    <item>
-      <title>[INITIAL_SNAPSHOT] Monero Checkout — Status: Admitted | KYC: Guaranteed No KYC</title>
-      <link>https://monerica.com/site/monero-checkout</link>
-      <description>Category: Merchant Services › Open Source Projects | Status: Admitted | KYC: Guaranteed No KYC</description>
-      <guid isPermaLink="false">monero-checkout-INITIAL_SNAPSHOT-2026-11-01</guid>
     </item>
   </channel>
 </rss>

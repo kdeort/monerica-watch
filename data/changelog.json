@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-04T06:54:34Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "BIM Exchange",
+    "slug": "bim-exchange",
+    "category": "Exchanges \u203a Aggregators",
+    "profileUrl": "https://monerica.com/site/bim-exchange",
+    "detail": "Status changed: Admitted \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-04T06:54:34Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "XOR.SC",
+    "slug": "xor-sc",
+    "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
+    "profileUrl": "https://monerica.com/site/xor-sc",
+    "detail": "Removed from directory (was Verified)"
+  },
+  {
     "timestamp": "2026-11-04T00:35:00Z",
     "type": "NEW_LISTING",
     "severity": "info",
