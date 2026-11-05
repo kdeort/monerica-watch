@@ -4,7 +4,25 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Thu, 05 Nov 2026 12:49:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:41:28 +0000</lastBuildDate>
+    <item>
+      <title>[KYC_CHANGE] StereoSwap — KYC policy changed: Shotgun KYC → Rare KYC</title>
+      <link>https://monerica.com/site/stereoswap</link>
+      <description>Category: Exchanges › Instant Swaps | KYC policy changed: Shotgun KYC → Rare KYC</description>
+      <guid isPermaLink="false">stereoswap-KYC_CHANGE-2026-11-05T18:41:28Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] Xedo — Status changed: Admitted → Scam</title>
+      <link>https://monerica.com/site/xedo</link>
+      <description>Category: Phone &amp; SMS › SMS Verification &amp; Virtual Numbers | Status changed: Admitted → Scam</description>
+      <guid isPermaLink="false">xedo-STATUS_CHANGE-2026-11-05T18:41:28Z</guid>
+    </item>
+    <item>
+      <title>[WARNING_ADDED] Xedo — Warning added: Listed as a scam: do not use.</title>
+      <link>https://monerica.com/site/xedo</link>
+      <description>Category: Phone &amp; SMS › SMS Verification &amp; Virtual Numbers | Warning added: Listed as a scam: do not use.</description>
+      <guid isPermaLink="false">xedo-WARNING_ADDED-2026-11-05T18:41:28Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] Nonease — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
       <link>https://monerica.com/site/nonease</link>
@@ -226,24 +244,6 @@
       <link>https://monerica.com/site/cloudzy</link>
       <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
       <guid isPermaLink="false">cloudzy-REMOVED_LISTING-2026-11-03T00:36:58Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Hiddence — Removed from directory (was Questionable)</title>
-      <link>https://monerica.com/site/hiddence</link>
-      <description>Category: Web Hosting › Offshore &amp; Privacy-Focused Hosting | Removed from directory (was Questionable)</description>
-      <guid isPermaLink="false">hiddence-REMOVED_LISTING-2026-11-03T00:36:58Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Jink Host — Removed from directory (was Questionable)</title>
-      <link>https://monerica.com/site/jink-host</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Questionable)</description>
-      <guid isPermaLink="false">jink-host-REMOVED_LISTING-2026-11-03T00:36:58Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] VPSLab — Removed from directory (was Questionable)</title>
-      <link>https://monerica.com/site/vpslab</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Questionable)</description>
-      <guid isPermaLink="false">vpslab-REMOVED_LISTING-2026-11-03T00:36:58Z</guid>
     </item>
   </channel>
 </rss>

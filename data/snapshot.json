@@ -21550,8 +21550,8 @@
     "subcategory": "Instant Swaps",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
-    "kycPolicy": "Shotgun KYC",
-    "liquidity": "Third Party",
+    "kycPolicy": "Rare KYC",
+    "liquidity": "Own",
     "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
@@ -21567,7 +21567,7 @@
       "reviews": 2
     },
     "added": "2026-02-22",
-    "updated": "2026-11-01"
+    "updated": "2026-11-05"
   },
   "stock-enthusiasts": {
     "name": "Stock Enthusiasts",
@@ -24471,16 +24471,16 @@
     "name": "Xedo",
     "slug": "xedo",
     "profileUrl": "https://monerica.com/site/xedo",
-    "website": "https://xedo.cc/",
     "category": "Phone & SMS",
     "subcategory": "SMS Verification & Virtual Numbers",
     "categoryUrl": "https://monerica.com/phone-and-sms/sms-verification-and-virtual-numbers",
-    "status": "Admitted",
+    "status": "Scam",
+    "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-07-22",
     "description": "SMS verifications for 800+ services across 190+ countries with strong numbers, plus travel eSIMs for 190+ destinations \u2014 choose a region or a single country.",
     "added": "2026-07-23",
-    "updated": "2026-10-24"
+    "updated": "2026-11-05"
   },
   "xeovo": {
     "name": "Xeovo",

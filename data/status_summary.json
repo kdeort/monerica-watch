@@ -1,13 +1,33 @@
 {
-  "generated": "2026-11-05T12:32:25Z",
+  "generated": "2026-11-05T16:12:31Z",
   "total": 1421,
   "verified": 282,
-  "admitted": 988,
+  "admitted": 987,
   "questionable": 92,
-  "scam": 59,
+  "scam": 60,
   "no_kyc": 352,
   "tor_enabled": 142,
   "active_warnings": [
+    {
+      "name": "StereoSwap",
+      "slug": "stereoswap",
+      "profileUrl": "https://monerica.com/site/stereoswap",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Questionable",
+      "kycPolicy": "Rare KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-05"
+    },
+    {
+      "name": "Xedo",
+      "slug": "xedo",
+      "profileUrl": "https://monerica.com/site/xedo",
+      "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-05"
+    },
     {
       "name": "BIM Exchange",
       "slug": "bim-exchange",
@@ -85,16 +105,6 @@
       "category": "Communities \u203a Forums",
       "status": "Questionable",
       "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-01"
-    },
-    {
-      "name": "StereoSwap",
-      "slug": "stereoswap",
-      "profileUrl": "https://monerica.com/site/stereoswap",
-      "category": "Exchanges \u203a Instant Swaps",
-      "status": "Questionable",
-      "kycPolicy": "Shotgun KYC",
       "warning": "Marked as Questionable",
       "updated": "2026-11-01"
     },
@@ -496,16 +506,6 @@
       "status": "Scam",
       "kycPolicy": "Not Stated",
       "warning": "Listed as a scam: do not use.",
-      "updated": "2026-10-30"
-    },
-    {
-      "name": "NiceVPS.net",
-      "slug": "nicevps-net",
-      "profileUrl": "https://monerica.com/site/nicevps-net",
-      "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
       "updated": "2026-10-30"
     }
   ]

@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-05T18:41:28Z",
+    "type": "KYC_CHANGE",
+    "severity": "medium",
+    "name": "StereoSwap",
+    "slug": "stereoswap",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/stereoswap",
+    "detail": "KYC policy changed: Shotgun KYC \u2192 Rare KYC"
+  },
+  {
+    "timestamp": "2026-11-05T18:41:28Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Xedo",
+    "slug": "xedo",
+    "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+    "profileUrl": "https://monerica.com/site/xedo",
+    "detail": "Status changed: Admitted \u2192 Scam"
+  },
+  {
+    "timestamp": "2026-11-05T18:41:28Z",
+    "type": "WARNING_ADDED",
+    "severity": "high",
+    "name": "Xedo",
+    "slug": "xedo",
+    "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+    "profileUrl": "https://monerica.com/site/xedo",
+    "detail": "Warning added: Listed as a scam: do not use."
+  },
+  {
     "timestamp": "2026-11-05T12:49:50Z",
     "type": "NEW_LISTING",
     "severity": "info",
