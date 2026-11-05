@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-05T00:41:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "hide router",
+    "slug": "hide-router",
+    "category": "Businesses \u203a AI Services",
+    "profileUrl": "https://monerica.com/site/hide-router",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-05T00:41:35Z",
+    "type": "KYC_CHANGE",
+    "severity": "medium",
+    "name": "LucidSwap",
+    "slug": "lucidswap",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/lucidswap",
+    "detail": "KYC policy changed: Rare KYC \u2192 Varies By Provider"
+  },
+  {
+    "timestamp": "2026-11-05T00:41:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "The Monero Table",
+    "slug": "the-monero-table",
+    "category": "Businesses \u203a Gambling",
+    "profileUrl": "https://monerica.com/site/the-monero-table",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-04T18:44:01Z",
     "type": "NEW_LISTING",
     "severity": "info",

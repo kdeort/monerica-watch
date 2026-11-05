@@ -8025,7 +8025,7 @@
       "reviews": 13
     },
     "added": "2026-01-06",
-    "updated": "2026-11-03"
+    "updated": "2026-11-04"
   },
   "ghostswap-app": {
     "name": "GhostSwap.app",
@@ -8901,6 +8901,24 @@
     "description": "No KYC crypto exchange for XMR swaps: no account, no email, no ID. Fixed or floating rate, tracked by one order ID. Works in Tor Browser, even with JavaScript off.",
     "added": "2026-09-24",
     "updated": "2026-09-24"
+  },
+  "hide-router": {
+    "name": "hide router",
+    "slug": "hide-router",
+    "profileUrl": "https://monerica.com/site/hide-router",
+    "website": "https://hide.st/router",
+    "category": "Businesses",
+    "subcategory": "AI Services",
+    "categoryUrl": "https://monerica.com/businesses/ai-services",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "DMCA Ignored"
+    ],
+    "founded": "2026-10-03",
+    "description": "Every AI model, one private API. 624 text models, 43 of them uncensored, plus 529 more for images, video, audio and embeddings, from OpenAI, Anthropic, Google, DeepSeek, xAI",
+    "added": "2026-11-04",
+    "updated": "2026-11-04"
   },
   "hide-me": {
     "name": "Hide.Me",
@@ -11474,7 +11492,7 @@
     "subcategory": "Instant Swaps",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
-    "kycPolicy": "Rare KYC",
+    "kycPolicy": "Varies By Provider",
     "liquidity": "Third Party",
     "rates": "Float",
     "tags": [
@@ -12271,7 +12289,7 @@
       "reviews": 4
     },
     "added": "2026-05-23",
-    "updated": "2026-10-24"
+    "updated": "2026-11-04"
   },
   "mitra": {
     "name": "Mitra",
@@ -22499,6 +22517,24 @@
     "added": "2022-06-22",
     "updated": "2026-10-30"
   },
+  "the-monero-table": {
+    "name": "The Monero Table",
+    "slug": "the-monero-table",
+    "profileUrl": "https://monerica.com/site/the-monero-table",
+    "website": "https://monerotable.com",
+    "category": "Businesses",
+    "subcategory": "Gambling",
+    "categoryUrl": "https://monerica.com/businesses/gambling",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "Email Not Required"
+    ],
+    "founded": "2026-11-03",
+    "description": "A private Monero blackjack table. Practice with a free virtual bankroll or join the XMR table.",
+    "added": "2026-11-04",
+    "updated": "2026-11-04"
+  },
   "the-onion-host": {
     "name": "The Onion Host",
     "slug": "the-onion-host",
@@ -22738,7 +22774,7 @@
     "description": "Non-custodial swap aggregator. Compares live XMR quotes from THORChain, CCE.Cash and Changee and routes you to the best rate \u2014 no account, no KYC for standard swaps.",
     "rating": {
       "average": 4.8,
-      "reviews": 13
+      "reviews": 14
     },
     "added": "2026-06-11",
     "updated": "2026-10-27"
