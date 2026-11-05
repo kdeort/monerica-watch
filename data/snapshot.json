@@ -15849,6 +15849,29 @@
     "added": "2024-11-20",
     "updated": "2026-10-20"
   },
+  "nonease": {
+    "name": "Nonease",
+    "slug": "nonease",
+    "profileUrl": "https://monerica.com/site/nonease",
+    "website": "https://nonease.site/",
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Shotgun KYC",
+    "liquidity": "Third Party",
+    "rates": "Fixed & Float",
+    "tags": [
+      "Account Not Required",
+      "Affiliate Program",
+      "Email Not Required"
+    ],
+    "country": "JO",
+    "founded": "2026-08-31",
+    "description": "Swap one coin, receive another. Fully automated crypto exchange. 999+ assets, no account, and nothing held on your behalf.",
+    "added": "2026-11-05",
+    "updated": "2026-11-05"
+  },
   "nonkyc": {
     "name": "NonKYC",
     "slug": "nonkyc",
@@ -17313,6 +17336,27 @@
     "description": "Get Discounts on Amazon with Monero. Our platform uses zk proofs for secure p2p transactions.",
     "added": "2024-02-27",
     "updated": "2026-03-20"
+  },
+  "peerbox": {
+    "name": "Peerbox",
+    "slug": "peerbox",
+    "profileUrl": "https://monerica.com/site/peerbox",
+    "website": "https://peerbox.cloud",
+    "category": "Web Hosting",
+    "subcategory": "Cloud & Web Hosting Providers",
+    "categoryUrl": "https://monerica.com/web-hosting/cloud-and-web-hosting-providers",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "API Available",
+      "DMCA Ignored",
+      "Email Not Required"
+    ],
+    "country": "CZ",
+    "founded": "2026-10-04",
+    "description": "No-KYC and anonymous bulk file host with support for downloading torrents and direct links to encrypted cloud storage, with no email, no password, and no third-party tracking.",
+    "added": "2026-11-05",
+    "updated": "2026-11-05"
   },
   "peerz": {
     "name": "Peerz",

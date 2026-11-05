@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Thu, 05 Nov 2026 06:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:49:50 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] Nonease — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
+      <link>https://monerica.com/site/nonease</link>
+      <description>Category: Exchanges › Instant Swaps | Added to directory (Status: Admitted, KYC: Shotgun KYC)</description>
+      <guid isPermaLink="false">nonease-NEW_LISTING-2026-11-05T12:49:50Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Peerbox — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/peerbox</link>
+      <description>Category: Web Hosting › Cloud &amp; Web Hosting Providers | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">peerbox-NEW_LISTING-2026-11-05T12:49:50Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] hide router — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/hide-router</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/vpslab</link>
       <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Questionable)</description>
       <guid isPermaLink="false">vpslab-REMOVED_LISTING-2026-11-03T00:36:58Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] GPU Rent Hub — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/gpu-rent-hub</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">gpu-rent-hub-NEW_LISTING-2026-11-02T18:44:32Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Expeer — Status changed: Admitted → Questionable</title>
-      <link>https://monerica.com/site/expeer</link>
-      <description>Category: Exchanges › Instant Swaps | Status changed: Admitted → Questionable</description>
-      <guid isPermaLink="false">expeer-STATUS_CHANGE-2026-11-02T16:49:38Z</guid>
     </item>
   </channel>
 </rss>

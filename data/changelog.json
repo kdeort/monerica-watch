@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-05T12:49:50Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Nonease",
+    "slug": "nonease",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/nonease",
+    "detail": "Added to directory (Status: Admitted, KYC: Shotgun KYC)"
+  },
+  {
+    "timestamp": "2026-11-05T12:49:50Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Peerbox",
+    "slug": "peerbox",
+    "category": "Web Hosting \u203a Cloud & Web Hosting Providers",
+    "profileUrl": "https://monerica.com/site/peerbox",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-05T00:41:35Z",
     "type": "NEW_LISTING",
     "severity": "info",
