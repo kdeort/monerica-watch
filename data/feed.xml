@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Thu, 05 Nov 2026 18:41:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:39:44 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] AltcoinSwap — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
+      <link>https://monerica.com/site/altcoinswap</link>
+      <description>Category: Exchanges › Aggregators | Added to directory (Status: Admitted, KYC: Varies By Provider)</description>
+      <guid isPermaLink="false">altcoinswap-NEW_LISTING-2026-11-06T00:39:44Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] bauruine — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/bauruine</link>
+      <description>Category: Nodes › Public Remote Nodes &amp; Operators | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">bauruine-STATUS_CHANGE-2026-11-06T00:39:44Z</guid>
+    </item>
     <item>
       <title>[KYC_CHANGE] StereoSwap — KYC policy changed: Shotgun KYC → Rare KYC</title>
       <link>https://monerica.com/site/stereoswap</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/pivarena</link>
       <description>Category: Businesses › Gambling | Added to directory (Status: Admitted, KYC: Not Stated)</description>
       <guid isPermaLink="false">pivarena-NEW_LISTING-2026-11-03T00:36:58Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Vpster — Status changed: Admitted → Questionable</title>
-      <link>https://monerica.com/site/vpster</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Status changed: Admitted → Questionable</description>
-      <guid isPermaLink="false">vpster-STATUS_CHANGE-2026-11-03T00:36:58Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Cloudzy — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/cloudzy</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">cloudzy-REMOVED_LISTING-2026-11-03T00:36:58Z</guid>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-06T00:39:44Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "AltcoinSwap",
+    "slug": "altcoinswap",
+    "category": "Exchanges \u203a Aggregators",
+    "profileUrl": "https://monerica.com/site/altcoinswap",
+    "detail": "Added to directory (Status: Admitted, KYC: Varies By Provider)"
+  },
+  {
+    "timestamp": "2026-11-06T00:39:44Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "bauruine",
+    "slug": "bauruine",
+    "category": "Nodes \u203a Public Remote Nodes & Operators",
+    "profileUrl": "https://monerica.com/site/bauruine",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
     "timestamp": "2026-11-05T18:41:28Z",
     "type": "KYC_CHANGE",
     "severity": "medium",

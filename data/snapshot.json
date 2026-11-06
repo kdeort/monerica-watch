@@ -912,6 +912,27 @@
     "added": "2026-07-21",
     "updated": "2026-10-30"
   },
+  "altcoinswap": {
+    "name": "AltcoinSwap",
+    "slug": "altcoinswap",
+    "profileUrl": "https://monerica.com/site/altcoinswap",
+    "website": "https://altcoinswap.io",
+    "category": "Exchanges",
+    "subcategory": "Aggregators",
+    "categoryUrl": "https://monerica.com/exchanges/aggregators",
+    "status": "Admitted",
+    "kycPolicy": "Varies By Provider",
+    "liquidity": "Varies By Provider",
+    "rates": "Fixed & Float",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required"
+    ],
+    "founded": "2026-03-11",
+    "description": "Non-custodial swap aggregator comparing live quotes from 20+ providers side by side, with no account and no funds held.",
+    "added": "2026-11-05",
+    "updated": "2026-11-05"
+  },
   "altquick": {
     "name": "AltQuick",
     "slug": "altquick",
@@ -2006,11 +2027,11 @@
     "category": "Nodes",
     "subcategory": "Public Remote Nodes & Operators",
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
-    "status": "Admitted",
+    "status": "Verified",
     "country": "CH",
     "description": "bauruine is a Tor relay (guard, non-exit) hosted in Switzerland, operated by tuxli.org, that carries traffic for the Tor network. Monero (XMR) address listed for support.",
     "added": "2025-04-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-05"
   },
   "beauty-abounded": {
     "name": "Beauty Abounded",
@@ -24935,8 +24956,8 @@
     "founded": "2025-06-02",
     "description": "Purchase gift cards with Monero: 2000+ brands, 60+ countries. No KYC, no JS, full privacy with Tor support.",
     "rating": {
-      "average": 4.7,
-      "reviews": 15
+      "average": 4.6,
+      "reviews": 16
     },
     "added": "2025-09-03",
     "updated": "2026-10-30"
