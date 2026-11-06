@@ -2029,9 +2029,9 @@
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
     "status": "Verified",
     "country": "CH",
-    "description": "bauruine is a Tor relay (guard, non-exit) hosted in Switzerland, operated by tuxli.org, that carries traffic for the Tor network. Monero (XMR) address listed for support.",
+    "description": "A Tor relay (guard, non-exit) hosted in Switzerland, operated by tuxli.org, that carries traffic for the Tor network. Monero (XMR) address listed for support.",
     "added": "2025-04-27",
-    "updated": "2026-11-05"
+    "updated": "2026-11-06"
   },
   "beauty-abounded": {
     "name": "Beauty Abounded",
@@ -3954,7 +3954,7 @@
     "description": "This is a fully automated service that allows you to quickly exchange various cryptocurrencies such as XMR, BTC, ETH, and SOL without requiring identity verification.",
     "rating": {
       "average": 4.9,
-      "reviews": 14
+      "reviews": 15
     },
     "added": "2025-07-06",
     "updated": "2026-10-31"
