@@ -1,5 +1,65 @@
 [
   {
+    "timestamp": "2026-11-06T18:40:00Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "0trace",
+    "slug": "0trace",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/0trace",
+    "detail": "Status changed: Verified \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-06T18:40:00Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "DataPasa",
+    "slug": "datapasa",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/datapasa",
+    "detail": "Added to directory (Status: Admitted, KYC: Rare KYC)"
+  },
+  {
+    "timestamp": "2026-11-06T18:40:00Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Fasting Host",
+    "slug": "fasting-host",
+    "category": "Web Hosting \u203a Cloud & Web Hosting Providers",
+    "profileUrl": "https://monerica.com/site/fasting-host",
+    "detail": "Added to directory (Status: Admitted, KYC: Shotgun KYC)"
+  },
+  {
+    "timestamp": "2026-11-06T18:40:00Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Localmonero.io",
+    "slug": "localmonero-io",
+    "category": "Exchanges \u203a Peer-to-Peer Exchanges",
+    "profileUrl": "https://monerica.com/site/localmonero-io",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-06T18:40:00Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "PhantomVPS",
+    "slug": "phantomvps",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/phantomvps",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-06T18:40:00Z",
+    "type": "KYC_CHANGE",
+    "severity": "medium",
+    "name": "StereoSwap",
+    "slug": "stereoswap",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/stereoswap",
+    "detail": "KYC policy changed: Rare KYC \u2192 Guaranteed No KYC"
+  },
+  {
     "timestamp": "2026-11-06T00:39:44Z",
     "type": "NEW_LISTING",
     "severity": "info",

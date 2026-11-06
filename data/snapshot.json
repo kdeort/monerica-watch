@@ -65,7 +65,7 @@
     "category": "Exchanges",
     "subcategory": "Instant Swaps",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Verified",
+    "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
@@ -83,7 +83,7 @@
       "reviews": 5
     },
     "added": "2026-05-04",
-    "updated": "2026-10-23"
+    "updated": "2026-11-06"
   },
   "0xesim": {
     "name": "0xEsim",
@@ -762,7 +762,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
-    "rates": "Fixed",
+    "rates": "Float",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -774,7 +774,7 @@
     "founded": "2026-10-24",
     "description": "Swap Bitcoin, Monero, Ethereum, Zcash, Solana, USDT and USDC with no account and no email. The rate is fixed when you start; a batch number is all you keep.",
     "added": "2026-10-31",
-    "updated": "2026-11-02"
+    "updated": "2026-11-06"
   },
   "alexhost": {
     "name": "Alexhost",
@@ -5923,6 +5923,27 @@
     "added": "2024-04-18",
     "updated": "2026-10-30"
   },
+  "datapasa": {
+    "name": "DataPasa",
+    "slug": "datapasa",
+    "profileUrl": "https://monerica.com/site/datapasa",
+    "website": "https://datapasa.com",
+    "category": "Web Hosting",
+    "subcategory": "VPS & Dedicated Server Providers",
+    "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
+    "status": "Admitted",
+    "kycPolicy": "Rare KYC",
+    "tags": [
+      "Affiliate Program",
+      "Sells Domain Registration",
+      "VPS"
+    ],
+    "country": "DE",
+    "founded": "2026-04-17",
+    "description": "Cheap VPS hosting",
+    "added": "2026-11-06",
+    "updated": "2026-11-06"
+  },
   "daylight-freedom": {
     "name": "Daylight Freedom",
     "slug": "daylight-freedom",
@@ -7184,6 +7205,26 @@
     "description": "Free web-based video and audio downloader powered by yt-dlp for YouTube, TikTok, SoundCloud and 1,000+ other sites, with MP4/MP3 output and playlists. No account needed.",
     "added": "2026-06-12",
     "updated": "2026-10-30"
+  },
+  "fasting-host": {
+    "name": "Fasting Host",
+    "slug": "fasting-host",
+    "profileUrl": "https://monerica.com/site/fasting-host",
+    "website": "https://fasting.host/",
+    "category": "Web Hosting",
+    "subcategory": "Cloud & Web Hosting Providers",
+    "categoryUrl": "https://monerica.com/web-hosting/cloud-and-web-hosting-providers",
+    "status": "Admitted",
+    "kycPolicy": "Shotgun KYC",
+    "tags": [
+      "Sells Domain Registration",
+      "VPS"
+    ],
+    "country": "US",
+    "founded": "2023-02-24",
+    "description": "Cloud VPS and cPanel web hosting from the Netherlands, with DDoS protection, root or Administrator access, and privacy-focused hosting options.",
+    "added": "2026-11-06",
+    "updated": "2026-11-06"
   },
   "fat-chips": {
     "name": "Fat Chips",
@@ -11476,6 +11517,26 @@
     "description": "Our goal is to establish a safe and easy-to-use person-to-person platform to allow anyone to trade their local currency for Monero, anywhere.",
     "added": "2022-06-22",
     "updated": "2026-03-19"
+  },
+  "localmonero-io": {
+    "name": "Localmonero.io",
+    "slug": "localmonero-io",
+    "profileUrl": "https://monerica.com/site/localmonero-io",
+    "website": "https://localmonero.io",
+    "category": "Exchanges",
+    "subcategory": "Peer-to-Peer Exchanges",
+    "categoryUrl": "https://monerica.com/exchanges/peer-to-peer-exchanges",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "Account Not Required",
+      "DMCA Ignored",
+      "Email Not Required"
+    ],
+    "founded": "2026-05-27",
+    "description": "Buy Monero (XMR) with EUR through SEPA bank transfers. An independent European-focused Monero purchasing service.",
+    "added": "2026-11-06",
+    "updated": "2026-11-06"
   },
   "loveraxmr": {
     "name": "LoveraXMR",
@@ -17497,6 +17558,30 @@
     "added": "2026-10-19",
     "updated": "2026-10-30"
   },
+  "phantomvps": {
+    "name": "PhantomVPS",
+    "slug": "phantomvps",
+    "profileUrl": "https://monerica.com/site/phantomvps",
+    "website": "https://phantomvps.com",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://jiujp4rjljjzqso6sej4bredgwb5tg7pbuhe5bf2xb33dmarde5dbhid.onion"
+      }
+    ],
+    "category": "Web Hosting",
+    "subcategory": "VPS & Dedicated Server Providers",
+    "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
+    "status": "Admitted",
+    "tags": [
+      "Sells Dedicated Servers",
+      "VPS"
+    ],
+    "founded": "2026-09-28",
+    "description": "VPS and dedicated servers in partner data centres with root access and IPMI on dedicated hardware. Accounts need only an email address: no ID documents, no phone verification.",
+    "added": "2026-11-06",
+    "updated": "2026-11-06"
+  },
   "phreeli": {
     "name": "Phreeli",
     "slug": "phreeli",
@@ -21571,7 +21656,7 @@
     "subcategory": "Instant Swaps",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
-    "kycPolicy": "Rare KYC",
+    "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Fixed & Float",
     "tags": [
@@ -21588,7 +21673,7 @@
       "reviews": 2
     },
     "added": "2026-02-22",
-    "updated": "2026-11-05"
+    "updated": "2026-11-06"
   },
   "stock-enthusiasts": {
     "name": "Stock Enthusiasts",

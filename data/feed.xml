@@ -4,7 +4,43 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Fri, 06 Nov 2026 12:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:40:00 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] 0trace — Status changed: Verified → Questionable</title>
+      <link>https://monerica.com/site/0trace</link>
+      <description>Category: Exchanges › Instant Swaps | Status changed: Verified → Questionable</description>
+      <guid isPermaLink="false">0trace-STATUS_CHANGE-2026-11-06T18:40:00Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] DataPasa — Added to directory (Status: Admitted, KYC: Rare KYC)</title>
+      <link>https://monerica.com/site/datapasa</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Added to directory (Status: Admitted, KYC: Rare KYC)</description>
+      <guid isPermaLink="false">datapasa-NEW_LISTING-2026-11-06T18:40:00Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Fasting Host — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
+      <link>https://monerica.com/site/fasting-host</link>
+      <description>Category: Web Hosting › Cloud &amp; Web Hosting Providers | Added to directory (Status: Admitted, KYC: Shotgun KYC)</description>
+      <guid isPermaLink="false">fasting-host-NEW_LISTING-2026-11-06T18:40:00Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Localmonero.io — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/localmonero-io</link>
+      <description>Category: Exchanges › Peer-to-Peer Exchanges | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">localmonero-io-NEW_LISTING-2026-11-06T18:40:00Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] PhantomVPS — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/phantomvps</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">phantomvps-NEW_LISTING-2026-11-06T18:40:00Z</guid>
+    </item>
+    <item>
+      <title>[KYC_CHANGE] StereoSwap — KYC policy changed: Rare KYC → Guaranteed No KYC</title>
+      <link>https://monerica.com/site/stereoswap</link>
+      <description>Category: Exchanges › Instant Swaps | KYC policy changed: Rare KYC → Guaranteed No KYC</description>
+      <guid isPermaLink="false">stereoswap-KYC_CHANGE-2026-11-06T18:40:00Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] AltcoinSwap — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
       <link>https://monerica.com/site/altcoinswap</link>
@@ -208,42 +244,6 @@
       <link>https://monerica.com/site/uprampr</link>
       <description>Category: Businesses › Marketplaces (Peer-to-Peer) | Removed from directory (was Admitted)</description>
       <guid isPermaLink="false">uprampr-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] VPSOffshore — Removed from directory (was Scam)</title>
-      <link>https://monerica.com/site/vpsoffshore</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Scam)</description>
-      <guid isPermaLink="false">vpsoffshore-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] XCancel — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/xcancel</link>
-      <description>Category: Non-Profits › Technologies | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">xcancel-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Crypt0-Bear — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/crypt0-bear</link>
-      <description>Category: Media › Music &amp; Radio | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">crypt0-bear-STATUS_CHANGE-2026-11-03T06:49:57Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] The Drug Users Bible — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/the-drug-users-bible</link>
-      <description>Category: Non-Profits › Miscellaneous | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">the-drug-users-bible-NEW_LISTING-2026-11-03T06:49:57Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Lyra Hosting — Status changed: Admitted → Questionable</title>
-      <link>https://monerica.com/site/lyra-hosting</link>
-      <description>Category: Web Hosting › Offshore &amp; Privacy-Focused Hosting | Status changed: Admitted → Questionable</description>
-      <guid isPermaLink="false">lyra-hosting-STATUS_CHANGE-2026-11-03T00:36:58Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] PIVArena — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/pivarena</link>
-      <description>Category: Businesses › Gambling | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">pivarena-NEW_LISTING-2026-11-03T00:36:58Z</guid>
     </item>
   </channel>
 </rss>

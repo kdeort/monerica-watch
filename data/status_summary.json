@@ -1,22 +1,32 @@
 {
-  "generated": "2026-11-06T08:52:04Z",
-  "total": 1422,
-  "verified": 283,
-  "admitted": 987,
-  "questionable": 92,
+  "generated": "2026-11-06T18:32:15Z",
+  "total": 1426,
+  "verified": 282,
+  "admitted": 991,
+  "questionable": 93,
   "scam": 60,
-  "no_kyc": 352,
-  "tor_enabled": 142,
+  "no_kyc": 354,
+  "tor_enabled": 143,
   "active_warnings": [
+    {
+      "name": "0trace",
+      "slug": "0trace",
+      "profileUrl": "https://monerica.com/site/0trace",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-06"
+    },
     {
       "name": "StereoSwap",
       "slug": "stereoswap",
       "profileUrl": "https://monerica.com/site/stereoswap",
       "category": "Exchanges \u203a Instant Swaps",
       "status": "Questionable",
-      "kycPolicy": "Rare KYC",
+      "kycPolicy": "Guaranteed No KYC",
       "warning": "Marked as Questionable",
-      "updated": "2026-11-05"
+      "updated": "2026-11-06"
     },
     {
       "name": "Xedo",
@@ -496,16 +506,6 @@
       "status": "Questionable",
       "kycPolicy": "Not Stated",
       "warning": "Marked as Questionable",
-      "updated": "2026-10-30"
-    },
-    {
-      "name": "MoneroSMS",
-      "slug": "monerosms",
-      "profileUrl": "https://monerica.com/site/monerosms",
-      "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
-      "status": "Scam",
-      "kycPolicy": "Not Stated",
-      "warning": "Listed as a scam: do not use.",
       "updated": "2026-10-30"
     }
   ]
