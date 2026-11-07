@@ -18975,6 +18975,24 @@
     "added": "2025-06-29",
     "updated": "2026-11-02"
   },
+  "rdp-vision": {
+    "name": "Rdp.Vision",
+    "slug": "rdp-vision",
+    "profileUrl": "https://monerica.com/site/rdp-vision",
+    "website": "https://rdp.vision/",
+    "category": "Web Hosting",
+    "subcategory": "VPS & Dedicated Server Providers",
+    "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
+    "status": "Admitted",
+    "tags": [
+      "Email Not Required"
+    ],
+    "country": "SG",
+    "founded": "2026-05-09",
+    "description": "Windows RDP, Linux VPS and storage servers paid with crypto, including Monero. Sign up with just an email or Telegram, no ID.",
+    "added": "2026-11-07",
+    "updated": "2026-11-07"
+  },
   "reader-dict": {
     "name": "reader.dict",
     "slug": "reader-dict",
@@ -22146,14 +22164,14 @@
     "profileUrl": "https://monerica.com/site/swaps",
     "website": "https://swaps.org",
     "category": "Exchanges",
-    "subcategory": "Decentralized Exchanges",
-    "categoryUrl": "https://monerica.com/exchanges/decentralized-exchanges",
+    "subcategory": "Atomic Swaps",
+    "categoryUrl": "https://monerica.com/exchanges/atomic-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2005-03-27",
     "description": "Cross-chain atomic swap exchange and wallet for Windows, macOS and Linux to trade BTC, ETH, Monero (XMR), USDT, USDC and ERC-20 tokens peer to peer, no signup required.",
     "added": "2026-01-28",
-    "updated": "2026-10-30"
+    "updated": "2026-11-07"
   },
   "swapspace": {
     "name": "SwapSpace",

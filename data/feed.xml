@@ -4,7 +4,13 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sat, 07 Nov 2026 12:33:01 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 18:27:56 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] Rdp.Vision — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/rdp-vision</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">rdp-vision-NEW_LISTING-2026-11-07T18:27:56Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] CryptoPostage — Status changed: Verified → Questionable</title>
       <link>https://monerica.com/site/cryptopostage</link>
@@ -238,12 +244,6 @@
       <link>https://monerica.com/site/hostingbaba</link>
       <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
       <guid isPermaLink="false">hostingbaba-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] MoneroDM — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/monerodm</link>
-      <description>Category: Non-Profits › Technologies | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">monerodm-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
     </item>
   </channel>
 </rss>

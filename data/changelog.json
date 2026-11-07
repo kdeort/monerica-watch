@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-07T18:27:56Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Rdp.Vision",
+    "slug": "rdp-vision",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/rdp-vision",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-07T06:40:36Z",
     "type": "STATUS_CHANGE",
     "severity": "high",
