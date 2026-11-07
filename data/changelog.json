@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-07T06:40:36Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "CryptoPostage",
+    "slug": "cryptopostage",
+    "category": "Businesses \u203a Postage & Shipping Services",
+    "profileUrl": "https://monerica.com/site/cryptopostage",
+    "detail": "Status changed: Verified \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-07T06:40:36Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Monero Miner",
+    "slug": "monero-miner",
+    "category": "Mining \u203a Miscellaneous",
+    "profileUrl": "https://monerica.com/site/monero-miner",
+    "detail": "Status changed: Verified \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-07T06:40:36Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "xmr.fan",
+    "slug": "xmr-fan",
+    "category": "Utilities \u203a Open Source Projects",
+    "profileUrl": "https://monerica.com/site/xmr-fan",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-07T00:36:25Z",
     "type": "STATUS_CHANGE",
     "severity": "info",

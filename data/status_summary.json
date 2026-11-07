@@ -1,13 +1,33 @@
 {
-  "generated": "2026-11-06T20:22:05Z",
-  "total": 1427,
-  "verified": 283,
-  "admitted": 991,
-  "questionable": 93,
+  "generated": "2026-11-07T06:27:05Z",
+  "total": 1428,
+  "verified": 281,
+  "admitted": 992,
+  "questionable": 95,
   "scam": 60,
   "no_kyc": 355,
-  "tor_enabled": 144,
+  "tor_enabled": 145,
   "active_warnings": [
+    {
+      "name": "CryptoPostage",
+      "slug": "cryptopostage",
+      "profileUrl": "https://monerica.com/site/cryptopostage",
+      "category": "Businesses \u203a Postage & Shipping Services",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-07"
+    },
+    {
+      "name": "Monero Miner",
+      "slug": "monero-miner",
+      "profileUrl": "https://monerica.com/site/monero-miner",
+      "category": "Mining \u203a Miscellaneous",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-07"
+    },
     {
       "name": "0trace",
       "slug": "0trace",
@@ -483,26 +503,6 @@
       "slug": "monero-forum",
       "profileUrl": "https://monerica.com/site/monero-forum",
       "category": "Communities \u203a Forums",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-10-30"
-    },
-    {
-      "name": "MoneroIndex.com",
-      "slug": "moneroindex-com",
-      "profileUrl": "https://monerica.com/site/moneroindex-com",
-      "category": "Other Directories \u203a Monero Directories",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-10-30"
-    },
-    {
-      "name": "Moneropostage",
-      "slug": "moneropostage",
-      "profileUrl": "https://monerica.com/site/moneropostage",
-      "category": "Businesses \u203a Postage & Shipping Services",
       "status": "Questionable",
       "kycPolicy": "Not Stated",
       "warning": "Marked as Questionable",

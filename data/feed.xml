@@ -4,7 +4,25 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sat, 07 Nov 2026 00:36:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 06:40:36 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] CryptoPostage — Status changed: Verified → Questionable</title>
+      <link>https://monerica.com/site/cryptopostage</link>
+      <description>Category: Businesses › Postage &amp; Shipping Services | Status changed: Verified → Questionable</description>
+      <guid isPermaLink="false">cryptopostage-STATUS_CHANGE-2026-11-07T06:40:36Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] Monero Miner — Status changed: Verified → Questionable</title>
+      <link>https://monerica.com/site/monero-miner</link>
+      <description>Category: Mining › Miscellaneous | Status changed: Verified → Questionable</description>
+      <guid isPermaLink="false">monero-miner-STATUS_CHANGE-2026-11-07T06:40:36Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] xmr.fan — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/xmr-fan</link>
+      <description>Category: Utilities › Open Source Projects | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">xmr-fan-NEW_LISTING-2026-11-07T06:40:36Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] Monero Miner — Status changed: Admitted → Verified</title>
       <link>https://monerica.com/site/monero-miner</link>
@@ -226,24 +244,6 @@
       <link>https://monerica.com/site/monerodm</link>
       <description>Category: Non-Profits › Technologies | Removed from directory (was Admitted)</description>
       <guid isPermaLink="false">monerodm-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] NoKyc e-Sim — Removed from directory (was Scam)</title>
-      <link>https://monerica.com/site/nokyc-e-sim</link>
-      <description>Category: Phone &amp; SMS › eSIMs &amp; SIM Cards | Removed from directory (was Scam)</description>
-      <guid isPermaLink="false">nokyc-e-sim-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Roboex — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/roboex</link>
-      <description>Category: Exchanges › Instant Swaps | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">roboex-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] ServGhost — Removed from directory (was Scam)</title>
-      <link>https://monerica.com/site/servghost</link>
-      <description>Category: Web Hosting › Offshore &amp; Privacy-Focused Hosting | Removed from directory (was Scam)</description>
-      <guid isPermaLink="false">servghost-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
     </item>
   </channel>
 </rss>

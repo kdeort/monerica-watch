@@ -2166,8 +2166,8 @@
     "founded": "2026-03-26",
     "description": "Brings two tools together in one service: a privacy crypto exchange and a provably-fair casino. Swap BTC or USDT (TRON) into XMR",
     "rating": {
-      "average": 4.6,
-      "reviews": 11
+      "average": 4.7,
+      "reviews": 12
     },
     "added": "2026-06-08",
     "updated": "2026-10-23"
@@ -3722,18 +3722,22 @@
     "name": "Cambio",
     "slug": "cambio",
     "profileUrl": "https://monerica.com/site/cambio",
-    "website": "https://cambio.one",
+    "website": "https://cambio.one/?utm_source=monerica&utm_medium=listing&utm_campaign=directory",
     "category": "Exchanges",
     "subcategory": "Instant Swaps",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
-    "liquidity": "Third Party",
+    "liquidity": "Own & Third-Party",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required"
+    ],
     "country": "PA",
     "founded": "2026-05-17",
-    "description": "non-custodial instant exchanger with a conversational interface: you describe the swap in plain language and it quotes, no account and no registration.",
+    "description": "Instant XMR swaps to and from BTC, USDT and other coins: type the swap in plain words, get one quote, send. Non-custodial by design, no account needed.",
     "added": "2026-08-28",
-    "updated": "2026-10-31"
+    "updated": "2026-11-07"
   },
   "canvasblocker": {
     "name": "CanvasBlocker",
@@ -5443,7 +5447,7 @@
     "category": "Businesses",
     "subcategory": "Postage & Shipping Services",
     "categoryUrl": "https://monerica.com/businesses/postage-and-shipping-services",
-    "status": "Verified",
+    "status": "Questionable",
     "liquidity": "Own",
     "tags": [
       "Account Not Required",
@@ -5453,7 +5457,7 @@
     "founded": "2019-01-01",
     "description": "Purchase and print USPS, UPS, FedEx, and DHL shipping labels online. Enter shipment details, compare available rates, pay, and receive a printable shipping label.",
     "added": "2022-06-22",
-    "updated": "2026-09-18"
+    "updated": "2026-11-07"
   },
   "cryptostamps": {
     "name": "Cryptostamps",
@@ -13363,11 +13367,11 @@
     "category": "Mining",
     "subcategory": "Miscellaneous",
     "categoryUrl": "https://monerica.com/mining/miscellaneous",
-    "status": "Verified",
+    "status": "Questionable",
     "founded": "2017-03-28",
     "description": "Use our Monero web miner to mine Monero (XMR) directly from your browser. No need for specialized hardware or software.",
     "added": "2025-08-17",
-    "updated": "2026-11-06"
+    "updated": "2026-11-07"
   },
   "monero-mining-a-comprehensive-guide-on-how-to-mine-monero": {
     "name": "Monero Mining: A Comprehensive Guide on How to Mine                    Monero",
@@ -25089,6 +25093,31 @@
     "description": "Directory of Monero (XMR) services, from exchanges and swaps to VPNs, VPS and prepaid cards, each tested with real deposits and withdrawals and graded on a rubric.",
     "added": "2026-05-22",
     "updated": "2026-10-30"
+  },
+  "xmr-fan": {
+    "name": "xmr.fan",
+    "slug": "xmr-fan",
+    "profileUrl": "https://monerica.com/site/xmr-fan",
+    "website": "https://xmr.fan/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://qxdwqsz3u46jlbvue7hv5lqr4vndft7zoub6szfqucazoi7hzux6nsqd.onion/"
+      }
+    ],
+    "category": "Utilities",
+    "subcategory": "Open Source Projects",
+    "categoryUrl": "https://monerica.com/utilities/open-source-projects",
+    "status": "Admitted",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required",
+      "Open Source"
+    ],
+    "founded": "2026-10-19",
+    "description": "Free browser-based Monero tools: payment links and QR codes, payment proof checks, transaction tracking, current fees, restore height, node checks and unit conversion.",
+    "added": "2026-11-07",
+    "updated": "2026-11-07"
   },
   "xmr-gd": {
     "name": "XMR.GD",
