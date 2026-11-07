@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Fri, 06 Nov 2026 18:40:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 00:36:25 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] Monero Miner — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/monero-miner</link>
+      <description>Category: Mining › Miscellaneous | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">monero-miner-STATUS_CHANGE-2026-11-07T00:36:25Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] sms.lease — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/sms-lease</link>
+      <description>Category: Phone &amp; SMS › SMS Verification &amp; Virtual Numbers | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">sms-lease-NEW_LISTING-2026-11-07T00:36:25Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] 0trace — Status changed: Verified → Questionable</title>
       <link>https://monerica.com/site/0trace</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/servghost</link>
       <description>Category: Web Hosting › Offshore &amp; Privacy-Focused Hosting | Removed from directory (was Scam)</description>
       <guid isPermaLink="false">servghost-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] SpotGPUs — Removed from directory (was Scam)</title>
-      <link>https://monerica.com/site/spotgpus</link>
-      <description>Category: Web Hosting › Cloud &amp; Web Hosting Providers | Removed from directory (was Scam)</description>
-      <guid isPermaLink="false">spotgpus-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Uprampr — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/uprampr</link>
-      <description>Category: Businesses › Marketplaces (Peer-to-Peer) | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">uprampr-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
     </item>
   </channel>
 </rss>

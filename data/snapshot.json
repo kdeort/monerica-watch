@@ -13363,11 +13363,11 @@
     "category": "Mining",
     "subcategory": "Miscellaneous",
     "categoryUrl": "https://monerica.com/mining/miscellaneous",
-    "status": "Admitted",
+    "status": "Verified",
     "founded": "2017-03-28",
     "description": "Use our Monero web miner to mine Monero (XMR) directly from your browser. No need for specialized hardware or software.",
     "added": "2025-08-17",
-    "updated": "2026-02-16"
+    "updated": "2026-11-06"
   },
   "monero-mining-a-comprehensive-guide-on-how-to-mine-monero": {
     "name": "Monero Mining: A Comprehensive Guide on How to Mine                    Monero",
@@ -20916,6 +20916,32 @@
     "description": "Virtual numbers for SMS verification codes: 1,304 platforms, 145 countries, from $0.07 a code; 7-30 day rentals. Paid in Monero, USDT, BTC or ETH; email-only sign-up.",
     "added": "2026-09-20",
     "updated": "2026-10-24"
+  },
+  "sms-lease": {
+    "name": "sms.lease",
+    "slug": "sms-lease",
+    "profileUrl": "https://monerica.com/site/sms-lease",
+    "website": "https://sms.lease",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://smsleasekpd5x5i5emrav77mitewbdvqyzyzrmaarbwho7bjxsuptxqd.onion"
+      }
+    ],
+    "category": "Phone & SMS",
+    "subcategory": "SMS Verification & Virtual Numbers",
+    "categoryUrl": "https://monerica.com/phone-and-sms/sms-verification-and-virtual-numbers",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "API Available",
+      "Email Not Required",
+      "JavaScript Optional"
+    ],
+    "founded": "2026-11-04",
+    "description": "Rent a temporary mobile number to receive one SMS verification code. 2,700+ services, automatic refund if no code arrives. Account is a random key; Tor mirror.",
+    "added": "2026-11-06",
+    "updated": "2026-11-06"
   },
   "smscodes": {
     "name": "smscodes",

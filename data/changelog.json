@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-07T00:36:25Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Monero Miner",
+    "slug": "monero-miner",
+    "category": "Mining \u203a Miscellaneous",
+    "profileUrl": "https://monerica.com/site/monero-miner",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-07T00:36:25Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "sms.lease",
+    "slug": "sms-lease",
+    "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+    "profileUrl": "https://monerica.com/site/sms-lease",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-06T18:40:00Z",
     "type": "STATUS_CHANGE",
     "severity": "high",
