@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-08T11:57:32Z",
-  "total": 1433,
+  "generated": "2026-11-08T18:22:11Z",
+  "total": 1436,
   "verified": 281,
-  "admitted": 997,
-  "questionable": 95,
-  "scam": 60,
-  "no_kyc": 357,
+  "admitted": 1000,
+  "questionable": 94,
+  "scam": 61,
+  "no_kyc": 358,
   "tor_enabled": 145,
   "active_warnings": [
+    {
+      "name": "0trace",
+      "slug": "0trace",
+      "profileUrl": "https://monerica.com/site/0trace",
+      "category": "Exchanges \u203a Instant Swaps",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-08"
+    },
     {
       "name": "CryptoPostage",
       "slug": "cryptopostage",
@@ -27,16 +37,6 @@
       "kycPolicy": "Not Stated",
       "warning": "Marked as Questionable",
       "updated": "2026-11-07"
-    },
-    {
-      "name": "0trace",
-      "slug": "0trace",
-      "profileUrl": "https://monerica.com/site/0trace",
-      "category": "Exchanges \u203a Instant Swaps",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-06"
     },
     {
       "name": "StereoSwap",

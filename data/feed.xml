@@ -4,7 +4,49 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sun, 08 Nov 2026 12:31:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:27:46 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] 0trace — Status changed: Questionable → Scam</title>
+      <link>https://monerica.com/site/0trace</link>
+      <description>Category: Exchanges › Instant Swaps | Status changed: Questionable → Scam</description>
+      <guid isPermaLink="false">0trace-STATUS_CHANGE-2026-11-08T18:27:46Z</guid>
+    </item>
+    <item>
+      <title>[WARNING_ADDED] 0trace — Warning added: Listed as a scam: do not use.</title>
+      <link>https://monerica.com/site/0trace</link>
+      <description>Category: Exchanges › Instant Swaps | Warning added: Listed as a scam: do not use.</description>
+      <guid isPermaLink="false">0trace-WARNING_ADDED-2026-11-08T18:27:46Z</guid>
+    </item>
+    <item>
+      <title>[KYC_CHANGE] Bitcoin2Monero — KYC policy changed: Guaranteed No KYC → Rare KYC</title>
+      <link>https://monerica.com/site/bitcoin2monero</link>
+      <description>Category: Exchanges › Instant Swaps | KYC policy changed: Guaranteed No KYC → Rare KYC</description>
+      <guid isPermaLink="false">bitcoin2monero-KYC_CHANGE-2026-11-08T18:27:46Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] FreeSocks — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/freesocks</link>
+      <description>Category: VPNs &amp; Proxies › Proxies | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">freesocks-NEW_LISTING-2026-11-08T18:27:46Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Internet Privacy Foundation — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/internet-privacy-foundation</link>
+      <description>Category: Non-Profits › Activism | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">internet-privacy-foundation-NEW_LISTING-2026-11-08T18:27:46Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] LateLune — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/latelune</link>
+      <description>Category: Businesses › Pornography &amp; Adult Products | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">latelune-NEW_LISTING-2026-11-08T18:27:46Z</guid>
+    </item>
+    <item>
+      <title>[KYC_CHANGE] NOWPayments — KYC policy changed: Not Stated → Rare KYC</title>
+      <link>https://monerica.com/site/nowpayments</link>
+      <description>Category: Merchant Services › Integrations | KYC policy changed: Not Stated → Rare KYC</description>
+      <guid isPermaLink="false">nowpayments-KYC_CHANGE-2026-11-08T18:27:46Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] Bitcoin2Monero — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/bitcoin2monero</link>
@@ -202,48 +244,6 @@
       <link>https://monerica.com/site/fleetproxy-io</link>
       <description>Category: VPNs &amp; Proxies › Proxies | Status changed: Questionable → Verified</description>
       <guid isPermaLink="false">fleetproxy-io-STATUS_CHANGE-2026-11-04T00:35:00Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Swapnoir — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
-      <link>https://monerica.com/site/swapnoir</link>
-      <description>Category: Exchanges › Instant Swaps | Added to directory (Status: Admitted, KYC: Shotgun KYC)</description>
-      <guid isPermaLink="false">swapnoir-NEW_LISTING-2026-11-04T00:35:00Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] WebMonero — Status changed: Scam → Questionable</title>
-      <link>https://monerica.com/site/webmonero</link>
-      <description>Category: Wallets › Web &amp; Browser Wallets | Status changed: Scam → Questionable</description>
-      <guid isPermaLink="false">webmonero-STATUS_CHANGE-2026-11-04T00:35:00Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] EasynodeDroid — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/easynodedroid</link>
-      <description>Category: Nodes › Node Software &amp; Deployment | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">easynodedroid-NEW_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] FleetProxy.io — Status changed: Verified → Questionable</title>
-      <link>https://monerica.com/site/fleetproxy-io</link>
-      <description>Category: VPNs &amp; Proxies › Proxies | Status changed: Verified → Questionable</description>
-      <guid isPermaLink="false">fleetproxy-io-STATUS_CHANGE-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Freedomia — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/freedomia</link>
-      <description>Category: Cards › Reloadable Cards | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">freedomia-NEW_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] moos — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/moos</link>
-      <description>Category: Utilities › Open Source Projects | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">moos-NEW_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] XMRadar — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/xmradar</link>
-      <description>Category: Utilities › Open Source Projects | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">xmradar-NEW_LISTING-2026-11-03T18:37:35Z</guid>
     </item>
   </channel>
 </rss>

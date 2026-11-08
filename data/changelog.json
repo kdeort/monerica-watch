@@ -1,5 +1,75 @@
 [
   {
+    "timestamp": "2026-11-08T18:27:46Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "0trace",
+    "slug": "0trace",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/0trace",
+    "detail": "Status changed: Questionable \u2192 Scam"
+  },
+  {
+    "timestamp": "2026-11-08T18:27:46Z",
+    "type": "WARNING_ADDED",
+    "severity": "high",
+    "name": "0trace",
+    "slug": "0trace",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/0trace",
+    "detail": "Warning added: Listed as a scam: do not use."
+  },
+  {
+    "timestamp": "2026-11-08T18:27:46Z",
+    "type": "KYC_CHANGE",
+    "severity": "high",
+    "name": "Bitcoin2Monero",
+    "slug": "bitcoin2monero",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/bitcoin2monero",
+    "detail": "KYC policy changed: Guaranteed No KYC \u2192 Rare KYC"
+  },
+  {
+    "timestamp": "2026-11-08T18:27:46Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "FreeSocks",
+    "slug": "freesocks",
+    "category": "VPNs & Proxies \u203a Proxies",
+    "profileUrl": "https://monerica.com/site/freesocks",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-08T18:27:46Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Internet Privacy Foundation",
+    "slug": "internet-privacy-foundation",
+    "category": "Non-Profits \u203a Activism",
+    "profileUrl": "https://monerica.com/site/internet-privacy-foundation",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-08T18:27:46Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "LateLune",
+    "slug": "latelune",
+    "category": "Businesses \u203a Pornography & Adult Products",
+    "profileUrl": "https://monerica.com/site/latelune",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-08T18:27:46Z",
+    "type": "KYC_CHANGE",
+    "severity": "medium",
+    "name": "NOWPayments",
+    "slug": "nowpayments",
+    "category": "Merchant Services \u203a Integrations",
+    "profileUrl": "https://monerica.com/site/nowpayments",
+    "detail": "KYC policy changed: Not Stated \u2192 Rare KYC"
+  },
+  {
     "timestamp": "2026-11-08T00:36:04Z",
     "type": "NEW_LISTING",
     "severity": "info",
