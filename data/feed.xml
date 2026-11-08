@@ -4,7 +4,31 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sat, 07 Nov 2026 18:27:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 00:36:04 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] Bitcoin2Monero — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/bitcoin2monero</link>
+      <description>Category: Exchanges › Instant Swaps | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">bitcoin2monero-NEW_LISTING-2026-11-08T00:36:04Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] SilentSIMs — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
+      <link>https://monerica.com/site/silentsims</link>
+      <description>Category: Phone &amp; SMS › eSIMs &amp; SIM Cards | Added to directory (Status: Admitted, KYC: Varies By Provider)</description>
+      <guid isPermaLink="false">silentsims-NEW_LISTING-2026-11-08T00:36:04Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Silo — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/silo</link>
+      <description>Category: Exchanges › Miscellaneous | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">silo-NEW_LISTING-2026-11-08T00:36:04Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Teva Galilee &amp; Arts — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/teva-galilee-and-arts</link>
+      <description>Category: Businesses › Travel &amp; Accommodation | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">teva-galilee-and-arts-NEW_LISTING-2026-11-08T00:36:04Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] Rdp.Vision — Added to directory (Status: Admitted, KYC: Not Stated)</title>
       <link>https://monerica.com/site/rdp-vision</link>
@@ -220,30 +244,6 @@
       <link>https://monerica.com/site/xmradar</link>
       <description>Category: Utilities › Open Source Projects | Added to directory (Status: Admitted, KYC: Not Stated)</description>
       <guid isPermaLink="false">xmradar-NEW_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] AnyCOLO — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/anycolo</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">anycolo-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] BingCard.org — Removed from directory (was Questionable)</title>
-      <link>https://monerica.com/site/bingcard-org</link>
-      <description>Category: Cards › Prepaid Cards | Removed from directory (was Questionable)</description>
-      <guid isPermaLink="false">bingcard-org-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Crypto Agorism — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/crypto-agorism</link>
-      <description>Category: Media › Miscellaneous | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">crypto-agorism-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] HostingBaba — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/hostingbaba</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">hostingbaba-REMOVED_LISTING-2026-11-03T18:37:35Z</guid>
     </item>
   </channel>
 </rss>

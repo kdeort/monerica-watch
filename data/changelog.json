@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": "2026-11-08T00:36:04Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Bitcoin2Monero",
+    "slug": "bitcoin2monero",
+    "category": "Exchanges \u203a Instant Swaps",
+    "profileUrl": "https://monerica.com/site/bitcoin2monero",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-08T00:36:04Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "SilentSIMs",
+    "slug": "silentsims",
+    "category": "Phone & SMS \u203a eSIMs & SIM Cards",
+    "profileUrl": "https://monerica.com/site/silentsims",
+    "detail": "Added to directory (Status: Admitted, KYC: Varies By Provider)"
+  },
+  {
+    "timestamp": "2026-11-08T00:36:04Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Silo",
+    "slug": "silo",
+    "category": "Exchanges \u203a Miscellaneous",
+    "profileUrl": "https://monerica.com/site/silo",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-08T00:36:04Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Teva Galilee & Arts",
+    "slug": "teva-galilee-and-arts",
+    "category": "Businesses \u203a Travel & Accommodation",
+    "profileUrl": "https://monerica.com/site/teva-galilee-and-arts",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-07T18:27:56Z",
     "type": "NEW_LISTING",
     "severity": "info",

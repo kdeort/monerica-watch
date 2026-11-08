@@ -2514,6 +2514,28 @@
     "added": "2026-04-03",
     "updated": "2026-10-30"
   },
+  "bitcoin2monero": {
+    "name": "Bitcoin2Monero",
+    "slug": "bitcoin2monero",
+    "profileUrl": "https://monerica.com/site/bitcoin2monero",
+    "website": "https://btc2monero.com/",
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Mixed",
+    "tags": [
+      "Account Not Required",
+      "API Available",
+      "Email Not Required",
+      "No JavaScript"
+    ],
+    "founded": "2026-10-07",
+    "description": "Sovereignty-first: Your keys. Your assets. Your control. Anonymity-first: Minimal identity. Maximum privacy. End-to-end protected.",
+    "added": "2026-11-07",
+    "updated": "2026-11-07"
+  },
   "bitcoinbox": {
     "name": "BitcoinBox",
     "slug": "bitcoinbox",
@@ -6081,7 +6103,7 @@
     "description": "Automatic cryptocurrency exchange. Zero KYC, zero registration. No IP collection, no metadata logging.",
     "rating": {
       "average": 4.8,
-      "reviews": 16
+      "reviews": 17
     },
     "added": "2026-04-09",
     "updated": "2026-10-08"
@@ -17582,9 +17604,9 @@
       "VPS"
     ],
     "founded": "2026-09-28",
-    "description": "VPS and dedicated servers in partner data centres with root access and IPMI on dedicated hardware. Accounts need only an email address: no ID documents, no phone verification.",
+    "description": "VPS and dedicated servers paid in Monero. Email-only signup: no ID documents, no phone verification. Root access, IPMI on dedicated, public status page with uptime history.",
     "added": "2026-11-06",
-    "updated": "2026-11-06"
+    "updated": "2026-11-07"
   },
   "phreeli": {
     "name": "Phreeli",
@@ -20510,6 +20532,21 @@
     "added": "2025-11-29",
     "updated": "2026-02-19"
   },
+  "silentsims": {
+    "name": "SilentSIMs",
+    "slug": "silentsims",
+    "profileUrl": "https://monerica.com/site/silentsims",
+    "website": "https://silentsims.com/",
+    "category": "Phone & SMS",
+    "subcategory": "eSIMs & SIM Cards",
+    "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
+    "status": "Admitted",
+    "kycPolicy": "Varies By Provider",
+    "founded": "2026-10-30",
+    "description": "eSIM and physical SIM shop with separate data-credit and calling top-ups. Dual-SIM setup guides and private order-ID support. Orders prepared after payment.",
+    "added": "2026-11-07",
+    "updated": "2026-11-07"
+  },
   "silentxmr": {
     "name": "SilentXMR",
     "slug": "silentxmr",
@@ -20554,6 +20591,27 @@
     "description": "Refurbished computers with Coreboot/libreboot/heads firmware, Deactivated Intel Management engine and privacy focus software.",
     "added": "2026-08-06",
     "updated": "2026-08-06"
+  },
+  "silo": {
+    "name": "Silo",
+    "slug": "silo",
+    "profileUrl": "https://monerica.com/site/silo",
+    "website": "https://silo.trading/app",
+    "category": "Exchanges",
+    "subcategory": "Miscellaneous",
+    "categoryUrl": "https://monerica.com/exchanges/miscellaneous",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Own",
+    "rates": "Fixed",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required"
+    ],
+    "founded": "2026-10-11",
+    "description": "Self-custody web wallet with a beginner-friendly interface and built-in, bridge-free atomic swaps. No account required.",
+    "added": "2026-11-07",
+    "updated": "2026-11-07"
   },
   "silver-coconut": {
     "name": "Silver Coconut",
@@ -22608,6 +22666,20 @@
     "description": "Online Halloween store selling realistic masks, costumes for adults, kids and couples, accessories and decorations, with Monero (XMR) checkout.",
     "added": "2023-09-05",
     "updated": "2026-10-30"
+  },
+  "teva-galilee-and-arts": {
+    "name": "Teva Galilee & Arts",
+    "slug": "teva-galilee-and-arts",
+    "profileUrl": "https://monerica.com/site/teva-galilee-and-arts",
+    "website": "https://www.tevagalilee.com/",
+    "category": "Businesses",
+    "subcategory": "Travel & Accommodation",
+    "categoryUrl": "https://monerica.com/businesses/travel",
+    "status": "Admitted",
+    "country": "IL",
+    "description": "Yurts in the forest of Amirim, Galilee, Israel. Family-run, kosher-friendly and dog friendly. Book direct and pay in Monero (XMR) - contact us before booking.",
+    "added": "2026-11-07",
+    "updated": "2026-11-07"
   },
   "textverified": {
     "name": "Textverified",
