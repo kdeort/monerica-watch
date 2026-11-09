@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Mon, 09 Nov 2026 00:38:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:05:03 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] GhostVPS — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/ghostvps</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">ghostvps-STATUS_CHANGE-2026-11-09T07:05:03Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] Cointree — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/cointree</link>
+      <description>Category: Businesses › Miscellaneous | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">cointree-REMOVED_LISTING-2026-11-09T07:05:03Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] Bitcoin2Monero — Status changed: Admitted → Verified</title>
       <link>https://monerica.com/site/bitcoin2monero</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/bim-exchange</link>
       <description>Category: Exchanges › Aggregators | Status changed: Admitted → Questionable</description>
       <guid isPermaLink="false">bim-exchange-STATUS_CHANGE-2026-11-04T06:54:34Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] XOR.SC — Removed from directory (was Verified)</title>
-      <link>https://monerica.com/site/xor-sc</link>
-      <description>Category: Web Hosting › Offshore &amp; Privacy-Focused Hosting | Removed from directory (was Verified)</description>
-      <guid isPermaLink="false">xor-sc-REMOVED_LISTING-2026-11-04T06:54:34Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] BIM Exchange — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
-      <link>https://monerica.com/site/bim-exchange</link>
-      <description>Category: Exchanges › Aggregators | Added to directory (Status: Admitted, KYC: Varies By Provider)</description>
-      <guid isPermaLink="false">bim-exchange-NEW_LISTING-2026-11-04T00:35:00Z</guid>
     </item>
   </channel>
 </rss>

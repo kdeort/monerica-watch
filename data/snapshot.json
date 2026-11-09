@@ -3117,6 +3117,7 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Verified",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program",
       "Owns Physical Servers",
@@ -3131,7 +3132,7 @@
       "reviews": 4
     },
     "added": "2024-07-26",
-    "updated": "2026-10-23"
+    "updated": "2026-11-09"
   },
   "blynex": {
     "name": "Blynex",
@@ -4649,6 +4650,7 @@
     "categoryUrl": "https://monerica.com/cards/gift-cards",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -4661,7 +4663,7 @@
       "reviews": 3
     },
     "added": "2022-06-22",
-    "updated": "2026-10-25"
+    "updated": "2026-11-09"
   },
   "coincart-store": {
     "name": "Coincart.store",
@@ -4937,19 +4939,6 @@
     },
     "added": "2026-03-14",
     "updated": "2026-06-28"
-  },
-  "cointree": {
-    "name": "Cointree",
-    "slug": "cointree",
-    "profileUrl": "https://monerica.com/site/cointree",
-    "website": "https://cointr.ee",
-    "category": "Businesses",
-    "subcategory": "Miscellaneous",
-    "categoryUrl": "https://monerica.com/businesses/miscellaneous",
-    "status": "Admitted",
-    "description": "Crypto donation platform where creators list their cryptocurrency addresses on one page so supporters can send tips and messages.",
-    "added": "2025-02-08",
-    "updated": "2026-10-30"
   },
   "coinvpn": {
     "name": "CoinVPN",
@@ -6883,6 +6872,7 @@
     "subcategory": "Books, Courses & Education",
     "categoryUrl": "https://monerica.com/businesses/books-courses-and-education",
     "status": "Verified",
+    "javascript": "Required",
     "country": "US",
     "founded": "2024-06-04",
     "description": "Privacy, cybersecurity, crypto and prepping resources from Watchman Privacy: podcast, newsletter, courses, digital market and consulting. Pay with Monero (XMR) or Bitcoin.",
@@ -6891,7 +6881,7 @@
       "reviews": 1
     },
     "added": "2025-07-24",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "esimwithnumber": {
     "name": "eSIMwithNumber",
@@ -8197,16 +8187,16 @@
     "category": "Web Hosting",
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
-    "status": "Admitted",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "Email Not Required",
       "VPS"
     ],
     "founded": "2026-04-01",
-    "description": "Anonymous no-KYC VPS on DigitalOcean and OVHcloud - 12 countries, 18 cities. Pay with Monero (XMR), Bitcoin or USDT (TRC20). Hourly billing, $1 min top-up.",
+    "description": "No-KYC VPS on DigitalOcean and OVHcloud across 14 countries and 18 cities. Hourly billing from a prepaid balance, full root access, token-based account, Tor onion site.",
     "added": "2026-06-20",
-    "updated": "2026-10-29"
+    "updated": "2026-11-09"
   },
   "ghostwire": {
     "name": "GhostWire",
@@ -12839,7 +12829,7 @@
     "founded": "2026-05-14",
     "description": "Learn Monero for free: courses, lessons and quizzes from beginner to advanced. Create a free account to track your quiz scores. Tor friendly, works without JavaScript.",
     "added": "2026-06-29",
-    "updated": "2026-08-14"
+    "updated": "2026-11-09"
   },
   "monero-ban-list": {
     "name": "Monero Ban List",
@@ -14753,6 +14743,7 @@
     "categoryUrl": "https://monerica.com/finance/charts-and-portfolios",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Email Not Required",
       "Open Source",
@@ -14766,7 +14757,7 @@
       "reviews": 1
     },
     "added": "2026-04-12",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "moneromeansmoney": {
     "name": "MoneroMeansMoney",
@@ -14880,6 +14871,7 @@
     "status": "Verified",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -14890,7 +14882,7 @@
     "founded": "2026-01-30",
     "description": "Real-time Monero price across multiple instant swap exchanges. Sorted by spread. Privacy scores.",
     "added": "2026-03-04",
-    "updated": "2026-08-19"
+    "updated": "2026-11-09"
   },
   "moneroshamelist-com": {
     "name": "MoneroShameList.com",
@@ -15506,6 +15498,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Owns Physical Servers",
       "Sells Domain Registration",
@@ -15520,7 +15513,7 @@
       "reviews": 5
     },
     "added": "2024-03-28",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "n-exchange": {
     "name": "n.exchange",
@@ -21920,6 +21913,7 @@
     "categoryUrl": "https://monerica.com/cards/prepaid-cards",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -21933,7 +21927,7 @@
       "reviews": 4
     },
     "added": "2023-08-23",
-    "updated": "2026-11-05"
+    "updated": "2026-11-09"
   },
   "stereoswap": {
     "name": "StereoSwap",
@@ -24436,6 +24430,7 @@
     "subcategory": "General Stores",
     "categoryUrl": "https://monerica.com/businesses/general-stores",
     "status": "Verified",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program"
     ],
@@ -24447,7 +24442,7 @@
       "reviews": 1
     },
     "added": "2025-03-26",
-    "updated": "2026-10-24"
+    "updated": "2026-11-09"
   },
   "waxybridge": {
     "name": "Waxybridge",

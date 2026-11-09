@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-09T07:05:03Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "GhostVPS",
+    "slug": "ghostvps",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/ghostvps",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-09T07:05:03Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Cointree",
+    "slug": "cointree",
+    "category": "Businesses \u203a Miscellaneous",
+    "profileUrl": "https://monerica.com/site/cointree",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
     "timestamp": "2026-11-09T00:38:17Z",
     "type": "STATUS_CHANGE",
     "severity": "info",
