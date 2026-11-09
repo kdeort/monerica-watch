@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": "2026-11-09T18:41:23Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "AbliteratedLLM",
+    "slug": "abliteratedllm",
+    "category": "Businesses \u203a AI Services",
+    "profileUrl": "https://monerica.com/site/abliteratedllm",
+    "detail": "Added to directory (Status: Admitted, KYC: Shotgun KYC)"
+  },
+  {
+    "timestamp": "2026-11-09T18:41:23Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Elektrine",
+    "slug": "elektrine",
+    "category": "Businesses \u203a Email Providers/ Forwarders",
+    "profileUrl": "https://monerica.com/site/elektrine",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-09T18:41:23Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "OKSPOT",
+    "slug": "okspot",
+    "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
+    "profileUrl": "https://monerica.com/site/okspot",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-09T18:41:23Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Sablebolt",
+    "slug": "sablebolt",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/sablebolt",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-09T07:05:03Z",
     "type": "STATUS_CHANGE",
     "severity": "info",

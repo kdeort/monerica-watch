@@ -4,7 +4,31 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Mon, 09 Nov 2026 12:52:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:41:23 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] AbliteratedLLM — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
+      <link>https://monerica.com/site/abliteratedllm</link>
+      <description>Category: Businesses › AI Services | Added to directory (Status: Admitted, KYC: Shotgun KYC)</description>
+      <guid isPermaLink="false">abliteratedllm-NEW_LISTING-2026-11-09T18:41:23Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Elektrine — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/elektrine</link>
+      <description>Category: Businesses › Email Providers/ Forwarders | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">elektrine-NEW_LISTING-2026-11-09T18:41:23Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] OKSPOT — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/okspot</link>
+      <description>Category: Exchanges › Centralized Exchanges (Account Required) | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">okspot-NEW_LISTING-2026-11-09T18:41:23Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Sablebolt — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/sablebolt</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">sablebolt-NEW_LISTING-2026-11-09T18:41:23Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] GhostVPS — Status changed: Admitted → Verified</title>
       <link>https://monerica.com/site/ghostvps</link>
@@ -220,30 +244,6 @@
       <link>https://monerica.com/site/lucidswap</link>
       <description>Category: Exchanges › Instant Swaps | KYC policy changed: Rare KYC → Varies By Provider</description>
       <guid isPermaLink="false">lucidswap-KYC_CHANGE-2026-11-05T00:41:35Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] The Monero Table — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/the-monero-table</link>
-      <description>Category: Businesses › Gambling | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">the-monero-table-NEW_LISTING-2026-11-05T00:41:35Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Christhunt Productions — Added to directory (Status: Admitted, KYC: Rare KYC)</title>
-      <link>https://monerica.com/site/christhunt-productions</link>
-      <description>Category: Businesses › Clothing, Apparel &amp; Accessories | Added to directory (Status: Admitted, KYC: Rare KYC)</description>
-      <guid isPermaLink="false">christhunt-productions-NEW_LISTING-2026-11-04T18:44:01Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] LucidSwap — Added to directory (Status: Admitted, KYC: Rare KYC)</title>
-      <link>https://monerica.com/site/lucidswap</link>
-      <description>Category: Exchanges › Instant Swaps | Added to directory (Status: Admitted, KYC: Rare KYC)</description>
-      <guid isPermaLink="false">lucidswap-NEW_LISTING-2026-11-04T18:44:01Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] BIM Exchange — Status changed: Admitted → Questionable</title>
-      <link>https://monerica.com/site/bim-exchange</link>
-      <description>Category: Exchanges › Aggregators | Status changed: Admitted → Questionable</description>
-      <guid isPermaLink="false">bim-exchange-STATUS_CHANGE-2026-11-04T06:54:34Z</guid>
     </item>
   </channel>
 </rss>

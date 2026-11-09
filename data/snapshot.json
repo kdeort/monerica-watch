@@ -472,6 +472,28 @@
     "added": "2022-06-22",
     "updated": "2026-10-30"
   },
+  "abliteratedllm": {
+    "name": "AbliteratedLLM",
+    "slug": "abliteratedllm",
+    "profileUrl": "https://monerica.com/site/abliteratedllm",
+    "website": "https://abliteratedllm.dev",
+    "category": "Businesses",
+    "subcategory": "AI Services",
+    "categoryUrl": "https://monerica.com/businesses/ai-services",
+    "status": "Admitted",
+    "kycPolicy": "Shotgun KYC",
+    "javascript": "Required",
+    "tags": [
+      "Affiliate Program",
+      "API Available",
+      "Email Not Required"
+    ],
+    "country": "US",
+    "founded": "2026-11-04",
+    "description": "Uncensored open-weight LLM API with abliterated and stock models, OpenAI- and Anthropic-compatible endpoints, prepaid credit and no analytics or tracking scripts.",
+    "added": "2026-11-09",
+    "updated": "2026-11-09"
+  },
   "above-phone": {
     "name": "Above Phone",
     "slug": "above-phone",
@@ -3361,7 +3383,7 @@
       "reviews": 4
     },
     "added": "2025-03-06",
-    "updated": "2026-11-02"
+    "updated": "2026-11-09"
   },
   "btse": {
     "name": "Btse",
@@ -4588,6 +4610,7 @@
     "subcategory": "Miscellaneous",
     "categoryUrl": "https://monerica.com/businesses/miscellaneous",
     "status": "Admitted",
+    "country": "GI",
     "founded": "2018-01-07",
     "description": "Dutch crypto investor community since 2013 with a Telegram group, Discord mentoring, crypto news, an online shop with merchandise and a Monero-themed watch, and courses.",
     "added": "2023-09-30",
@@ -6804,6 +6827,38 @@
     "added": "2023-09-24",
     "updated": "2026-10-30"
   },
+  "elektrine": {
+    "name": "Elektrine",
+    "slug": "elektrine",
+    "profileUrl": "https://monerica.com/site/elektrine",
+    "website": "https://elektrine.com",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://elekhj7afj4qnrr4yd3bkzslsyo5jgfxw3orgjkhlcxifueodybyiiad.onion"
+      },
+      {
+        "label": "I2P",
+        "url": "http://j6b6cyk6gjmepjih7jjadxgxvvf3lzzujljuu2v4biemzpg3naya.b32.i2p"
+      }
+    ],
+    "category": "Businesses",
+    "subcategory": "Email Providers/ Forwarders",
+    "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required",
+      "Sells Dedicated Servers"
+    ],
+    "country": "US",
+    "founded": "2018-11-17",
+    "description": "Privacy-focused email with IMAP/SMTP/JMAP and PGP, plus VPN with VLESS and Trojan, DNS, chat, notes and encrypted file storage. No phone number needed, Tor and I2P access.",
+    "added": "2026-11-09",
+    "updated": "2026-11-09"
+  },
   "ephemere-chat": {
     "name": "Ephemere Chat",
     "slug": "ephemere-chat",
@@ -7966,6 +8021,7 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
+    "country": "KM",
     "founded": "2005-05-02",
     "description": "Crypto online casino with slots, live dealer games, blackjack and in-house PvP games.",
     "added": "2025-06-24",
@@ -16576,6 +16632,28 @@
     "added": "2025-09-07",
     "updated": "2026-10-30"
   },
+  "okspot": {
+    "name": "OKSPOT",
+    "slug": "okspot",
+    "profileUrl": "https://monerica.com/site/okspot",
+    "website": "https://okspot.com",
+    "category": "Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
+    "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Own",
+    "javascript": "Required",
+    "tags": [
+      "Affiliate Program",
+      "Owns Physical Servers"
+    ],
+    "country": "SC",
+    "founded": "2026-07-20",
+    "description": "Centralized crypto exchange with spot trading in USDT and USDC pairs, market and limit orders, passkeys and withdrawal controls. Email signup, no ID upload required to trade.",
+    "added": "2026-11-09",
+    "updated": "2026-11-09"
+  },
   "okturtles-foundation": {
     "name": "okTurtles Foundation",
     "slug": "okturtles-foundation",
@@ -16814,6 +16892,7 @@
     "subcategory": "Research",
     "categoryUrl": "https://monerica.com/non-profits/research",
     "status": "Admitted",
+    "country": "CA",
     "founded": "2018-02-11",
     "description": "The Open Privacy Research Society (Open Privacy for short) is a non-profit Canadian group",
     "added": "2022-06-22",
@@ -18119,6 +18198,7 @@
     "subcategory": "Digital Goods/ Services",
     "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
     "status": "Admitted",
+    "country": "MY",
     "founded": "2011-06-09",
     "description": "A cloud-based media subscription service that allows users to remotely download, store, and stream files, including torrents, from various online sources.",
     "added": "2025-07-29",
@@ -19682,6 +19762,29 @@
     "added": "2023-10-11",
     "updated": "2026-02-16"
   },
+  "sablebolt": {
+    "name": "Sablebolt",
+    "slug": "sablebolt",
+    "profileUrl": "https://monerica.com/site/sablebolt",
+    "website": "https://sablebolt.io",
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "liquidity": "Third Party",
+    "rates": "Float",
+    "javascript": "Required",
+    "tags": [
+      "Account Not Required",
+      "API Available",
+      "Email Not Required"
+    ],
+    "founded": "2026-10-28",
+    "description": "No-account crypto swap service between two addresses, with floating rate, network fee shown before you send, one-time deposit addresses and a status page tracking each swap.",
+    "added": "2026-11-09",
+    "updated": "2026-11-09"
+  },
   "safe-trade": {
     "name": "Safe Trade",
     "slug": "safe-trade",
@@ -20940,6 +21043,7 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
+    "country": "XK",
     "founded": "2022-05-13",
     "description": "Online store selling eSIM data plans for crypto: local, regional and global eSIMs covering 190+ countries, plus global call, SMS and data bundles.",
     "added": "2023-09-24",
