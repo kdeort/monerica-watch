@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sun, 08 Nov 2026 18:27:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 00:38:17 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] Bitcoin2Monero — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/bitcoin2monero</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">bitcoin2monero-STATUS_CHANGE-2026-11-09T00:38:17Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] OBLAKO — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/oblako</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">oblako-NEW_LISTING-2026-11-09T00:38:17Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] 0trace — Status changed: Questionable → Scam</title>
       <link>https://monerica.com/site/0trace</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/bim-exchange</link>
       <description>Category: Exchanges › Aggregators | Added to directory (Status: Admitted, KYC: Varies By Provider)</description>
       <guid isPermaLink="false">bim-exchange-NEW_LISTING-2026-11-04T00:35:00Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] EasynodeDroid — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/easynodedroid</link>
-      <description>Category: Nodes › Node Software &amp; Deployment | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">easynodedroid-STATUS_CHANGE-2026-11-04T00:35:00Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] FleetProxy.io — Status changed: Questionable → Verified</title>
-      <link>https://monerica.com/site/fleetproxy-io</link>
-      <description>Category: VPNs &amp; Proxies › Proxies | Status changed: Questionable → Verified</description>
-      <guid isPermaLink="false">fleetproxy-io-STATUS_CHANGE-2026-11-04T00:35:00Z</guid>
     </item>
   </channel>
 </rss>

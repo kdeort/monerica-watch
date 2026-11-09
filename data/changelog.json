@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-09T00:38:17Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Bitcoin2Monero",
+    "slug": "bitcoin2monero",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/bitcoin2monero",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-09T00:38:17Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "OBLAKO",
+    "slug": "oblako",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/oblako",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-08T18:27:46Z",
     "type": "STATUS_CHANGE",
     "severity": "high",

@@ -41,10 +41,10 @@
     "subcategory": "No KYC Services",
     "categoryUrl": "https://monerica.com/other-directories/no-kyc-services",
     "status": "Admitted",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2026-07-17",
     "description": "Independent directory of no-KYC exchanges, VPNs and cards. Claims independently verified with dated timestamps and incident history.",
@@ -56,7 +56,7 @@
     "slug": "0trace",
     "profileUrl": "https://monerica.com/site/0trace",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -219,7 +219,7 @@
     "slug": "1xmr",
     "profileUrl": "https://monerica.com/site/1xmr",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -280,7 +280,7 @@
     "profileUrl": "https://monerica.com/site/3kita-exchange",
     "website": "https://3kita.exchange/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -357,7 +357,7 @@
     "profileUrl": "https://monerica.com/site/404-cash",
     "website": "https://404.cash/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -418,7 +418,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -482,6 +482,7 @@
     "categoryUrl": "https://monerica.com/businesses/electronics-computer-hardware",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program"
     ],
@@ -489,7 +490,7 @@
     "founded": "2021-09-06",
     "description": "Tech that respects you. Private & secure de-googled phones, Linux laptops, and communication services.",
     "added": "2024-09-14",
-    "updated": "2026-05-03"
+    "updated": "2026-11-09"
   },
   "acceptxmr": {
     "name": "AcceptXMR",
@@ -531,6 +532,7 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Verified",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
       "Open Source"
@@ -538,7 +540,7 @@
     "founded": "2021-12-26",
     "description": "Android app store focused on privacy and security, with app signing key pinning, signed repository metadata, automatic updates and no account needed. Takes XMR donations.",
     "added": "2026-05-14",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "acechange-io": {
     "name": "acechange.io",
@@ -546,7 +548,7 @@
     "profileUrl": "https://monerica.com/site/acechange-io",
     "website": "https://www.acechange.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -751,18 +753,18 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
     "rates": "Float",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
       "Email Not Required",
-      "JavaScript Optional",
       "Letter of Guarantee"
     ],
     "founded": "2026-10-24",
@@ -795,7 +797,7 @@
     "profileUrl": "https://monerica.com/site/alfacash",
     "website": "https://www.alfa.cash",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -841,11 +843,12 @@
     "subcategory": "Miscellaneous",
     "categoryUrl": "https://monerica.com/non-profits/miscellaneous",
     "status": "Admitted",
+    "javascript": "None",
     "country": "US",
     "founded": "2025-01-16",
     "description": "We are the nonprofit corporation that operates 4d2 dot org, a public service offering individuals and communities free access to many online community-building tools.",
     "added": "2026-06-28",
-    "updated": "2026-06-28"
+    "updated": "2026-11-09"
   },
   "allswaps": {
     "name": "Allswaps",
@@ -878,7 +881,7 @@
     "profileUrl": "https://monerica.com/site/altcoin-trader",
     "website": "https://www.altcointrader.co.za",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -918,6 +921,7 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "rates": "Fixed & Float",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -925,7 +929,7 @@
     "founded": "2026-03-11",
     "description": "Non-custodial swap aggregator comparing live quotes from 20+ providers side by side, with no account and no funds held.",
     "added": "2026-11-05",
-    "updated": "2026-11-05"
+    "updated": "2026-11-09"
   },
   "altquick": {
     "name": "AltQuick",
@@ -933,7 +937,7 @@
     "profileUrl": "https://monerica.com/site/altquick",
     "website": "https://altquick.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Verified",
     "liquidity": "Own",
@@ -953,7 +957,7 @@
     "profileUrl": "https://monerica.com/site/alwaysmoney",
     "website": "https://alwaysmoney.org",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -1142,7 +1146,7 @@
     "profileUrl": "https://monerica.com/site/anonchange",
     "website": "https://anonchange.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -1167,7 +1171,7 @@
     "profileUrl": "https://monerica.com/site/anonkyc",
     "website": "https://anonkyc.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -1306,10 +1310,11 @@
     "subcategory": "Public Remote Nodes & Operators",
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
     "status": "Admitted",
+    "javascript": "Required",
     "country": "DE",
     "description": "AnotherTorNode0602 is a Tor guard relay (non-exit) hosted in Germany that carries traffic for the Tor network. The operator lists a Monero (XMR) address and an onion site.",
     "added": "2025-09-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "anti-moonboy": {
     "name": "Anti Moonboy",
@@ -1494,15 +1499,15 @@
     "categoryUrl": "https://monerica.com/businesses/it-services",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Email Not Required",
-      "No JavaScript",
       "Owns Physical Servers"
     ],
     "founded": "2025-12-04",
     "description": "We build custom software, self-hosted systems and crypto payment tools. Tell us what you need to run, protect and keep under your control.",
     "added": "2026-10-16",
-    "updated": "2026-10-16"
+    "updated": "2026-11-09"
   },
   "arnoldnakamura": {
     "name": "arnoldnakamura",
@@ -1816,11 +1821,12 @@
     "profileUrl": "https://monerica.com/site/b2z-exchange",
     "website": "https://www.b2z.exchange",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -1829,7 +1835,7 @@
     "founded": "2021-11-22",
     "description": "Centralized cryptocurrency exchange with spot trading markets, including a Monero XMR/USDT pair.",
     "added": "2025-08-26",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "backlynk": {
     "name": "Backlynk",
@@ -1872,7 +1878,7 @@
     "profileUrl": "https://monerica.com/site/baltex",
     "website": "https://baltex.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -1957,10 +1963,11 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2024-07-08",
     "description": "Off-grid, resilient mesh communication with strong encryption, and extreme privacy.",
     "added": "2025-09-15",
-    "updated": "2026-02-16"
+    "updated": "2026-11-09"
   },
   "based-win": {
     "name": "Based.win",
@@ -2022,10 +2029,11 @@
     "subcategory": "Public Remote Nodes & Operators",
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
     "status": "Verified",
+    "javascript": "Required",
     "country": "CH",
     "description": "A Tor relay (guard, non-exit) hosted in Switzerland, operated by tuxli.org, that carries traffic for the Tor network. Monero (XMR) address listed for support.",
     "added": "2025-04-27",
-    "updated": "2026-11-06"
+    "updated": "2026-11-09"
   },
   "beauty-abounded": {
     "name": "Beauty Abounded",
@@ -2070,9 +2078,9 @@
     "subcategory": "Open Source Projects",
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
+    "javascript": "Optional",
     "tags": [
       "Email Not Required",
-      "JavaScript Optional",
       "Open Source"
     ],
     "founded": "2026-09-19",
@@ -2105,6 +2113,7 @@
     "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required",
@@ -2113,7 +2122,7 @@
     "founded": "2022-02-14",
     "description": "No-logs doubleVPN, de-Googled secure smartphone, bootable encrypted privacy-OS SSD, personals messengers and private email. No account required to order.",
     "added": "2026-06-01",
-    "updated": "2026-11-03"
+    "updated": "2026-11-09"
   },
   "best-wallet": {
     "name": "Best Wallet",
@@ -2145,7 +2154,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -2200,7 +2209,7 @@
     "slug": "bigone",
     "profileUrl": "https://monerica.com/site/bigone",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -2249,11 +2258,12 @@
     "profileUrl": "https://monerica.com/site/binance",
     "website": "https://www.binance.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Verified",
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
+    "javascript": "Required",
     "tags": [
       "Perpetuals"
     ],
@@ -2261,7 +2271,7 @@
     "founded": "2017-04-01",
     "description": "Large centralized cryptocurrency exchange offering spot, futures, options and copy trading; Monero is available as an XMR/USDT USD-margined perpetual futures contract.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "biomance-technologies": {
     "name": "Biomance Technologies",
@@ -2338,16 +2348,16 @@
     "categoryUrl": "https://monerica.com/wallets/desktop-wallets",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "No JavaScript",
       "Open Source"
     ],
     "founded": "2026-09-27",
     "description": "Monero-centered desktop wallet built on Feather, free and open source. Tor built in, Tails support, Trocador integration, atomic swaps without KYC, reproducible builds.",
     "added": "2026-10-10",
-    "updated": "2026-10-10"
+    "updated": "2026-11-09"
   },
   "bisq": {
     "name": "Bisq",
@@ -2380,7 +2390,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -2514,16 +2524,16 @@
     "profileUrl": "https://monerica.com/site/bitcoin2monero",
     "website": "https://btc2monero.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Admitted",
+    "status": "Verified",
     "kycPolicy": "Rare KYC",
     "liquidity": "Mixed",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "API Available",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "founded": "2026-10-07",
     "description": "Bitcoin to Monero swap service that settles XMR directly to your own external wallet. Minimal identity requirements and no Monero private keys requested.",
@@ -2536,7 +2546,7 @@
     "profileUrl": "https://monerica.com/site/bitcoinbox",
     "website": "https://www.bitcoinbox.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -2557,7 +2567,7 @@
     "profileUrl": "https://monerica.com/site/bitcoinvn",
     "website": "https://bitcoinvn.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -2602,16 +2612,16 @@
     "subcategory": "Clothing, Apparel & Accessories",
     "categoryUrl": "https://monerica.com/businesses/clothing-apparel-and-accessories",
     "status": "Admitted",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "country": "ES",
     "founded": "2026-04-07",
     "description": "Warehouse in Puerto Banus, Spain liquidating clothing, accessories and hobby products, with payment in Monero (XMR) and Bitcoin.",
     "added": "2026-04-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "bitfinex": {
     "name": "BitFinex",
@@ -2619,7 +2629,7 @@
     "profileUrl": "https://monerica.com/site/bitfinex",
     "website": "https://www.bitfinex.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -2721,7 +2731,7 @@
     "profileUrl": "https://monerica.com/site/bitmart",
     "website": "https://www.bitmart.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -2769,7 +2779,7 @@
     "slug": "bitpapa",
     "profileUrl": "https://monerica.com/site/bitpapa",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -2818,7 +2828,7 @@
     "profileUrl": "https://monerica.com/site/bitrue",
     "website": "https://www.bitrue.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -2857,11 +2867,12 @@
     "profileUrl": "https://monerica.com/site/bitswap",
     "website": "https://bitswap.kr/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -2869,7 +2880,7 @@
     "founded": "2020-02-26",
     "description": "Instant cryptocurrency exchange service for swapping coins and tokens, based in East Asia (bitswap.kr). Listed for Monero (XMR) swaps.",
     "added": "2026-01-01",
-    "updated": "2026-10-31"
+    "updated": "2026-11-09"
   },
   "bitswitch-io": {
     "name": "BitSwitch.io",
@@ -2877,7 +2888,7 @@
     "profileUrl": "https://monerica.com/site/bitswitch-io",
     "website": "https://www.bitswitch.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Rare KYC",
@@ -2901,7 +2912,7 @@
     "profileUrl": "https://monerica.com/site/bitxchange",
     "website": "https://www.bitxchange.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -3128,7 +3139,7 @@
     "profileUrl": "https://monerica.com/site/blynex",
     "website": "https://blynex.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "liquidity": "Own",
@@ -3200,7 +3211,7 @@
     "profileUrl": "https://monerica.com/site/breezeswap",
     "website": "https://breezeswap.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -3225,10 +3236,11 @@
     "categoryUrl": "https://monerica.com/exchanges/peer-to-peer-exchanges",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "founded": "2026-03-17",
     "description": "Peer-to-peer cryptocurrency exchange platform for trading Bitcoin, Monero (XMR), Ethereum, Solana and Tron.",
     "added": "2026-02-10",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "btc-bullions": {
     "name": "Btc Bullions",
@@ -3255,10 +3267,11 @@
     "subcategory": "Conversion",
     "categoryUrl": "https://monerica.com/finance/conversion",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2025-12-23",
     "description": "Compares different cryptocurrencies to commodities like burgers to see how many you can get for 1 unit",
     "added": "2026-04-16",
-    "updated": "2026-04-16"
+    "updated": "2026-11-09"
   },
   "btc-mints": {
     "name": "BTC Mints",
@@ -3333,9 +3346,9 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Affiliate Program",
-      "JavaScript Optional",
       "Owns Physical Servers",
       "VPS"
     ],
@@ -3355,16 +3368,17 @@
     "profileUrl": "https://monerica.com/site/btse",
     "website": "https://www.btse.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
+    "javascript": "Required",
     "country": "LI",
     "founded": "2002-03-29",
     "description": "Centralized crypto exchange for spot and futures trading of BTC, ETH, SOL and 150+ cryptocurrencies, with Monero (XMR/USD) among its trading pairs.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "buckets-ninja": {
     "name": "Buckets Ninja",
@@ -3534,11 +3548,12 @@
     "profileUrl": "https://monerica.com/site/bybit",
     "website": "https://www.bybit.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Verified",
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program",
       "API Available",
@@ -3552,7 +3567,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "bypass-city": {
     "name": "Bypass City",
@@ -3740,7 +3755,7 @@
     "profileUrl": "https://monerica.com/site/cambio",
     "website": "https://cambio.one/?utm_source=monerica&utm_medium=listing&utm_campaign=directory",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -3809,11 +3824,12 @@
     "subcategory": "Automotives",
     "categoryUrl": "https://monerica.com/businesses/automotives",
     "status": "Admitted",
+    "javascript": "Required",
     "country": "LB",
     "founded": "2005-06-22",
     "description": "Car battery and auto accessories shop in Zahle, Lebanon, selling and servicing vehicle batteries. In business since 1983.",
     "added": "2024-05-04",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "cardsrelay": {
     "name": "CardsRelay",
@@ -3902,10 +3918,11 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Verified",
+    "javascript": "Required",
     "founded": "2015-04-06",
     "description": "Catbox is a free, user-funded file hosting service for uploads up to 200 MB, with Litterbox for temporary files. Supporters can donate in Monero (XMR) and other crypto.",
     "added": "2025-05-20",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "cavemanswap": {
     "name": "CavemanSwap",
@@ -3919,17 +3936,17 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "country": "HK",
     "founded": "2026-09-04",
@@ -3957,12 +3974,13 @@
     "profileUrl": "https://monerica.com/site/cce-cash",
     "website": "https://cce.cash/exchange",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Own",
     "rates": "Fixed & Float",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -3977,7 +3995,7 @@
       "reviews": 15
     },
     "added": "2025-07-06",
-    "updated": "2026-10-31"
+    "updated": "2026-11-08"
   },
   "centrobill": {
     "name": "Centrobill",
@@ -4000,15 +4018,16 @@
     "profileUrl": "https://monerica.com/site/cexswap",
     "website": "https://cexswap.cc/",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "liquidity": "Own",
+    "javascript": "Required",
     "country": "BD",
     "founded": "2023-01-27",
     "description": "Centralized crypto exchange with spot markets quoted in XMR, BTC, LTC, USDT and more, incl. XMR/USDT and XMR/BTC, plus AMM pools, airdrops and a developer API.",
     "added": "2026-01-16",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "chainswap-io": {
     "name": "ChainSwap.io",
@@ -4016,7 +4035,7 @@
     "profileUrl": "https://monerica.com/site/chainswap-io",
     "website": "https://chainswap.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -4039,7 +4058,7 @@
     "profileUrl": "https://monerica.com/site/changebtc",
     "website": "https://changebtc.co/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -4058,7 +4077,7 @@
     "profileUrl": "https://monerica.com/site/changee",
     "website": "https://changee.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -4086,7 +4105,7 @@
     "profileUrl": "https://monerica.com/site/changehero",
     "website": "https://changehero.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Rare KYC",
@@ -4109,7 +4128,7 @@
     "profileUrl": "https://monerica.com/site/changelly",
     "website": "https://changelly.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Shotgun KYC",
@@ -4131,7 +4150,7 @@
     "profileUrl": "https://monerica.com/site/changenow",
     "website": "https://changenow.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -4158,7 +4177,7 @@
     "slug": "changer-man",
     "profileUrl": "https://monerica.com/site/changer-man",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -4336,6 +4355,7 @@
     "status": "Admitted",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -4348,7 +4368,7 @@
       "reviews": 1
     },
     "added": "2026-01-27",
-    "updated": "2026-04-05"
+    "updated": "2026-11-09"
   },
   "clientvps": {
     "name": "ClientVPS",
@@ -4379,6 +4399,7 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "country": "US",
     "founded": "2022-02-03",
     "description": "Uses cryptographic authentication and blocks staff from modifying customer accounts \u2014 the best available protection against SIM-swap attacks. Buy eSIMs and phone numbers.",
@@ -4387,7 +4408,7 @@
       "reviews": 1
     },
     "added": "2024-10-10",
-    "updated": "2026-10-24"
+    "updated": "2026-11-09"
   },
   "cloud-climax": {
     "name": "Cloud Climax",
@@ -4485,9 +4506,10 @@
     "subcategory": "Email Providers/ Forwarders",
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Admitted",
+    "javascript": "None",
     "description": "Free public email hosting service running since 2013, with webmail, SMTP/IMAP access and a range of domain names for addresses. Funded by donations.",
     "added": "2025-08-16",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "cockbox": {
     "name": "Cockbox",
@@ -4585,11 +4607,12 @@
     "subcategory": "Web & Browser Wallets",
     "categoryUrl": "https://monerica.com/wallets/web-wallets",
     "status": "Admitted",
+    "javascript": "Required",
     "country": "GE",
     "founded": "2015-01-28",
     "description": "Open-source, self-custodial multi-coin web wallet by CoinSpace supporting Monero (XMR), Bitcoin, Ethereum, Litecoin, Solana, Cardano and ERC20/BEP20/TRC20 tokens.",
     "added": "2025-08-28",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "coin-host": {
     "name": "COIN.HOST",
@@ -4665,7 +4688,7 @@
     "profileUrl": "https://monerica.com/site/coincraddle",
     "website": "https://coincraddle.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "liquidity": "Third Party",
@@ -4687,7 +4710,7 @@
     "profileUrl": "https://monerica.com/site/coinex",
     "website": "https://www.coinex.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -4840,7 +4863,7 @@
     "profileUrl": "https://monerica.com/site/coinpaymaster",
     "website": "https://coinpaymaster.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -4896,7 +4919,7 @@
     "slug": "cointivo-com",
     "profileUrl": "https://monerica.com/site/cointivo-com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -4995,11 +5018,12 @@
     "subcategory": "Activism",
     "categoryUrl": "https://monerica.com/non-profits/activism",
     "status": "Admitted",
+    "javascript": "None",
     "country": "US",
     "founded": "2007-06-27",
     "description": "The Initiative supports copyfree licensing, certifies compliance with the Standard Definition, and builds a community around copyfree policy.",
     "added": "2022-06-22",
-    "updated": "2026-02-16"
+    "updated": "2026-11-09"
   },
   "counseling-practice-r-l-fellner": {
     "name": "Counseling Practice R.L.Fellner",
@@ -5056,7 +5080,7 @@
     "profileUrl": "https://monerica.com/site/crmclick",
     "website": "https://crmclick.io/",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -5271,7 +5295,7 @@
     "profileUrl": "https://monerica.com/site/crypto-am",
     "website": "https://www.crypto.am",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "liquidity": "Own",
@@ -5395,7 +5419,7 @@
     "profileUrl": "https://monerica.com/site/cryptomonitor",
     "website": "https://cryptomonitor.info",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -5484,13 +5508,11 @@
     "categoryUrl": "https://monerica.com/businesses/postage-and-shipping-services",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
-    "tags": [
-      "No JavaScript"
-    ],
+    "javascript": "Optional",
     "founded": "2020-10-02",
     "description": "Online service selling shipping postage and labels paid with cryptocurrency, including Monero (XMR), Bitcoin, USDT and Litecoin. Bulk CSV orders and gift cards. No JavaScript.",
     "added": "2022-10-28",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "cryptostorm": {
     "name": "CryptoStorm",
@@ -5537,7 +5559,7 @@
     "profileUrl": "https://monerica.com/site/cryptozilla",
     "website": "https://cryptozilla.pro",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -5573,7 +5595,7 @@
     "profileUrl": "https://monerica.com/site/crystal-trade",
     "website": "https://crystal-trade.org",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Shotgun KYC",
@@ -5782,12 +5804,12 @@
     "status": "Verified",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
       "Email Not Required",
-      "JavaScript Optional",
       "Open Source"
     ],
     "country": "SE",
@@ -5878,11 +5900,12 @@
     "subcategory": "Clothing, Apparel & Accessories",
     "categoryUrl": "https://monerica.com/businesses/clothing-apparel-and-accessories",
     "status": "Admitted",
+    "javascript": "None",
     "country": "CH",
     "founded": "2018-09-29",
     "description": "Online merch shop of the DarkFi project selling t-shirts, caps, patches, enamel pins, stickers, posters and Agorism in the 21st Century prints, priced in Swiss francs.",
     "added": "2025-07-24",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "darknet-diary": {
     "name": "Darknet Diaries",
@@ -5973,11 +5996,12 @@
     "subcategory": "Media",
     "categoryUrl": "https://monerica.com/non-profits/media",
     "status": "Admitted",
+    "javascript": "Required",
     "country": "US",
     "founded": "2024-05-02",
     "description": "We expose the technocracy taking your money, your health, your speech, and your privacy.",
     "added": "2026-05-15",
-    "updated": "2026-05-15"
+    "updated": "2026-11-09"
   },
   "decentraleyes": {
     "name": "Decentraleyes",
@@ -5988,10 +6012,11 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2015-11-14",
     "description": "Decentraleyes is a free, open-source browser extension that emulates content delivery networks locally to reduce tracking by third-party CDNs. Accepts Monero donations.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "defcon777": {
     "name": "defcon777",
@@ -6002,13 +6027,14 @@
     "subcategory": "Public Remote Nodes & Operators",
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
     "status": "Admitted",
+    "javascript": "Required",
     "tags": [
       "Sells Tor Exit Hosting"
     ],
     "country": "DE",
     "description": "Tor relay operator running the defcon777 guard relay in Germany, listed on Tor Metrics. The relay contact info includes a Monero (XMR) donation address.",
     "added": "2025-09-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "deluxhost": {
     "name": "DeluxHost",
@@ -6048,7 +6074,7 @@
     "slug": "dex-cr",
     "profileUrl": "https://monerica.com/site/dex-cr",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -6080,17 +6106,17 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own & Third-Party",
     "rates": "Float",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "API Available",
       "Email Not Required",
-      "JavaScript Optional",
       "Letter of Guarantee"
     ],
     "founded": "2025-02-24",
@@ -6108,7 +6134,7 @@
     "profileUrl": "https://monerica.com/site/dfx-ag",
     "website": "https://dfx.swiss",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -6201,7 +6227,7 @@
     "profileUrl": "https://monerica.com/site/digitap",
     "website": "https://digitap.app/exchange/swap",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -6222,7 +6248,7 @@
     "profileUrl": "https://monerica.com/site/disapeer",
     "website": "https://disapeer.xyz/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "founded": "2026-04-09",
@@ -6292,11 +6318,12 @@
     "subcategory": "Public Remote Nodes & Operators",
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
     "status": "Admitted",
+    "javascript": "None",
     "country": "DE",
     "founded": "2023-03-16",
     "description": "Public Monero remote node (pruned) in Germany with RPC over clearnet, SSL, Tor and I2P, plus P2P connections for syncing wallets to the XMR network.",
     "added": "2026-05-03",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "dmcaless-st": {
     "name": "DMCALess.ST",
@@ -6506,7 +6533,7 @@
     "profileUrl": "https://monerica.com/site/dualcoin",
     "website": "https://dualcoin.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -6559,7 +6586,7 @@
     "profileUrl": "https://monerica.com/site/eagleswap",
     "website": "https://eagleswap.net",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -6686,10 +6713,10 @@
     "categoryUrl": "https://monerica.com/businesses/design-services",
     "status": "Admitted",
     "kycPolicy": "Varies By Provider",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2016-01-14",
     "description": "High-quality passport, ID, DL or driving license, proof of address, & more document editable templates.",
@@ -6706,10 +6733,11 @@
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "founded": "2026-09-01",
     "description": "small mailbox hosted from my bedroom \u2014 Tor-friendly, no AWS, no Cloudflare, no analytics, no ads, no giant SaaS stack.",
     "added": "2026-10-01",
-    "updated": "2026-10-01"
+    "updated": "2026-11-09"
   },
   "eigenwallet": {
     "name": "eigenwallet",
@@ -6730,21 +6758,20 @@
     "slug": "el-capo",
     "profileUrl": "https://monerica.com/site/el-capo",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
       "Email Not Required",
-      "JavaScript Optional",
-      "Letter of Guarantee",
-      "No JavaScript"
+      "Letter of Guarantee"
     ],
     "country": "MX",
     "founded": "2026-06-19",
@@ -6929,7 +6956,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -6957,7 +6984,7 @@
     "profileUrl": "https://monerica.com/site/eunobit",
     "website": "https://eunobit.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -6980,7 +7007,7 @@
     "profileUrl": "https://monerica.com/site/exc24",
     "website": "https://exc24.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -7008,7 +7035,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -7046,13 +7073,11 @@
     "subcategory": "Resellers & Aggregators",
     "categoryUrl": "https://monerica.com/web-hosting/resellers-and-aggregators",
     "status": "Questionable",
-    "tags": [
-      "No JavaScript"
-    ],
+    "javascript": "Optional",
     "founded": "2025-12-02",
     "description": "Infrastructure built for those who value privacy. No personal data required. Pay with Monero. Access via Tor. No JavaScript.",
     "added": "2025-12-23",
-    "updated": "2026-07-13"
+    "updated": "2026-11-09"
   },
   "exolix": {
     "name": "Exolix",
@@ -7086,7 +7111,7 @@
     "profileUrl": "https://monerica.com/site/expeer",
     "website": "https://expeer.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Shotgun KYC",
@@ -7108,7 +7133,7 @@
     "profileUrl": "https://monerica.com/site/explace",
     "website": "https://explace.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -7134,10 +7159,11 @@
     "subcategory": "Blockchain Explorers",
     "categoryUrl": "https://monerica.com/utilities/blockchain-explorers",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2018-07-10",
     "description": "Monero (XMR) blockchain explorer for verifying sent and received transactions, browsing new blocks, viewing the transaction queue and checking network info.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "exservers": {
     "name": "ExServers",
@@ -7182,7 +7208,7 @@
     "profileUrl": "https://monerica.com/site/exwell",
     "website": "https://exwell.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -7300,10 +7326,11 @@
     "subcategory": "Desktop Wallets",
     "categoryUrl": "https://monerica.com/wallets/desktop-wallets",
     "status": "Verified",
+    "javascript": "None",
     "founded": "2020-08-11",
     "description": "Feather is a free, open-source Monero (XMR) desktop wallet for Linux, Tails, Windows and macOS; small and fast, beginner friendly, with advanced features on par with the CLI.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "felix": {
     "name": "Felix",
@@ -7375,7 +7402,7 @@
     "profileUrl": "https://monerica.com/site/fixedfloat",
     "website": "https://ff.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -7508,7 +7535,7 @@
     "slug": "fmfw-io",
     "profileUrl": "https://monerica.com/site/fmfw-io",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -7528,7 +7555,7 @@
     "profileUrl": "https://monerica.com/site/forgeswap",
     "website": "http://forgeswap.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -7566,11 +7593,12 @@
     "subcategory": "Talk Shows/ Podcasts (English)",
     "categoryUrl": "https://monerica.com/media/talk-shows-podcasts-english",
     "status": "Admitted",
+    "javascript": "None",
     "country": "US",
     "founded": "2026-06-30",
     "description": "Weekly podcast for the resistance covering Monero (XMR), self-hosting, mining, crypto news, anarchy and listener questions; episodes stream on the site, XMR donations.",
     "added": "2026-07-29",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "fortunaswap": {
     "name": "FortunaSwap",
@@ -7578,7 +7606,7 @@
     "profileUrl": "https://monerica.com/site/fortunaswap",
     "website": "https://fortunaswap.net/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -7773,7 +7801,7 @@
     "profileUrl": "https://monerica.com/site/freiexchange",
     "website": "https://freiexchange.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -7836,7 +7864,7 @@
     "profileUrl": "https://monerica.com/site/fswap",
     "website": "https://fswap.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -7862,10 +7890,11 @@
     "subcategory": "Public Remote Nodes & Operators",
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
     "status": "Admitted",
+    "javascript": "Required",
     "country": "DE",
     "description": "Tor relay operator running a guard relay hosted at Hetzner in Germany, listed on Tor Metrics, with a Monero (XMR) donation address in its relay contact info.",
     "added": "2025-09-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "fuguswap": {
     "name": "FuguSwap",
@@ -7873,7 +7902,7 @@
     "profileUrl": "https://monerica.com/site/fuguswap",
     "website": "https://fuguswap.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -7894,7 +7923,7 @@
     "profileUrl": "https://monerica.com/site/fujn-swap",
     "website": "https://swap.fujn.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -7958,7 +7987,7 @@
     "profileUrl": "https://monerica.com/site/gate-exchange",
     "website": "https://www.gate.com/",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -8072,6 +8101,7 @@
     "subcategory": "Email Providers/ Forwarders",
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Verified",
+    "javascript": "None",
     "country": "CH",
     "founded": "2023-11-19",
     "description": "A privacy-oriented, free speech, one-time payment email service. Pay \u20ac5 one-time and keep your address forever.",
@@ -8080,7 +8110,7 @@
       "reviews": 1
     },
     "added": "2023-12-23",
-    "updated": "2026-10-25"
+    "updated": "2026-11-09"
   },
   "ghostsims": {
     "name": "GhostSims",
@@ -8109,12 +8139,13 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "rates": "Float",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -8128,7 +8159,7 @@
       "reviews": 13
     },
     "added": "2026-01-06",
-    "updated": "2026-11-04"
+    "updated": "2026-11-08"
   },
   "ghostswap-app": {
     "name": "GhostSwap.app",
@@ -8136,7 +8167,7 @@
     "profileUrl": "https://monerica.com/site/ghostswap-app",
     "website": "https://www.ghostswap.app/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -8270,7 +8301,7 @@
     "profileUrl": "https://monerica.com/site/gleec",
     "website": "https://exchange.gleec.com/",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -8293,10 +8324,11 @@
     "subcategory": "Address Verification",
     "categoryUrl": "https://monerica.com/utilities/address-verification",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2025-12-22",
     "description": "Privacy-focused link-in-bio service for the Monero (XMR) ecosystem: one handle gives a profile page plus OpenAlias, NIP-05, WebFinger and PGP lookups, without trackers.",
     "added": "2025-12-24",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "goblin-card": {
     "name": "Goblin Card",
@@ -8339,7 +8371,7 @@
     "profileUrl": "https://monerica.com/site/godbex",
     "website": "https://godbex.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -8365,7 +8397,7 @@
     "profileUrl": "https://monerica.com/site/godex",
     "website": "https://godex.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Rare KYC",
@@ -8389,7 +8421,7 @@
     "profileUrl": "https://monerica.com/site/goexme",
     "website": "https://goexme.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -8420,10 +8452,11 @@
     "subcategory": "Relay/Exit Operators (individual relays)",
     "categoryUrl": "https://monerica.com/nodes/relay-exit-operators-individual-relays",
     "status": "Admitted",
+    "javascript": "Required",
     "country": "DE",
     "description": "Gojira is a Tor relay (guard, non-exit) hosted in Germany that helps carry traffic for the Tor anonymity network. The operator lists a Monero (XMR) address for support.",
     "added": "2025-09-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "gold-circuit-e-cycling-llc": {
     "name": "Gold Circuit E-Cycling, LLC",
@@ -8446,7 +8479,7 @@
     "profileUrl": "https://monerica.com/site/gorshok",
     "website": "https://gorshok.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -8482,11 +8515,11 @@
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "API Available",
       "DMCA Ignored",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "country": "BZ",
     "founded": "2026-04-01",
@@ -8775,10 +8808,11 @@
     "subcategory": "Pools",
     "categoryUrl": "https://monerica.com/mining/pools",
     "status": "Verified",
+    "javascript": "Required",
     "founded": "2017-10-12",
     "description": "HashVault mining pools for Monero (XMR) and other coins with PPLNS or SOLO modes, hourly payments, global servers and a 0.9% fee.",
     "added": "2023-09-16",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "haveno": {
     "name": "Haveno",
@@ -8789,10 +8823,11 @@
     "subcategory": "Peer-to-Peer Exchanges",
     "categoryUrl": "https://monerica.com/exchanges/peer-to-peer-exchanges",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2020-10-11",
     "description": "A non-custodial, decentralized exchange platform for crypto and fiat currencies built on Tor and Monero.",
     "added": "2025-09-11",
-    "updated": "2026-07-31"
+    "updated": "2026-11-09"
   },
   "haveno-dawnswap": {
     "name": "Haveno Dawnswap",
@@ -8877,7 +8912,7 @@
     "profileUrl": "https://monerica.com/site/hellex",
     "website": "https://hellex.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -8989,16 +9024,16 @@
     "profileUrl": "https://monerica.com/site/hiddenswap",
     "website": "https://hiddenswap.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
     "rates": "Fixed",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2021-06-11",
     "description": "No KYC crypto exchange for XMR swaps: no account, no email, no ID. Fixed or floating rate, tracked by one order ID. Works in Tor Browser, even with JavaScript off.",
@@ -9059,21 +9094,21 @@
     "profileUrl": "https://monerica.com/site/hideonchain",
     "website": "https://hideonchain.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own & Third-Party",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "Letter of Guarantee",
-      "No JavaScript"
+      "Letter of Guarantee"
     ],
     "founded": "2026-10-14",
     "description": "KYC free zone we will never, under any circumstances, require our users to undergo KYC procedures. Swap BTC, ETH, XMR, ZEC & USDT anonymous, no account. No logs.",
     "added": "2026-10-15",
-    "updated": "2026-10-18"
+    "updated": "2026-11-09"
   },
   "hideour-name": {
     "name": "hideour.name",
@@ -9110,7 +9145,7 @@
     "slug": "hitbtc",
     "profileUrl": "https://monerica.com/site/hitbtc",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -9152,11 +9187,12 @@
     "subcategory": "Activism",
     "categoryUrl": "https://monerica.com/non-profits/activism",
     "status": "Admitted",
+    "javascript": "Required",
     "country": "BY",
     "founded": "2020-07-05",
     "description": "Belarusian civic initiative creating documentary storytelling and resilience programs in support of a free and democratic Belarus.",
     "added": "2025-09-15",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "host-world": {
     "name": "Host World",
@@ -9404,7 +9440,7 @@
     "profileUrl": "https://monerica.com/site/houdini-swap",
     "website": "https://houdiniswap.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Shotgun KYC",
@@ -9429,10 +9465,11 @@
     "subcategory": "Guides",
     "categoryUrl": "https://monerica.com/education/guides",
     "status": "Verified",
+    "javascript": "None",
     "founded": "2022-04-20",
     "description": "Guide to every way to buy Monero (XMR): instant swaps, exchanges, peer-to-peer, cash, atomic swaps, ATMs, gift cards and mining, with wallet setup steps and privacy tips.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "hshop": {
     "name": "Hshop",
@@ -9454,7 +9491,7 @@
     "profileUrl": "https://monerica.com/site/htx",
     "website": "https://www.htx.com/",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Questionable",
     "kycPolicy": "Mandatory KYC",
@@ -9474,11 +9511,12 @@
     "profileUrl": "https://monerica.com/site/husher",
     "website": "https://www.husher.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -9488,7 +9526,7 @@
     "founded": "2025-08-23",
     "description": "Non-custodial crypto exchange for instant swaps between BTC, ETH, USDT and other coins, where users keep control of their own keys; community-governed platform.",
     "added": "2026-07-18",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "hushsims": {
     "name": "HushSIMs",
@@ -9563,11 +9601,12 @@
     "profileUrl": "https://monerica.com/site/icrypex",
     "website": "https://www.icrypex.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program",
       "API Available",
@@ -9577,7 +9616,7 @@
     "founded": "2018-03-13",
     "description": "EU-licensed centralized cryptocurrency exchange for trading, buying and staking crypto, with an XMR/USDT Monero market.",
     "added": "2025-08-26",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "ihostart-com": {
     "name": "iHostART.com",
@@ -9720,9 +9759,9 @@
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Affiliate Program",
-      "JavaScript Optional",
       "Owns Physical Servers",
       "Sells Dedicated Servers",
       "Sells Domain Registration",
@@ -9741,7 +9780,7 @@
     "profileUrl": "https://monerica.com/site/instant-exchangers",
     "website": "https://instantexchangers.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -9840,11 +9879,12 @@
     "subcategory": "Knowledge",
     "categoryUrl": "https://monerica.com/non-profits/knowledge",
     "status": "Admitted",
+    "javascript": "Required",
     "country": "US",
     "founded": "1995-12-14",
     "description": "Non-profit digital library of free and borrowable books, texts, movies, music and software, home of the Wayback Machine archive of web pages.",
     "added": "2025-08-31",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "internet-privacy-foundation": {
     "name": "Internet Privacy Foundation",
@@ -9887,16 +9927,16 @@
     "categoryUrl": "https://monerica.com/businesses/clothing-apparel-and-accessories",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "country": "IT",
     "founded": "2026-05-20",
     "description": "Infrared-blocking glasses handcrafted in Italy that block IR light to defeat facial recognition cameras. Orders by email or Signal, paid in Monero (XMR), BTC or LTC.",
     "added": "2026-05-20",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "iran-netlify": {
     "name": "Iran Netlify",
@@ -9933,7 +9973,7 @@
     "profileUrl": "https://monerica.com/site/ironswaps",
     "website": "https://ironswaps.org",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -10132,10 +10172,11 @@
     "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "founded": "2014-07-25",
     "description": "Budget and debt payoff spreadsheet templates for Excel and Google Sheets. Instant download after checkout, no account or email required. Includes a free mini version.",
     "added": "2026-10-20",
-    "updated": "2026-10-20"
+    "updated": "2026-11-09"
   },
   "jobsonblocks": {
     "name": "JobsOnBlocks",
@@ -10314,6 +10355,7 @@
     "categoryUrl": "https://monerica.com/businesses/marketplaces",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Account Not Required"
     ],
@@ -10321,7 +10363,7 @@
     "founded": "2026-02-10",
     "description": "Swiss online classifieds marketplace to buy and sell items with no account or email, encrypted chat, and payment sent directly to the seller in Monero (XMR).",
     "added": "2026-03-19",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "kasisto": {
     "name": "Kasisto",
@@ -10382,13 +10424,14 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "Required",
     "tags": [
       "Open Source"
     ],
     "founded": "2018-09-04",
     "description": "Open-source, ad-free password manager for Android using KeePass .kdbx files, with autofill, passkeys, TOTP/HOTP two-factor codes and biometric unlock.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "kera-desktop": {
     "name": "Kera Desktop",
@@ -10399,10 +10442,11 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2023-05-28",
     "description": "Kera Desktop is a desktop environment shell for Linux, Windows, macOS and ChromeOS, offering an alternative interface for your existing operating system.",
     "added": "2026-08-23",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "kevinhq-com": {
     "name": "kevinhq.com",
@@ -10683,7 +10727,7 @@
     "profileUrl": "https://monerica.com/site/kraken",
     "website": "https://kraken.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Verified",
     "kycPolicy": "Mandatory KYC",
@@ -10740,7 +10784,7 @@
     "profileUrl": "https://monerica.com/site/kucoin",
     "website": "https://www.kucoin.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Verified",
     "kycPolicy": "Mandatory KYC",
@@ -10808,20 +10852,20 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "API Available",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "founded": "2026-10-16",
     "description": "Non-custodial, Tor-native cryptocurrency exchange. Fully functional without JavaScript or registration. Prioritizes user privacy and control.",
     "added": "2026-10-26",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "kvatools-io": {
     "name": "kVATools.io",
@@ -10853,6 +10897,7 @@
     "status": "Admitted",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -10865,7 +10910,7 @@
       "reviews": 1
     },
     "added": "2026-04-02",
-    "updated": "2026-10-19"
+    "updated": "2026-11-09"
   },
   "kycless": {
     "name": "KYCless",
@@ -10893,17 +10938,17 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Email Not Required",
       "Letter of Guarantee",
-      "No JavaScript",
       "Sells Sponsorship"
     ],
     "founded": "2026-06-01",
     "description": "Manually audited, independently graded reviews of no\u2011KYC crypto-to-crypto services. I categorize platforms by their operational model and audit each against strict privacy.",
     "added": "2026-06-10",
-    "updated": "2026-10-26"
+    "updated": "2026-11-09"
   },
   "kycnot-cc": {
     "name": "Kycnot.cc",
@@ -10917,7 +10962,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -11088,9 +11133,9 @@
     "categoryUrl": "https://monerica.com/businesses/postage-and-shipping-services",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
-      "Account Not Required",
-      "JavaScript Optional"
+      "Account Not Required"
     ],
     "founded": "2026-07-18",
     "description": "Monero postage with USPS, FedEx and UPS. Privacy friendly with delete your order option. USA only.",
@@ -11146,13 +11191,14 @@
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Email Not Required"
     ],
     "founded": "2026-11-04",
     "description": "Private AI companion chat for adults with characters that remember you, plus photos and voice messages. Account number signup, no email or phone needed.",
     "added": "2026-11-08",
-    "updated": "2026-11-08"
+    "updated": "2026-11-09"
   },
   "lbr-designs": {
     "name": "LBR designs",
@@ -11256,10 +11302,11 @@
     "subcategory": "Miscellaneous",
     "categoryUrl": "https://monerica.com/non-profits/miscellaneous",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2018-08-12",
     "description": "A Mastodon instance for libertarians, ancaps, anarchists, voluntaryists, agorists, etc to sound off without fear of reprisal.",
     "added": "2025-05-23",
-    "updated": "2026-06-23"
+    "updated": "2026-11-09"
   },
   "liberland-luxury-escrow": {
     "name": "Liberland Luxury Escrow",
@@ -11271,9 +11318,9 @@
     "categoryUrl": "https://monerica.com/businesses/luxury-goods",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
+    "javascript": "Optional",
     "tags": [
-      "Account Not Required",
-      "JavaScript Optional"
+      "Account Not Required"
     ],
     "country": "KN",
     "founded": "2014-06-16",
@@ -11369,10 +11416,11 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2023-09-19",
     "description": "Free and open-source alternative YouTube frontend for Android with no ads, no Google services or trackers, plus subscriptions, playlists, SponsorBlock and video chapters.",
     "added": "2025-09-16",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "librey-instance": {
     "name": "Librey instance",
@@ -11397,6 +11445,7 @@
     "subcategory": "Decentralized Exchanges",
     "categoryUrl": "https://monerica.com/exchanges/decentralized-exchanges",
     "status": "Verified",
+    "javascript": "Required",
     "tags": [
       "Email Not Required",
       "Perpetuals"
@@ -11409,7 +11458,7 @@
       "reviews": 1
     },
     "added": "2025-12-17",
-    "updated": "2026-10-31"
+    "updated": "2026-11-09"
   },
   "linux-mint": {
     "name": "Linux Mint",
@@ -11466,7 +11515,7 @@
     "profileUrl": "https://monerica.com/site/lizardswap",
     "website": "https://lizardswap.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -11486,7 +11535,7 @@
     "slug": "lizex",
     "profileUrl": "https://monerica.com/site/lizex",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -11514,11 +11563,12 @@
     "profileUrl": "https://monerica.com/site/lmex",
     "website": "https://www.lmex.io",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program"
     ],
@@ -11526,7 +11576,7 @@
     "founded": "2021-07-14",
     "description": "A no-KYC centralized exchange providing spot trading for Monero (XMR) alongside BTC, ETH, SOL, XRP, and LTC, with unlimited daily withdrawals.",
     "added": "2026-01-15",
-    "updated": "2026-06-23"
+    "updated": "2026-11-09"
   },
   "local-p2p-exchange": {
     "name": "Local P2P Exchange",
@@ -11578,11 +11628,12 @@
     "subcategory": "Relay/Exit Operators (individual relays)",
     "categoryUrl": "https://monerica.com/nodes/relay-exit-operators-individual-relays",
     "status": "Admitted",
+    "javascript": "None",
     "country": "IS",
     "founded": "2025-11-06",
     "description": "Iceland-based Tor relay operator running exit relays and bridges, and hosting privacy front-ends such as Redlib, Rimgo and AnonymousOverflow. Accepts Monero (XMR) donations.",
     "added": "2025-12-09",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "localmonero": {
     "name": "LocalMonero",
@@ -11650,7 +11701,7 @@
     "profileUrl": "https://monerica.com/site/lucidswap",
     "website": "https://lucidswap.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Varies By Provider",
@@ -11690,10 +11741,11 @@
     "subcategory": "Individuals",
     "categoryUrl": "https://monerica.com/non-profits/individuals",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2016-05-28",
     "description": "Personal website of Luke Smith with links to his YouTube and PeerTube videos, articles including Monero posts, and projects like LARBS, Landchad.net and Based.Cooking.",
     "added": "2025-01-03",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "luna-azul-co": {
     "name": "Luna Azul Co",
@@ -11718,11 +11770,12 @@
     "profileUrl": "https://monerica.com/site/lupibit",
     "website": "https://lupibit.kg",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -11731,7 +11784,7 @@
     "founded": "2024-06-10",
     "description": "Semi-automatic Russian-language digital currency exchanger (lupibit.kg) for crypto such as Bitcoin and USDT, with user accounts, card verification and a referral program.",
     "added": "2025-12-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "luxhost": {
     "name": "LuxHost",
@@ -11880,11 +11933,12 @@
     "subcategory": "Email Providers/ Forwarders",
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Verified",
+    "javascript": "Required",
     "country": "PL",
     "founded": "2012-10-22",
     "description": "Encrypted email service with zero-access end-to-end encryption, PGP support, a Tor onion address and a free plan. No IP logging. Accepts Monero (XMR), Bitcoin and 50+ cryptos.",
     "added": "2024-09-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "malad-valley-marathon": {
     "name": "Malad Valley Marathon",
@@ -12017,7 +12071,7 @@
     "profileUrl": "https://monerica.com/site/mchanger",
     "website": "https://mchanger.cc",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -12212,7 +12266,7 @@
     "profileUrl": "https://monerica.com/site/mexc",
     "website": "https://www.mexc.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Questionable",
     "kycPolicy": "Mandatory KYC",
@@ -12294,7 +12348,7 @@
     "profileUrl": "https://monerica.com/site/mine-exchange",
     "website": "https://mine.exchange/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "liquidity": "Third Party",
@@ -12343,10 +12397,11 @@
     "subcategory": "Guides",
     "categoryUrl": "https://monerica.com/mining/guides",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2000-07-31",
     "description": "A guide to configuring and optimizing cryptocurrency mining on the MoneroOcean pool to mine Monero.",
     "added": "2022-06-22",
-    "updated": "2026-08-12"
+    "updated": "2026-11-09"
   },
   "mining-pool-stats": {
     "name": "Mining Pool Stats",
@@ -12428,18 +12483,18 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Mixed",
     "rates": "Fixed & Float",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
       "Email Not Required",
-      "JavaScript Optional",
       "Letter of Guarantee"
     ],
     "country": "MH",
@@ -12475,7 +12530,7 @@
     "profileUrl": "https://monerica.com/site/mixed",
     "website": "https://mixed.exchange/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -12514,7 +12569,7 @@
     "profileUrl": "https://monerica.com/site/mixswap",
     "website": "https://mixswap.org/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Rare KYC",
@@ -12589,10 +12644,11 @@
     "subcategory": "Desktop Wallets",
     "categoryUrl": "https://monerica.com/wallets/desktop-wallets",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2023-01-21",
     "description": "Open-source, terminal-based online/offline crypto wallet in Python for cold storage, supporting BTC, LTC, ETH, Monero (XMR) and more, with THORChain swaps and autosign.",
     "added": "2025-05-01",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "mmgen-wallet-gitlab": {
     "name": "mmgen-wallet - Gitlab",
@@ -12658,7 +12714,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -12709,10 +12765,10 @@
     "categoryUrl": "https://monerica.com/other-directories/monero-directories",
     "status": "Admitted",
     "kycPolicy": "Varies By Provider",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "country": "SE",
     "founded": "2026-09-28",
@@ -12772,10 +12828,10 @@
     "subcategory": "Guides",
     "categoryUrl": "https://monerica.com/education/guides",
     "status": "Verified",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "JavaScript Optional",
       "Open Source",
       "Sells Sponsorship"
     ],
@@ -12825,10 +12881,11 @@
     "subcategory": "Blockchain Explorers",
     "categoryUrl": "https://monerica.com/utilities/blockchain-explorers",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2021-09-18",
     "description": "Displays the current highest-work chain on Monero, and other alternate blocks at recent heights.",
     "added": "2025-10-09",
-    "updated": "2026-02-16"
+    "updated": "2026-11-09"
   },
   "monero-bounties": {
     "name": "Monero Bounties",
@@ -12839,10 +12896,11 @@
     "subcategory": "Funding, Grants & Bounties",
     "categoryUrl": "https://monerica.com/jobs/funding-grants-and-bounties",
     "status": "Verified",
+    "javascript": "Required",
     "founded": "2019-07-11",
     "description": "Community bounty board for the Monero (XMR) ecosystem. Propose ideas for protocol or ecosystem projects, pledge XMR to fund them, and track open and completed bounties.",
     "added": "2022-06-30",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monero-br": {
     "name": "Monero BR",
@@ -12896,15 +12954,15 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Email Not Required",
-      "No JavaScript",
       "Open Source"
     ],
     "founded": "2007-10-09",
     "description": "Self-hosting crypto payment gateway for merchants. No KYC, no censorship, 100% non-custodial (view-only wallet). BTCPay & WooCommerce compatible. Easy Docker deployment.",
     "added": "2026-11-01",
-    "updated": "2026-11-01"
+    "updated": "2026-11-09"
   },
   "monero-coalition": {
     "name": "Monero Coalition",
@@ -12929,10 +12987,11 @@
     "subcategory": "Monero Directories",
     "categoryUrl": "https://monerica.com/other-directories/monero-directories",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2022-01-01",
     "description": "Video channels, Monero-specific sites, software & services, sites accepting Monero donations, Monero-related sites.",
     "added": "2022-06-22",
-    "updated": "2026-06-29"
+    "updated": "2026-11-09"
   },
   "monero-community-workgroup": {
     "name": "Monero Community Workgroup",
@@ -12999,10 +13058,11 @@
     "subcategory": "Monero Directories",
     "categoryUrl": "https://monerica.com/other-directories/monero-directories",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2021-02-25",
     "description": "A curated, no-KYC guide to businesses, merchants, exchanges and services that accept Monero (XMR) \u2014 discover where to spend XMR privately.",
     "added": "2022-06-22",
-    "updated": "2026-10-27"
+    "updated": "2026-11-09"
   },
   "monero-discourse-subscriptions-plugin": {
     "name": "Monero Discourse Subscriptions Plugin",
@@ -13059,10 +13119,11 @@
     "subcategory": "YouTube Channels (English)",
     "categoryUrl": "https://monerica.com/media/youtube-channels-english",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2000-06-05",
     "description": "PeerTube channel on video.hardlimit.com with educational Monero (XMR) videos: GUI wallet tutorials, Monero history, fungibility, atomic swaps and Haveno explainers.",
     "added": "2025-03-06",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monero-forum": {
     "name": "Monero Forum",
@@ -13079,9 +13140,9 @@
     "subcategory": "Forums",
     "categoryUrl": "https://monerica.com/communities/forums",
     "status": "Questionable",
+    "javascript": "Optional",
     "tags": [
       "Email Not Required",
-      "JavaScript Optional",
       "Sells Sponsorship"
     ],
     "founded": "2025-05-29",
@@ -13174,10 +13235,11 @@
     "subcategory": "News (English)",
     "categoryUrl": "https://monerica.com/media/news-english",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2013-05-24",
     "description": "Neocities page collecting Monero (XMR) resources: privacy features explained, videos, debunks of tracing claims, guides to buying and storing XMR, wallets and FAQs.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monero-germany": {
     "name": "Monero Germany",
@@ -13218,10 +13280,11 @@
     "subcategory": "Artwork",
     "categoryUrl": "https://monerica.com/media/artwork",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2024-01-02",
     "description": "Monero graphics library and design agency for privacy projects, offering hand-crafted Monero (XMR) artwork under CC BY-SA 4.0 and custom design work.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monero-guides": {
     "name": "Monero Guides",
@@ -13232,10 +13295,11 @@
     "subcategory": "Guides",
     "categoryUrl": "https://monerica.com/education/guides",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2021-12-06",
     "description": "Monero Guides publishes step-by-step Monero (XMR) tutorials: verifying downloads with PGP, running your own node, mining with P2Pool and using Monero privately.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monero-how": {
     "name": "Monero How",
@@ -13274,13 +13338,14 @@
     "subcategory": "Open Source Projects",
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
+    "javascript": "None",
     "tags": [
       "Open Source"
     ],
     "founded": "2022-04-15",
     "description": "Web tool that audits the Monero (XMR) blockchain to show no inflation bug exists, verifying circulating supply, emission and proofs across every transaction type.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monero-integrations": {
     "name": "Monero Integrations",
@@ -13334,6 +13399,7 @@
     "categoryUrl": "https://monerica.com/jobs/job-boards",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Sells Sponsorship"
     ],
@@ -13344,7 +13410,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-10-20"
+    "updated": "2026-11-09"
   },
   "monero-magazine": {
     "name": "Monero Magazine",
@@ -13413,10 +13479,11 @@
     "subcategory": "YouTube Channels (English)",
     "categoryUrl": "https://monerica.com/media/youtube-channels-english",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2020-04-10",
     "description": "Monero Means Money was the #2 film in the US for the weekend and week of April 10, 2020. It was #1 for April 11 and 12.",
     "added": "2022-06-22",
-    "updated": "2026-02-16"
+    "updated": "2026-11-09"
   },
   "xmrpos": {
     "name": "Monero Merchant",
@@ -13543,10 +13610,11 @@
     "subcategory": "Guides",
     "categoryUrl": "https://monerica.com/education/guides",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2021-01-16",
     "description": "LandChad.net guide to installing and configuring a Monero (XMR) full node (monerod) on a Linux server, with setup steps, storage requirements and remote RPC access.",
     "added": "2024-10-26",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monero-node-bare-metal-ubuntu": {
     "name": "Monero Node Bare-Metal Ubuntu",
@@ -13608,13 +13676,14 @@
     "subcategory": "News (English)",
     "categoryUrl": "https://monerica.com/media/news-english",
     "status": "Admitted",
+    "javascript": "None",
     "tags": [
       "Sells Sponsorship"
     ],
     "founded": "2021-08-18",
     "description": "A community news platform covering Monero development activity, events, security issues, and discussions.",
     "added": "2022-06-22",
-    "updated": "2026-08-12"
+    "updated": "2026-11-09"
   },
   "monero-observer-lounge": {
     "name": "Monero Observer Lounge",
@@ -13639,10 +13708,11 @@
     "subcategory": "Pools",
     "categoryUrl": "https://monerica.com/mining/pools",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2017-08-11",
     "description": "Monero mining pool with a dashboard tracking wallets, workers, ports, blocks, payments, and XMR payouts.",
     "added": "2022-06-22",
-    "updated": "2026-08-12"
+    "updated": "2026-11-09"
   },
   "monero-one": {
     "name": "Monero One",
@@ -13692,10 +13762,11 @@
     "subcategory": "Calculators",
     "categoryUrl": "https://monerica.com/mining/calculators",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2021-09-18",
     "description": "This tool calculates your average expected time between shares on the pool at current difficulty.",
     "added": "2025-08-12",
-    "updated": "2026-02-16"
+    "updated": "2026-11-09"
   },
   "monero-pagamentos": {
     "name": "Monero Pagamentos",
@@ -13828,6 +13899,7 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Affiliate Program",
       "Email Not Required"
@@ -13839,7 +13911,7 @@
       "reviews": 2
     },
     "added": "2025-12-30",
-    "updated": "2026-10-31"
+    "updated": "2026-11-09"
   },
   "monero-social": {
     "name": "Monero Social",
@@ -13878,10 +13950,11 @@
     "subcategory": "Blockchain Explorers",
     "categoryUrl": "https://monerica.com/utilities/blockchain-explorers",
     "status": "Verified",
+    "javascript": "Required",
     "founded": "2026-05-18",
     "description": "A fork of mempool.space retargeted to Monero. It surfaces what the chain alone proves \u2014 height, hashrate, mempool, fee tiers, ring information, RingCT type \u2014 and stops there.",
     "added": "2026-05-19",
-    "updated": "2026-08-23"
+    "updated": "2026-11-09"
   },
   "monero-space-twitter": {
     "name": "Monero Space - Twitter",
@@ -14115,9 +14188,9 @@
     "categoryUrl": "https://monerica.com/communities/forums",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Email Not Required",
-      "JavaScript Optional",
       "Sells Sponsorship"
     ],
     "country": "US",
@@ -14468,10 +14541,11 @@
     "subcategory": "News (English)",
     "categoryUrl": "https://monerica.com/media/news-english",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2022-05-17",
     "description": "Monero (XMR) news site publishing guides, opinion pieces and interviews on topics such as multisig escrow, Monero fundraisers, scaling and the privacy coin ecosystem.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monerodice": {
     "name": "MoneroDice",
@@ -14545,10 +14619,10 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "JavaScript Optional",
       "Open Source"
     ],
     "country": "US",
@@ -14834,13 +14908,14 @@
     "categoryUrl": "https://monerica.com/other-directories/miscellaneous",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Open Source"
     ],
     "founded": "2026-04-16",
     "description": "Companies that market themselves as privacy-focused but refuse to accept Monero \u2014 the only truly private money.",
     "added": "2026-04-16",
-    "updated": "2026-08-19"
+    "updated": "2026-11-09"
   },
   "monerosim": {
     "name": "MoneroSIM",
@@ -14892,7 +14967,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -14930,9 +15005,9 @@
     "subcategory": "Forums",
     "categoryUrl": "https://monerica.com/communities/forums",
     "status": "Questionable",
+    "javascript": "Optional",
     "tags": [
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2025-11-17",
     "description": "Monero community forum for discussion, news, beginner help, development, mining and trading. No email needed to join, no trackers, and it works without JavaScript.",
@@ -14994,6 +15069,7 @@
     "subcategory": "Blockchain Explorers",
     "categoryUrl": "https://monerica.com/utilities/blockchain-explorers",
     "status": "Admitted",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Open Source"
@@ -15002,7 +15078,7 @@
     "founded": "2025-10-25",
     "description": "Visual analytics tool for exploring Monero blockchain activity, featuring forward decoy tracing and poisoned outputs analysis.",
     "added": "2026-09-15",
-    "updated": "2026-09-19"
+    "updated": "2026-11-09"
   },
   "monerowall": {
     "name": "Monerowall",
@@ -15013,10 +15089,11 @@
     "subcategory": "Miscellaneous",
     "categoryUrl": "https://monerica.com/media/miscellaneous",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2023-10-24",
     "description": "Public message wall paid in Monero (XMR): send any amount of XMR to the wall address, submit the transaction ID, and the message is posted permanently after 10 confirmations.",
     "added": "2026-01-23",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monerujo": {
     "name": "Monerujo",
@@ -15122,15 +15199,15 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "founded": "2026-08-07",
     "description": "Monero (XMR) scratchcard casino available only over Tor, with no accounts and no JavaScript required, and a stated payback of 90% or more.",
     "added": "2026-08-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "monkstash": {
     "name": "MonkStash",
@@ -15231,16 +15308,16 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "No JavaScript",
       "Open Source"
     ],
     "founded": "2026-10-18",
     "description": "An open-source atomic-swap client for ETH and XMR / XMR to ETH, traded peer to peer from your own machine over Tor.",
     "added": "2026-11-03",
-    "updated": "2026-11-03"
+    "updated": "2026-11-09"
   },
   "morok": {
     "name": "Morok",
@@ -15451,7 +15528,7 @@
     "profileUrl": "https://monerica.com/site/n-exchange",
     "website": "https://n.exchange/swap-now",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Shotgun KYC",
@@ -15561,7 +15638,7 @@
     "profileUrl": "https://monerica.com/site/nanswap",
     "website": "https://nanswap.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -15602,9 +15679,7 @@
     "subcategory": "Email Providers/ Forwarders",
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Admitted",
-    "tags": [
-      "JavaScript Optional"
-    ],
+    "javascript": "Optional",
     "founded": "2026-01-17",
     "description": "A stable, private email service. We don't track you, we don't sell your data, and we don't annoy you with ads. We provide standard email (IMAP/SMTP) that just works.",
     "added": "2026-04-17",
@@ -15639,6 +15714,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "API Available",
       "Sells Dedicated Servers",
@@ -15648,7 +15724,7 @@
     "founded": "2026-09-13",
     "description": "Cloud VPS, dedicated CPU and bare metal servers from Vultr, DigitalOcean and Hetzner, billed hourly from a prepaid balance. Sign-up needs only an email, no KYC.",
     "added": "2026-10-20",
-    "updated": "2026-10-20"
+    "updated": "2026-11-09"
   },
   "nefiswap": {
     "name": "NefiSwap",
@@ -15656,7 +15732,7 @@
     "profileUrl": "https://monerica.com/site/nefiswap",
     "website": "https://nefiswap.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -15689,10 +15765,10 @@
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "DMCA Ignored",
       "Email Not Required",
-      "No JavaScript",
       "Sells Sponsorship"
     ],
     "country": "SE",
@@ -15703,7 +15779,7 @@
       "reviews": 1
     },
     "added": "2026-07-30",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "neironvps": {
     "name": "NeironVPS",
@@ -15753,7 +15829,7 @@
     "profileUrl": "https://monerica.com/site/neverkyc-com",
     "website": "https://www.neverkyc.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -15822,11 +15898,11 @@
     "categoryUrl": "https://monerica.com/jobs/developers-and-consultants",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "DMCA Ignored",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2025-12-14",
     "description": "Backend development, custom bots, automation and OpSec consulting. Go, Python and PHP. Dynamic websites, web apps, Telegram/SimpleX bots, static sites and privacy audits.",
@@ -15974,7 +16050,7 @@
     "profileUrl": "https://monerica.com/site/noirtrade",
     "website": "https://noirtrade.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -16016,7 +16092,7 @@
     "profileUrl": "https://monerica.com/site/nonease",
     "website": "https://nonease.site/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -16039,7 +16115,7 @@
     "profileUrl": "https://monerica.com/site/nonkyc",
     "website": "https://nonkyc.io",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -16062,7 +16138,7 @@
     "slug": "nonlogs",
     "profileUrl": "https://monerica.com/site/nonlogs",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -16236,7 +16312,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -16268,17 +16344,17 @@
     "categoryUrl": "https://monerica.com/merchant-services/miscellaneous",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "No JavaScript",
       "Open Source"
     ],
     "country": "ZW",
     "founded": "2026-08-29",
     "description": "It is free and open-source self-hosted Monero shop. Complete, privacy focused, crypto e-commerce solution. Please check project website for details.",
     "added": "2026-08-29",
-    "updated": "2026-08-29"
+    "updated": "2026-11-09"
   },
   "nullsink": {
     "name": "nullsink",
@@ -16290,6 +16366,7 @@
     "categoryUrl": "https://monerica.com/businesses/ai-services",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -16302,7 +16379,7 @@
       "reviews": 1
     },
     "added": "2026-06-09",
-    "updated": "2026-09-01"
+    "updated": "2026-11-09"
   },
   "null-route-privacy-directory": {
     "name": "NULL_ROUTE Privacy Directory",
@@ -16320,16 +16397,16 @@
     "categoryUrl": "https://monerica.com/other-directories/no-kyc-services",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "API Available",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "founded": "2025-06-18",
     "description": "Privacy toolkit for the no-KYC community. Curated directory(swaps,wallets,hosting, VPN tools) reviewed and scored. XMR bridge swap, encrypted portfolio, freeze monitor, cards",
     "added": "2026-07-24",
-    "updated": "2026-08-06"
+    "updated": "2026-11-09"
   },
   "nutaku": {
     "name": "Nutaku",
@@ -16363,6 +16440,30 @@
     },
     "added": "2025-03-30",
     "updated": "2026-11-03"
+  },
+  "oblako": {
+    "name": "OBLAKO",
+    "slug": "oblako",
+    "profileUrl": "https://monerica.com/site/oblako",
+    "website": "https://oblako.sh",
+    "category": "Web Hosting",
+    "subcategory": "VPS & Dedicated Server Providers",
+    "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "Account Not Required",
+      "Affiliate Program",
+      "API Available",
+      "Email Not Required",
+      "Sells Domain Registration",
+      "VPS"
+    ],
+    "country": "PY",
+    "founded": "2025-10-20",
+    "description": "KVM VPS hosting in Germany on AMD Ryzen 9 and NVMe with fixed monthly pricing, REST API, full root access and SSH-based account management. Prepaid, no contracts.",
+    "added": "2026-11-08",
+    "updated": "2026-11-08"
   },
   "obscura": {
     "name": "Obscura",
@@ -16422,7 +16523,7 @@
     "slug": "octoswap",
     "profileUrl": "https://monerica.com/site/octoswap",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -16509,16 +16610,16 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "Letter of Guarantee",
-      "No JavaScript"
+      "Letter of Guarantee"
     ],
     "country": "US",
     "founded": "2026-06-01",
@@ -16528,7 +16629,7 @@
       "reviews": 2
     },
     "added": "2026-06-19",
-    "updated": "2026-10-27"
+    "updated": "2026-11-09"
   },
   "omenswap": {
     "name": "omenswap",
@@ -16542,15 +16643,15 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "liquidity": "Own",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "API Available",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2026-05-23",
     "description": "Self-liquidity instant exchange service available over clearnet, Tor, API, and SSH.",
@@ -16583,7 +16684,7 @@
     "profileUrl": "https://monerica.com/site/onionswap",
     "website": "https://onionswap.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -16642,7 +16743,7 @@
     "profileUrl": "https://monerica.com/site/onlyswaps",
     "website": "https://onlyswaps.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -16663,7 +16764,7 @@
     "profileUrl": "https://monerica.com/site/onyx",
     "website": "https://onyx.vg/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -16687,6 +16788,7 @@
     "subcategory": "Security",
     "categoryUrl": "https://monerica.com/non-profits/security",
     "status": "Admitted",
+    "javascript": "Required",
     "tags": [
       "Open Source"
     ],
@@ -16694,7 +16796,7 @@
     "founded": "2026-06-29",
     "description": "A fully open-source, post-quantum distributed private database that lets you run SQL queries over encrypted data without revealing either the data or the query itself.",
     "added": "2026-07-01",
-    "updated": "2026-07-01"
+    "updated": "2026-11-09"
   },
   "open-cryptopay": {
     "name": "Open CryptoPay",
@@ -16840,10 +16942,10 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "JavaScript Optional",
       "Open Source"
     ],
     "founded": "2026-08-20",
@@ -16934,11 +17036,11 @@
     "status": "Verified",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2022-01-08",
     "description": "Crypto rate comparison site for buying and swapping Bitcoin and Monero (XMR): compares instant exchanges, atomic swaps, P2P exchanges, prepaid cards and OTC brokers.",
@@ -16976,7 +17078,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -17040,7 +17142,7 @@
     "profileUrl": "https://monerica.com/site/ourbit",
     "website": "https://www.ourbit.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -17216,18 +17318,18 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Mixed",
     "rates": "Float",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "Email Not Required",
-      "Letter of Guarantee",
-      "No JavaScript"
+      "Letter of Guarantee"
     ],
     "country": "RU",
     "founded": "2026-08-29",
@@ -17237,7 +17339,7 @@
       "reviews": 6
     },
     "added": "2026-09-03",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "packetra": {
     "name": "Packetra",
@@ -17509,6 +17611,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/cloud-and-web-hosting-providers",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "API Available",
       "DMCA Ignored",
@@ -17518,7 +17621,7 @@
     "founded": "2026-10-04",
     "description": "No-KYC and anonymous bulk file host with support for downloading torrents and direct links to encrypted cloud storage, with no email, no password, and no third-party tracking.",
     "added": "2026-11-05",
-    "updated": "2026-11-05"
+    "updated": "2026-11-09"
   },
   "peerz": {
     "name": "Peerz",
@@ -17530,6 +17633,7 @@
     "categoryUrl": "https://monerica.com/exchanges/peer-to-peer-exchanges",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -17538,7 +17642,7 @@
     "founded": "2025-04-22",
     "description": "Trade crypto in real life. Find people who want to trade in the map. Talk end-to-end encrypted, arrange meeting and transact fully offline. No KYC, free.",
     "added": "2026-04-09",
-    "updated": "2026-08-07"
+    "updated": "2026-11-09"
   },
   "pegasusswap": {
     "name": "PegasusSwap",
@@ -17552,7 +17656,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -17583,6 +17687,7 @@
     "subcategory": "Medical/ Natural Treatments",
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
+    "javascript": "Required",
     "tags": [
       "Account Not Required"
     ],
@@ -17590,7 +17695,7 @@
     "founded": "1996-03-10",
     "description": "Premium Peptides for Advanced Research Lab-tested, HPLC-verified peptides with 99%+ purity.",
     "added": "2026-03-27",
-    "updated": "2026-06-23"
+    "updated": "2026-11-09"
   },
   "phantom-ai": {
     "name": "Phantom AI",
@@ -17602,11 +17707,11 @@
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "API Available",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2026-05-18",
     "description": "OpenAI-compatible API for AI coding agents that routes each request to an economy, standard or frontier model and returns a signed receipt naming the model used.",
@@ -17792,7 +17897,7 @@
     "profileUrl": "https://monerica.com/site/pionex",
     "website": "https://www.pionex.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -17863,10 +17968,11 @@
     "subcategory": "Miscellaneous",
     "categoryUrl": "https://monerica.com/non-profits/miscellaneous",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2022-02-14",
     "description": "Advocacy site for the Plan 9 operating system, explaining its rc shell, per-process namespaces, Factotum auth, Venti versioned storage and other advantages over GNU/Linux.",
     "added": "2026-01-04",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "plataswap": {
     "name": "PlataSwap",
@@ -17874,7 +17980,7 @@
     "profileUrl": "https://monerica.com/site/plataswap",
     "website": "https://plataswap.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -17897,7 +18003,7 @@
     "profileUrl": "https://monerica.com/site/platov",
     "website": "https://platov.co/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -17922,10 +18028,11 @@
     "subcategory": "Integrations",
     "categoryUrl": "https://monerica.com/merchant-services/integrations",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2026-07-05",
     "description": "A privacy-first payment processor for Monero, Zcash, Bitcoin, Litecoin, Ethereum and Solana. One script tag, 0.25% fees, every payment forwarded straight to your wallet.",
     "added": "2026-07-28",
-    "updated": "2026-07-28"
+    "updated": "2026-11-09"
   },
   "plisio": {
     "name": "Plisio",
@@ -17951,11 +18058,12 @@
     "profileUrl": "https://monerica.com/site/poloniex",
     "website": "https://poloniex.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
+    "javascript": "Required",
     "tags": [
       "API Available",
       "Perpetuals"
@@ -17964,7 +18072,7 @@
     "founded": "2014-01-10",
     "description": "Centralized cryptocurrency exchange for trading Bitcoin, Ethereum, TRON, USDT and altcoins. Pairs listed: XMR perpetual, XMR/USDT, XMR/BTC and XMR/USDC.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "popbob-gg": {
     "name": "popbob.gg",
@@ -18105,7 +18213,7 @@
     "profileUrl": "https://monerica.com/site/priamex",
     "website": "https://priamex.com/en",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "liquidity": "Third Party",
@@ -18192,9 +18300,10 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "None",
     "description": "privacy.sexy is a free, open-source tool that applies privacy and security settings on Windows, macOS and Linux; the developer accepts Monero (XMR) donations.",
     "added": "2025-01-09",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "privacygateway-io": {
     "name": "PrivacyGateway.io",
@@ -18686,7 +18795,7 @@
     "profileUrl": "https://monerica.com/site/purple-swap",
     "website": "https://purpleswap.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -18777,10 +18886,11 @@
     "subcategory": "Operating Systems",
     "categoryUrl": "https://monerica.com/non-profits/operating-systems",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2012-02-27",
     "description": "lightweight and user-friendly desktop operating system built on the rock solid foundation of Debian Linux.",
     "added": "2026-08-30",
-    "updated": "2026-08-30"
+    "updated": "2026-11-09"
   },
   "qloudhost": {
     "name": "QloudHost",
@@ -18876,7 +18986,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -18948,11 +19058,12 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "country": "NL",
     "founded": "2023-11-04",
     "description": "Free, donation-funded private frontends such as Redlib and LibreMDB, self-hosted by r4fo, that proxy requests and strip ads and trackers. The server keeps no logs.",
     "added": "2026-08-28",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "rabbitdns": {
     "name": "RabbitDNS",
@@ -19128,7 +19239,7 @@
     "profileUrl": "https://monerica.com/site/rebex",
     "website": "https://rebex.io/en",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Varies By Provider",
@@ -19288,10 +19399,11 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2018-04-09",
     "description": "A cryptography-based networking stack for building local and wide-area networks with readily available hardware.",
     "added": "2025-06-28",
-    "updated": "2026-02-16"
+    "updated": "2026-11-09"
   },
   "retoswap": {
     "name": "RetoSwap",
@@ -19303,13 +19415,14 @@
     "categoryUrl": "https://monerica.com/exchanges/peer-to-peer-exchanges",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Open Source"
     ],
     "founded": "2024-05-14",
     "description": "A peer-to-peer trading network you run yourself\u2014no website, no central service. Just software connecting you directly with others to trade.",
     "added": "2025-04-04",
-    "updated": "2026-08-19"
+    "updated": "2026-11-09"
   },
   "revbit": {
     "name": "Revbit",
@@ -19317,7 +19430,7 @@
     "profileUrl": "https://monerica.com/site/revbit",
     "website": "https://revbit.net/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -19385,13 +19498,14 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "Required",
     "tags": [
       "Open Source"
     ],
     "founded": "2026-02-26",
     "description": "A complete stack for machine-to-machine finance. Desktop wallet, edge-deployed payment gateway, protocol middleware, and AI agent bridge \u2014 all powered by Monero.",
     "added": "2026-03-18",
-    "updated": "2026-08-19"
+    "updated": "2026-11-09"
   },
   "roam-glamping-co": {
     "name": "Roam Glamping Co.",
@@ -19417,11 +19531,12 @@
     "subcategory": "Designers",
     "categoryUrl": "https://monerica.com/jobs/designers",
     "status": "Verified",
+    "javascript": "None",
     "country": "RU",
     "founded": "2018-08-27",
     "description": "Product designer creating user interfaces, transit maps, logos, and promotional material",
     "added": "2024-09-28",
-    "updated": "2026-07-24"
+    "updated": "2026-11-09"
   },
   "rowwarden": {
     "name": "RowWarden",
@@ -19463,7 +19578,7 @@
     "profileUrl": "https://monerica.com/site/ruby-cash",
     "website": "https://rubycash.org/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -19482,7 +19597,7 @@
     "slug": "runeswap",
     "profileUrl": "https://monerica.com/site/runeswap",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -19523,11 +19638,12 @@
     "subcategory": "Local & Professional Services",
     "categoryUrl": "https://monerica.com/businesses/local-and-professional-services",
     "status": "Verified",
+    "javascript": "None",
     "country": "US",
     "founded": "2016-12-21",
     "description": "Florida-based DJ playing psytrance, techno and industrial/EBM, also making music videos and songs. Bookings payable in Monero (XMR).",
     "added": "2022-11-10",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "ryo-news": {
     "name": "ryo.news",
@@ -19579,7 +19695,7 @@
     "profileUrl": "https://monerica.com/site/safe-trade",
     "website": "https://safetrade.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -19658,19 +19774,19 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Fixed & Float",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
       "Email Not Required",
-      "Letter of Guarantee",
-      "No JavaScript"
+      "Letter of Guarantee"
     ],
     "country": "MS",
     "founded": "2025-08-21",
@@ -19680,7 +19796,7 @@
       "reviews": 24
     },
     "added": "2025-12-04",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "saketo": {
     "name": "Saketo",
@@ -19691,13 +19807,14 @@
     "subcategory": "Mobile Wallets",
     "categoryUrl": "https://monerica.com/wallets/mobile-wallets",
     "status": "Admitted",
+    "javascript": "None",
     "tags": [
       "Open Source"
     ],
     "founded": "2024-04-20",
     "description": "Open-source mobile Monero (XMR) wallet for Android built on Rust (libsaketo) and Flutter. Still a work-in-progress project.",
     "added": "2026-06-29",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "sanswap": {
     "name": "SanSwap",
@@ -19705,7 +19822,7 @@
     "profileUrl": "https://monerica.com/site/sanswap",
     "website": "https://sanswap.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -19797,7 +19914,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -19821,10 +19938,11 @@
     "subcategory": "Operating Systems",
     "categoryUrl": "https://monerica.com/non-profits/operating-systems",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2024-11-28",
     "description": "Open-source, security-hardened Linux operating system for desktops and servers, built as bootable OCI images on Fedora Atomic with SELinux enabled by default.",
     "added": "2025-11-21",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "secureshift": {
     "name": "SecureShift",
@@ -19832,7 +19950,7 @@
     "profileUrl": "https://monerica.com/site/secureshift",
     "website": "https://secureshift.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Rare KYC",
@@ -19875,7 +19993,7 @@
     "profileUrl": "https://monerica.com/site/sendswap",
     "website": "https://sendswap.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -20179,13 +20297,14 @@
     "subcategory": "Open Source Projects",
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
+    "javascript": "None",
     "tags": [
       "Open Source"
     ],
     "founded": "2023-10-08",
     "description": "A zero-confirmation, javascript-optional, self-hosted monero-only superchat app for livestreams.",
     "added": "2023-10-08",
-    "updated": "2026-01-24"
+    "updated": "2026-11-09"
   },
   "shadowdesk-io": {
     "name": "Shadowdesk.io",
@@ -20193,7 +20312,7 @@
     "profileUrl": "https://monerica.com/site/shadowdesk-io",
     "website": "https://shadowdesk.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -20214,7 +20333,7 @@
     "profileUrl": "https://monerica.com/site/shadowex",
     "website": "https://shadowex.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -20244,6 +20363,7 @@
     "subcategory": "Jurisdiction Not Disclosed",
     "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2026-01-08",
     "description": "Monero-only VPN. No email, no username - just a 4-word token. WireGuard tunnels with shared exit IPs. EU and US servers. Onion mirror available.",
     "rating": {
@@ -20251,7 +20371,7 @@
       "reviews": 1
     },
     "added": "2026-01-21",
-    "updated": "2026-11-03"
+    "updated": "2026-11-09"
   },
   "shadowswap": {
     "name": "Shadowswap",
@@ -20265,7 +20385,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -20302,7 +20422,7 @@
     "profileUrl": "https://monerica.com/site/shieldmyass",
     "website": "https://www.shieldmyass.xyz",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -20378,6 +20498,7 @@
     "categoryUrl": "https://monerica.com/businesses/proxy-shopping",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -20388,7 +20509,7 @@
     "founded": "2019-06-16",
     "description": "Privacy-first concierge. Travel: flights, hotels, emergencies, cancellation support, security. Cars: global sourcing. Anything else: watches to server racks. No tracking.",
     "added": "2022-06-22",
-    "updated": "2026-06-23"
+    "updated": "2026-11-09"
   },
   "should-have-used-monero": {
     "name": "Should Have Used Monero",
@@ -20399,10 +20520,11 @@
     "subcategory": "Knowledge",
     "categoryUrl": "https://monerica.com/education/knowledge",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2021-05-23",
     "description": "Timeline of real events where Monero (XMR) would have been a better payment choice: frozen funds, banned accounts, flagged CoinJoins, compliant mining and Bitcoin tracing.",
     "added": "2025-07-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "shouldhaveusedmonero-com": {
     "name": "ShouldHaveUsedMonero.com",
@@ -20441,7 +20563,7 @@
     "slug": "shroud-finance",
     "profileUrl": "https://monerica.com/site/shroud-finance",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -20517,7 +20639,7 @@
     "profileUrl": "https://monerica.com/site/silent-exchange",
     "website": "https://silent.exchange",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Rare KYC",
@@ -20607,7 +20729,7 @@
     "profileUrl": "https://monerica.com/site/silentxmr",
     "website": "https://silentxmr.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -20691,10 +20813,11 @@
     "subcategory": "eSIMs & SIM Cards",
     "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2003-05-24",
     "description": "Travel eSIMs for 220+ countries and China. Orange/Three plans offer SMS-capable numbers and calls. Instant delivery.",
     "added": "2026-09-22",
-    "updated": "2026-10-24"
+    "updated": "2026-11-09"
   },
   "simplelogin": {
     "name": "SimpleLogin",
@@ -20718,7 +20841,7 @@
     "profileUrl": "https://monerica.com/site/simpleswap",
     "website": "https://simpleswap.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Rare KYC",
@@ -20800,10 +20923,10 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "country": "EE",
     "founded": "2019-12-02",
@@ -20813,7 +20936,7 @@
       "reviews": 1
     },
     "added": "2023-09-12",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "simxl": {
     "name": "SimXL",
@@ -20856,10 +20979,11 @@
     "subcategory": "Individuals",
     "categoryUrl": "https://monerica.com/non-profits/individuals",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2013-05-24",
     "description": "Personal site by mirai sharing privacy, anonymity, and piracy-related tools and guides.",
     "added": "2026-02-03",
-    "updated": "2026-08-12"
+    "updated": "2026-11-09"
   },
   "skhron": {
     "name": "Skhron",
@@ -20924,6 +21048,7 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/voip-calling-and-messaging",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -20935,7 +21060,7 @@
       "reviews": 1
     },
     "added": "2026-05-19",
-    "updated": "2026-10-24"
+    "updated": "2026-11-09"
   },
   "slip-io-no-kyc-swap-rate-comparator": {
     "name": "Slip.io - No-KYC Swap Rate Comparator",
@@ -20994,6 +21119,7 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
+    "javascript": "None",
     "tags": [
       "VPS"
     ],
@@ -21001,7 +21127,7 @@
     "founded": "2025-12-24",
     "description": "VPS servers hosted on OpenBSD in Spokane, WA. Hardware is 100% owned and racked by SlowServers.",
     "added": "2026-01-14",
-    "updated": "2026-07-24"
+    "updated": "2026-11-09"
   },
   "smarttube-app": {
     "name": "SmartTube App",
@@ -21067,10 +21193,10 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/sms-verification-and-virtual-numbers",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "API Available",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2026-11-04",
     "description": "Rent a temporary mobile number to receive one SMS verification code. 2,700+ services, automatic refund if no code arrives. Account is a random key; Tor mirror.",
@@ -21115,7 +21241,7 @@
     "profileUrl": "https://monerica.com/site/snapswap-io",
     "website": "https://snapswap.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -21187,6 +21313,7 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
+    "javascript": "Required",
     "tags": [
       "Sells Dedicated Servers",
       "VPS"
@@ -21194,7 +21321,7 @@
     "country": "CH",
     "description": "Dedicated servers, cloud hosting, VPS, DDoS protection, colocation, CDN, object storage s3, dedicated VPN, WordPress, Drupal, Joomla.",
     "added": "2025-09-05",
-    "updated": "2026-03-18"
+    "updated": "2026-11-09"
   },
   "solar-swap": {
     "name": "Solar Swap",
@@ -21202,7 +21329,7 @@
     "profileUrl": "https://monerica.com/site/solar-swap",
     "website": "https://solarswap.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Varies By Provider",
@@ -21309,10 +21436,10 @@
     "categoryUrl": "https://monerica.com/businesses/proxy-shopping",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2021-06-22",
@@ -21326,7 +21453,7 @@
     "profileUrl": "https://monerica.com/site/sovereign-swap",
     "website": "https://www.sovereignswap.com/swap",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -21382,7 +21509,7 @@
     "profileUrl": "https://monerica.com/site/spectreswap",
     "website": "https://spectreswap.org",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -21459,7 +21586,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -21616,20 +21743,20 @@
     "profileUrl": "https://monerica.com/site/sshwap",
     "website": "https://www.sshwap.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "founded": "2026-05-08",
     "description": "A terminal-UI cryptocurrency swapper accessible over SSH. It works on any device with a terminal emulator, an SSH client and low bandwidth internet.",
     "added": "2026-05-09",
-    "updated": "2026-07-04"
+    "updated": "2026-11-09"
   },
   "stack-wallet": {
     "name": "Stack Wallet",
@@ -21668,7 +21795,7 @@
     "profileUrl": "https://monerica.com/site/stakecube",
     "website": "https://stakecube.net/",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "liquidity": "Own",
@@ -21749,10 +21876,11 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2017-07-31",
     "description": "Free public BitTorrent tracker (open.stealth.si) running opentracker over UDP with IPv4 and IPv6, no connection logs or torrent files, and Monero (XMR) donations.",
     "added": "2026-08-15",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "stealthex": {
     "name": "StealthEX",
@@ -21760,7 +21888,7 @@
     "profileUrl": "https://monerica.com/site/stealthex",
     "website": "https://stealthex.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -21813,7 +21941,7 @@
     "profileUrl": "https://monerica.com/site/stereoswap",
     "website": "https://stereoswap.app/en",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -21899,7 +22027,7 @@
     "profileUrl": "https://monerica.com/site/stoxswap-swapper",
     "website": "https://www.stoxswap.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -21981,6 +22109,7 @@
     "categoryUrl": "https://monerica.com/businesses/food-and-drink-in-person",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -21988,7 +22117,7 @@
     "country": "AR",
     "description": "Supermarket in La Plata, Buenos Aires, Argentina, on Avenida 66 between 160 and 161, selling groceries and everyday goods. Accepts Monero (XMR).",
     "added": "2024-01-26",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "superswap": {
     "name": "Superswap",
@@ -21996,7 +22125,7 @@
     "profileUrl": "https://monerica.com/site/superswap",
     "website": "https://superswap.cx",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -22046,7 +22175,7 @@
     "profileUrl": "https://monerica.com/site/swap-bz",
     "website": "https://swap.bz/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -22068,7 +22197,7 @@
     "profileUrl": "https://monerica.com/site/swapcore",
     "website": "https://swapcore.exchange/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -22090,7 +22219,7 @@
     "profileUrl": "https://monerica.com/site/swapgate",
     "website": "https://swapgate.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
@@ -22133,21 +22262,21 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Own & Third-Party",
     "rates": "Fixed & Float",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "founded": "2026-10-03",
     "description": "Account-free instant swaps between XMR, BTC (incl. Lightning), ETH, USDT and 25+ coins with fixed or floating rates, routed to whichever liquidity pays out the most.",
     "added": "2026-11-03",
-    "updated": "2026-11-03"
+    "updated": "2026-11-09"
   },
   "swapped": {
     "name": "Swapped",
@@ -22155,7 +22284,7 @@
     "profileUrl": "https://monerica.com/site/swapped",
     "website": "https://swapped.gg",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -22181,7 +22310,7 @@
     "profileUrl": "https://monerica.com/site/swapper",
     "website": "https://xmrtousdc.xyz",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -22203,7 +22332,7 @@
     "profileUrl": "https://monerica.com/site/swappix",
     "website": "https://swappix.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -22235,9 +22364,9 @@
     "categoryUrl": "https://monerica.com/other-directories/exchange-monitors",
     "status": "Verified",
     "kycPolicy": "Varies By Provider",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "JavaScript Optional",
       "Sells Sponsorship"
     ],
     "country": "US",
@@ -22255,7 +22384,7 @@
     "slug": "swaprocket",
     "profileUrl": "https://monerica.com/site/swaprocket",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -22333,7 +22462,7 @@
     "profileUrl": "https://monerica.com/site/swapss",
     "website": "https://swapss.lol/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -22357,7 +22486,7 @@
     "profileUrl": "https://monerica.com/site/swapswop",
     "website": "https://swapswop.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "liquidity": "Third Party",
@@ -22376,7 +22505,7 @@
     "slug": "swapter",
     "profileUrl": "https://monerica.com/site/swapter",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
@@ -22400,11 +22529,12 @@
     "profileUrl": "https://monerica.com/site/swaptrade",
     "website": "https://www.swaptrade.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -22413,7 +22543,7 @@
     "founded": "2024-09-11",
     "description": "Global crypto exchange with an instant swap platform and an advanced trading platform for Bitcoin, Ethereum and other cryptocurrencies.",
     "added": "2025-12-05",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "swapuz": {
     "name": "Swapuz",
@@ -22421,7 +22551,7 @@
     "profileUrl": "https://monerica.com/site/swapuz",
     "website": "https://swapuz.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -22529,10 +22659,11 @@
     "profileUrl": "https://monerica.com/site/symbiosis",
     "website": "https://app.symbiosis.finance/swap",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "liquidity": "Third Party",
+    "javascript": "Required",
     "tags": [
       "Account Not Required"
     ],
@@ -22540,7 +22671,7 @@
     "founded": "2021-05-06",
     "description": "Non-custodial cross-chain swap and bridge protocol linking Bitcoin, Monero (XMR), Solana, Tron, Zcash and 50+ EVM networks, with smart routing across liquidity sources.",
     "added": "2026-04-09",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "tallhatdoug-mining-pool": {
     "name": "TallHatDoug Mining Pool",
@@ -22551,6 +22682,7 @@
     "subcategory": "Pools",
     "categoryUrl": "https://monerica.com/mining/pools",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2024-10-26",
     "description": "Monero (XMR) mining pool with SSL stratum, live pool and network stats, a miner dashboard and an XMRig setup guide.",
     "rating": {
@@ -22558,7 +22690,7 @@
       "reviews": 1
     },
     "added": "2025-09-04",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "tarnkappe": {
     "name": "Tarnkappe",
@@ -23005,7 +23137,7 @@
     "profileUrl": "https://monerica.com/site/tidoex",
     "website": "https://tidoex.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -23067,10 +23199,11 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2009-06-21",
     "description": "Tixati is a free BitTorrent client for Windows, Linux and Android with DHT, PEX and magnet link support, RSS, IP filtering and bandwidth charting. Accepts Monero donations.",
     "added": "2025-06-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "tokensfund": {
     "name": "Tokensfund",
@@ -23151,6 +23284,7 @@
     "subcategory": "Specialized or Niche Hosting Services",
     "categoryUrl": "https://monerica.com/web-hosting/specialized-or-niche-hosting-services",
     "status": "Verified",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -23163,7 +23297,7 @@
       "reviews": 2
     },
     "added": "2025-11-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "torchbyte": {
     "name": "torchbyte",
@@ -23305,12 +23439,12 @@
     "status": "Verified",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "country": "KN",
     "founded": "2022-09-01",
@@ -23333,11 +23467,11 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "Letter of Guarantee",
-      "No JavaScript"
+      "Letter of Guarantee"
     ],
     "founded": "2025-04-29",
     "description": "Exchange cryptocurrency without KYC or verification. This service only operates via SimpleX Chat - Secure & Private (Monero & Shielded ZEC & MWEB) We do not have Telegram.",
@@ -23346,7 +23480,7 @@
       "reviews": 1
     },
     "added": "2025-06-01",
-    "updated": "2026-10-23"
+    "updated": "2026-11-09"
   },
   "tuxstix": {
     "name": "TuxStix",
@@ -23368,7 +23502,7 @@
     "profileUrl": "https://monerica.com/site/uex-us",
     "website": "https://uex.us",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -23388,10 +23522,11 @@
     "subcategory": "Public Remote Nodes & Operators",
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2024-10-29",
     "description": "Public Monero (XMR) remote node with an associated MoneroBlock blockchain explorer for looking up Monero blocks and transactions.",
     "added": "2025-11-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "uly-xyz": {
     "name": "Uly.XYZ",
@@ -23709,9 +23844,9 @@
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Email Not Required",
-      "JavaScript Optional",
       "Sells Sponsorship"
     ],
     "country": "SE",
@@ -23818,7 +23953,7 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
@@ -23896,7 +24031,7 @@
     "profileUrl": "https://monerica.com/site/vertexchange",
     "website": "https://vertexchange.pro/en",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -24048,10 +24183,11 @@
     "subcategory": "Search Engines",
     "categoryUrl": "https://monerica.com/non-profits/search-engines",
     "status": "Admitted",
+    "javascript": "None",
     "country": "DE",
     "description": "A darknet search engine with categorization of search results into three security levels. The goal is to provide results with a focus on reliable and genuine sites.",
     "added": "2025-06-16",
-    "updated": "2026-08-24"
+    "updated": "2026-11-09"
   },
   "vosto-emisio": {
     "name": "VOSTO EMISIO",
@@ -24233,10 +24369,11 @@
     "subcategory": "Knowledge",
     "categoryUrl": "https://monerica.com/non-profits/knowledge",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2021-12-18",
     "description": "This repository is a curated list of web3 security information from opensource. Select the category of interest from the main menu.",
     "added": "2025-08-10",
-    "updated": "2026-02-16"
+    "updated": "2026-11-09"
   },
   "wagyu-xyz": {
     "name": "Wagyu.xyz",
@@ -24244,7 +24381,7 @@
     "profileUrl": "https://monerica.com/site/wagyu-xyz",
     "website": "https://wagyu.xyz/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -24274,6 +24411,7 @@
     "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -24281,7 +24419,7 @@
     "founded": "2026-03-22",
     "description": "Privacy tools: Ghost Mail, Dead Drop (encrypted file sharing), SMS Wall (disposable numbers), eSIM (anonymous data plans), Ghost Chat (encrypted messaging).",
     "added": "2026-04-02",
-    "updated": "2026-04-02"
+    "updated": "2026-11-09"
   },
   "ward-s-ace-and-country-store": {
     "name": "Ward's ACE & Country Store",
@@ -24398,7 +24536,7 @@
     "profileUrl": "https://monerica.com/site/weex",
     "website": "https://www.weex.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -24465,7 +24603,7 @@
     "profileUrl": "https://monerica.com/site/whitebit",
     "website": "https://whitebit.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -24513,10 +24651,11 @@
     "subcategory": "Search Engines",
     "categoryUrl": "https://monerica.com/non-profits/search-engines",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2017-07-20",
     "description": "Wiby is a free search engine for the classic web, indexing lightweight hobbyist and personal pages that also suit vintage computers; open-source software under GPLv2.",
     "added": "2025-09-25",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "wikileaks": {
     "name": "WikiLeaks",
@@ -24527,13 +24666,14 @@
     "subcategory": "Media",
     "categoryUrl": "https://monerica.com/non-profits/media",
     "status": "Verified",
+    "javascript": "None",
     "tags": [
       "Account Not Required"
     ],
     "founded": "2006-10-04",
     "description": "Specializes in the analysis and publication of large datasets of censored or otherwise restricted official materials involving war, spying and corruption",
     "added": "2022-06-22",
-    "updated": "2026-10-01"
+    "updated": "2026-11-09"
   },
   "wikipedia-monero": {
     "name": "Wikipedia - Monero",
@@ -24616,18 +24756,18 @@
     "profileUrl": "https://monerica.com/site/wizardswap",
     "website": "https://www.wizardswap.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Float",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "country": "NL",
     "founded": "2020-10-07",
@@ -24663,10 +24803,11 @@
     "categoryUrl": "https://monerica.com/businesses/ai-services",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "founded": "2025-12-02",
     "description": "Unrestricted AI. No filters, no limits, no boundaries. Advanced code generation, security research, and unrestricted content creation.",
     "added": "2026-06-07",
-    "updated": "2026-06-07"
+    "updated": "2026-11-09"
   },
   "wtf-is-xmr": {
     "name": "WTF is XMR?",
@@ -24708,19 +24849,19 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Float",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
       "Email Not Required",
-      "Letter of Guarantee",
-      "No JavaScript"
+      "Letter of Guarantee"
     ],
     "country": "MH",
     "founded": "2017-01-01",
@@ -24730,7 +24871,7 @@
       "reviews": 4
     },
     "added": "2024-10-09",
-    "updated": "2026-09-03"
+    "updated": "2026-11-09"
   },
   "xcubicle": {
     "name": "xCubicle",
@@ -24797,7 +24938,7 @@
     "profileUrl": "https://monerica.com/site/xgram",
     "website": "https://xgram.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Shotgun KYC",
@@ -25044,10 +25185,10 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "founded": "2026-05-21",
     "description": "No KYC. No bullshit. No accounts. Drop the ball, win Monero. Provably fair Plinko you can verify yourself, so bring your own wallet and send it.",
@@ -25137,6 +25278,7 @@
     "categoryUrl": "https://monerica.com/businesses/proxy-shopping",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -25144,7 +25286,7 @@
     "founded": "2021-06-08",
     "description": "Buy anything & Pay with Monero. Thousands of products: electronics, laptops, phones audiobooks & more. No accounts, no tracking, no middlemen. Fully private.",
     "added": "2026-04-19",
-    "updated": "2026-04-19"
+    "updated": "2026-11-09"
   },
   "xmr-tw-org": {
     "name": "xmr-tw.org",
@@ -25185,10 +25327,11 @@
     "subcategory": "Address Verification",
     "categoryUrl": "https://monerica.com/utilities/address-verification",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2025-12-22",
     "description": "Verified Monero (XMR) identity profiles: claim a name tied to your Monero address, with OpenAlias resolution and signed, machine-readable addresses.",
     "added": "2025-12-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "xmr-cards": {
     "name": "XMR.CARDS",
@@ -25206,10 +25349,10 @@
     "categoryUrl": "https://monerica.com/cards/gift-cards",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2025-06-02",
@@ -25219,7 +25362,7 @@
       "reviews": 16
     },
     "added": "2025-09-03",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "xmr-club": {
     "name": "xmr.club",
@@ -25272,10 +25415,11 @@
     "subcategory": "Public Remote Nodes & Operators",
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2025-08-28",
     "description": "Public Monero (XMR) remote node reachable over clearnet, Tor, I2P and Yggdrasil, using the Monero ban list to block spy nodes. Sponsored by IncogNET LLC.",
     "added": "2025-09-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "xmr-id": {
     "name": "XMR.ID",
@@ -25328,10 +25472,11 @@
     "subcategory": "Public Remote Nodes & Operators",
     "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2024-03-29",
     "description": "Public Monero (XMR) remote nodes run by RavFX over clearnet, Tor and I2P, with live height and status, plus a Monero block explorer at explorer.xmr.mx.",
     "added": "2026-09-28",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "xmr-poker": {
     "name": "xmr.poker",
@@ -25348,13 +25493,14 @@
     "subcategory": "Gambling",
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Admitted",
+    "javascript": "None",
     "tags": [
       "Open Source"
     ],
     "founded": "2021-02-05",
     "description": "Theoretically anonymous poker tables that exclusively use Monero. No limit Texas Hold 'Em You can choose from one of the set stakes or rent a private server. Low rakes of 1%",
     "added": "2023-11-15",
-    "updated": "2026-08-19"
+    "updated": "2026-11-09"
   },
   "xmr-pw": {
     "name": "XMR.pw",
@@ -25394,15 +25540,15 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "founded": "2026-10-20",
     "description": "XMR.sarl is a privacy-first betting site that runs entirely on Monero (XMR). You don't register with an email or username he site generates a random accounts.",
     "added": "2026-10-23",
-    "updated": "2026-10-23"
+    "updated": "2026-11-09"
   },
   "xmr-tx-taxi": {
     "name": "xmr.tx.taxi",
@@ -25427,10 +25573,11 @@
     "subcategory": "Guides",
     "categoryUrl": "https://monerica.com/education/guides",
     "status": "Admitted",
+    "javascript": "None",
     "founded": "2025-11-09",
     "description": "It is possible to achieve total freedom through the use of encryption and computer networks. Learn how here.",
     "added": "2026-01-06",
-    "updated": "2026-06-23"
+    "updated": "2026-11-09"
   },
   "xmr-win": {
     "name": "XMR.WIN",
@@ -25442,6 +25589,7 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program",
       "API Available",
@@ -25450,7 +25598,7 @@
     "founded": "2026-05-30",
     "description": "Prediction market for trading YES/NO shares on real-world events with Monero (XMR). No email needed to sign up; a REST API and MCP server let AI agents and bots trade.",
     "added": "2026-05-30",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "xmr2cex": {
     "name": "xmr2cex",
@@ -25464,19 +25612,19 @@
       }
     ],
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Float",
+    "javascript": "None",
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
       "DMCA Ignored",
       "Email Not Required",
-      "No JavaScript",
       "Owns Physical Servers"
     ],
     "founded": "2026-01-16",
@@ -25486,7 +25634,7 @@
       "reviews": 2
     },
     "added": "2026-01-30",
-    "updated": "2026-10-23"
+    "updated": "2026-11-09"
   },
   "xmr402": {
     "name": "XMR402",
@@ -25533,9 +25681,9 @@
     "categoryUrl": "https://monerica.com/businesses/marketplaces",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Email Not Required",
-      "JavaScript Optional",
       "Sells Sponsorship"
     ],
     "country": "US",
@@ -25557,14 +25705,14 @@
     "subcategory": "Blockchain Explorers",
     "categoryUrl": "https://monerica.com/utilities/blockchain-explorers",
     "status": "Admitted",
+    "javascript": "None",
     "tags": [
-      "No JavaScript",
       "Open Source"
     ],
     "founded": "2016-09-22",
     "description": "Open-source Monero (XMR) blockchain explorer with no JavaScript, cookies or trackers. Look up blocks, transactions and the mempool; testnet and stagenet explorers linked.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "xmrchan": {
     "name": "XMRchan",
@@ -25576,10 +25724,10 @@
     "categoryUrl": "https://monerica.com/communities/forums",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "JavaScript Optional"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2026-11-01",
@@ -25728,10 +25876,10 @@
     "categoryUrl": "https://monerica.com/merchant-services/integrations",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "JavaScript Optional",
       "Open Source"
     ],
     "country": "EC",
@@ -25749,10 +25897,11 @@
     "subcategory": "Charts, Prices & Market Data",
     "categoryUrl": "https://monerica.com/finance/charts-and-portfolios",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2026-03-05",
     "description": "Real-time Monero (XMR) price tracker showing street buy/sell prices across swap services, premium vs. market, network hashrate and swap-engine reliability.",
     "added": "2026-03-10",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "xmrprivate": {
     "name": "XMRPrivate",
@@ -25760,7 +25909,7 @@
     "profileUrl": "https://monerica.com/site/xmrprivate",
     "website": "https://xmrprivate.com/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
@@ -25779,7 +25928,7 @@
     "profileUrl": "https://monerica.com/site/xmrs",
     "website": "https://xmrs.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -25838,10 +25987,11 @@
     "subcategory": "Blockchain Explorers",
     "categoryUrl": "https://monerica.com/utilities/blockchain-explorers",
     "status": "Admitted",
+    "javascript": "Required",
     "founded": "2021-10-18",
     "description": "Monero (XMR) block explorer web app (MoneroVision) for looking up blocks and transactions on the Monero blockchain.",
     "added": "2025-01-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "xmrsim": {
     "name": "XMRSIM",
@@ -25859,15 +26009,15 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "No JavaScript"
+      "Email Not Required"
     ],
     "founded": "2026-03-13",
     "description": "Anonymous Monero eSIM Plans. 190+ countries. No KYC, no JavaScript, no email required. Tor supported.",
     "added": "2026-03-14",
-    "updated": "2026-10-24"
+    "updated": "2026-11-09"
   },
   "xmrstreet": {
     "name": "XmrStreet",
@@ -25960,7 +26110,7 @@
     "profileUrl": "https://monerica.com/site/xt-com",
     "website": "https://www.xt.com/",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
@@ -25992,7 +26142,7 @@
     "profileUrl": "https://monerica.com/site/xxkk",
     "website": "https://www.xxkk.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Admitted",
     "liquidity": "Own",
@@ -26008,7 +26158,7 @@
     "profileUrl": "https://monerica.com/site/ybex-io",
     "website": "https://ybex.io/",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -26025,7 +26175,7 @@
     "profileUrl": "https://monerica.com/site/yellowchanger",
     "website": "https://yellowchanger.com",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Questionable",
     "kycPolicy": "Shotgun KYC",
@@ -26085,7 +26235,7 @@
     "profileUrl": "https://monerica.com/site/yourcryptopal",
     "website": "http://yourcryptopal.com",
     "category": "Exchanges",
-    "subcategory": "Centralized Exchanges",
+    "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
@@ -26115,7 +26265,7 @@
     "profileUrl": "https://monerica.com/site/zanox",
     "website": "https://zanox.io",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "liquidity": "Third Party",
@@ -26202,13 +26352,14 @@
     "subcategory": "Open Source Projects",
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
+    "javascript": "None",
     "tags": [
       "Open Source"
     ],
     "founded": "2025-12-31",
     "description": "The first trustless, permissionless wrapped Monero. Verify real XMR transactions on-chain without revealing your secrets.",
     "added": "2026-01-10",
-    "updated": "2026-02-16"
+    "updated": "2026-11-09"
   },
   "zerokyc-pay": {
     "name": "ZeroKYC Pay",
@@ -26235,7 +26386,7 @@
     "profileUrl": "https://monerica.com/site/zest-exchange",
     "website": "https://zest.exchange",
     "category": "Exchanges",
-    "subcategory": "Instant Swaps",
+    "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
@@ -26259,6 +26410,7 @@
     "categoryUrl": "https://monerica.com/exchanges/atomic-swaps",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -26266,7 +26418,7 @@
     "founded": "2026-07-28",
     "description": "Non-custodial BTC to XMR atomic swaps in your browser. No account, no KYC, your keys never leave.",
     "added": "2026-08-05",
-    "updated": "2026-09-30"
+    "updated": "2026-11-09"
   },
   "zhuk": {
     "name": "Zhuk",
@@ -26314,6 +26466,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "javascript": "Required",
     "tags": [
       "Account Not Required",
       "Email Not Required",
@@ -26328,7 +26481,7 @@
       "reviews": 1
     },
     "added": "2026-08-14",
-    "updated": "2026-09-24"
+    "updated": "2026-11-09"
   },
   "zone94": {
     "name": "Zone94",
