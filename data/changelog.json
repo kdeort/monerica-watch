@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-10T06:50:15Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Hostealo",
+    "slug": "hostealo",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/hostealo",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-10T06:50:15Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "justhost.ru",
+    "slug": "justhost-ru",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/justhost-ru",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
     "timestamp": "2026-11-10T00:36:06Z",
     "type": "NEW_LISTING",
     "severity": "info",

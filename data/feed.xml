@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Tue, 10 Nov 2026 00:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:50:15 +0000</lastBuildDate>
+    <item>
+      <title>[REMOVED_LISTING] Hostealo — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/hostealo</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">hostealo-REMOVED_LISTING-2026-11-10T06:50:15Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] justhost.ru — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/justhost-ru</link>
+      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">justhost-ru-REMOVED_LISTING-2026-11-10T06:50:15Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] OmaMonero — Added to directory (Status: Admitted, KYC: Not Stated)</title>
       <link>https://monerica.com/site/omamonero</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/xedo</link>
       <description>Category: Phone &amp; SMS › SMS Verification &amp; Virtual Numbers | Status changed: Admitted → Scam</description>
       <guid isPermaLink="false">xedo-STATUS_CHANGE-2026-11-05T18:41:28Z</guid>
-    </item>
-    <item>
-      <title>[WARNING_ADDED] Xedo — Warning added: Listed as a scam: do not use.</title>
-      <link>https://monerica.com/site/xedo</link>
-      <description>Category: Phone &amp; SMS › SMS Verification &amp; Virtual Numbers | Warning added: Listed as a scam: do not use.</description>
-      <guid isPermaLink="false">xedo-WARNING_ADDED-2026-11-05T18:41:28Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Nonease — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
-      <link>https://monerica.com/site/nonease</link>
-      <description>Category: Exchanges › Instant Swaps | Added to directory (Status: Admitted, KYC: Shotgun KYC)</description>
-      <guid isPermaLink="false">nonease-NEW_LISTING-2026-11-05T12:49:50Z</guid>
     </item>
   </channel>
 </rss>
