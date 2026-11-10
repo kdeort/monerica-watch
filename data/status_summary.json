@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-09T18:17:15Z",
-  "total": 1440,
+  "generated": "2026-11-09T23:52:10Z",
+  "total": 1442,
   "verified": 283,
-  "admitted": 1002,
+  "admitted": 1004,
   "questionable": 94,
   "scam": 61,
-  "no_kyc": 361,
-  "tor_enabled": 146,
+  "no_kyc": 363,
+  "tor_enabled": 147,
   "active_warnings": [
     {
       "name": "Cryptostamps",
@@ -26,6 +26,16 @@
       "status": "Questionable",
       "kycPolicy": "Not Stated",
       "warning": "Marked as Questionable",
+      "updated": "2026-11-09"
+    },
+    {
+      "name": "NoData Hosting Solutions",
+      "slug": "nodata-hosting-solutions",
+      "profileUrl": "https://monerica.com/site/nodata-hosting-solutions",
+      "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
       "updated": "2026-11-09"
     },
     {
@@ -495,16 +505,6 @@
       "category": "Exchanges \u203a Decentralized Exchanges",
       "status": "Questionable",
       "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-10-30"
-    },
-    {
-      "name": "IncogNET",
-      "slug": "incognet",
-      "profileUrl": "https://monerica.com/site/incognet",
-      "category": "Web Hosting \u203a Tor & Onion Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
       "warning": "Marked as Questionable",
       "updated": "2026-10-30"
     }

@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-10T00:36:06Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "OmaMonero",
+    "slug": "omamonero",
+    "category": "Utilities \u203a Open Source Projects",
+    "profileUrl": "https://monerica.com/site/omamonero",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-10T00:36:06Z",
+    "type": "KYC_CHANGE",
+    "severity": "medium",
+    "name": "PhantomVPS",
+    "slug": "phantomvps",
+    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
+    "profileUrl": "https://monerica.com/site/phantomvps",
+    "detail": "KYC policy changed: Not Stated \u2192 Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-11-10T00:36:06Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Protagonist Exchange",
+    "slug": "protagonist-exchange",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/protagonist-exchange",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-09T18:41:23Z",
     "type": "NEW_LISTING",
     "severity": "info",

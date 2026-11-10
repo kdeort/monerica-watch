@@ -131,9 +131,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/tor-and-onion-hosting",
     "status": "Questionable",
     "tags": [
-      "Sells Domain Registration",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "country": "IS",
     "founded": "2020-12-23",
@@ -150,10 +148,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "LT",
     "founded": "2013-09-12",
     "description": "Server hosting provider offering bare metal dedicated servers in the USA, Europe and Asia, GPU servers, Linux and Windows VPS, RDP and Forex VPS, with crypto payment.",
@@ -304,11 +298,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "UA",
     "founded": "2016-02-29",
     "description": "Ukrainian hosting provider with data centers in Kyiv, Amsterdam & Washington. Offers VPS, dedicated servers, and domain name sales across DNS zones.",
@@ -448,9 +437,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "SE",
     "founded": "2016-02-14",
@@ -614,10 +601,6 @@
     "subcategory": "Cloud & Web Hosting Providers",
     "categoryUrl": "https://monerica.com/web-hosting/cloud-and-web-hosting-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2020-08-19",
     "description": "Affordable cloud VPS servers, dedicated servers, and web hsoting. We offer reliable and quality hosting solutions located all across the world.",
@@ -804,14 +787,13 @@
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
     "status": "Admitted",
     "tags": [
-      "DMCA Ignored",
-      "Sells Dedicated Servers"
+      "DMCA Ignored"
     ],
     "country": "MD",
     "founded": "2008-02-29",
-    "description": "Offshore Hosting based in Republic of Moldova, DMCA Ignored, VPS in many countries in Europe. Own Datacenter, Network, Hardware in Republic of Moldova. We have offshore server",
+    "description": "Offshore hosting from Moldova on its own datacenter, network and hardware: DMCA-ignored VPS across Europe, dedicated servers, web hosting and domains.",
     "added": "2023-07-29",
-    "updated": "2026-07-24"
+    "updated": "2026-11-09"
   },
   "alfacash": {
     "name": "Alfacash",
@@ -1019,11 +1001,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2010-11-13",
     "description": "RDP, VPS, dedicated server and proxy provider with locations in the USA, UK, Canada, Germany, France, Netherlands, Switzerland and Australia. Accepts Monero (XMR).",
@@ -1230,10 +1207,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration"
-    ],
     "country": "GB",
     "founded": "2023-10-04",
     "description": "Offshore and bulletproof hosting provider selling VPS/RDP and dedicated servers in Lithuania, Netherlands, Sweden and the US, plus domains, FastFlux and web hosting.",
@@ -1276,9 +1249,7 @@
     "tags": [
       "Account Not Required",
       "DMCA Ignored",
-      "Email Not Required",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Email Not Required"
     ],
     "country": "MD",
     "description": "Privacy-focused offshore shared web hosting, VPS and dedicated servers in Moldova, payable with Monero (XMR); order via XMRbazaar or by email/XMPP. Tor friendly.",
@@ -1574,10 +1545,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Questionable",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2018-08-29",
     "description": "Web hosting, WordPress hosting, reseller hosting, offshore hosting, VPS, RDP and dedicated servers.",
@@ -1636,8 +1603,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "US",
     "founded": "2011-01-05",
@@ -1669,9 +1635,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "US",
     "founded": "2020-08-09",
@@ -1749,9 +1713,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/domain-registration-and-dns-services",
     "status": "Questionable",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration"
+      "Affiliate Program"
     ],
     "country": "MD",
     "founded": "2023-04-11",
@@ -1883,10 +1845,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "LT",
     "founded": "2010-04-22",
@@ -2019,9 +1978,6 @@
     "subcategory": "Domain Registration & DNS Services",
     "categoryUrl": "https://monerica.com/web-hosting/domain-registration-and-dns-services",
     "status": "Admitted",
-    "tags": [
-      "Sells Domain Registration"
-    ],
     "country": "US",
     "founded": "2022-09-03",
     "description": "DDoS protection, global caching CDN, managed DNS with geo-targeting and failover, and WAF for websites. Partly open source; accepts Monero (XMR) and other crypto.",
@@ -2081,10 +2037,6 @@
     "subcategory": "Gaming Servers",
     "categoryUrl": "https://monerica.com/web-hosting/gaming-servers",
     "status": "Admitted",
-    "tags": [
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "EE",
     "founded": "2016-02-15",
     "description": "Hosting provider offering domains, cPanel and ISPmanager shared hosting, cloud and Windows KVM VPS, dedicated and game servers, reseller hosting and website builder.",
@@ -2518,9 +2470,6 @@
     "subcategory": "Business Directories",
     "categoryUrl": "https://monerica.com/other-directories/business-directories",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "founded": "2019-08-09",
     "description": "Regularly updated list of crypto-friendly VPS, dedicated server, VDS, VPN, email and domain hosting providers, noting which accept Monero (XMR) and other coins.",
     "added": "2026-01-22",
@@ -3021,10 +2970,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "MO",
     "founded": "2014-02-18",
     "description": "Hosting provider offering DDoS-protected cloud NVMe VPS, dedicated servers, web hosting, domain names, SSL certificates and cPanel licenses, headquartered in Macau.",
@@ -3120,9 +3065,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "BG",
     "founded": "2021-11-16",
@@ -3142,13 +3085,11 @@
     "javascript": "Required",
     "tags": [
       "Affiliate Program",
-      "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Owns Physical Servers"
     ],
     "country": "EE",
     "founded": "2010-03-24",
-    "description": "Instant setup, KVM virtualization, VNC access, convenient remote VPS access control.",
+    "description": "KVM VPS with instant setup and VNC access in many locations worldwide, plus dedicated servers.",
     "rating": {
       "average": 4,
       "reviews": 4
@@ -3325,9 +3266,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "AU",
     "founded": "2016-06-27",
@@ -3372,8 +3311,7 @@
     "javascript": "Optional",
     "tags": [
       "Affiliate Program",
-      "Owns Physical Servers",
-      "VPS"
+      "Owns Physical Servers"
     ],
     "country": "NL",
     "founded": "2024-12-01",
@@ -3907,9 +3845,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/cloud-and-web-hosting-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Domain Registration",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "SG",
     "founded": "2011-11-09",
@@ -4242,9 +4178,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Questionable",
-    "tags": [
-      "VPS"
-    ],
     "country": "US",
     "founded": "2022-02-02",
     "description": "Web hosting provider offering managed shared hosting plans, hosting for nonprofits, FTP hosting, and Linux VPS servers on NVMe Intel, NVMe AMD Ryzen, SSD and HDD storage.",
@@ -4295,9 +4228,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "US",
     "founded": "2011-02-22",
@@ -4402,15 +4333,11 @@
     "subcategory": "Offshore & Privacy-Focused Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
     "status": "Admitted",
-    "tags": [
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "RU",
     "founded": "2016-12-04",
-    "description": "Private Domain Registration and Offshore Hosting in multiple locations since 2016.",
+    "description": "Offshore VPS, web hosting and private domain registration in multiple locations since 2016.",
     "added": "2025-07-30",
-    "updated": "2026-10-20"
+    "updated": "2026-11-09"
   },
   "cloaked-wireless": {
     "name": "Cloaked Wireless",
@@ -4458,9 +4385,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Questionable",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "AU",
     "founded": "2015-04-07",
@@ -4477,9 +4402,6 @@
     "subcategory": "Cloud & Web Hosting Providers",
     "categoryUrl": "https://monerica.com/web-hosting/cloud-and-web-hosting-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "AE",
     "founded": "2023-07-09",
     "description": "Cloud VPS hosting with hourly billing, AMD EPYC servers, DDoS protection and a 10 Gbps network, plus Windows, forex and managed VPS. Monero (XMR) is a payment option.",
@@ -4545,8 +4467,7 @@
     "status": "Admitted",
     "tags": [
       "Affiliate Program",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "country": "RO",
     "founded": "2018-12-07",
@@ -4648,9 +4569,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "founded": "2019-03-28",
     "description": "Swiss hosting provider offering dedicated bare metal servers, AMD SEV confidential computing servers and DDoS protection, with payment in Monero (XMR) and other crypto.",
@@ -5127,10 +5046,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2012-02-16",
     "description": "Australian-run web hosting provider offering KVM VPS, cPanel and DirectAdmin shared and reseller hosting, and dedicated servers in US and European data centers.",
@@ -5948,8 +5863,7 @@
       "DMCA Ignored",
       "Email Not Required",
       "Owns Physical Servers",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "country": "BG",
     "founded": "2025-07-05",
@@ -5970,9 +5884,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "DE",
     "description": "Hosting provider in Frankfurt am Main, Germany, offering KVM VPS, dedicated servers, game servers, web hosting, Nextcloud hosting, S3 object storage and colocation.",
     "added": "2024-04-18",
@@ -5989,9 +5900,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "tags": [
-      "Affiliate Program",
-      "Sells Domain Registration",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "DE",
     "founded": "2026-04-17",
@@ -6057,9 +5966,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "IT",
     "founded": "2024-07-05",
     "description": "Hosting provider offering VPS, VDS, game server and shared web hosting plans.",
@@ -6349,9 +6255,7 @@
     "tags": [
       "Affiliate Program",
       "DMCA Ignored",
-      "Email Not Required",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration"
+      "Email Not Required"
     ],
     "founded": "2026-10-06",
     "description": "Offshore Domain | DMCA Ignored Dedicated Servers | DMCA Ignored Site Protection | Privacy Focused | No Email Required",
@@ -6398,9 +6302,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Questionable",
-    "tags": [
-      "VPS"
-    ],
     "country": "US",
     "founded": "2011-04-02",
     "description": "Dedicated servers, dedicated hosting, shared hosting, SSD hosting, reseller hosting, Windows hosting, managed VPS, KVM, Cloud and dedicated servers.",
@@ -6470,9 +6371,6 @@
     "subcategory": "Domain Registration & DNS Services",
     "categoryUrl": "https://monerica.com/web-hosting/domain-registration-and-dns-services",
     "status": "Questionable",
-    "tags": [
-      "Sells Domain Registration"
-    ],
     "country": "HK",
     "founded": "2025-02-14",
     "description": "ICANN-accredited domain registrar based in Hong Kong offering 500+ TLDs, free WHOIS/RDAP privacy, domain transfers and 24/7 support; pays by card or cryptocurrency.",
@@ -6817,10 +6715,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2019-07-08",
     "description": "VPS and dedicated server provider with Windows and Linux VPS, admin RDP, forex, Bluestacks and MikroTik VPS, offered in 30+ VPS and 20+ dedicated server locations.",
@@ -6850,8 +6744,7 @@
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Sells Dedicated Servers"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2018-11-17",
@@ -7219,10 +7112,6 @@
     "subcategory": "Offshore & Privacy-Focused Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "SC",
     "founded": "2020-04-09",
     "description": "Exotic dedicated servers and VPS and other hosting services in areas outside of US diplomatic recognition or cooperative jurisdiction. Anonymous sign-up.",
@@ -7238,9 +7127,6 @@
     "subcategory": "Gaming Servers",
     "categoryUrl": "https://monerica.com/web-hosting/gaming-servers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "US",
     "founded": "2014-12-08",
     "description": "Hosting provider with NVMe VPS, Minecraft, Rust and Valheim game servers, and web hosting, in Dallas, Los Angeles, NYC, Miami, Amsterdam, Singapore, Tokyo and Sydney.",
@@ -7307,10 +7193,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/cloud-and-web-hosting-providers",
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
-    "tags": [
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2023-02-24",
     "description": "Cloud VPS and cPanel web hosting from the Netherlands, with DDoS protection, root or Administrator access, and privacy-focused hosting options.",
@@ -7543,11 +7425,6 @@
     "subcategory": "Domain Registration & DNS Services",
     "categoryUrl": "https://monerica.com/web-hosting/domain-registration-and-dns-services",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "IS",
     "founded": "2012-08-11",
     "description": "Shared hosting, VPS, dedicated servers, domain registrations, DDoS protection and managed Proton",
@@ -8246,8 +8123,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
-      "Email Not Required",
-      "VPS"
+      "Email Not Required"
     ],
     "founded": "2026-04-01",
     "description": "No-KYC VPS on DigitalOcean and OVHcloud across 14 countries and 18 cities. Hourly billing from a prepaid balance, full root access, token-based account, Tor onion site.",
@@ -8312,8 +8188,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers"
+      "Affiliate Program"
     ],
     "country": "NL",
     "founded": "2013-12-28",
@@ -8588,8 +8463,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
-      "Email Not Required",
-      "Sells Dedicated Servers"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2026-09-05",
@@ -8681,9 +8555,7 @@
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
-      "DMCA Ignored",
-      "Sells Domain Registration",
-      "VPS"
+      "DMCA Ignored"
     ],
     "country": "US",
     "founded": "2014-03-14",
@@ -8798,8 +8670,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "API Available",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "country": "GB",
     "founded": "2024-02-14",
@@ -9249,10 +9120,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "EE",
     "founded": "2016-02-16",
     "description": "VPS, dedicated servers, digital services, DevOps, AI and machine learning and more.",
@@ -9269,10 +9136,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Verified",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "SC",
     "founded": "2023-05-14",
@@ -9289,10 +9153,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2015-12-11",
     "description": "Cloud hosting provider offering AMD Ryzen VPS, dedicated and bare-metal servers, shared web hosting, email hosting, S3 object storage, managed databases and WireGuard VPN.",
@@ -9308,10 +9168,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "ES",
     "description": "Spanish hosting provider offering VPS, dedicated servers, game servers and web hosting with anti-DDoS in Madrid, Mainhausen, Eygelshoven and New York.",
     "added": "2025-09-07",
@@ -9326,10 +9182,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "SG",
     "founded": "2017-12-14",
     "description": "VPS hosting provider offering Ryzen NVMe KVM VPS, budget KVM SSD VPS and Ryzen KVM VDS plans for Linux and Windows servers.",
@@ -9346,9 +9198,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "CA",
     "founded": "2010-06-29",
@@ -9366,9 +9216,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "Sells Dedicated Servers"
-    ],
     "country": "UA",
     "founded": "1995-11-04",
     "description": "Reliable VPS & dedicated servers, GPU passthrough VPS for AI/ML, Storage VPS with SAS(HDD)/NVMe in Warsaw & Stockholm. 10 Gbps network. No KYC.",
@@ -9385,10 +9232,7 @@
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "CY",
     "founded": "2016-01-01",
@@ -9409,10 +9253,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "DE",
     "founded": "2015-12-30",
     "description": "Netherlands hosting provider of DDoS-protected dedicated and bare-metal servers, unmetered 10Gbit and 40Gbit bandwidth servers, custom builds and a reseller program.",
@@ -9430,10 +9270,7 @@
     "status": "Questionable",
     "tags": [
       "Affiliate Program",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "country": "NL",
     "description": "Hosting provider in Amsterdam and Tallinn offering dedicated servers, KVM VPS, colocation, IP transit and RIPE LIR services on its own AS207083 network.",
@@ -9450,9 +9287,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "US",
     "founded": "2010-07-07",
@@ -9469,11 +9304,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "BG",
     "founded": "2009-12-12",
     "description": "Hosting provider offering dedicated servers, VPS, colocation, domains, SSL and VPN, with data centers across Europe, the USA, Canada and Hong Kong.",
@@ -9697,8 +9527,6 @@
     "tags": [
       "Affiliate Program",
       "DMCA Ignored",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
       "Sells Tor Exit Hosting"
     ],
     "country": "SC",
@@ -9752,7 +9580,6 @@
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "Owns Physical Servers",
-      "Sells Domain Registration",
       "Sells Tor Exit Hosting"
     ],
     "country": "US",
@@ -9809,10 +9636,7 @@
     "tags": [
       "Affiliate Program",
       "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "country": "US",
     "founded": "2022-08-22",
@@ -9849,11 +9673,6 @@
     "subcategory": "Tor & Onion Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/tor-and-onion-hosting",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "LU",
     "founded": "2012-11-23",
     "description": "Provides shared web hosting, VPS, dedicated servers and domain registration services since 2013. Tor is not blocked. Illegal activities are suspended.",
@@ -10064,9 +9883,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "EE",
     "founded": "2004-12-19",
@@ -10325,10 +10142,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "RU",
     "founded": "2006-10-17",
     "description": "Hosting provider renting DDoS-protected NVMe VPS/VDS, dedicated servers, shared hosting, GPU servers and IP addresses in 80 locations across 41 countries.",
@@ -10551,8 +10364,7 @@
     "tags": [
       "Account Not Required",
       "Affiliate Program",
-      "Email Not Required",
-      "VPS"
+      "Email Not Required"
     ],
     "country": "FI",
     "founded": "2026-03-13",
@@ -10678,22 +10490,22 @@
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
     "tags": [
       "Affiliate Program",
       "DMCA Ignored",
       "Email Not Required",
-      "Owns Physical Servers",
-      "VPS"
+      "Owns Physical Servers"
     ],
     "country": "JP",
     "founded": "2023-02-14",
-    "description": "Privacy focused, free-speech VPS hosting. No KYC, No email or personal details required, no resold hardware, instant VPS provisioning. Sysadmin/Managed Hosting also available.",
+    "description": "Privacy-focused VPS hosting on AMD Epyc and NVMe in Stockholm, plus managed DNS with DNSSEC and API, and sysadmin management. No KYC, no email or name needed to register.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2025-12-25",
-    "updated": "2026-10-24"
+    "updated": "2026-11-09"
   },
   "kobamundii": {
     "name": "Kobamundii",
@@ -11094,8 +10906,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "DMCA Ignored",
-      "Email Not Required",
-      "VPS"
+      "Email Not Required"
     ],
     "country": "RO",
     "founded": "2023-03-02",
@@ -11285,10 +11096,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2014-07-08",
     "description": "Hosting provider offering Linux and Windows KVM VPS with NVMe storage, DDoS protection and dedicated servers in the USA, Switzerland, Germany and Russia.",
@@ -11842,16 +11649,13 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "API Available",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
+      "API Available"
     ],
     "country": "US",
     "founded": "2025-09-26",
-    "description": "Hosting provider offering virtual servers, Windows VPS, proxies and domain registration with anti-DDoS, WAF, a Telegram bot and API. Accepts crypto incl. Monero (XMR).",
+    "description": "Hosting provider offering virtual servers, Windows VPS, dedicated servers, proxies and domain registration with anti-DDoS, WAF, a Telegram bot and API.",
     "added": "2026-04-10",
-    "updated": "2026-10-30"
+    "updated": "2026-11-09"
   },
   "lwsadmin": {
     "name": "lwsadmin",
@@ -11878,10 +11682,6 @@
     "subcategory": "Offshore & Privacy-Focused Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
     "status": "Questionable",
-    "tags": [
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "PH",
     "founded": "2019-07-22",
     "description": "Offshore hosting provider offering shared web hosting, Linux and Windows VPS, dedicated and 10Gbps servers, anti-DDoS, VPN, domains, colocation and managed services.",
@@ -12791,9 +12591,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "MY",
     "founded": "2012-01-15",
@@ -15280,11 +15078,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "LT",
     "founded": "2012-04-17",
     "description": "Hosting provider offering Windows and Linux VPS, Forex VPS, RDP, dedicated servers, domains, web hosting and business email in 25+ locations, accepting Bitcoin since 2011.",
@@ -15301,9 +15094,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/domain-registration-and-dns-services",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "Sells Domain Registration"
-    ],
     "country": "US",
     "founded": "2024-04-16",
     "description": "Privacy-focused Domain Registration, Email Hosting, and SSL Certificates. Your identity, your business.",
@@ -15320,8 +15110,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/domain-registration-and-dns-services",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Domain Registration"
+      "Affiliate Program"
     ],
     "country": "US",
     "founded": "2009-11-21",
@@ -15413,10 +15202,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "GB",
     "founded": "2019-06-10",
     "description": "A UK-based hosting company committed to delivering powerful, secure, and affordable hosting service.",
@@ -15514,8 +15299,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/specialized-or-niche-hosting-services",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "AE",
     "founded": "2008-02-21",
@@ -15557,9 +15341,7 @@
     "javascript": "Required",
     "tags": [
       "Owns Physical Servers",
-      "Sells Domain Registration",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "country": "KN",
     "founded": "2024-01-01",
@@ -15743,15 +15525,11 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "AU",
     "founded": "2004-07-27",
-    "description": "Offers anonymous VPS tailored for businesses, developers, and e-commerce platforms seeking speed.",
+    "description": "Anonymous VPS and dedicated servers for businesses, developers and e-commerce sites.",
     "added": "2025-08-19",
-    "updated": "2026-03-18"
+    "updated": "2026-11-09"
   },
   "neckrez": {
     "name": "Neckrez",
@@ -15765,9 +15543,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Required",
     "tags": [
-      "API Available",
-      "Sells Dedicated Servers",
-      "VPS"
+      "API Available"
     ],
     "country": "UA",
     "founded": "2026-09-13",
@@ -15839,10 +15615,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2011-11-03",
     "description": "VPS hosting provider with NVMe Linux and Windows VPS plans and dedicated servers in Switzerland and Central Europe, plus free site migration and 24/7 support.",
@@ -15928,9 +15700,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Questionable",
-    "tags": [
-      "VPS"
-    ],
     "country": "DM",
     "founded": "2017-04-07",
     "description": "Offshore hosting with web hosting, KVM VPS, dedicated servers, VPN and domains, plus DDoS protection, disk encryption and Tor hosting. Accepts Monero (XMR) and other crypto.",
@@ -16007,10 +15776,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/domain-registration-and-dns-services",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "CR",
     "founded": "2016-11-02",
     "description": "Privacy-focused provider of domain name registration with anycast DNS and email forwarding, VPS servers and a VPN service, with domains from 15 EUR per year.",
@@ -16049,19 +15814,16 @@
       "DMCA Ignored",
       "Open Source",
       "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "founded": "2025-11-29",
-    "description": "Privacy-focused hosting solutions with offshore locations and absolute data protection.",
+    "description": "Privacy-focused offshore VPS, dedicated servers, web hosting and domain registration with strong data protection.",
     "rating": {
       "average": 3,
       "reviews": 5
     },
     "added": "2026-04-13",
-    "updated": "2026-06-23"
+    "updated": "2026-11-09"
   },
   "nodebooth": {
     "name": "NodeBooth",
@@ -16124,10 +15886,7 @@
     "status": "Verified",
     "tags": [
       "Affiliate Program",
-      "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
+      "Owns Physical Servers"
     ],
     "country": "ZA",
     "founded": "2016-08-01",
@@ -16286,10 +16045,6 @@
     "subcategory": "Gaming Servers",
     "categoryUrl": "https://monerica.com/web-hosting/gaming-servers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2020-06-01",
     "description": "Game server, VPS and dedicated server hosting with DDoS protection: FiveM, Minecraft and Palworld servers, Ryzen 9 VPS, Discord bot and web hosting in Chicago and London.",
@@ -16504,9 +16259,7 @@
       "Account Not Required",
       "Affiliate Program",
       "API Available",
-      "Email Not Required",
-      "Sells Domain Registration",
-      "VPS"
+      "Email Not Required"
     ],
     "country": "PY",
     "founded": "2025-10-20",
@@ -16608,7 +16361,7 @@
     "description": "Create a Visa card with Apple Pay and Google Pay support, ATM withdrawals, and the ability to send funds directly to your ACH bank account \u2014 all without KYC.",
     "rating": {
       "average": 5,
-      "reviews": 3
+      "reviews": 4
     },
     "added": "2026-09-15",
     "updated": "2026-10-26"
@@ -16622,10 +16375,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2005-10-13",
     "description": "Panama-based offshore web hosting provider offering shared and managed WordPress hosting, Linux and Windows KVM VPS, cloud servers, domains and SSL certificates.",
@@ -16700,6 +16449,24 @@
       "reviews": 2
     },
     "added": "2026-06-19",
+    "updated": "2026-11-09"
+  },
+  "omamonero": {
+    "name": "OmaMonero",
+    "slug": "omamonero",
+    "profileUrl": "https://monerica.com/site/omamonero",
+    "website": "https://github.com/OnurByte/OmaMonero",
+    "category": "Utilities",
+    "subcategory": "Open Source Projects",
+    "categoryUrl": "https://monerica.com/utilities/open-source-projects",
+    "status": "Admitted",
+    "tags": [
+      "Account Not Required",
+      "Open Source"
+    ],
+    "founded": "2007-10-09",
+    "description": "Open-source Omarchy bar widget with XMR/USD candlestick charts, node health, receive QR codes and optional watch-only wallet, XMRig and P2Pool monitoring.",
+    "added": "2026-11-09",
     "updated": "2026-11-09"
   },
   "omenswap": {
@@ -16799,9 +16566,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers"
-    ],
     "country": "IN",
     "founded": "2014-01-23",
     "description": "Hosting provider of managed bare metal dedicated servers, NVMe cloud VPS, cPanel and WordPress web hosting, and domains, with servers in the USA, India, Europe and Russia.",
@@ -17048,10 +16812,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "GB",
     "founded": "2019-05-02",
     "description": "Hosting provider offering Linux and Windows VPS, MikroTik and cPanel VPS, RDP servers, dedicated and GPU servers in 20+ locations worldwide, with crypto payment options.",
@@ -17128,10 +16888,6 @@
     "subcategory": "Domain Registration & DNS Services",
     "categoryUrl": "https://monerica.com/web-hosting/domain-registration-and-dns-services",
     "status": "Questionable",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "IS",
     "founded": "2009-06-12",
     "description": "Iceland-based web hosting company offering cPanel shared and WordPress hosting, cloud VPS, Dell dedicated servers, DDoS protection and domain registration.",
@@ -17197,10 +16953,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Verified",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "US",
     "founded": "2017-11-29",
@@ -17424,10 +17177,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
-      "DMCA Ignored",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
+      "DMCA Ignored"
     ],
     "founded": "2025-12-01",
     "description": "Privacy-focused hosting with servers in Finland and Switzerland. Shared, WordPress, VPS, and dedicated servers, plus domains. Email-only signup, no KYC.",
@@ -17477,11 +17227,6 @@
     "subcategory": "Offshore & Privacy-Focused Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
     "status": "Questionable",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "PA",
     "founded": "2004-06-19",
     "description": "Panama-based offshore hosting provider offering cPanel and Plesk shared hosting, OpenVZ and KVM VPS, dedicated servers, SSL certificates and domain registration.",
@@ -17806,8 +17551,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "DMCA Ignored",
-      "Owns Physical Servers",
-      "VPS"
+      "Owns Physical Servers"
     ],
     "country": "CL",
     "founded": "2020-08-31",
@@ -17830,14 +17574,11 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
+    "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-09-28",
     "description": "VPS and dedicated servers paid in Monero. Email-only signup: no ID documents, no phone verification. Root access, IPMI on dedicated, public status page with uptime history.",
     "added": "2026-11-06",
-    "updated": "2026-11-07"
+    "updated": "2026-11-09"
   },
   "phreeli": {
     "name": "Phreeli",
@@ -18461,20 +18202,17 @@
       "Affiliate Program",
       "DMCA Ignored",
       "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "country": "CH",
     "founded": "2016-12-10",
-    "description": "Offshore hosting and domain registration services - DMCA-ignored, privacy-focused, secure, and reliable.",
+    "description": "Offshore, DMCA-ignored VPS, dedicated servers, web hosting and domain registration with a focus on privacy and security.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2024-01-13",
-    "updated": "2026-10-20"
+    "updated": "2026-11-09"
   },
   "privatealps": {
     "name": "PrivateAlps",
@@ -18529,9 +18267,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
-      "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Owns Physical Servers"
     ],
     "country": "BZ",
     "founded": "2017-02-03",
@@ -18581,9 +18317,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "SK",
     "founded": "2012-05-14",
     "description": "VPS hosting provider in Bratislava, Slovakia offering Xen HVM virtual servers with Linux templates, a custom VPS configurator and MikroTik RouterOS (CHR) servers.",
@@ -18599,10 +18332,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "NL",
     "founded": "2013-01-23",
     "description": "Russian-language hosting provider offering web hosting, Linux VPS, Windows VDS, dedicated servers in Europe and the USA, domains, VPN, SSL and DDoS protection.",
@@ -18626,6 +18355,36 @@
     "description": "AI platform for creating NSFW AI companion characters, with uncensored chat and AI-generated images and video in realistic, anime and fantasy styles.",
     "added": "2025-03-31",
     "updated": "2026-10-30"
+  },
+  "protagonist-exchange": {
+    "name": "Protagonist Exchange",
+    "slug": "protagonist-exchange",
+    "profileUrl": "https://monerica.com/site/protagonist-exchange",
+    "website": "https://protagonist.exchange/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://prtgnst3f2l35xqvq3gmkpdtslvny2aapcqavruf2kygkf5z7phfc2yd.onion"
+      }
+    ],
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Own & Third-Party",
+    "rates": "Fixed & Float",
+    "javascript": "Required",
+    "tags": [
+      "Account Not Required",
+      "Affiliate Program",
+      "API Available",
+      "Email Not Required"
+    ],
+    "founded": "2026-10-31",
+    "description": "Non-custodial instant swap terminal with fixed and float rates, 24/7 automated settlement, Tor mirror, Telegram bot and single-sided liquidity pools. No account needed.",
+    "added": "2026-11-09",
+    "updated": "2026-11-09"
   },
   "protonaosp": {
     "name": "ProtonAOSP",
@@ -18787,9 +18546,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "GB",
     "founded": "2023-06-20",
     "description": "VPS hosting in Europe and the USA: standard and high-CPU Ryzen VPS, GPU and dedicated servers, domains and proxies. Accepts Monero (XMR), Bitcoin, USDT and cards.",
@@ -18820,9 +18576,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "VPS"
-    ],
     "founded": "2026-09-29",
     "description": "Linux and Windows KVM VPS in the Netherlands with Ryzen 7950X CPUs, DDR5 RAM and NVMe storage. Email-only signup. Linux plans from $5/month.",
     "added": "2026-10-10",
@@ -18837,15 +18590,11 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "FI",
     "founded": "2010-02-11",
-    "description": "Democratizing digital freedom by creating a sustainable, efficient, and affordable service hosting ecosystem for everyone, everywhere.",
+    "description": "Finnish host offering seedboxes and dedicated servers on its own hardware and network, focused on affordable, efficient hosting.",
     "added": "2022-06-22",
-    "updated": "2026-07-24"
+    "updated": "2026-11-09"
   },
   "pura": {
     "name": "Pura",
@@ -18940,10 +18689,6 @@
     "subcategory": "Gaming Servers",
     "categoryUrl": "https://monerica.com/web-hosting/gaming-servers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2024-04-24",
     "description": "IaaS provider offering game server hosting, virtual private servers, and dedicated servers, incorporated in Delaware.",
@@ -18976,9 +18721,7 @@
     "status": "Admitted",
     "tags": [
       "Affiliate Program",
-      "DMCA Ignored",
-      "Sells Dedicated Servers",
-      "VPS"
+      "DMCA Ignored"
     ],
     "country": "NL",
     "founded": "2022-08-30",
@@ -19106,9 +18849,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "US",
     "founded": "2025-11-04",
     "description": "US hosting provider renting VPS/VDS and dedicated servers in locations across many US states, with unmetered traffic and up to 2 Gbps network speed.",
@@ -19224,10 +18964,7 @@
     "tags": [
       "Affiliate Program",
       "API Available",
-      "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
+      "Owns Physical Servers"
     ],
     "country": "US",
     "founded": "2022-03-11",
@@ -19419,10 +19156,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "US",
     "founded": "2018-05-18",
     "description": "Hosting provider offering AMD EPYC NVMe cloud VPS from $4.50/month, web hosting and domain registration, with DDoS protection and cryptocurrency checkout.",
@@ -19636,9 +19369,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "XK",
     "founded": "2020-03-13",
     "description": "An independent Kosovo based VPS providers with servers in Kosovo and North Macedonia.",
@@ -20134,9 +19864,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "GE",
     "founded": "2021-10-27",
@@ -20154,10 +19882,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "MY",
     "founded": "2014-04-22",
@@ -20175,8 +19900,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "DE",
     "founded": "2007-08-03",
@@ -20198,9 +19922,7 @@
     "tags": [
       "DMCA Ignored",
       "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "Sells Tor Exit Hosting",
-      "VPS"
+      "Sells Tor Exit Hosting"
     ],
     "country": "SE",
     "founded": "2025-02-28",
@@ -20226,19 +19948,17 @@
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "Affiliate Program",
-      "API Available",
-      "Sells Dedicated Servers",
-      "VPS"
+      "API Available"
     ],
     "country": "US",
     "founded": "2021-07-18",
-    "description": "Anonymous VPS, Cloud servers and Webhosting available in: Netherlands, Germany, Finland, USA, Canada and Singapore",
+    "description": "Anonymous VPS, cloud and dedicated servers plus web hosting in the Netherlands, Germany, Finland, the USA, Canada and Singapore.",
     "rating": {
       "average": 3.8,
       "reviews": 5
     },
     "added": "2023-09-12",
-    "updated": "2026-10-24"
+    "updated": "2026-11-09"
   },
   "serverz": {
     "name": "Serverz",
@@ -20256,9 +19976,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/offshore-and-privacy-focused-hosting",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "VPS"
-    ],
     "country": "IS",
     "founded": "2001-08-30",
     "description": "Privacy-first VPS hosting from Iceland with no personal data or KYC required. Hourly billing, instant deployment, 32 global locations powered by Vultr infrastructure.",
@@ -20278,10 +19995,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "DE",
     "founded": "2017-01-23",
     "description": "Hosting provider offering cloud VPS in 9 locations, S3 object storage, dedicated servers, managed Kubernetes, Proxmox private cloud and managed hosting.",
@@ -20301,8 +20014,7 @@
     "tags": [
       "Affiliate Program",
       "API Available",
-      "Email Not Required",
-      "VPS"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2025-10-25",
@@ -20557,8 +20269,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers"
+      "Affiliate Program"
     ],
     "country": "US",
     "founded": "2003-08-06",
@@ -21098,9 +20809,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/tor-and-onion-hosting",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "VPS"
-    ],
     "country": "EE",
     "description": "No KYC, privacy-focused hosting provider founded in Ukraine. Legal entity in Estonia, offers KVM VPS in Europe. In-house XMR processing.",
     "added": "2023-10-01",
@@ -21217,9 +20925,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "javascript": "None",
-    "tags": [
-      "VPS"
-    ],
     "country": "US",
     "founded": "2025-12-24",
     "description": "VPS servers hosted on OpenBSD in Spokane, WA. Hardware is 100% owned and racked by SlowServers.",
@@ -21411,10 +21116,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "CH",
     "description": "Dedicated servers, cloud hosting, VPS, DDoS protection, colocation, CDN, object storage s3, dedicated VPN, WordPress, Drupal, Joomla.",
     "added": "2025-09-05",
@@ -21514,9 +21215,7 @@
       "Affiliate Program",
       "API Available",
       "DMCA Ignored",
-      "Email Not Required",
-      "Sells Domain Registration",
-      "VPS"
+      "Email Not Required"
     ],
     "founded": "2025-01-28",
     "description": "Privacy-focused dashboard for virtual cards, gift cards, VPNs, eSIMs, SMS numbers, cloud phones, domains, VPS hosting and swaps.",
@@ -21590,9 +21289,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/gaming-servers",
     "status": "Admitted",
     "tags": [
-      "Affiliate Program",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "US",
     "founded": "2018-08-28",
@@ -21808,8 +21505,7 @@
     "status": "Admitted",
     "tags": [
       "Affiliate Program",
-      "API Available",
-      "VPS"
+      "API Available"
     ],
     "founded": "2017-01-08",
     "description": "Accountless, API-driven VPS hosting. Reseller of Vultr, DigitalOcean, and an un-named provider under \"Sporestack EU\"",
@@ -22172,9 +21868,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "Affiliate Program",
-      "Owns Physical Servers",
-      "Sells Dedicated Servers",
-      "VPS"
+      "Owns Physical Servers"
     ],
     "country": "PL",
     "description": "VPS hosting on AMD Ryzen servers with NVMe SSD storage and DDoS protection, in Poland, the USA and Singapore. Paid with cryptocurrency, including Monero (XMR).",
@@ -23406,10 +23100,6 @@
     "subcategory": "Gaming Servers",
     "categoryUrl": "https://monerica.com/web-hosting/gaming-servers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "RO",
     "founded": "2023-05-01",
     "description": "Hosting provider in Bucharest, Romania offering DDoS-protected game servers, KVM VPS, dedicated servers, colocation and web hosting, billed monthly in EUR.",
@@ -23793,9 +23483,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "FR",
     "founded": "2013-04-19",
     "description": "French seedbox provider with Plex, Jellyfin, Nextcloud and 35+ one-click apps, unlimited traffic and WireGuard/OpenVPN included, accepting Monero (XMR) and Bitcoin.",
@@ -24013,11 +23700,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "IN",
     "founded": "2003-06-15",
     "description": "Web hosting company offering cPanel, WordPress and reseller hosting, KVM and Windows VPS, dedicated servers in the USA, UK and Netherlands, cloud, GPU, domains, SSL and email.",
@@ -24160,9 +23842,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "IS",
     "founded": "2025-07-25",
     "description": "Iceland VPS host offering prepaid hourly KVM virtual machines in Reykjavik on renewable power, payable with Monero (XMR), Bitcoin, other crypto or card.",
@@ -24194,9 +23873,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "country": "UA",
     "founded": "2017-01-01",
     "description": "Hosting provider in Kyiv, Ukraine offering SSD and NVMe KVM VPS, Linux and Windows VPS, and dedicated servers, with Monero (XMR), Bitcoin and other crypto payments.",
@@ -24352,9 +24028,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "founded": "2021-08-20",
     "description": "VPS hosting provider offering virtual private servers for websites, applications and other online projects.",
     "added": "2025-12-25",
@@ -24394,9 +24067,6 @@
     "subcategory": "Resellers & Aggregators",
     "categoryUrl": "https://monerica.com/web-hosting/resellers-and-aggregators",
     "status": "Admitted",
-    "tags": [
-      "VPS"
-    ],
     "founded": "2024-09-06",
     "description": "An independent search engine for thousands of VPSs: search for CPU, RAM, disk size & type and sort by price",
     "added": "2024-09-07",
@@ -24411,10 +24081,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "IN",
     "founded": "2009-08-20",
     "description": "Web hosting company offering shared and DMCA-free hosting, KVM and OpenVZ VPS, RDP and dedicated servers in the USA, France, Germany and the Netherlands.",
@@ -24431,9 +24097,6 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "VPS"
-    ],
     "founded": "2026-09-07",
     "description": "Linux and Windows VPS with a dedicated IPv4 and a 1 Gbps DDoS-protected port. Monthly from 512 MB RAM. Email signup, no ID upload. Instant SSH or RDP after the wallet debit.",
     "added": "2026-09-09",
@@ -24448,10 +24111,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "UA",
     "founded": "2019-02-04",
     "description": "Website hosting, VPS & dedicated servers to fully managed Kubernetes and cloud solutions",
@@ -24600,9 +24259,7 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Verified",
     "tags": [
-      "Affiliate Program",
-      "Sells Domain Registration",
-      "VPS"
+      "Affiliate Program"
     ],
     "country": "PL",
     "founded": "2018-03-19",
@@ -24672,10 +24329,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "MY",
     "founded": "2019-10-20",
     "description": "Hosting provider offering cloud SSD VPS, Linux and Windows KVM VPS, Forex VPS, and Linux, Windows and Mac dedicated servers with full root or admin access.",
@@ -24796,10 +24449,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "VPS"
-    ],
     "country": "AE",
     "founded": "2022-11-27",
     "description": "VPS hosting provider selling Linux and Windows VPS, RDP, Mikrotik VPS and dedicated servers in 40+ locations across Europe, the USA and Asia, with crypto payment options.",
@@ -25068,11 +24717,6 @@
     "subcategory": "VPS & Dedicated Server Providers",
     "categoryUrl": "https://monerica.com/web-hosting/vps-and-dedicated-server-providers",
     "status": "Admitted",
-    "tags": [
-      "Sells Dedicated Servers",
-      "Sells Domain Registration",
-      "VPS"
-    ],
     "country": "GB",
     "founded": "2024-03-10",
     "description": "DDoS protected VPS hosting, web hosting, domains, VPS servers, dedicated servers and bot hosting.",
@@ -25186,8 +24830,7 @@
     "status": "Admitted",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "VPS"
+      "Email Not Required"
     ],
     "founded": "2026-06-22",
     "description": "VPS hosting and proxy provider paid with Monero (XMR), BTC or LTC. No account or email needed; servers deploy automatically in under 60 seconds after payment.",
