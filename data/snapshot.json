@@ -135,9 +135,9 @@
     ],
     "country": "IS",
     "founded": "2020-12-23",
-    "description": "Icelandic hosting company offering web hosting, VPS, WordPress security packs, FreeDNS and domain registration on renewable energy. Accepts Bitcoin and Monero (XMR).",
+    "description": "Icelandic hosting company offering web hosting, VPS, WordPress security packs, FreeDNS and domain registration on renewable energy.",
     "added": "2024-01-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "1gbits": {
     "name": "1Gbits",
@@ -150,9 +150,9 @@
     "status": "Admitted",
     "country": "LT",
     "founded": "2013-09-12",
-    "description": "Server hosting provider offering bare metal dedicated servers in the USA, Europe and Asia, GPU servers, Linux and Windows VPS, RDP and Forex VPS, with crypto payment.",
+    "description": "Server hosting provider offering bare metal dedicated servers in the USA, Europe and Asia, GPU servers, Linux and Windows VPS, RDP and Forex VPS.",
     "added": "2025-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "1gwei-dev": {
     "name": "1gwei.dev",
@@ -435,15 +435,16 @@
     "category": "Web Hosting",
     "subcategory": "VPS Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/vps",
-    "status": "Admitted",
+    "status": "Verified",
     "tags": [
-      "Affiliate Program"
+      "Affiliate Program",
+      "API Available"
     ],
     "country": "SE",
     "founded": "2016-02-14",
-    "description": "Cloud provider offering SSD and NVMe VPS, dedicated VDS, GPU servers, block and object storage across global data centers; balance top-ups in crypto incl. privacy coins.",
+    "description": "Cloud provider offering SSD and NVMe VPS, dedicated VDS, GPU servers, block and object storage across global data centers.",
     "added": "2025-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "abdullah-khan": {
     "name": "Abdullah Khan",
@@ -455,9 +456,9 @@
     "categoryUrl": "https://monerica.com/businesses/artwork",
     "status": "Admitted",
     "founded": "2021-07-07",
-    "description": "Online shop of contemporary artist Abdullah Khan selling original acrylic paintings on canvas and linen, with free worldwide shipping and Monero (XMR) checkout.",
+    "description": "Online shop of contemporary artist Abdullah Khan selling original acrylic paintings on canvas and linen, with free worldwide shipping.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "abliteratedllm": {
     "name": "AbliteratedLLM",
@@ -547,9 +548,9 @@
       "Open Source"
     ],
     "founded": "2021-12-26",
-    "description": "Android app store focused on privacy and security, with app signing key pinning, signed repository metadata, automatic updates and no account needed. Takes XMR donations.",
+    "description": "Android app store focused on privacy and security, with app signing key pinning, signed repository metadata, automatic updates and no account needed.",
     "added": "2026-05-14",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "acechange-io": {
     "name": "acechange.io",
@@ -621,13 +622,13 @@
       "Account Not Required"
     ],
     "founded": "2025-09-23",
-    "description": "Online store selling travel eSIM data packages for destinations worldwide, with prices in USD, a compatibility checker and installation guide; paid in crypto via Heleket.",
+    "description": "Online store selling travel eSIM data packages for destinations worldwide, with prices in USD, a compatibility checker and installation guide.",
     "rating": {
       "average": 1,
       "reviews": 1
     },
     "added": "2025-09-28",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "agenta-monero": {
     "name": "Agenta-Monero",
@@ -657,9 +658,9 @@
     "status": "Admitted",
     "country": "RU",
     "founded": "2021-08-05",
-    "description": "Agentstvo (Agents.Media) is an independent Russian-language investigative news outlet covering Russia, run by exiled journalists and accepting Monero (XMR) donations.",
+    "description": "Agentstvo (Agents.Media) is an independent Russian-language investigative news outlet covering Russia, run by exiled journalists.",
     "added": "2026-10-24",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "agora-logistic": {
     "name": "Agora Logistic",
@@ -676,9 +677,9 @@
     ],
     "country": "SG",
     "founded": "2026-08-14",
-    "description": "Private & Crypto-Friendly Shipping. Get shipping labels from UPS, DHL, DPD, GLS, InPost, USPS and more. No KYC and crypto only.",
+    "description": "Private shipping label service offering labels from UPS, DHL, DPD, GLS, InPost, USPS and other carriers, with no KYC.",
     "added": "2026-08-17",
-    "updated": "2026-08-17"
+    "updated": "2026-11-10"
   },
   "agora-telecom": {
     "name": "Agora Telecom",
@@ -696,9 +697,9 @@
     ],
     "country": "SG",
     "founded": "2026-08-18",
-    "description": "Global eSIM and SIM connectivity with worldwide coverage, reloadable data and non-expiring options. No KYC, instant activation and crypto-only payments including XMR and BTC.",
+    "description": "Global eSIM and SIM connectivity with worldwide coverage, reloadable data and non-expiring options. No KYC and instant activation.",
     "added": "2026-09-17",
-    "updated": "2026-10-24"
+    "updated": "2026-11-10"
   },
   "agorist-market": {
     "name": "Agorist Market",
@@ -834,9 +835,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2025-11-12",
-    "description": "Brings you tech, gaming gear, and home essentials. Fast, private, and crypto-powered shopping.",
+    "description": "Online shop for tech, gaming gear and home essentials, with fast and private shopping.",
     "added": "2025-11-16",
-    "updated": "2026-06-23"
+    "updated": "2026-11-10"
   },
   "all-computers-are-brilliant-inc": {
     "name": "All Computers Are Brilliant, Inc.",
@@ -1003,9 +1004,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2010-11-13",
-    "description": "RDP, VPS, dedicated server and proxy provider with locations in the USA, UK, Canada, Germany, France, Netherlands, Switzerland and Australia. Accepts Monero (XMR).",
+    "description": "RDP, VPS, dedicated server and proxy provider with locations in the USA, UK, Canada, Germany, France, Netherlands, Switzerland and Australia.",
     "added": "2025-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "amneziavpn": {
     "name": "AmneziaVPN",
@@ -1048,9 +1049,9 @@
     "status": "Verified",
     "country": "NL",
     "founded": "2002-03-04",
-    "description": "Amsterdam seed bank selling feminized, autoflower and regular cannabis seeds for indoor and outdoor growing, with free discreet worldwide shipping. Accepts Monero (XMR).",
+    "description": "Amsterdam seed bank selling feminized, autoflower and regular cannabis seeds for indoor and outdoor growing, with free discreet worldwide shipping.",
     "added": "2022-11-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "andreas-m-antonopoulos-shop": {
     "name": "Andreas M. Antonopoulos - Shop",
@@ -1078,13 +1079,13 @@
     "status": "Verified",
     "country": "DE",
     "founded": "2022-03-24",
-    "description": "German online shop for libertarian and Bitcoin/Monero-themed apparel: T-shirts, hoodies, caps, stickers, pins, patches, mugs and flags. Accepts Monero (XMR) via BTCPay.",
+    "description": "German online shop for libertarian and Bitcoin/Monero-themed apparel: T-shirts, hoodies, caps, stickers, pins, patches, mugs and flags.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "anna-s-archive": {
     "name": "Anna's Archive",
@@ -1100,13 +1101,13 @@
       "Open Source"
     ],
     "founded": "2022-11-19",
-    "description": "Open-source, open-data shadow library and search engine mirroring Library Genesis, Sci-Hub, Z-Library and more for books and papers. Accepts Monero (XMR) donations.",
+    "description": "Open-source, open-data shadow library and search engine mirroring Library Genesis, Sci-Hub, Z-Library and more for books and papers.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2023-09-12",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "annihilator": {
     "name": "Annihilator",
@@ -1135,9 +1136,9 @@
     "status": "Questionable",
     "country": "US",
     "founded": "2022-12-25",
-    "description": "Proxy shopping service for spending Monero (XMR) on Amazon, eBay and similar sites: place an order, pay in XMR, and the item is bought and shipped to you.",
+    "description": "Proxy shopping service for Amazon, eBay and similar sites: place an order and the item is bought on your behalf and shipped to you.",
     "added": "2023-01-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "anonchange": {
     "name": "AnonChange",
@@ -1228,13 +1229,13 @@
       "API Available"
     ],
     "founded": "2026-04-03",
-    "description": "Online store selling eSIM data plans for 200+ countries and gift cards for Steam, Amazon, PlayStation and 100+ brands, paid with Monero (XMR), Bitcoin and other crypto.",
+    "description": "Online store selling eSIM data plans for 200+ countries and gift cards for Steam, Amazon, PlayStation and 100+ brands.",
     "rating": {
       "average": 4,
       "reviews": 1
     },
     "added": "2026-04-06",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "anonymd": {
     "name": "AnonyMD",
@@ -1252,9 +1253,9 @@
       "Email Not Required"
     ],
     "country": "MD",
-    "description": "Privacy-focused offshore shared web hosting, VPS and dedicated servers in Moldova, payable with Monero (XMR); order via XMRbazaar or by email/XMPP. Tor friendly.",
+    "description": "Privacy-focused offshore shared web hosting, VPS and dedicated servers in Moldova. Order via XMRbazaar or by email/XMPP. Tor friendly.",
     "added": "2025-10-04",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "anonymous-email": {
     "name": "Anonymous Email",
@@ -1305,9 +1306,9 @@
     "status": "Admitted",
     "javascript": "Required",
     "country": "DE",
-    "description": "AnotherTorNode0602 is a Tor guard relay (non-exit) hosted in Germany that carries traffic for the Tor network. The operator lists a Monero (XMR) address and an onion site.",
+    "description": "AnotherTorNode0602 is a Tor guard relay (non-exit) hosted in Germany that carries traffic for the Tor network. The operator also lists an onion site.",
     "added": "2025-09-22",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "anti-moonboy": {
     "name": "Anti Moonboy",
@@ -1322,13 +1323,13 @@
       "Sells Sponsorship"
     ],
     "founded": "2025-02-27",
-    "description": "Monero-focused crypto podcast and weekly news show with interviews, published on YouTube, Odysee, Rumble and as MP3. Sells T-shirts and takes Monero (XMR) donations.",
+    "description": "Monero-focused crypto podcast and weekly news show with interviews, published on YouTube, Odysee, Rumble and as MP3. Also sells T-shirts.",
     "rating": {
       "average": 5,
       "reviews": 3
     },
     "added": "2025-08-29",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "antifine": {
     "name": "Antifine",
@@ -1342,9 +1343,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "country": "RU",
     "founded": "2026-01-09",
-    "description": "RosShtraf project collecting donations, including Monero (XMR), to pay fines for people in Russia prosecuted over anti-war and politically motivated cases.",
+    "description": "RosShtraf project collecting donations to pay fines for people in Russia prosecuted over anti-war and politically motivated cases.",
     "added": "2026-02-17",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "antikyc": {
     "name": "Antikyc",
@@ -1426,9 +1427,9 @@
     "warning": "Listed as a scam: do not use.",
     "country": "GB",
     "founded": "2021-11-27",
-    "description": "Online store selling Apple products such as iPhone, Mac, iPad, Apple Watch and AirPods for cryptocurrency, listing BTC, ETH, XMR and stablecoins as payment options.",
+    "description": "Online store selling new, factory-sealed Apple products such as iPhone, Mac, iPad, Apple Watch and AirPods, with free insured worldwide shipping and 30-day returns.",
     "added": "2024-08-18",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "aquarian-metals": {
     "name": "Aquarian Metals",
@@ -1633,7 +1634,7 @@
     "category": "Web Hosting",
     "subcategory": "VPS Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/vps",
-    "status": "Admitted",
+    "status": "Verified",
     "tags": [
       "Affiliate Program"
     ],
@@ -1641,7 +1642,7 @@
     "founded": "2020-08-09",
     "description": "Hosting provider offering VPS, game server hosting such as Garry's Mod, bare metal dedicated servers, web hosting and Discord bot hosting, with instant automated setup.",
     "added": "2025-09-05",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "atomic-wallet": {
     "name": "Atomic Wallet",
@@ -1699,9 +1700,9 @@
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Admitted",
     "founded": "2026-04-02",
-    "description": "Official adult video site of performer Ava Holyass with a full video catalog, collections, bundles and exclusives. Pay with Bitcoin, Monero (XMR) or Amazon gift card.",
+    "description": "Official adult video site of performer Ava Holyass with a full video catalog, collections, bundles and exclusives.",
     "added": "2026-05-01",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "ava-hosting": {
     "name": "AVA Hosting",
@@ -1914,26 +1915,7 @@
     "founded": "2026-03-13",
     "description": "An automatic crypto exchange built for fast, convenient swaps. Most run fully automatically via the system or a Telegram bot, so there's no waiting for an operator.",
     "added": "2026-07-28",
-    "updated": "2026-07-28"
-  },
-  "barn-jerky-and-barn-stuff": {
-    "name": "Barn Jerky & Barn Stuff",
-    "slug": "barn-jerky-and-barn-stuff",
-    "profileUrl": "https://monerica.com/site/barn-jerky-and-barn-stuff",
-    "website": "https://barnjerky.hashrootsinc.io",
-    "category": "Businesses",
-    "subcategory": "Food & Drink (Online)",
-    "categoryUrl": "https://monerica.com/businesses/food-and-drink",
-    "status": "Verified",
-    "country": "US",
-    "founded": "2022-05-21",
-    "description": "Online shop selling small-batch smoked grass-fed beef jerky in mild and hot flavors, plus other goods. Pays with Monero (XMR) or on-chain Bitcoin.",
-    "rating": {
-      "average": 5,
-      "reviews": 1
-    },
-    "added": "2024-06-20",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "barossa-network": {
     "name": "Barossa network",
@@ -1961,13 +1943,13 @@
     "status": "Verified",
     "country": "US",
     "founded": "2021-12-12",
-    "description": "Online store selling refurbished laptops, cables, game controllers, phone cases, digital storage and merch, with Monero (XMR) as its default payment currency.",
+    "description": "Online store selling refurbished laptops, cables, game controllers, phone cases, digital storage and merch.",
     "rating": {
       "average": 1,
       "reviews": 2
     },
     "added": "2023-09-12",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "basedflare": {
     "name": "BasedFlare",
@@ -1980,9 +1962,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2022-09-03",
-    "description": "DDoS protection, global caching CDN, managed DNS with geo-targeting and failover, and WAF for websites. Partly open source; accepts Monero (XMR) and other crypto.",
+    "description": "DDoS protection, global caching CDN, managed DNS with geo-targeting and failover, and WAF for websites. Partly open source.",
     "added": "2023-10-02",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "basicswap": {
     "name": "BasicSwap",
@@ -2009,9 +1991,9 @@
     "status": "Verified",
     "javascript": "Required",
     "country": "CH",
-    "description": "A Tor relay (guard, non-exit) hosted in Switzerland, operated by tuxli.org, that carries traffic for the Tor network. Monero (XMR) address listed for support.",
+    "description": "A Tor relay (guard, non-exit) hosted in Switzerland, operated by tuxli.org, that carries traffic for the Tor network.",
     "added": "2025-04-27",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "beauty-abounded": {
     "name": "Beauty Abounded",
@@ -2160,9 +2142,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2023-09-01",
-    "description": "Colorado maker of small-batch hemp products: CBD, CBN and CBG gummies, tinctures, hard candy and Kanna formulations. Online store accepts Bitcoin and Monero (XMR).",
+    "description": "Colorado maker of small-batch hemp products: CBD, CBN and CBG gummies, tinctures, hard candy and Kanna formulations.",
     "added": "2026-10-06",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "biglybit": {
     "name": "BiglyBT",
@@ -2443,9 +2425,9 @@
     ],
     "country": "CR",
     "founded": "2017-10-11",
-    "description": "Online postage service selling USPS, Canada Post, FedEx, UPS and DHL shipping labels paid with Bitcoin or Monero (XMR), with guest checkout and an API.",
+    "description": "Online postage service selling USPS, Canada Post, FedEx, UPS and DHL shipping labels, with guest checkout and an API.",
     "added": "2025-12-19",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "bitcoin-talk-monero": {
     "name": "Bitcoin Talk - Monero",
@@ -2590,9 +2572,9 @@
     ],
     "country": "ES",
     "founded": "2026-04-07",
-    "description": "Warehouse in Puerto Banus, Spain liquidating clothing, accessories and hobby products, with payment in Monero (XMR) and Bitcoin.",
+    "description": "Warehouse in the Cristamar Business Center in Puerto Banus, Spain, liquidating a wide variety of clothing, accessories and hobby products.",
     "added": "2026-04-07",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "bitfinex": {
     "name": "BitFinex",
@@ -2626,9 +2608,9 @@
     "warning": "Listed as a scam: do not use.",
     "country": "GB",
     "founded": "2022-07-19",
-    "description": "Online dealer selling LBMA-certified gold and silver coins and bars for Bitcoin, Monero, Ethereum and stablecoins, with live spot pricing and insured worldwide delivery.",
+    "description": "Online dealer selling LBMA-certified gold and silver coins and bars, with live spot pricing and insured worldwide delivery.",
     "added": "2024-08-14",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "bithost": {
     "name": "bithost",
@@ -2641,9 +2623,9 @@
     "status": "Admitted",
     "country": "LT",
     "founded": "2014-01-22",
-    "description": "Reseller of DigitalOcean, Linode, and Vultr servers with cryptocurrencies since 2014.",
+    "description": "Cloud reseller for DigitalOcean, Linode and Vultr servers since 2014, with hourly billing, 30+ locations, a web dashboard, CLI tool and REST API. No ID, only an email.",
     "added": "2025-09-07",
-    "updated": "2026-02-16"
+    "updated": "2026-11-10"
   },
   "bithypha": {
     "name": "Bithypha",
@@ -3005,9 +2987,9 @@
     "status": "Admitted",
     "country": "CZ",
     "founded": "2016-09-02",
-    "description": "Law firm in Prague, Czech Republic providing legal services for crypto-assets and blockchain: crypto businesses, ICOs, tax residency and inheritance. Accepts Monero (XMR).",
+    "description": "Law firm in Prague, Czech Republic providing legal services for crypto-assets and blockchain: crypto businesses, ICOs, tax residency and inheritance.",
     "added": "2023-10-18",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "blockchair": {
     "name": "Blockchair",
@@ -3034,9 +3016,9 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2007-04-01",
-    "description": "Usenet provider selling non-expiring block accounts (5 GB to 3 TB), pay once, free SSL, up to 200 connections and servers on several continents. Pay with Monero (XMR).",
+    "description": "Usenet provider selling non-expiring block accounts (5 GB to 3 TB), pay once, free SSL, up to 200 connections and servers on several continents.",
     "added": "2026-02-21",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "bloomsms": {
     "name": "BloomSMS",
@@ -3124,9 +3106,9 @@
     "status": "Verified",
     "country": "US",
     "founded": "2025-09-19",
-    "description": "Boutique web design agency building custom websites, brand identity and e-commerce stores, plus website updates and maintenance at an hourly rate. Accepts Monero (XMR).",
+    "description": "Boutique web design agency building custom websites, brand identity and e-commerce stores, plus website updates and maintenance at an hourly rate.",
     "added": "2024-01-01",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "booch-brew-co": {
     "name": "Booch Brew Co.",
@@ -3152,9 +3134,9 @@
     "categoryUrl": "https://monerica.com/businesses/design-services",
     "status": "Admitted",
     "founded": "2021-08-22",
-    "description": "Freelance book cover design and interior layout for print and digital, plus author branding and print production help. Offers services on XMRBazaar for crypto.",
+    "description": "Freelance book cover design and interior layout for print and digital, plus author branding and print production help. Also offers its services on XMRBazaar.",
     "added": "2025-09-18",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "breaking-monero": {
     "name": "Breaking Monero",
@@ -3252,9 +3234,9 @@
     ],
     "country": "CY",
     "founded": "2026-03-10",
-    "description": "A crypto-native bullion dealer where you buy investment-grade gold and silver with Bitcoin, Monero and others",
+    "description": "Cyprus-based bullion dealer selling LBMA-grade gold, silver and platinum coins and bars at live spot prices, with insured worldwide delivery.",
     "added": "2026-06-28",
-    "updated": "2026-06-28"
+    "updated": "2026-11-10"
   },
   "btc-cloud": {
     "name": "Btc-cloud",
@@ -3270,9 +3252,9 @@
     ],
     "country": "AU",
     "founded": "2016-06-27",
-    "description": "Hosting provider offering Linux and Windows VPS, NVMe VPS and dedicated servers in the USA, Switzerland and Germany, with KVM, cPanel or ISPmanager and Bitcoin payment.",
+    "description": "Hosting provider offering Linux and Windows VPS, NVMe VPS and dedicated servers in the USA, Switzerland and Germany, with KVM, cPanel or ISPmanager.",
     "added": "2025-09-06",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "btcpay-server": {
     "name": "BTCPay Server",
@@ -3315,13 +3297,13 @@
     ],
     "country": "NL",
     "founded": "2024-12-01",
-    "description": "Deploy a privacy-focused VPS in minutes: email-only signup, encrypted storage, full root access, KVM, crypto payments, and Netherlands or Lithuania locations.",
+    "description": "Deploy a privacy-focused VPS in minutes: email-only signup, encrypted storage, full root access, KVM, and Netherlands or Lithuania locations.",
     "rating": {
       "average": 4,
       "reviews": 4
     },
     "added": "2025-03-06",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "btse": {
     "name": "Btse",
@@ -3358,7 +3340,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-08-17",
-    "description": "Anonymous S3-compatible object storage. No KYC, just an email. Pay in crypto or by card. Encrypted at rest, prepaid. \u20ac7.99 / TB / month",
+    "description": "Anonymous S3-compatible object storage. No KYC, just an email. Encrypted at rest and prepaid, at \u20ac7.99 per TB per month.",
     "added": "2026-08-21",
     "updated": "2026-11-10"
   },
@@ -3431,30 +3413,6 @@
     "description": "Body-safe borosilicate glass toys for adults. Beginner and advanced pieces, ships plain with no branding to the lower 48 states and DC. 18+ only.",
     "added": "2026-10-26",
     "updated": "2026-10-29"
-  },
-  "buy-claude-with-crypto": {
-    "name": "Buy Claude With Crypto",
-    "slug": "buy-claude-with-crypto",
-    "profileUrl": "https://monerica.com/site/buy-claude-with-crypto",
-    "category": "Cards",
-    "subcategory": "Gift Cards",
-    "categoryUrl": "https://monerica.com/cards/gift-cards",
-    "status": "Scam",
-    "warning": "Listed as a scam: do not use.",
-    "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "Account Not Required",
-      "Email Not Required"
-    ],
-    "country": "US",
-    "founded": "2026-08-04",
-    "description": "Service selling Claude Pro and Max gift subscriptions paid with crypto, including Monero (XMR), Bitcoin, USDT, Ethereum and Solana, delivered as a claude.ai gift link.",
-    "rating": {
-      "average": 1,
-      "reviews": 1
-    },
-    "added": "2026-08-18",
-    "updated": "2026-10-30"
   },
   "buy-uk-esim": {
     "name": "Buy UK eSIM",
@@ -3540,9 +3498,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "founded": "2023-04-01",
-    "description": "Link bypass service that skips shortlink and ad-gate pages such as Linkvertise, Work.ink, Lootlinks and Boost.ink, with a userscript. Accepts Monero donations.",
+    "description": "Link bypass service that skips shortlink and ad-gate pages such as Linkvertise, Work.ink, Lootlinks and Boost.ink, with a userscript.",
     "added": "2026-02-02",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "bypass-tools": {
     "name": "bypass.tools",
@@ -3585,9 +3543,9 @@
     "categoryUrl": "https://monerica.com/businesses/miscellaneous",
     "status": "Admitted",
     "country": "AR",
-    "description": "Crypto-friendly sports complex with courts for pickleball, padel and tennis, listed via its Instagram profile.",
+    "description": "Sports complex with courts for pickleball, padel and tennis, listed via its Instagram profile.",
     "added": "2025-09-14",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "cake-pay": {
     "name": "Cake Pay",
@@ -3601,13 +3559,13 @@
     "kycPolicy": "Rare KYC",
     "country": "US",
     "founded": "2019-01-01",
-    "description": "Buy gift cards for 150,000+ merchants and prepaid Visa/Mastercard cards with Monero (XMR), Bitcoin, Litecoin or Zcash, via web or the Cake Wallet app.",
+    "description": "Gift cards for 150,000+ merchants and prepaid Visa/Mastercard cards, available on the web or in the Cake Wallet app.",
     "rating": {
       "average": 3,
       "reviews": 2
     },
     "added": "2022-08-24",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "cake-wallet": {
     "name": "Cake Wallet",
@@ -3808,13 +3766,13 @@
     ],
     "country": "KN",
     "founded": "2026-03-01",
-    "description": "Gift cards and mobile top-ups paid with Monero. Over 2,300 brands and 9,500 products, from groceries and games to prepaid Visa cards. No account, just an email address.",
+    "description": "Gift cards and mobile top-ups: over 2,300 brands and 9,500 products, from groceries and games to prepaid Visa cards. No account, just an email address.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2026-06-16",
-    "updated": "2026-10-25"
+    "updated": "2026-11-10"
   },
   "cardtoshi-com": {
     "name": "Cardtoshi.com",
@@ -3864,9 +3822,9 @@
     "status": "Admitted",
     "country": "VN",
     "founded": "2021-12-27",
-    "description": "Cat sanctuary and co-working space in Nha Trang, Vietnam, caring for rescued cats and funded by patrons and donors, including Monero (XMR) donations. No longer a cat cafe.",
+    "description": "Cat sanctuary and co-working space in Nha Trang, Vietnam, caring for rescued cats and funded by patrons and donors. No longer a cat cafe.",
     "added": "2025-07-29",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "catbox": {
     "name": "Catbox",
@@ -3879,9 +3837,9 @@
     "status": "Verified",
     "javascript": "Required",
     "founded": "2015-04-06",
-    "description": "Catbox is a free, user-funded file hosting service for uploads up to 200 MB, with Litterbox for temporary files. Supporters can donate in Monero (XMR) and other crypto.",
+    "description": "Catbox is a free, user-funded file hosting service for uploads up to 200 MB, with Litterbox for temporary files.",
     "added": "2025-05-20",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "cavemanswap": {
     "name": "CavemanSwap",
@@ -3923,9 +3881,9 @@
     "categoryUrl": "https://monerica.com/businesses/marketplaces",
     "status": "Admitted",
     "founded": "2026-06-03",
-    "description": "Real people selling real things \u2014 art, electronics, clothes, collectibles \u2014 for Bitcoin, Ethereum, Monero, and more. 4.2069% transaction fee. Built-in buyer protection.",
+    "description": "Peer-to-peer crypto marketplace where real people sell art, electronics, clothes and collectibles. 4.2069% transaction fee and built-in buyer protection.",
     "added": "2026-06-20",
-    "updated": "2026-06-20"
+    "updated": "2026-11-10"
   },
   "cce-cash": {
     "name": "CCE Cash",
@@ -4280,9 +4238,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "country": "US",
     "founded": "2025-03-04",
-    "description": "Online store selling privacy- and crypto-themed T-shirts, merch, books and tech, crypto-only checkout: pay in Monero (XMR), Bitcoin, Litecoin, ETH, USDT or DigiByte.",
+    "description": "Online store selling privacy- and crypto-themed T-shirts, merch, books and tech, with designs such as Monero Pepe and No Farmers No Food. No KYC and no tracking.",
     "added": "2025-03-21",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "cjs-cdkeys": {
     "name": "CJS CDKeys",
@@ -4404,9 +4362,9 @@
     "status": "Admitted",
     "country": "AE",
     "founded": "2023-07-09",
-    "description": "Cloud VPS hosting with hourly billing, AMD EPYC servers, DDoS protection and a 10 Gbps network, plus Windows, forex and managed VPS. Monero (XMR) is a payment option.",
+    "description": "Cloud VPS hosting with hourly billing, AMD EPYC servers, DDoS protection and a 10 Gbps network, plus Windows, forex and managed VPS.",
     "added": "2024-09-01",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "clover-bot": {
     "name": "Clover bot",
@@ -4471,9 +4429,9 @@
     ],
     "country": "RO",
     "founded": "2018-12-07",
-    "description": "Tor-friendly Linux and BSD VPS hosting provider that accepts Bitcoin and Monero (XMR), with automatic server provisioning after payment, custom storage and ISO installs.",
+    "description": "Tor-friendly Linux and BSD VPS hosting provider with automatic server provisioning, custom storage and ISO installs.",
     "added": "2023-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "codemonkeys": {
     "name": "Codemonkeys",
@@ -4572,9 +4530,9 @@
       "Affiliate Program"
     ],
     "founded": "2019-03-28",
-    "description": "Swiss hosting provider offering dedicated bare metal servers, AMD SEV confidential computing servers and DDoS protection, with payment in Monero (XMR) and other crypto.",
+    "description": "Swiss hosting provider offering dedicated bare metal servers, AMD SEV confidential computing servers and DDoS protection.",
     "added": "2024-09-18",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "coincards": {
     "name": "Coincards",
@@ -4894,9 +4852,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "country": "LT",
     "founded": "2025-04-08",
-    "description": "VPN service with 75 global locations, 10 devices per account, P2P allowed and apps for Windows, Mac, iOS, Android, Linux and Firestick. Pay with crypto incl. Monero (XMR).",
+    "description": "VPN service with 75 global locations, 10 devices per account, P2P allowed and apps for Windows, Mac, iOS, Android, Linux and Firestick.",
     "added": "2022-11-09",
-    "updated": "2026-11-03"
+    "updated": "2026-11-10"
   },
   "coinwarz-com": {
     "name": "coinwarz.com",
@@ -4936,9 +4894,9 @@
     "categoryUrl": "https://monerica.com/non-profits/charities",
     "status": "Admitted",
     "founded": "2021-04-18",
-    "description": "Support the Competitive Programming Hall of Fame project. Donate using Monero via NOWPayments to contribute to preserving competitive programming history and achievements.",
+    "description": "Project preserving the history of international competitive programming championships, with results of contest finals and a profile page for each participant.",
     "added": "2026-01-22",
-    "updated": "2026-02-16"
+    "updated": "2026-11-10"
   },
   "copyfree": {
     "name": "Copyfree",
@@ -5083,13 +5041,13 @@
     "status": "Questionable",
     "country": "GB",
     "founded": "2023-02-22",
-    "description": "Transforming the e-commerce world by providing a smooth and secure shopping experience with cryptocurrency.",
+    "description": "Online electronics store selling phones, laptops, cameras, gaming consoles, drones, watches and luxury items, with free worldwide shipping and a 30-day guarantee.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2026-02-11",
-    "updated": "2026-02-19"
+    "updated": "2026-11-10"
   },
   "crypto-corner-shop": {
     "name": "Crypto Corner Shop",
@@ -5146,9 +5104,9 @@
     "categoryUrl": "https://monerica.com/businesses/monero-merchandise-and-hardware",
     "status": "Admitted",
     "founded": "2021-05-01",
-    "description": "Online store selling Monero (XMR) merch: hoodies, t-shirts, caps, mugs, phone cases, stickers and gifts, with worldwide shipping and crypto payments accepted.",
+    "description": "Online store selling Monero (XMR) merch: hoodies, t-shirts, caps, mugs, phone cases, stickers and gifts, with worldwide shipping.",
     "added": "2026-01-19",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "crypto-luxury-store": {
     "name": "Crypto Luxury Store",
@@ -5161,9 +5119,9 @@
     "warning": "Listed as a scam: do not use.",
     "country": "GB",
     "founded": "2024-01-24",
-    "description": "Online store in Dudley, UK, selling luxury goods such as designer watches, handbags and fashion for cryptocurrency.",
+    "description": "Online store in Dudley, UK, selling luxury goods such as designer watches, handbags and fashion.",
     "added": "2025-05-20",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "crypto-prisoners": {
     "name": "Crypto Prisoners",
@@ -5257,13 +5215,13 @@
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2023-02-07",
-    "description": "Prepaid virtual Mastercard funded with Monero, BTC, ETH, USDT, LTC or TRX: 1% top-up fee, $100 minimum, email-only sign-up, no ID. Apple Pay and Google Pay.",
+    "description": "Prepaid virtual Mastercard funded with crypto: 1% top-up fee, $100 minimum, email-only sign-up, no ID. Apple Pay and Google Pay.",
     "rating": {
       "average": 1,
       "reviews": 2
     },
     "added": "2026-09-20",
-    "updated": "2026-09-22"
+    "updated": "2026-11-10"
   },
   "cryptocompare-com": {
     "name": "cryptocompare.com",
@@ -5398,13 +5356,13 @@
     ],
     "country": "IS",
     "founded": "2017-12-09",
-    "description": "Phone numbers in the cloud for SMS: physical and virtual numbers, SMS verification, travel and mobile eSIMs, iMessage lines, email aliases and an API. Accepts Monero (XMR).",
+    "description": "Phone numbers in the cloud for SMS: physical and virtual numbers, SMS verification, travel and mobile eSIMs, iMessage lines, email aliases and an API.",
     "rating": {
       "average": 1,
       "reviews": 1
     },
     "added": "2023-09-12",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "cryptopostage": {
     "name": "CryptoPostage",
@@ -5437,9 +5395,9 @@
     "warning": "Listed as a scam: do not use.",
     "javascript": "Optional",
     "founded": "2020-10-02",
-    "description": "Online service selling shipping postage and labels paid with cryptocurrency, including Monero (XMR), Bitcoin, USDT and Litecoin. Bulk CSV orders and gift cards. No JavaScript.",
+    "description": "Online service selling shipping postage and labels, with bulk CSV orders and gift cards. Works without JavaScript.",
     "added": "2022-10-28",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "cryptostorm": {
     "name": "CryptoStorm",
@@ -5462,9 +5420,9 @@
     "status": "Verified",
     "country": "IS",
     "founded": "2013-08-16",
-    "description": "VPN service with roots in Iceland: bare-metal servers, no logs, token-based access, OpenVPN and WireGuard, open-source server configs and multihop. Pay with Monero (XMR).",
+    "description": "VPN service with roots in Iceland: bare-metal servers, no logs, token-based access, OpenVPN and WireGuard, open-source server configs and multihop.",
     "added": "2022-06-22",
-    "updated": "2026-11-03"
+    "updated": "2026-11-10"
   },
   "cryptowoo": {
     "name": "CryptoWoo",
@@ -5620,9 +5578,9 @@
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Questionable",
     "founded": "2017-03-04",
-    "description": "Encrypted email service with end-to-end encryption, MITM protection and offshore servers. Paid plans can be purchased with Bitcoin, Monero (XMR) and other cryptocurrencies.",
+    "description": "Encrypted email service with end-to-end encryption, MITM protection and offshore servers. No IP logs, no ads and no phone verification.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "cyberkimi": {
     "name": "CyberKimi",
@@ -5799,9 +5757,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2016-12-09",
-    "description": "Los Angeles shop selling custom embroidered hoodies, hats and apparel, handmade and shipped worldwide, including a TempleOS collection. Accepts Monero (XMR).",
+    "description": "Los Angeles shop selling custom embroidered hoodies, hats and apparel, handmade and shipped worldwide, including a TempleOS collection.",
     "added": "2023-04-01",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "dark-web-informer": {
     "name": "Dark Web Informer",
@@ -5867,13 +5825,13 @@
     ],
     "country": "BG",
     "founded": "2025-07-05",
-    "description": "Truly anonymous offshore VPS hosting with no KYC, no logs. Bitcoin and Monero accepted. Bulletproof servers for privacy-focused users.",
+    "description": "Anonymous offshore VPS hosting with no KYC and no logs. Linux, Windows and FreeBSD plans with unmetered bandwidth, plus a bare-metal server in Bulgaria.",
     "rating": {
       "average": 3,
       "reviews": 3
     },
     "added": "2025-11-13",
-    "updated": "2026-06-29"
+    "updated": "2026-11-10"
   },
   "datalix": {
     "name": "Datalix",
@@ -5935,9 +5893,9 @@
     "status": "Admitted",
     "javascript": "None",
     "founded": "2015-11-14",
-    "description": "Decentraleyes is a free, open-source browser extension that emulates content delivery networks locally to reduce tracking by third-party CDNs. Accepts Monero donations.",
+    "description": "Decentraleyes is a free, open-source browser extension that emulates content delivery networks locally to reduce tracking by third-party CDNs.",
     "added": "2022-06-22",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "defcon777": {
     "name": "defcon777",
@@ -5953,9 +5911,9 @@
       "Sells Tor Exit Hosting"
     ],
     "country": "DE",
-    "description": "Tor relay operator running the defcon777 guard relay in Germany, listed on Tor Metrics. The relay contact info includes a Monero (XMR) donation address.",
+    "description": "Tor relay operator running defcon777, a non-exit guard relay hosted at Hetzner in Germany that carries traffic for the Tor network. Listed on Tor Metrics.",
     "added": "2025-09-11",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "deluxhost": {
     "name": "DeluxHost",
@@ -5983,9 +5941,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2004-02-01",
-    "description": "Freedom consulting service offering private consultations, passport and travel document help, trusts, workshops and Bible study; Monero and other crypto may be accepted.",
+    "description": "Freedom consulting service offering private consultations, passport and travel document help, trusts, workshops and Bible study.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "dex-cr": {
     "name": "Dex.CR",
@@ -6011,40 +5969,6 @@
     },
     "added": "2026-06-05",
     "updated": "2026-10-30"
-  },
-  "dex-fo": {
-    "name": "DEX.fo",
-    "slug": "dex-fo",
-    "profileUrl": "https://monerica.com/site/dex-fo",
-    "website": "https://dex.fo",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "http://dexfo673ncucr6ltr45754sff2s4cwjbi7ic5hin6amneggmy2xtl3yd.onion/"
-      }
-    ],
-    "category": "Exchanges",
-    "subcategory": "Instant Swaps (No Account)",
-    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Verified",
-    "kycPolicy": "Guaranteed No KYC",
-    "liquidity": "Own & Third-Party",
-    "rates": "Float",
-    "javascript": "Optional",
-    "tags": [
-      "Account Not Required",
-      "API Available",
-      "Email Not Required",
-      "Letter of Guarantee"
-    ],
-    "founded": "2025-02-24",
-    "description": "Automatic cryptocurrency exchange. Zero KYC, zero registration. No IP collection, no metadata logging.",
-    "rating": {
-      "average": 4.8,
-      "reviews": 17
-    },
-    "added": "2026-04-09",
-    "updated": "2026-10-08"
   },
   "dfx-ag": {
     "name": "DFX AG",
@@ -6121,9 +6045,9 @@
     "status": "Verified",
     "country": "US",
     "founded": "2021-09-12",
-    "description": "Online store selling degoogled phones and tablets, Linux laptops and USB drives, Faraday bags, plus degoogling and privacy consulting services. Accepts Monero (XMR).",
+    "description": "Online store selling degoogled phones and tablets, Linux laptops and USB drives, Faraday bags, plus degoogling and privacy consulting services.",
     "added": "2025-07-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "digital-society": {
     "name": "Digital society",
@@ -6213,9 +6137,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2007-02-01",
-    "description": "US online store selling concentrate and dry herb vaporizers, eNails, glass rigs, storage jars, batteries and hemp clothing, with free US shipping and crypto accepted.",
+    "description": "US online store selling concentrate and dry herb vaporizers, eNails, glass rigs, storage jars, batteries and hemp clothing, with free US shipping.",
     "added": "2025-10-21",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "diyar-ciftci-node": {
     "name": "Diyar Ciftci Node",
@@ -6358,9 +6282,9 @@
     "status": "Admitted",
     "country": "HK",
     "founded": "2014-04-14",
-    "description": "An online art gallery specialised in famous art editions and toys. Authenticity guaranteed. Monero Welcome",
+    "description": "Online art gallery founded in 2013 selling prints, sculptures, art toys and originals by artists such as Murakami, Kaws and Banksy. Authenticity guaranteed.",
     "added": "2025-06-05",
-    "updated": "2026-07-24"
+    "updated": "2026-11-10"
   },
   "dotwee": {
     "name": "DotWee",
@@ -6373,13 +6297,13 @@
     "status": "Questionable",
     "country": "HK",
     "founded": "2025-02-14",
-    "description": "ICANN-accredited domain registrar based in Hong Kong offering 500+ TLDs, free WHOIS/RDAP privacy, domain transfers and 24/7 support; pays by card or cryptocurrency.",
+    "description": "ICANN-accredited domain registrar based in Hong Kong offering 500+ TLDs, free WHOIS/RDAP privacy, domain transfers and 24/7 support.",
     "rating": {
       "average": 1.5,
       "reviews": 2
     },
     "added": "2026-03-23",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "dragonwolftech": {
     "name": "dragonwolftech",
@@ -6390,9 +6314,9 @@
     "subcategory": "Individuals",
     "categoryUrl": "https://monerica.com/non-profits/individuals",
     "status": "Admitted",
-    "description": "Tip page on CoinTr.ee, a crypto donation platform, for dragonwolftech, a technology and crypto journalist who covers privacy, cybersecurity and DeFi topics.",
+    "description": "CoinTr.ee tip page for dragonwolftech, a technology and crypto journalist who covers privacy, cybersecurity and DeFi topics.",
     "added": "2025-03-29",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "dripvpn-com": {
     "name": "DripVPN.com",
@@ -6529,13 +6453,13 @@
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-02-02",
-    "description": "Virtual prepaid Mastercard offered for purchase with cryptocurrency, with Apple Pay support. The domain now redirects to a Google Sites page about crypto debit cards.",
+    "description": "Virtual prepaid Mastercard with Apple Pay support. The domain now redirects to a Google Sites page about crypto debit cards.",
     "rating": {
       "average": 2,
       "reviews": 3
     },
     "added": "2026-05-04",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "easynode": {
     "name": "Easynode",
@@ -6823,13 +6747,13 @@
     "javascript": "Required",
     "country": "US",
     "founded": "2024-06-04",
-    "description": "Privacy, cybersecurity, crypto and prepping resources from Watchman Privacy: podcast, newsletter, courses, digital market and consulting. Pay with Monero (XMR) or Bitcoin.",
+    "description": "Privacy, cybersecurity, crypto and prepping resources from Watchman Privacy: podcast, newsletter, courses, digital market and consulting.",
     "rating": {
       "average": 2,
       "reviews": 1
     },
     "added": "2025-07-24",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "esimwithnumber": {
     "name": "eSIMwithNumber",
@@ -7013,9 +6937,9 @@
     "status": "Questionable",
     "javascript": "Optional",
     "founded": "2025-12-02",
-    "description": "Infrastructure built for those who value privacy. No personal data required. Pay with Monero. Access via Tor. No JavaScript.",
+    "description": "Anonymous VPS hosting in European datacenters with preset or custom plans. No personal data required, Tor access, a no-JavaScript website, TOTP 2FA and a warrant canary.",
     "added": "2025-12-23",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "exolix": {
     "name": "Exolix",
@@ -7210,9 +7134,9 @@
     "status": "Verified",
     "country": "US",
     "founded": "2024-05-28",
-    "description": "Small-batch potato chips cooked in 100% beef tallow with no seed oils, made in San Diego, California. Shop online or by subscription; pay with Monero (XMR).",
+    "description": "Small-batch potato chips cooked in 100% beef tallow with no seed oils, made in San Diego, California. Sold online as single orders or by subscription.",
     "added": "2025-07-29",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "faust-swap": {
     "name": "FAUST SWAP",
@@ -7518,9 +7442,9 @@
     "javascript": "None",
     "country": "US",
     "founded": "2026-06-30",
-    "description": "Weekly podcast for the resistance covering Monero (XMR), self-hosting, mining, crypto news, anarchy and listener questions; episodes stream on the site, XMR donations.",
+    "description": "Weekly podcast for the resistance covering Monero (XMR), self-hosting, mining, crypto news, anarchy and listener questions. Episodes stream on the site.",
     "added": "2026-07-29",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "fortunaswap": {
     "name": "FortunaSwap",
@@ -7596,9 +7520,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2024-06-17",
-    "description": "All donations including crypto will be handled by the law firm TorEkeland that represents Roman in this case and will go towards the legal defense fund.",
+    "description": "Legal defense fund for Roman Sterlingov, convicted of allegedly operating the Bitcoin Fog mixer, raising support for his appeal, with case facts, FAQ and media coverage.",
     "added": "2026-07-03",
-    "updated": "2026-07-03"
+    "updated": "2026-11-10"
   },
   "free-software-database": {
     "name": "Free Software Database",
@@ -7677,9 +7601,9 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2025-10-09",
-    "description": "No-KYC virtual Visa card you top up with Bitcoin over Lightning, Monero, USDT, USDC and more. No verification; plans from $5/month with a 1.3% top-up fee.",
+    "description": "No-KYC virtual Visa card that you top up with crypto. No verification, plans from $5/month with a 1.3% top-up fee.",
     "added": "2026-11-03",
-    "updated": "2026-11-03"
+    "updated": "2026-11-10"
   },
   "freeje": {
     "name": "Freeje",
@@ -7692,9 +7616,9 @@
     "status": "Admitted",
     "country": "PL",
     "founded": "2009-12-17",
-    "description": "Virtual phone numbers for SMS verification in 83 countries: permanent numbers for unlimited codes or one-time numbers, with some real non-VoIP numbers. Crypto accepted.",
+    "description": "Virtual phone numbers for SMS verification in 83 countries: permanent numbers for unlimited codes or one-time numbers, with some real non-VoIP numbers.",
     "added": "2025-07-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "freesocks": {
     "name": "FreeSocks",
@@ -7776,9 +7700,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Verified",
     "founded": "2023-11-04",
-    "description": "FSKY is a tech collective hosting free public services such as XMPP, IRC, Git hosting and privacy frontends for Reddit and Instagram. Accepts Monero (XMR) donations.",
+    "description": "FSKY is a tech collective hosting free public services such as XMPP, IRC, Git hosting and privacy frontends for Reddit and Instagram.",
     "added": "2026-05-09",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "fswap": {
     "name": "Fswap",
@@ -7814,9 +7738,9 @@
     "status": "Admitted",
     "javascript": "Required",
     "country": "DE",
-    "description": "Tor relay operator running a guard relay hosted at Hetzner in Germany, listed on Tor Metrics, with a Monero (XMR) donation address in its relay contact info.",
+    "description": "Tor relay operator running a non-exit guard relay hosted at Hetzner in Germany that carries traffic for the Tor network. Listed on Tor Metrics.",
     "added": "2025-09-11",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "fuguswap": {
     "name": "FuguSwap",
@@ -7885,9 +7809,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2020-01-25",
-    "description": "Nonprofit 501(c)(3) refuge providing a safe home, food, veterinary care and enrichment for wolfdogs in need; accepts crypto donations and runs an online shop.",
+    "description": "Nonprofit 501(c)(3) refuge providing a safe home, food, veterinary care and enrichment for wolfdogs in need. Also runs an online shop.",
     "added": "2026-01-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "gamegram-com": {
     "name": "Gamegram.com",
@@ -7950,9 +7874,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2022-05-03",
-    "description": "Online store selling de-Googled phones with GrapheneOS or CalyxOS, Linux privacy laptops and accessories, with a discount for paying in crypto or silver.",
+    "description": "Online store selling de-Googled phones with GrapheneOS or CalyxOS, Linux privacy laptops and accessories.",
     "added": "2023-09-12",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "getastatic": {
     "name": "GetAStatic",
@@ -7987,13 +7911,13 @@
     ],
     "country": "US",
     "founded": "2023-01-01",
-    "description": "SMS verification service renting real US non-VoIP, SIM card-based phone numbers to receive codes online, with short and long-term rentals and an API. Accepts Monero (XMR).",
+    "description": "SMS verification service renting real US non-VoIP, SIM card-based phone numbers to receive codes online, with short and long-term rentals and an API.",
     "rating": {
       "average": 5,
       "reviews": 2
     },
     "added": "2026-03-19",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "getprivacy-earth": {
     "name": "getprivacy.earth",
@@ -8005,9 +7929,9 @@
     "categoryUrl": "https://monerica.com/businesses/it-services",
     "status": "Admitted",
     "founded": "2023-11-17",
-    "description": "Privacy and security coaching for individuals and organizations: device lockdown, de-Googling, GrapheneOS, data-breach recovery and workshops. 10% off when paying in Monero.",
+    "description": "Privacy and security coaching for individuals and organizations: device lockdown, de-Googling, GrapheneOS, data-breach recovery and workshops.",
     "added": "2025-07-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "ghostbox": {
     "name": "ghostBox",
@@ -8170,13 +8094,13 @@
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
     "founded": "2026-07-10",
-    "description": "Pay one invoice in the coin you hold and activate an official Claude Pro or Max plan on your own account.",
+    "description": "Service that activates an official Claude Pro or Max plan on your own account after you pay a single invoice.",
     "rating": {
       "average": 1,
       "reviews": 2
     },
     "added": "2026-07-29",
-    "updated": "2026-08-10"
+    "updated": "2026-11-10"
   },
   "giga-rapid": {
     "name": "Giga Rapid",
@@ -8212,9 +8136,9 @@
     "tags": [
       "Open Source"
     ],
-    "description": "Personal page of glassez, a hobbyist open-source developer who mainly contributes to the qBittorrent BitTorrent client, accepting donations in Monero (XMR) and Bitcoin.",
+    "description": "Personal page of glassez, a hobbyist open-source developer who mainly contributes to the qBittorrent BitTorrent client.",
     "added": "2026-01-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "gleec": {
     "name": "Gleec",
@@ -8263,13 +8187,13 @@
     "kycPolicy": "Guaranteed No KYC",
     "country": "MX",
     "founded": "2025-05-07",
-    "description": "Get a physical Mastercard with no KYC. Deposit BTC, ETH, SOL, XMR, or USDT, spend in USD, EUR, MXN and more worldwide. ATM cash withdrawals, Apple & Google Pay.",
+    "description": "Physical Mastercard with no KYC. Deposit crypto and spend in USD, EUR, MXN and other currencies worldwide. ATM cash withdrawals, Apple Pay and Google Pay.",
     "rating": {
       "average": 4,
       "reviews": 2
     },
     "added": "2025-11-22",
-    "updated": "2026-10-27"
+    "updated": "2026-11-10"
   },
   "gobrrr": {
     "name": "GoBrrr",
@@ -8375,9 +8299,9 @@
     "status": "Admitted",
     "javascript": "Required",
     "country": "DE",
-    "description": "Gojira is a Tor relay (guard, non-exit) hosted in Germany that helps carry traffic for the Tor anonymity network. The operator lists a Monero (XMR) address for support.",
+    "description": "Gojira is a Tor relay (guard, non-exit) hosted in Germany that helps carry traffic for the Tor anonymity network.",
     "added": "2025-09-22",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "gold-circuit-e-cycling-llc": {
     "name": "Gold Circuit E-Cycling, LLC",
@@ -8390,9 +8314,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2021-03-02",
-    "description": "Electronics and Styrofoam recycling company in Agawam, Massachusetts, taking computers, TVs, IT gear and appliances at public drop-off hours. 20% off when paying with Monero.",
+    "description": "Electronics and Styrofoam recycling company in Agawam, Massachusetts, taking computers, TVs, IT gear and appliances at public drop-off hours.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "gorshok": {
     "name": "Gorshok",
@@ -8444,13 +8368,13 @@
     ],
     "country": "BZ",
     "founded": "2026-04-01",
-    "description": "Privacy-focused email: token login, public accounting, no-JavaScript webmail, Tor and I2P access, Monero/BTC/BTC-LN to unlock SMTP outbound, and plaintext webmail.",
+    "description": "Privacy-focused email: token login, public accounting, no-JavaScript plaintext webmail, Tor and I2P access, and a paid unlock for outbound SMTP.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2026-06-17",
-    "updated": "2026-10-21"
+    "updated": "2026-11-10"
   },
   "gpu-rent-hub": {
     "name": "GPU Rent Hub",
@@ -8467,7 +8391,7 @@
     ],
     "country": "US",
     "founded": "2026-09-05",
-    "description": "Dedicated bare-metal GPU servers (H100, H200, B200, RTX 5090 and more) rented by the week or month from US datacenters. Pay in XMR or other crypto.",
+    "description": "Dedicated bare-metal GPU servers (H100, H200, B200, RTX 5090 and more) rented by the week or month from US datacenters.",
     "added": "2026-11-02",
     "updated": "2026-11-10"
   },
@@ -8524,9 +8448,9 @@
     ],
     "country": "US",
     "founded": "2019-06-26",
-    "description": "Monero-only online store selling custom-roasted Guatemalan, Mexican and Colombian coffee, maple syrup and meat bars, plus a way to tip farmers in Monero (XMR).",
+    "description": "Online store selling custom-roasted Guatemalan, Mexican and Colombian coffee, maple syrup and meat bars, plus a way to tip the farmers directly.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "grease": {
     "name": "Grease",
@@ -8860,9 +8784,9 @@
     "categoryUrl": "https://monerica.com/non-profits/charities",
     "status": "Admitted",
     "founded": "2023-10-19",
-    "description": "Davaite charity project by Helpdesk, Meduza and TV Rain raising donations to help Ukrainian civilians with housing repair, food, shelters and evacuation. Accepts Monero (XMR).",
+    "description": "Davaite charity project by Helpdesk, Meduza and TV Rain raising donations to help Ukrainian civilians with housing repair, food, shelters and evacuation.",
     "added": "2025-08-02",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "herbal-realm": {
     "name": "Herbal Realm",
@@ -9053,9 +8977,9 @@
     "status": "Admitted",
     "country": "ES",
     "founded": "2001-09-29",
-    "description": "Cannabis seed shop run by Hipersemillas SL in Spain, selling seeds from breeders such as Sensi Seeds, Dutch Passion and Barney's Farm. Accepts Monero (XMR) and other crypto.",
+    "description": "Cannabis seed shop run by Hipersemillas SL in Spain, selling seeds from breeders such as Sensi Seeds, Dutch Passion and Barney's Farm.",
     "added": "2025-05-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "hitbtc": {
     "name": "HitBTC",
@@ -9140,9 +9064,9 @@
     ],
     "country": "SC",
     "founded": "2023-05-14",
-    "description": "Offshore hosting provider offering web hosting, Linux and Windows RDP VPS, dedicated servers, domain registration and email hosting. Accepts Monero (XMR) and Bitcoin.",
+    "description": "Offshore hosting provider offering web hosting, Linux and Windows RDP VPS, dedicated servers, domain registration and email hosting.",
     "added": "2025-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "hostcram": {
     "name": "HostCram",
@@ -9188,9 +9112,9 @@
     ],
     "country": "CA",
     "founded": "2010-06-29",
-    "description": "Canadian web hosting provider offering shared, reseller, WordPress, e-commerce and VPS hosting plus dedicated servers, with Monero (XMR) and Bitcoin payment.",
+    "description": "Canadian web hosting provider offering shared, reseller, WordPress, e-commerce and VPS hosting plus dedicated servers.",
     "added": "2026-06-25",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "hostiko": {
     "name": "Hostiko",
@@ -9343,9 +9267,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "founded": "2020-08-09",
-    "description": "Free 3DS content preservation archive for downloading Nintendo 3DS games, updates, DLC, Virtual Console, DSiWare, themes and videos. Takes Monero (XMR) donations.",
+    "description": "Free 3DS content preservation archive for downloading Nintendo 3DS games, updates, DLC, Virtual Console, DSiWare, themes and videos.",
     "added": "2025-12-31",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "htx": {
     "name": "HTX",
@@ -9453,9 +9377,9 @@
       "Open Source"
     ],
     "founded": "2015-05-10",
-    "description": "i2pd (I2P Daemon) is a full-featured C++ client for I2P, the encrypted peer-to-peer network layer, with apps for desktop and Android. Accepts Monero (XMR) donations.",
+    "description": "i2pd (I2P Daemon) is a full-featured C++ client for I2P, the encrypted peer-to-peer network layer, with apps for desktop and Android.",
     "added": "2026-04-05",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "icrypex": {
     "name": "Icrypex",
@@ -9517,9 +9441,9 @@
     ],
     "country": "SC",
     "founded": "2017-02-16",
-    "description": "Offshore hosting provider offering VPS, dedicated servers, onion network servers, web hosting, email, VPN and domains, with Bitcoin and Monero (XMR) payment accepted.",
+    "description": "Offshore hosting provider offering VPS, dedicated servers, onion network servers, web hosting, email, VPN and domains.",
     "added": "2025-09-06",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "incocard-com": {
     "name": "IncoCard.com",
@@ -9570,13 +9494,13 @@
     ],
     "country": "US",
     "founded": "2021-03-30",
-    "description": "Privacy-focused hosting provider offering web hosting, KVM VPS, email and DNS hosting, WireGuard VPN and private domain registration, with Monero (XMR) payments.",
+    "description": "Privacy-focused hosting provider offering web hosting, KVM VPS, email and DNS hosting, WireGuard VPN and private domain registration.",
     "rating": {
       "average": 3,
       "reviews": 2
     },
     "added": "2022-09-20",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "independent-crypto-coaching": {
     "name": "Independent Crypto Coaching",
@@ -9626,9 +9550,9 @@
     ],
     "country": "US",
     "founded": "2022-08-22",
-    "description": "Multi-cloud VPS hosting paid directly in Monero, with email-only signup and Tor-friendly checkout.",
+    "description": "Multi-cloud VPS hosting with email-only signup and Tor-friendly checkout.",
     "added": "2024-06-03",
-    "updated": "2026-10-20"
+    "updated": "2026-11-10"
   },
   "instant-exchangers": {
     "name": "Instant Exchangers",
@@ -9681,9 +9605,9 @@
     ],
     "country": "US",
     "founded": "2025-05-01",
-    "description": "Prepaid shipping labels online with no account: USPS, UPS, FedEx, Canada Post, DPD, Evri and more. Instant PDF, bulk CSV import, pay by card or crypto incl. Monero (XMR).",
+    "description": "Prepaid shipping labels online with no account: USPS, UPS, FedEx, Canada Post, DPD, Evri and other carriers. Instant PDF and bulk CSV import.",
     "added": "2026-02-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "instaswap": {
     "name": "Instaswap",
@@ -9747,9 +9671,9 @@
     "categoryUrl": "https://monerica.com/non-profits/activism",
     "status": "Admitted",
     "founded": "2025-10-21",
-    "description": "Non-profit developing open privacy protocols and tools, including the Marmot protocol, the Marmot development kit and the White Noise messenger. Accepts donations.",
+    "description": "Non-profit developing open privacy protocols and tools, including the Marmot protocol, the Marmot development kit and the White Noise messenger.",
     "added": "2026-11-08",
-    "updated": "2026-11-08"
+    "updated": "2026-11-10"
   },
   "invidious": {
     "name": "Invidious",
@@ -9764,30 +9688,9 @@
       "Open Source"
     ],
     "founded": "2021-01-06",
-    "description": "Invidious is a free, open-source (AGPL) alternative front-end to YouTube: watch videos without ads or a Google account, subscribe and make playlists. Accepts XMR donations.",
+    "description": "Invidious is a free, open-source (AGPL) alternative front-end to YouTube: watch videos without ads or a Google account, subscribe and make playlists.",
     "added": "2024-12-26",
-    "updated": "2026-10-30"
-  },
-  "ir-eyewear": {
-    "name": "IR Eyewear",
-    "slug": "ir-eyewear",
-    "profileUrl": "https://monerica.com/site/ir-eyewear",
-    "website": "https://ireyewear.com/",
-    "category": "Businesses",
-    "subcategory": "Clothing, Apparel & Accessories",
-    "categoryUrl": "https://monerica.com/businesses/clothing-apparel-and-accessories",
-    "status": "Admitted",
-    "kycPolicy": "Guaranteed No KYC",
-    "javascript": "Optional",
-    "tags": [
-      "Account Not Required",
-      "Email Not Required"
-    ],
-    "country": "IT",
-    "founded": "2026-05-20",
-    "description": "Infrared-blocking glasses handcrafted in Italy that block IR light to defeat facial recognition cameras. Orders by email or Signal, paid in Monero (XMR), BTC or LTC.",
-    "added": "2026-05-20",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "iran-netlify": {
     "name": "Iran Netlify",
@@ -10115,9 +10018,9 @@
     "status": "Admitted",
     "country": "RU",
     "founded": "2024-05-23",
-    "description": "Annual fundraiser supporting political prisoners in Russia and their families, covering food, medicine, legal defense and prison visits. Donations by card, PayPal or crypto.",
+    "description": "Annual fundraiser supporting political prisoners in Russia and their families, covering food, medicine, legal defense and prison visits.",
     "added": "2025-04-23",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "k1vpn": {
     "name": "K1VPN",
@@ -10227,9 +10130,9 @@
     "categoryUrl": "https://monerica.com/businesses/local-and-professional-services",
     "status": "Admitted",
     "founded": "2016-06-28",
-    "description": "Website translation service for internationalization and localization of entire sites, plus subtitling and video transcription, with per-word prices in Monero (XMR).",
+    "description": "Website translation service for internationalization and localization of entire sites, plus subtitling and video transcription, priced per word.",
     "added": "2025-07-03",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "kathie": {
     "name": "kathie",
@@ -10603,9 +10506,9 @@
       "Open Source"
     ],
     "founded": "2020-08-04",
-    "description": "Kryptor is a free, open-source file encryption and signing tool for Windows, Linux and macOS, a simpler alternative to GPG, age and Minisign. Accepts Monero donations.",
+    "description": "Kryptor is a free, open-source file encryption and signing tool for Windows, Linux and macOS, a simpler alternative to GPG, age and Minisign.",
     "added": "2025-05-20",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "kucoin": {
     "name": "KuCoin",
@@ -10901,9 +10804,9 @@
     "kycPolicy": "Mandatory KYC",
     "country": "IT",
     "founded": "2024-09-12",
-    "description": "Crypto-friendly bed & breakfast in Riola, in the Tuscan-Emilian Apennines near Rocchetta Mattei, Italy. Direct Monero (XMR) payments accepted, along with Zano and Firo.",
+    "description": "Bed & breakfast apartment in the historic Villini Archetta in Riola, facing Rocchetta Mattei in the Tuscan-Emilian Apennines, Italy, about an hour from Bologna.",
     "added": "2026-08-14",
-    "updated": "2026-08-14"
+    "updated": "2026-11-10"
   },
   "labcradle": {
     "name": "Labcradle",
@@ -10966,13 +10869,13 @@
       "Account Not Required"
     ],
     "founded": "2026-07-18",
-    "description": "Monero postage with USPS, FedEx and UPS. Privacy friendly with delete your order option. USA only.",
+    "description": "Postage labels for USPS, FedEx and UPS with no account needed. Privacy friendly: works without JavaScript, has a Tor mirror and a delete-your-order option. USA only.",
     "rating": {
       "average": 5,
       "reviews": 2
     },
     "added": "2026-09-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "latern-vpn": {
     "name": "Lantern VPN",
@@ -10999,9 +10902,9 @@
     "status": "Admitted",
     "country": "IR",
     "founded": "2013-09-23",
-    "description": "Donation campaign for Lantern, a free VPN-like censorship circumvention app keeping Iranians online. Run by nonprofit Brave New Software; accepts Monero (XMR).",
+    "description": "Donation campaign for Lantern, a free VPN-like censorship circumvention app keeping Iranians online. Run by nonprofit Brave New Software.",
     "added": "2026-02-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "latelune": {
     "name": "LateLune",
@@ -11098,9 +11001,9 @@
     "categoryUrl": "https://monerica.com/businesses/health-and-beauty",
     "status": "Admitted",
     "founded": "2014-11-27",
-    "description": "Online seminars on reality, storytelling and spell casting, including The Secret Fire, Shamanic Vision and X-Spell, with a 10% discount when paying in Monero (XMR) or BTC.",
+    "description": "Online seminars on reality, storytelling and spell casting, including The Secret Fire, Shamanic Vision and X-Spell.",
     "added": "2024-01-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "liberation-travel": {
     "name": "Liberation Travel",
@@ -11227,9 +11130,9 @@
     "tags": [
       "Open Source"
     ],
-    "description": "LibreTorrent is a free, open-source (copyleft) torrent client for Android with BitTorrent 2.0 and WebTorrent support, available on F-Droid. Accepts Monero (XMR) donations.",
+    "description": "LibreTorrent is a free, open-source (copyleft) torrent client for Android with BitTorrent 2.0 and WebTorrent support, available on F-Droid.",
     "added": "2025-01-05",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "libretube": {
     "name": "LibreTube",
@@ -11455,9 +11358,9 @@
     "javascript": "None",
     "country": "IS",
     "founded": "2025-11-06",
-    "description": "Iceland-based Tor relay operator running exit relays and bridges, and hosting privacy front-ends such as Redlib, Rimgo and AnonymousOverflow. Accepts Monero (XMR) donations.",
+    "description": "Iceland-based Tor relay operator running exit relays and bridges, and hosting privacy front-ends such as Redlib, Rimgo and AnonymousOverflow.",
     "added": "2025-12-09",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "localmonero": {
     "name": "LocalMonero",
@@ -11731,9 +11634,9 @@
     "categoryUrl": "https://monerica.com/businesses/monero-merchandise-and-hardware",
     "status": "Admitted",
     "founded": "2022-10-19",
-    "description": "Official shop of the MAGIC Monero Fund selling Monero Research Lab stickers, hoodies, shirts, mugs and gift cards; proceeds support the fund. Accepts crypto payments.",
+    "description": "Official shop of the MAGIC Monero Fund selling Monero Research Lab stickers, hoodies, shirts, mugs and gift cards. Proceeds support the fund.",
     "added": "2025-12-29",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "mailum": {
     "name": "Mailum",
@@ -11753,9 +11656,9 @@
     "javascript": "Required",
     "country": "PL",
     "founded": "2012-10-22",
-    "description": "Encrypted email service with zero-access end-to-end encryption, PGP support, a Tor onion address and a free plan. No IP logging. Accepts Monero (XMR), Bitcoin and 50+ cryptos.",
+    "description": "Encrypted email service with zero-access end-to-end encryption, PGP support, a Tor onion address and a free plan. No IP logging.",
     "added": "2024-09-27",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "malad-valley-marathon": {
     "name": "Malad Valley Marathon",
@@ -11832,9 +11735,9 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
-    "description": "Documentation and download site for NekoBox for Android, an open-source sing-box universal proxy toolchain app. Accepts donations in Monero (XMR) and USDT.",
+    "description": "Documentation and download site for NekoBox for Android, an open-source sing-box universal proxy toolchain app.",
     "added": "2025-09-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "matthew-ryan-cpa": {
     "name": "Matthew Ryan, CPA.",
@@ -11847,9 +11750,9 @@
     "status": "Verified",
     "country": "US",
     "founded": "2024-04-24",
-    "description": "CPA and Enrolled Agent firm in Roswell, Georgia offering tax preparation, bookkeeping, fractional CFO and cryptocurrency tax advisory; accepts Monero (XMR).",
+    "description": "CPA and Enrolled Agent firm in Roswell, Georgia offering tax preparation, bookkeeping, fractional CFO and cryptocurrency tax advisory.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "mc-xyz": {
     "name": "MC.XYZ",
@@ -12133,13 +12036,13 @@
     ],
     "country": "US",
     "founded": "2026-08-18",
-    "description": "Language models, paid in crypto. No names collected. OpenAI-compatible API and a web chat. Pay with Bitcoin, Monero, Ethereum, USDT, or Litecoin. No email, no KYC.",
+    "description": "Language models through an OpenAI-compatible API, a web chat and a Telegram bot. Account number login with no email or KYC, and prompts are never stored.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2026-08-21",
-    "updated": "2026-08-21"
+    "updated": "2026-11-10"
   },
   "mile-high-roasting-company": {
     "name": "Mile High Roasting Company",
@@ -12518,39 +12421,6 @@
     "description": "One RPC address for your Monero wallet. A relay over public nodes that checks every block, tx and header against multi-node consensus. Free or Pro tier. No account, no KYC.",
     "added": "2026-09-07",
     "updated": "2026-09-22"
-  },
-  "mobit": {
-    "name": "Mobit",
-    "slug": "mobit",
-    "profileUrl": "https://monerica.com/site/mobit",
-    "website": "https://mobit.exchange/",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "http://mobit3phhr7yclrpflbfvkertxdi6guityj2jeyfk5iqgacrt2uo7ead.onion/"
-      }
-    ],
-    "category": "Exchanges",
-    "subcategory": "Instant Swaps (No Account)",
-    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Verified",
-    "kycPolicy": "Guaranteed No KYC",
-    "liquidity": "Third Party",
-    "tags": [
-      "Account Not Required",
-      "API Available",
-      "Email Not Required",
-      "Letter of Guarantee"
-    ],
-    "country": "IN",
-    "founded": "2025-06-01",
-    "description": "Instant crypto exchange swapping Bitcoin, Monero (XMR), Ethereum, USDT, USDC and DAI. No JavaScript, Tor onion mirror, Telegram bot and API; flat or dynamic rates.",
-    "rating": {
-      "average": 4.3,
-      "reviews": 9
-    },
-    "added": "2026-04-15",
-    "updated": "2026-10-30"
   },
   "mondoze": {
     "name": "Mondoze",
@@ -14645,9 +14515,9 @@
     "categoryUrl": "https://monerica.com/businesses/proxy-shopping",
     "status": "Admitted",
     "founded": "2012-05-08",
-    "description": "Pay all of your expenses (online shopping, bills etc.) with Monero. You can also buy & sell Monero trough PayPal.",
+    "description": "Personal order and payment service: send the details and the operator places online orders or pays bills on your behalf. Also buys and sells Monero through PayPal.",
     "added": "2025-03-29",
-    "updated": "2026-06-23"
+    "updated": "2026-11-10"
   },
   "moneropay": {
     "name": "MoneroPay",
@@ -14675,9 +14545,9 @@
     "categoryUrl": "https://monerica.com/businesses/postage-and-shipping-services",
     "status": "Questionable",
     "founded": "2020-03-15",
-    "description": "Online postage service to buy US shipping labels, including DHL Express international, with Monero (XMR), Zcash, Bitcoin, BCH or Litecoin. Bulk CSV orders and Tor access.",
+    "description": "Online postage service to buy US shipping labels, including DHL Express international. Bulk CSV orders and Tor access.",
     "added": "2026-01-10",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "moneropricenow-com": {
     "name": "MoneroPriceNow.com",
@@ -14768,9 +14638,9 @@
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
     "founded": "2022-11-21",
-    "description": "Virtual phone number service paid in Monero (XMR) for sending and receiving SMS, at $3.60/mo plus per-message fees, with a web app, CLI client and Tor support.",
+    "description": "Virtual phone number service for sending and receiving SMS, at $3.60/mo plus per-message fees, with a web app, CLI client and Tor support.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "moneroswap-net": {
     "name": "MoneroSwap.net",
@@ -14873,9 +14743,9 @@
     "categoryUrl": "https://monerica.com/businesses/miscellaneous",
     "status": "Verified",
     "founded": "2026-10-21",
-    "description": "Online wall of 10,000 squares for the Monero community: buy a square for $5 in XMR and add a picture, message and link. Other coins via Trocador.",
+    "description": "Online wall of 10,000 squares for the Monero community: buy a square for $5 and add a picture, message and link.",
     "added": "2026-10-23",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "monerovis": {
     "name": "MoneroVis",
@@ -14962,9 +14832,9 @@
     ],
     "country": "BR",
     "founded": "2026-05-21",
-    "description": "Brazilian gift cards (food delivery, games, streaming, mobile top-ups, retail) paid in Monero. No account, no email, no KYC. Optional non-custodial swap (via Trocador) to pay",
+    "description": "Brazilian gift cards for food delivery, games, streaming, mobile top-ups and retail. No account, no email, no KYC.",
     "added": "2026-07-08",
-    "updated": "2026-07-09"
+    "updated": "2026-11-10"
   },
   "monfluo": {
     "name": "Monfluo",
@@ -15051,9 +14921,9 @@
     "status": "Admitted",
     "country": "LT",
     "founded": "2012-04-17",
-    "description": "Hosting provider offering Windows and Linux VPS, Forex VPS, RDP, dedicated servers, domains, web hosting and business email in 25+ locations, accepting Bitcoin since 2011.",
+    "description": "Hosting provider offering Windows and Linux VPS, Forex VPS, RDP, dedicated servers, domains, web hosting and business email in 25+ locations.",
     "added": "2022-11-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "monstadomains": {
     "name": "MonstaDomains",
@@ -15145,9 +15015,9 @@
     ],
     "country": "UA",
     "founded": "2026-05-09",
-    "description": "Free, open-source federated E2EE messenger with no phone number or email \u2014 the account is a key you own. Includes Morok Mail (@morok.email aliases). Accepts XMR donations.",
+    "description": "Free, open-source federated E2EE messenger with no phone number or email: the account is a key you own. Includes Morok Mail (@morok.email aliases).",
     "added": "2026-09-13",
-    "updated": "2026-09-13"
+    "updated": "2026-11-10"
   },
   "motiv-ngo": {
     "name": "Motiv NGO",
@@ -15201,13 +15071,13 @@
     ],
     "country": "SE",
     "founded": "2009-03-01",
-    "description": "No-logs VPN, \u20ac5/month, 10% Monero discount, one-click numbered account generation, 50+ countries, 500+ servers, up to 5 devices, audited, open-source.",
+    "description": "No-logs VPN, \u20ac5/month, one-click numbered account generation, 50+ countries, 500+ servers, up to 5 devices, audited, open-source.",
     "rating": {
       "average": 5,
       "reviews": 10
     },
     "added": "2022-06-22",
-    "updated": "2026-11-03"
+    "updated": "2026-11-10"
   },
   "munchy-bot": {
     "name": "Munchy Bot",
@@ -15234,13 +15104,13 @@
     "categoryUrl": "https://monerica.com/businesses/proxy-shopping",
     "status": "Admitted",
     "founded": "2026-01-26",
-    "description": "Buy products from Amazon, eBay, and 500+ stores worldwide using Monero, Ethereum, Bitcoin and more. No bank account needed.",
+    "description": "Proxy shopping service that buys products from Amazon, eBay and 500+ stores worldwide on your behalf. No bank account needed.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2026-02-11",
-    "updated": "2026-07-24"
+    "updated": "2026-11-10"
   },
   "mycryptocheckout": {
     "name": "MyCryptoCheckout",
@@ -15316,13 +15186,13 @@
     ],
     "country": "KN",
     "founded": "2024-01-01",
-    "description": "VPS, web hosting and private domain registration with email-only signup, full root access and Tor/VPN access. Accepts Monero (XMR), Bitcoin, Lightning, Litecoin and Zcash.",
+    "description": "VPS, web hosting and private domain registration with email-only signup, full root access and Tor/VPN access.",
     "rating": {
       "average": 4.2,
       "reviews": 5
     },
     "added": "2024-03-28",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "n-exchange": {
     "name": "n.exchange",
@@ -15375,20 +15245,6 @@
     },
     "added": "2025-05-09",
     "updated": "2026-11-03"
-  },
-  "nadeko-monero-node": {
-    "name": "Nadeko Monero Node",
-    "slug": "nadeko-monero-node",
-    "profileUrl": "https://monerica.com/site/nadeko-monero-node",
-    "website": "https://nadeko.net/monero-node/",
-    "category": "Nodes",
-    "subcategory": "Public Remote Nodes & Operators",
-    "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
-    "status": "Admitted",
-    "founded": "2024-01-09",
-    "description": "Public Monero (XMR) remote node hosted in Chile by nadeko.net, reachable over clearnet with SSL, Tor, I2P and Yggdrasil; suited to wallet sync from South America.",
-    "added": "2026-08-19",
-    "updated": "2026-10-30"
   },
   "nano-pool": {
     "name": "nano pool",
@@ -15569,13 +15425,13 @@
     ],
     "country": "SE",
     "founded": "2026-07-23",
-    "description": "Private email service with webmail encrypted to your own OpenPGP key, no IP logs, unlimited aliases, auto-delete, Tor and no-JS access, a free plan and crypto-prepaid Pro.",
+    "description": "Private email service with webmail encrypted to your own OpenPGP key, no IP logs, unlimited aliases, auto-delete, Tor and no-JS access, a free plan and a prepaid Pro plan.",
     "rating": {
       "average": 4,
       "reviews": 1
     },
     "added": "2026-07-30",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "neironvps": {
     "name": "NeironVPS",
@@ -15673,9 +15529,9 @@
     "status": "Questionable",
     "country": "DM",
     "founded": "2017-04-07",
-    "description": "Offshore hosting with web hosting, KVM VPS, dedicated servers, VPN and domains, plus DDoS protection, disk encryption and Tor hosting. Accepts Monero (XMR) and other crypto.",
+    "description": "Offshore hosting with web hosting, KVM VPS, dedicated servers, VPN and domains, plus DDoS protection, disk encryption and Tor hosting.",
     "added": "2024-11-04",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "nick-sparrow": {
     "name": "Nick Sparrow",
@@ -15942,9 +15798,9 @@
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-05-13",
-    "description": "Privacy-first VPS and dedicated servers in Stockholm, Helsinki, Oslo, Reykjavik. No KYC, email-only signup, Monero at checkout. VPS from $3.90/mo, bare metal $69/mo.",
+    "description": "Privacy-first VPS and dedicated servers in Stockholm, Helsinki, Oslo and Reykjavik. No KYC, email-only signup. VPS from $3.90/mo, bare metal from $69/mo.",
     "added": "2026-09-04",
-    "updated": "2026-09-06"
+    "updated": "2026-11-10"
   },
   "nosint": {
     "name": "NoSINT",
@@ -16260,9 +16116,9 @@
     ],
     "country": "US",
     "founded": "2023-09-27",
-    "description": "VPN service with a two-party relay design, no email needed, and apps for iOS, macOS, Android, Windows and Linux plus WireGuard configs. Pay with Monero (XMR) or Lightning.",
+    "description": "VPN service with a two-party relay design, no email needed, and apps for iOS, macOS, Android, Windows and Linux plus WireGuard configs.",
     "added": "2025-11-03",
-    "updated": "2026-11-03"
+    "updated": "2026-11-10"
   },
   "obscurify-ai": {
     "name": "Obscurify.ai",
@@ -16287,9 +16143,9 @@
       "Email Not Required"
     ],
     "founded": "2023-11-01",
-    "description": "Anonymous AI chat: GPT, Claude, Gemini + 200 more models. No email, no chat logs. In-browser local models, Tor onion. Pay in XMR, BTC or Lightning.",
+    "description": "Anonymous AI chat with GPT, Claude, Gemini and 200 more models. No email, no chat logs. In-browser local models and a Tor onion address.",
     "added": "2024-03-16",
-    "updated": "2026-10-23"
+    "updated": "2026-11-10"
   },
   "octoswap": {
     "name": "OctoSwap",
@@ -16336,21 +16192,6 @@
     },
     "added": "2026-09-15",
     "updated": "2026-10-26"
-  },
-  "offshoreracks": {
-    "name": "OffshoreRacks",
-    "slug": "offshoreracks",
-    "profileUrl": "https://monerica.com/site/offshoreracks",
-    "website": "https://www.offshoreracks.com",
-    "category": "Web Hosting",
-    "subcategory": "VPS Hosting",
-    "categoryUrl": "https://monerica.com/web-hosting/vps",
-    "status": "Admitted",
-    "country": "US",
-    "founded": "2005-10-13",
-    "description": "Panama-based offshore web hosting provider offering shared and managed WordPress hosting, Linux and Windows KVM VPS, cloud servers, domains and SSL certificates.",
-    "added": "2025-09-07",
-    "updated": "2026-10-30"
   },
   "okspot": {
     "name": "OKSPOT",
@@ -16524,9 +16365,9 @@
     ],
     "country": "RU",
     "founded": "2018-06-13",
-    "description": "Virtual phone number service for receiving SMS verification codes online. Temporary and rental numbers in 110+ countries for 1000+ apps and websites. Accepts Monero (XMR).",
+    "description": "Virtual phone number service for receiving SMS verification codes online. Temporary and rental numbers in 110+ countries for 1000+ apps and websites.",
     "added": "2024-07-13",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "onlive-server": {
     "name": "Onlive Server",
@@ -16770,9 +16611,9 @@
     "categoryUrl": "https://monerica.com/non-profits/security",
     "status": "Admitted",
     "founded": "2021-02-02",
-    "description": "Free tunneling service offering SSH, V2Ray/Xray, Trojan, OpenVPN, WireGuard and proxy server accounts, plus DNS and IP tools. Accepts Monero (XMR) donations.",
+    "description": "Free tunneling service offering SSH, V2Ray/Xray, Trojan, OpenVPN, WireGuard and proxy server accounts, plus DNS and IP tools.",
     "added": "2025-08-10",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "operavps": {
     "name": "OperaVPS",
@@ -16785,9 +16626,9 @@
     "status": "Admitted",
     "country": "GB",
     "founded": "2019-05-02",
-    "description": "Hosting provider offering Linux and Windows VPS, MikroTik and cPanel VPS, RDP servers, dedicated and GPU servers in 20+ locations worldwide, with crypto payment options.",
+    "description": "Hosting provider offering Linux and Windows VPS, MikroTik and cPanel VPS, RDP servers, dedicated and GPU servers in 20+ locations worldwide.",
     "added": "2025-09-06",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "opsec-guide-zycher": {
     "name": "OPSEC Guide - Zycher",
@@ -17055,9 +16896,9 @@
     ],
     "country": "AU",
     "founded": "2026-03-01",
-    "description": "Research-grade peptides for Australian researchers. COA-verified products including BPC-157, GHK-Cu, MOTS-C, Retatrutide and more. Express Post shipping. XMR payment no KYC",
+    "description": "Research-grade peptides for Australian researchers. COA-verified products including BPC-157, GHK-Cu, MOTS-C and Retatrutide. Express Post shipping.",
     "added": "2026-05-02",
-    "updated": "2026-06-23"
+    "updated": "2026-11-10"
   },
   "p-a-z-nia-radio-network": {
     "name": "P.A.Z.NIA Radio Network",
@@ -17305,9 +17146,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "country": "US",
     "founded": "2026-10-07",
-    "description": "Virtual crypto debit card service: prepaid cards funded with crypto incl. Monero (XMR), with Apple Pay, NFC payments, US, Europe and Asia BINs for subscriptions and ads.",
+    "description": "Virtual crypto debit card service: prepaid cards funded with crypto, with Apple Pay, NFC payments, and US, Europe and Asia BINs for subscriptions and ads.",
     "added": "2026-10-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "payperq": {
     "name": "PayPerQ",
@@ -17547,9 +17388,9 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-09-28",
-    "description": "VPS and dedicated servers paid in Monero. Email-only signup: no ID documents, no phone verification. Root access, IPMI on dedicated, public status page with uptime history.",
+    "description": "VPS and dedicated servers with email-only signup: no ID documents, no phone verification. Root access, IPMI on dedicated, public status page with uptime history.",
     "added": "2026-11-06",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "phreeli": {
     "name": "Phreeli",
@@ -17562,9 +17403,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2018-03-25",
-    "description": "US prepaid wireless phone service built to collect minimal personal data, with unlimited talk and text, data plans, hotspot and international calling; pays with crypto.",
+    "description": "US prepaid wireless phone service built to collect minimal personal data, with unlimited talk and text, data plans, hotspot and international calling.",
     "added": "2025-12-10",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "pieq": {
     "name": "Pieq",
@@ -17818,24 +17659,6 @@
     "added": "2026-07-28",
     "updated": "2026-11-09"
   },
-  "plisio": {
-    "name": "Plisio",
-    "slug": "plisio",
-    "profileUrl": "https://monerica.com/site/plisio",
-    "website": "https://plisio.net/accept-monero",
-    "category": "Merchant Services",
-    "subcategory": "Integrations",
-    "categoryUrl": "https://monerica.com/merchant-services/integrations",
-    "status": "Admitted",
-    "tags": [
-      "API Available"
-    ],
-    "country": "GB",
-    "founded": "2019-01-16",
-    "description": "API and integrations with OpenCart, VirtueMart, WHMOS, WooCommerce, Magento, PrestaShop, Ecwid and BigCommerce",
-    "added": "2022-06-22",
-    "updated": "2026-02-19"
-  },
   "poloniex": {
     "name": "Poloniex",
     "slug": "poloniex",
@@ -17867,9 +17690,9 @@
     "subcategory": "Marketplaces",
     "categoryUrl": "https://monerica.com/businesses/marketplaces",
     "status": "Admitted",
-    "description": "A marketplace for video game items and currency that accepts Monero for customer payments and seller payouts.",
+    "description": "Marketplace for video game items and currency on servers such as 2b2t, DonutSMP and Hypixel Skyblock. Trades are held in escrow, and sellers can be paid out in Monero.",
     "added": "2026-01-11",
-    "updated": "2026-01-11"
+    "updated": "2026-11-10"
   },
   "pornhub-premium": {
     "name": "PornHub Premium",
@@ -17881,9 +17704,9 @@
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Verified",
     "founded": "2008-09-29",
-    "description": "Paid subscription to Pornhub Premium, an adult video streaming service with ad-free HD content. Memberships can be purchased with Monero (XMR).",
+    "description": "Paid subscription to Pornhub Premium, an adult video streaming service with ad-free HD content.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "port-authority": {
     "name": "Port Authority",
@@ -17927,9 +17750,9 @@
     "status": "Admitted",
     "country": "IS",
     "founded": "2014-04-11",
-    "description": "Private SOCKS5 proxy shop selling proxies in many countries (US, UK, Germany, Brazil and more) by package, with an API; deposits in Bitcoin, Monero (XMR) and other coins.",
+    "description": "Private SOCKS5 proxy shop selling proxies in many countries, including the US, UK, Germany and Brazil, by package, with an API.",
     "added": "2026-01-05",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "prepaidify": {
     "name": "Prepaidify",
@@ -17941,9 +17764,9 @@
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
     "founded": "2018-10-10",
-    "description": "Buy prepaid Visa/Mastercard and brand gift cards with Monero and other cryptocurrencies, delivered instantly by email.",
+    "description": "Prepaid Visa and Mastercard cards and brand gift cards, delivered instantly by email.",
     "added": "2022-06-22",
-    "updated": "2026-10-25"
+    "updated": "2026-11-10"
   },
   "preservetube": {
     "name": "Preservetube",
@@ -17988,9 +17811,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2014-12-26",
-    "description": "Online medical marijuana card service in US states: same-day video visits with licensed physicians for cannabis recommendations. Pay with Monero (XMR) or other crypto.",
+    "description": "Online medical marijuana card service in US states: same-day video visits with licensed physicians for cannabis recommendations.",
     "added": "2025-10-02",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "priamex": {
     "name": "Priamex",
@@ -18086,9 +17909,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "None",
-    "description": "privacy.sexy is a free, open-source tool that applies privacy and security settings on Windows, macOS and Linux; the developer accepts Monero (XMR) donations.",
+    "description": "privacy.sexy is a free, open-source tool that applies privacy and security settings on Windows, macOS and Linux.",
     "added": "2025-01-09",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "privacygateway-io": {
     "name": "PrivacyGateway.io",
@@ -18193,7 +18016,7 @@
     "category": "Web Hosting",
     "subcategory": "Offshore & Privacy Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/offshore",
-    "status": "Admitted",
+    "status": "Verified",
     "tags": [
       "Affiliate Program"
     ],
@@ -18201,7 +18024,7 @@
     "founded": "2019-05-27",
     "description": "Offshore hosting services, powered by an ethical team of professionals, Infrastructure for people who care about privacy and control.",
     "added": "2024-10-14",
-    "updated": "2026-09-30"
+    "updated": "2026-11-10"
   },
   "privcart": {
     "name": "PrivCart",
@@ -18242,13 +18065,13 @@
     ],
     "country": "BZ",
     "founded": "2017-02-03",
-    "description": "Privacy-focused VPS and dedicated server host with servers in Germany, the USA and Sweden. Accepts Monero (XMR), Bitcoin, Litecoin and other crypto. Has Tor and I2P sites.",
+    "description": "Privacy-focused VPS and dedicated server host with servers in Germany, the USA and Sweden. Has Tor and I2P sites.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "proekt": {
     "name": "Proekt",
@@ -18519,9 +18342,9 @@
     "status": "Admitted",
     "country": "GB",
     "founded": "2023-06-20",
-    "description": "VPS hosting in Europe and the USA: standard and high-CPU Ryzen VPS, GPU and dedicated servers, domains and proxies. Accepts Monero (XMR), Bitcoin, USDT and cards.",
+    "description": "VPS hosting in Europe and the USA: standard and high-CPU Ryzen VPS, GPU and dedicated servers, domains and proxies.",
     "added": "2024-10-19",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "psychonautwiki": {
     "name": "PsychonautWiki",
@@ -18578,9 +18401,9 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-09-01",
-    "description": "Crypto subscription platform for creators and fans: creators sell monthly memberships with exclusive content, and fans pay in BTC, ETH, USDT, XMR and other coins.",
+    "description": "Crypto-powered subscription platform for creators and fans: creators set a monthly membership price, share exclusive content and receive daily payouts. Platform fee 3-7%.",
     "added": "2026-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "purple-swap": {
     "name": "Purple Swap",
@@ -18874,9 +18697,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2015-11-24",
-    "description": "US provider in Dallas, Texas offering domain registration, cPanel, WordPress and email hosting, KVM VPS and dedicated servers. Accepts crypto including Monero (XMR).",
+    "description": "US provider in Dallas, Texas offering domain registration, cPanel, WordPress and email hosting, KVM VPS and dedicated servers.",
     "added": "2025-09-05",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "rahmtech-computing-inc": {
     "name": "RahmTech Computing, Inc.",
@@ -18957,9 +18780,9 @@
     ],
     "country": "SG",
     "founded": "2026-05-09",
-    "description": "Windows RDP, Linux VPS and storage servers paid with crypto, including Monero. Sign up with just an email or Telegram, no ID.",
+    "description": "Windows RDP, Linux VPS and 1 to 4 TB storage servers in six locations across Europe, the US and Asia. Sign up with just an email or Telegram, no ID.",
     "added": "2026-11-07",
-    "updated": "2026-11-07"
+    "updated": "2026-11-10"
   },
   "reader-dict": {
     "name": "reader.dict",
@@ -18991,9 +18814,9 @@
     "status": "Admitted",
     "country": "GB",
     "founded": "2015-02-06",
-    "description": "UK online shop selling reagent drug test kits for MDMA, cocaine, ketamine and psychedelics, plus lab scales. Ships in plain packaging and accepts Monero (XMR).",
+    "description": "UK online shop selling reagent drug test kits for MDMA, cocaine, ketamine and psychedelics, plus lab scales. Ships in plain packaging.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "real-mad-honey": {
     "name": "Real Mad Honey",
@@ -19129,9 +18952,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2018-05-18",
-    "description": "Hosting provider offering AMD EPYC NVMe cloud VPS from $4.50/month, web hosting and domain registration, with DDoS protection and cryptocurrency checkout.",
+    "description": "Hosting provider offering AMD EPYC NVMe cloud VPS from $4.50/month, web hosting and domain registration, with DDoS protection.",
     "added": "2025-09-14",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "research-center-named-after-hannah-arendt": {
     "name": "Research center named after Hannah Arendt",
@@ -19327,9 +19150,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "country": "US",
     "founded": "2026-09-28",
-    "description": "Written setup guides and scripts for self-hosting, Monero nodes, WireGuard, XMR payments and small automation jobs. Fixed XMR prices, no signup. Work written by an AI agent.",
+    "description": "Written setup guides and scripts for self-hosting, Monero nodes, WireGuard, XMR payments and small automation jobs. Fixed prices, no signup. Work written by an AI agent.",
     "added": "2026-10-10",
-    "updated": "2026-10-10"
+    "updated": "2026-11-10"
   },
   "rs-computers": {
     "name": "RS Computers",
@@ -19399,9 +19222,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "country": "US",
     "founded": "2025-09-16",
-    "description": "Family farm in West Palm Beach, Florida selling local produce and farm goods to its community. Contact by email or phone; Monero (XMR) accepted via its XMRBazaar shop.",
+    "description": "Family farm in West Palm Beach, Florida selling local produce and farm goods to its community. Contact by email or phone, or order through its XMRBazaar shop.",
     "added": "2026-03-09",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "ryit": {
     "name": "RYIT",
@@ -19415,9 +19238,9 @@
     "javascript": "None",
     "country": "US",
     "founded": "2016-12-21",
-    "description": "Florida-based DJ playing psytrance, techno and industrial/EBM, also making music videos and songs. Bookings payable in Monero (XMR).",
+    "description": "Florida-based DJ playing psytrance, techno and industrial/EBM, who also makes music videos and songs and is available for bookings.",
     "added": "2022-11-10",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "ryo-news": {
     "name": "ryo.news",
@@ -19429,9 +19252,9 @@
     "categoryUrl": "https://monerica.com/businesses/clothing-apparel-and-accessories",
     "status": "Admitted",
     "founded": "2026-08-01",
-    "description": "Online shop from Ryo Currency news site ryo.news selling privacy-themed apparel, hoodies, T-shirts, backpacks, hats, stickers and mugs, paid with RYO or Monero (XMR).",
+    "description": "Online shop from Ryo Currency news site ryo.news selling privacy-themed apparel, hoodies, T-shirts, backpacks, hats, stickers and mugs.",
     "added": "2026-09-05",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "sababa-chiang-mai": {
     "name": "Sababa Chiang Mai",
@@ -19444,9 +19267,9 @@
     "status": "Verified",
     "country": "TH",
     "founded": "2022-05-31",
-    "description": "In the heart of Chiang Mai, Authentic Mediterranean Restaurant with simple chillout & laid-back vibe with home-style cooking, XMR accepted with love.",
+    "description": "Authentic Mediterranean restaurant in the heart of Chiang Mai, Thailand, with a simple, laid-back chillout vibe and home-style cooking.",
     "added": "2025-08-23",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "sabaidee-resort": {
     "name": "Sabaidee Resort",
@@ -19821,9 +19644,9 @@
       "Email Not Required"
     ],
     "founded": "2026-05-13",
-    "description": "Payment webhooks from view keys. Non-custodial, no account, no email, no KYC. Pay-per-use in XMR.",
+    "description": "Sends a signed webhook when a Monero or Zcash payment lands at your address, using a read-only view key with no node to run. Non-custodial, no account, no email, no KYC.",
     "added": "2026-07-02",
-    "updated": "2026-07-06"
+    "updated": "2026-11-10"
   },
   "senko-digital": {
     "name": "Senko Digital",
@@ -19857,9 +19680,9 @@
     ],
     "country": "MY",
     "founded": "2014-04-22",
-    "description": "Malaysia-based hosting provider offering VPS, dedicated and GPU servers, residential IP VPS, Mac mini cloud, Minecraft VPS, RDP and colocation. Accepts crypto.",
+    "description": "Malaysia-based hosting provider offering VPS, dedicated and GPU servers, residential IP VPS, Mac mini cloud, Minecraft VPS, RDP and colocation.",
     "added": "2025-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "server-factory-com": {
     "name": "server-factory.com",
@@ -20144,13 +19967,13 @@
     "status": "Admitted",
     "javascript": "None",
     "founded": "2026-01-08",
-    "description": "Monero-only VPN. No email, no username - just a 4-word token. WireGuard tunnels with shared exit IPs. EU and US servers. Onion mirror available.",
+    "description": "VPN with no email or username, just a 4-word token. WireGuard tunnels with shared exit IPs. EU and US servers. Onion mirror available.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2026-01-21",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "shadowswap": {
     "name": "Shadowswap",
@@ -20461,13 +20284,13 @@
     ],
     "country": "US",
     "founded": "2020-10-12",
-    "description": "Global eSIM provider with pay-as-you-go 5G/LTE mobile data in 160+ countries and US +1 phone number plans for SMS. Pay with Monero (XMR), Bitcoin, Lightning or USDT.",
+    "description": "Global eSIM provider with pay-as-you-go 5G/LTE mobile data in 160+ countries and US +1 phone number plans for SMS.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2022-12-06",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "silentapi": {
     "name": "SilentAPI",
@@ -20578,9 +20401,9 @@
     "status": "Verified",
     "country": "US",
     "founded": "2018-08-17",
-    "description": "Online store selling fashion jewelry, hair accessories, clothing, games and puzzles, ink cartridges and Vietnamese products. Pay with Monero (XMR) for a 10% discount.",
+    "description": "Online store selling fashion jewelry, hair accessories, clothing, games and puzzles, ink cartridges and Vietnamese products.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "simbank": {
     "name": "SimBank",
@@ -20708,13 +20531,13 @@
     ],
     "country": "EE",
     "founded": "2019-12-02",
-    "description": "Prepaid data eSIMs for 130+ destinations and private phone numbers, paid with Bitcoin or Monero (XMR). No account needed; eSIMs are delivered as a QR code within minutes.",
+    "description": "Prepaid data eSIMs for 130+ destinations and private phone numbers. No account needed; eSIMs are delivered as a QR code within minutes.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2023-09-12",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "simxl": {
     "name": "SimXL",
@@ -20727,9 +20550,9 @@
     "warning": "Listed as a scam: do not use.",
     "country": "XK",
     "founded": "2022-05-13",
-    "description": "Online store selling eSIM data plans for crypto: local, regional and global eSIMs covering 190+ countries, plus global call, SMS and data bundles.",
+    "description": "Online store selling eSIM data plans: local, regional and global eSIMs covering 190+ countries, plus global call, SMS and data bundles.",
     "added": "2023-09-24",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "singularity": {
     "name": "Singularity",
@@ -20781,9 +20604,9 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "country": "EE",
-    "description": "No KYC, privacy-focused hosting provider founded in Ukraine. Legal entity in Estonia, offers KVM VPS in Europe. In-house XMR processing.",
+    "description": "No KYC, privacy-focused hosting provider founded in Ukraine. Legal entity in Estonia, offers KVM VPS in Europe.",
     "added": "2023-10-01",
-    "updated": "2026-07-24"
+    "updated": "2026-11-10"
   },
   "skylight-wallet": {
     "name": "Skylight Wallet",
@@ -20946,9 +20769,9 @@
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2025-09-29",
-    "description": "Virtual numbers for SMS verification codes: 1,304 platforms, 145 countries, from $0.07 a code; 7-30 day rentals. Paid in Monero, USDT, BTC or ETH; email-only sign-up.",
+    "description": "Virtual numbers for SMS verification codes: 1,304 platforms, 145 countries, from $0.07 a code; 7-30 day rentals. Email-only sign-up.",
     "added": "2026-09-20",
-    "updated": "2026-10-24"
+    "updated": "2026-11-10"
   },
   "sms-lease": {
     "name": "sms.lease",
@@ -21264,9 +21087,9 @@
     ],
     "country": "US",
     "founded": "2018-08-28",
-    "description": "Game server hosting for Minecraft, Rust, Valheim, ARK, Palworld and 30+ other games, plus VPS, dedicated servers, web and Discord bot hosting. Crypto paid via NOWPayments.",
+    "description": "Game server hosting for Minecraft, Rust, Valheim, ARK, Palworld and 30+ other games, plus VPS, dedicated servers, web and Discord bot hosting.",
     "added": "2025-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "spectreswap": {
     "name": "SpectreSwap",
@@ -21440,9 +21263,9 @@
     "status": "Verified",
     "country": "US",
     "founded": "2021-01-29",
-    "description": "Las Vegas, Nevada seller of magic mushroom spore syringes, sold online and through local retail stores. Free shipping on orders over $100; crypto payments accepted.",
+    "description": "Las Vegas, Nevada seller of magic mushroom spore syringes, sold online and through local retail stores. Free shipping on orders over $100.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "spore-works": {
     "name": "Spore Works",
@@ -21455,9 +21278,9 @@
     "status": "Verified",
     "country": "US",
     "founded": "2000-04-04",
-    "description": "Online store selling mushroom spore syringes, spore prints, isolates and liquid cultures for microscopy, shipping from Tennessee, USA, with an EU store. Accepts Monero (XMR).",
+    "description": "Online store selling mushroom spore syringes, spore prints, isolates and liquid cultures for microscopy, shipping from Tennessee, USA, with an EU store.",
     "added": "2023-09-12",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "sporestack": {
     "name": "SporeStack",
@@ -21642,9 +21465,9 @@
     "status": "Admitted",
     "javascript": "None",
     "founded": "2017-07-31",
-    "description": "Free public BitTorrent tracker (open.stealth.si) running opentracker over UDP with IPv4 and IPv6, no connection logs or torrent files, and Monero (XMR) donations.",
+    "description": "Free public BitTorrent tracker (open.stealth.si) running opentracker over UDP with IPv4 and IPv6, keeping no connection logs or torrent files.",
     "added": "2026-08-15",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "stealthex": {
     "name": "StealthEX",
@@ -21782,9 +21605,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "founded": "2010-05-08",
-    "description": "Developer of open-source privacy apps: Privacy Browser for Android and PC and Privacy Cell. Publishes changelogs, roadmaps and forums; accepts Monero (XMR) donations.",
+    "description": "Developer of open-source privacy apps: Privacy Browser for Android and PC and Privacy Cell. Publishes changelogs, roadmaps and forums.",
     "added": "2025-11-21",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "stoxswap-swapper": {
     "name": "Stoxswap Swapper",
@@ -21842,9 +21665,9 @@
       "Owns Physical Servers"
     ],
     "country": "PL",
-    "description": "VPS hosting on AMD Ryzen servers with NVMe SSD storage and DDoS protection, in Poland, the USA and Singapore. Paid with cryptocurrency, including Monero (XMR).",
+    "description": "VPS hosting on AMD Ryzen servers with NVMe SSD storage and DDoS protection, in Poland, the USA and Singapore.",
     "added": "2025-06-30",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "suisse-gold": {
     "name": "Suisse Gold",
@@ -21858,9 +21681,9 @@
     "kycPolicy": "Rare KYC",
     "country": "GB",
     "founded": "2005-07-04",
-    "description": "Swiss bullion dealer selling gold, silver, platinum, palladium and rhodium bars and coins, with insured worldwide delivery or Swiss vault storage. Accepts Monero (XMR).",
+    "description": "Swiss bullion dealer selling gold, silver, platinum, palladium and rhodium bars and coins, with insured worldwide delivery or Swiss vault storage.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "super-66": {
     "name": "Super 66",
@@ -21878,9 +21701,9 @@
       "Email Not Required"
     ],
     "country": "AR",
-    "description": "Supermarket in La Plata, Buenos Aires, Argentina, on Avenida 66 between 160 and 161, selling groceries and everyday goods. Accepts Monero (XMR).",
+    "description": "Supermarket in La Plata, Buenos Aires, Argentina, on Avenida 66 between 160 and 161, selling groceries and everyday goods.",
     "added": "2024-01-26",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "superswap": {
     "name": "Superswap",
@@ -21928,9 +21751,9 @@
     "categoryUrl": "https://monerica.com/non-profits/individuals",
     "status": "Admitted",
     "country": "IN",
-    "description": "Personal website of an 18-year-old developer from India sharing open-source projects, CTF and chess profiles, and FOSS and privacy interests. Accepts Monero (XMR) donations.",
+    "description": "Personal website of an 18-year-old developer from India sharing open-source projects, CTF and chess profiles, and FOSS and privacy interests.",
     "added": "2025-09-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "swap-bz": {
     "name": "swap.bz",
@@ -22393,9 +22216,9 @@
     "categoryUrl": "https://monerica.com/businesses/precious-metals",
     "status": "Admitted",
     "country": "CH",
-    "description": "Swiss online dealer selling gold, silver, platinum, palladium and rhodium bars and coins, with vault storage in Zurich. Accepts Monero (XMR) and other crypto.",
+    "description": "Swiss online dealer selling gold, silver, platinum, palladium and rhodium bars and coins, with vault storage in Zurich.",
     "added": "2025-09-09",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "swp-gg": {
     "name": "Swp.gg",
@@ -22569,9 +22392,9 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/voip-calling-and-messaging",
     "status": "Admitted",
     "founded": "2008-10-02",
-    "description": "Virtual phone number provider selling SMS, voice, toll-free, disposable and non-VoIP numbers, call and SMS forwarding and virtual office services. Pay with Monero (XMR).",
+    "description": "Virtual phone number provider selling SMS, voice, toll-free, disposable and non-VoIP numbers, call and SMS forwarding and virtual office services.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "temp-mail": {
     "name": "Temp Mail",
@@ -22597,9 +22420,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "founded": "2018-12-19",
-    "description": "Temporary file upload and sharing service: files up to 4GB expire after 3 days, with curl command-line uploads, a bash script and a ShareX config. Takes Monero donations.",
+    "description": "Temporary file upload and sharing service: files up to 4GB expire after 3 days, with curl command-line uploads, a bash script and a ShareX config.",
     "added": "2026-06-17",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "tenebrisque": {
     "name": "Tenebrisque",
@@ -22612,9 +22435,9 @@
     "status": "Verified",
     "country": "FR",
     "founded": "2025-01-07",
-    "description": "Online Halloween store selling realistic masks, costumes for adults, kids and couples, accessories and decorations, with Monero (XMR) checkout.",
+    "description": "Online Halloween store selling realistic masks, costumes for adults, kids and couples, accessories and decorations.",
     "added": "2023-09-05",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "teva-galilee-and-arts": {
     "name": "Teva Galilee & Arts",
@@ -22626,9 +22449,9 @@
     "categoryUrl": "https://monerica.com/businesses/travel",
     "status": "Admitted",
     "country": "IL",
-    "description": "Yurts in the forest of Amirim, Galilee, Israel. Family-run, kosher-friendly and dog friendly. Book direct and pay in Monero (XMR) - contact us before booking.",
+    "description": "Yurts in the forest of Amirim, Galilee, Israel. Family-run, kosher-friendly and dog friendly. Book direct, and contact the hosts before booking.",
     "added": "2026-11-07",
-    "updated": "2026-11-07"
+    "updated": "2026-11-10"
   },
   "textverified": {
     "name": "Textverified",
@@ -22640,9 +22463,9 @@
     "status": "Scam",
     "warning": "Listed as a scam: do not use.",
     "founded": "2018-04-17",
-    "description": "SMS verification service offering temporary real US non-VoIP mobile numbers to receive SMS and voice codes, plus longer-term number rentals and an API. Accepts crypto.",
+    "description": "SMS verification service offering temporary real US non-VoIP mobile numbers to receive SMS and voice codes, plus longer-term number rentals and an API.",
     "added": "2024-12-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "tgcrawl": {
     "name": "TGCrawl",
@@ -22677,12 +22500,6 @@
     "slug": "the-crypto-vigilante",
     "profileUrl": "https://monerica.com/site/the-crypto-vigilante",
     "website": "https://cryptovigilante.io/",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "http://cryptovivqzmjc64ygxyyhfyajmsnjxdxurzu25igtyqzgb4i2gs3mqd.onion"
-      }
-    ],
     "category": "Businesses",
     "subcategory": "Membership",
     "categoryUrl": "https://monerica.com/businesses/membership",
@@ -22692,7 +22509,7 @@
     "founded": "2019-03-14",
     "description": "Expert crypto-market insights grounded in Austrian economics. TCV helps members boost personal freedom and security through open-source software and strong cryptography.",
     "added": "2023-10-20",
-    "updated": "2026-10-26"
+    "updated": "2026-11-10"
   },
   "the-drug-users-bible": {
     "name": "The Drug Users Bible",
@@ -22768,9 +22585,9 @@
     ],
     "country": "BG",
     "founded": "2018-04-27",
-    "description": "Offshore hosting in Bulgaria, Ukraine and the Netherlands: shared hosting, VPS, dedicated and streaming servers with DDoS protection, paid in Bitcoin or Monero (XMR).",
+    "description": "Offshore hosting in Bulgaria, Ukraine and the Netherlands: shared hosting, VPS, dedicated and streaming servers with DDoS protection.",
     "added": "2025-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "the-open-economy-initiative": {
     "name": "The Open Economy Initiative",
@@ -22875,9 +22692,9 @@
     "status": "Admitted",
     "country": "US",
     "founded": "2026-01-07",
-    "description": "Workshop/maker tool manufacturer, primarily focused on SnapTrunk magnetic vacuum hose connectors. (5% off when paying with XMR)",
+    "description": "Manufacturer of workshop and maker tools, primarily focused on SnapTrunk magnetic vacuum hose connectors.",
     "added": "2026-01-19",
-    "updated": "2026-02-16"
+    "updated": "2026-11-10"
   },
   "thundernews": {
     "name": "ThunderNews",
@@ -22964,9 +22781,9 @@
     "status": "Admitted",
     "javascript": "None",
     "founded": "2009-06-21",
-    "description": "Tixati is a free BitTorrent client for Windows, Linux and Android with DHT, PEX and magnet link support, RSS, IP filtering and bandwidth charting. Accepts Monero donations.",
+    "description": "Tixati is a free BitTorrent client for Windows, Linux and Android with DHT, PEX and magnet link support, RSS, IP filtering and bandwidth charting.",
     "added": "2025-06-11",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "tokensfund": {
     "name": "Tokensfund",
@@ -23010,9 +22827,9 @@
     "warning": "Listed as a scam: do not use.",
     "country": "EE",
     "founded": "2019-01-07",
-    "description": "Online store for mobile top-ups, gift cards, game credits, eSIMs and bill payments in 196+ countries, paid with cryptocurrency including Monero (XMR).",
+    "description": "Online store for mobile top-ups, gift cards, game credits, eSIMs and bill payments in 196+ countries.",
     "added": "2022-09-05",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "tor-project-inc": {
     "name": "Tor Project, Inc",
@@ -23034,9 +22851,9 @@
     ],
     "country": "US",
     "founded": "2006-10-17",
-    "description": "Nonprofit behind Tor Browser and the Tor network, which relays traffic through volunteer servers to block trackers, resist fingerprinting and get around censorship. Takes XMR.",
+    "description": "Nonprofit behind Tor Browser and the Tor network, which relays traffic through volunteer servers to block trackers, resist fingerprinting and get around censorship.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "torbox": {
     "name": "Torbox",
@@ -23054,7 +22871,7 @@
     ],
     "country": "AE",
     "founded": "2023-08-09",
-    "description": "Cloud download service for torrents, Usenet and web downloads, with streaming in a web player, WebDAV access and Stremio integration. Paid plans accept Monero (XMR).",
+    "description": "Cloud download service for torrents, Usenet and web downloads, with streaming in a web player, WebDAV access and Stremio integration.",
     "rating": {
       "average": 4.5,
       "reviews": 2
@@ -23101,9 +22918,9 @@
     ],
     "country": "US",
     "founded": "2026-09-20",
-    "description": "Data only travel eSIMs for 190+ countries. No account, email or ID. Self hosted BTCPay Server and own node. Refunds in XMR. Hourly public privacy checks.",
+    "description": "Data only travel eSIMs for 190+ countries. No account, email or ID. Self hosted BTCPay Server and own node. Hourly public privacy checks.",
     "added": "2026-10-13",
-    "updated": "2026-10-26"
+    "updated": "2026-11-10"
   },
   "tornado-swap": {
     "name": "Tornado Swap",
@@ -23135,9 +22952,9 @@
     "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
     "status": "Questionable",
     "founded": "2025-04-05",
-    "description": "OSINT search platform that queries 50+ intelligence sources and 500B+ records from one search, with crypto checkout and a minimal logging policy.",
+    "description": "OSINT search platform that queries 50+ intelligence sources and 500B+ records from one search, with a minimal logging policy.",
     "added": "2025-08-28",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "tradingview-monero-u-s-dollar": {
     "name": "TradingView - MONERO / U.S. DOLLAR",
@@ -23297,13 +23114,13 @@
     "categoryUrl": "https://monerica.com/businesses/artwork",
     "status": "Verified",
     "founded": "2020-10-25",
-    "description": "Online merch shop from digital artist Ulysses XYZ selling Monero and liberty-themed T-shirts, tote bags and mugs. Also sells on XMR Bazaar; pay with Monero (XMR).",
+    "description": "Online merch shop from digital artist Ulysses XYZ selling Monero and liberty-themed T-shirts, tote bags and mugs. Also sells on XMR Bazaar.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2025-12-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "uncard": {
     "name": "UnCard",
@@ -23316,9 +23133,9 @@
     "status": "Admitted",
     "kycPolicy": "Mandatory KYC",
     "founded": "2026-02-09",
-    "description": "Virtual card service funded with crypto including Monero (XMR), BTC, ETH and USDT; cards for ads, subscriptions and online payments, usable with Apple Pay and Google Pay.",
+    "description": "Virtual card service funded with crypto: cards for ads, subscriptions and online payments, usable with Apple Pay and Google Pay.",
     "added": "2026-04-09",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "uncensore-net": {
     "name": "uncensore net",
@@ -23364,13 +23181,13 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2021-08-23",
-    "description": "Ungovernable, a freedom-tech podcast network (The Bitcoin Brief, Monero Monthly) with a merch shop selling t-shirts, hoodies, caps and stickers. Pays in Monero (XMR) or BTC.",
+    "description": "Ungovernable, a freedom-tech podcast network (The Bitcoin Brief, Monero Monthly) with a merch shop selling t-shirts, hoodies, caps and stickers.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2024-12-17",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "unredacted": {
     "name": "Unredacted",
@@ -23427,9 +23244,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "country": "US",
     "founded": "2026-08-31",
-    "description": "Reddit marketing service selling post and comment upvotes and downvotes, hand-written Reddit posts and comments, aged accounts and post removal. Pays with Monero (XMR).",
+    "description": "Reddit marketing service selling post and comment upvotes and downvotes, hand-written Reddit posts and comments, aged accounts and post removal.",
     "added": "2026-08-31",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "use-monero": {
     "name": "Use Monero",
@@ -23456,7 +23273,7 @@
     "status": "Admitted",
     "country": "FR",
     "founded": "2013-04-19",
-    "description": "French seedbox provider with Plex, Jellyfin, Nextcloud and 35+ one-click apps, unlimited traffic and WireGuard/OpenVPN included, accepting Monero (XMR) and Bitcoin.",
+    "description": "French seedbox provider with Plex, Jellyfin, Nextcloud and 35+ one-click apps, unlimited traffic and WireGuard/OpenVPN included.",
     "added": "2025-08-07",
     "updated": "2026-11-10"
   },
@@ -23607,13 +23424,13 @@
     ],
     "country": "SE",
     "founded": "2026-10-05",
-    "description": "Privacy-first email service built for people who just want secure, private email - no tracking, no data harvesting, no lies, no bullshit.",
+    "description": "Private email with receive-only aliases, 16-digit account key sign-in, IMAP/SMTP on paid plans and custom domains. No phone number or personal data needed, Tor and I2P access.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2026-10-05",
-    "updated": "2026-11-03"
+    "updated": "2026-11-10"
   },
   "valley-medicinals": {
     "name": "Valley Medicinals",
@@ -23658,9 +23475,9 @@
     "categoryUrl": "https://monerica.com/businesses/accounting-and-legal-services",
     "status": "Admitted",
     "country": "DE",
-    "description": "Criminal defense and tax law firm in Dresden, Germany (Michael van Eckert): white-collar, tax, drug, IT and cybercrime cases and asset forfeiture. Pay in Monero (XMR).",
+    "description": "Criminal defense and tax law firm in Dresden, Germany (Michael van Eckert): white-collar, tax, drug, IT and cybercrime cases and asset forfeiture.",
     "added": "2025-04-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "veeble": {
     "name": "Veeble",
@@ -23731,13 +23548,13 @@
     "kycPolicy": "Rare KYC",
     "country": "US",
     "founded": "2014-12-03",
-    "description": "We buy and sell investment-grade gold, silver, platinum, and palladium for cryptocurrency.",
+    "description": "Veteran-owned precious metals dealer since 2012 that buys and sells gold, silver, platinum and palladium online across the US and in San Diego, with insured shipping.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-10-11"
+    "updated": "2026-11-10"
   },
   "velshocards": {
     "name": "VelshoCards",
@@ -23772,9 +23589,9 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2024-12-07",
-    "description": "Residential, mobile and datacenter proxy provider with 90M+ IPs in 195+ countries, city and ISP targeting, rotating or sticky sessions, and crypto payment.",
+    "description": "Residential, mobile and datacenter proxy provider with 90M+ IPs in 195+ countries, city and ISP targeting, and rotating or sticky sessions.",
     "added": "2026-02-25",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "vertexchange": {
     "name": "VertEXchange",
@@ -23815,9 +23632,9 @@
     "status": "Admitted",
     "country": "IS",
     "founded": "2025-07-25",
-    "description": "Iceland VPS host offering prepaid hourly KVM virtual machines in Reykjavik on renewable power, payable with Monero (XMR), Bitcoin, other crypto or card.",
+    "description": "Iceland VPS host offering prepaid hourly KVM virtual machines in Reykjavik on renewable power.",
     "added": "2025-11-11",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "veyresim": {
     "name": "VeyreSIM",
@@ -23846,9 +23663,9 @@
     "status": "Admitted",
     "country": "UA",
     "founded": "2017-01-01",
-    "description": "Hosting provider in Kyiv, Ukraine offering SSD and NVMe KVM VPS, Linux and Windows VPS, and dedicated servers, with Monero (XMR), Bitcoin and other crypto payments.",
+    "description": "Hosting provider in Kyiv, Ukraine offering SSD and NVMe KVM VPS, Linux and Windows VPS, and dedicated servers.",
     "added": "2024-07-01",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "virtualsim-net": {
     "name": "Virtualsim.net",
@@ -23909,9 +23726,9 @@
       "API Available"
     ],
     "founded": "2025-12-01",
-    "description": "Real 4G/5G Mobile Proxies, carrier-based SMS verifications, and Global eSIMs unified into privacy-focused, monero-friendly platform.",
+    "description": "Real 4G/5G mobile proxies, carrier-based SMS verifications and global eSIMs unified into one privacy-focused platform.",
     "added": "2026-06-09",
-    "updated": "2026-10-25"
+    "updated": "2026-11-10"
   },
   "vormweb-search-engine": {
     "name": "VormWeb - Search Engine",
@@ -23973,9 +23790,9 @@
     "categoryUrl": "https://monerica.com/vpns/outside-14-eyes",
     "status": "Admitted",
     "country": "SC",
-    "description": "VPN service offering shared and dedicated VPN (OpenVPN, WireGuard, L2TP), multi-hop routing, remote desktop (RDP) and Tor/I2P masking, with Monero (XMR) payments.",
+    "description": "VPN service offering shared and dedicated VPN (OpenVPN, WireGuard, L2TP), multi-hop routing, remote desktop (RDP) and Tor/I2P masking.",
     "added": "2025-07-24",
-    "updated": "2026-11-03"
+    "updated": "2026-11-10"
   },
   "vpn-svoboda-center": {
     "name": "VPN.svoboda.center",
@@ -24025,9 +23842,9 @@
     ],
     "country": "MD",
     "founded": "2026-07-12",
-    "description": "VPS hosting and proxies with no signup or email required, servers deployed in under 60 seconds after payment. Pay on-chain with Monero (XMR), BTC or LTC.",
+    "description": "VPS hosting and proxies with no signup or email required. Servers are deployed automatically in under 60 seconds.",
     "added": "2026-07-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "vps-price-tracker": {
     "name": "VPS Price Tracker",
@@ -24188,9 +24005,9 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/voip-calling-and-messaging",
     "status": "Admitted",
     "founded": "2026-09-17",
-    "description": "Browser-based WhatsApp client that provisions a WhatsApp account for you, so you can message any phone number without your own. Monthly subscription paid in Monero only.",
+    "description": "Browser-based WhatsApp client that provisions a WhatsApp account for you, so you can message any phone number without your own. Sold as a monthly subscription.",
     "added": "2026-10-02",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "web-wipe": {
     "name": "Web Wipe",
@@ -24422,9 +24239,9 @@
     "status": "Admitted",
     "country": "AE",
     "founded": "2022-11-27",
-    "description": "VPS hosting provider selling Linux and Windows VPS, RDP, Mikrotik VPS and dedicated servers in 40+ locations across Europe, the USA and Asia, with crypto payment options.",
+    "description": "VPS hosting provider selling Linux and Windows VPS, RDP, Mikrotik VPS and dedicated servers in 40+ locations across Europe, the USA and Asia.",
     "added": "2025-09-07",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "willpower-studios": {
     "name": "Willpower Studios",
@@ -24450,9 +24267,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "founded": "2025-08-22",
-    "description": "Open-source Linux app for running Windows applications as native windows, with automated Windows installs and home-folder sharing. Takes Monero (XMR) donations.",
+    "description": "Open-source Linux app for running Windows applications as native windows, with automated Windows installs and home-folder sharing.",
     "added": "2025-10-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "windscribe-vpn": {
     "name": "Windscribe VPN",
@@ -24552,9 +24369,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "founded": "2017-03-07",
-    "description": "Free, open-source Minecraft client mod (hacked client) with 250+ features including cheats, commands and utility mods. Accepts Monero (XMR) donations.",
+    "description": "Free, open-source Minecraft client mod (hacked client) with 250+ features including cheats, commands and utility mods.",
     "added": "2025-09-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "xchange-me": {
     "name": "xChange.me",
@@ -24773,9 +24590,9 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Admitted",
     "founded": "2025-06-20",
-    "description": "Online crypto jackpot game with provably fair live draws. Deposit Monero (XMR) for diamonds to buy tickets; other crypto accepted. Sign up with email and a nickname.",
+    "description": "Online crypto jackpot game with provably fair live draws. Deposit Monero (XMR) for diamonds to buy tickets. Sign up with email and a nickname.",
     "added": "2025-12-02",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "xmr-donate": {
     "name": "XMR Donate",
@@ -24804,9 +24621,9 @@
       "Email Not Required"
     ],
     "founded": "2026-06-22",
-    "description": "VPS hosting and proxy provider paid with Monero (XMR), BTC or LTC. No account or email needed; servers deploy automatically in under 60 seconds after payment.",
+    "description": "VPS hosting and proxy provider. No account or email needed; servers deploy automatically in under 60 seconds.",
     "added": "2026-07-19",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "xmr-land": {
     "name": "XMR Land",
@@ -24997,9 +24814,9 @@
       "Email Not Required"
     ],
     "founded": "2021-06-08",
-    "description": "Buy anything & Pay with Monero. Thousands of products: electronics, laptops, phones audiobooks & more. No accounts, no tracking, no middlemen. Fully private.",
+    "description": "Online shop with thousands of products: electronics, laptops, phones and audiobooks. No accounts, no tracking, no middlemen.",
     "added": "2026-04-19",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "xmr-tw-org": {
     "name": "xmr-tw.org",
@@ -25069,13 +24886,13 @@
     ],
     "country": "US",
     "founded": "2025-06-02",
-    "description": "Purchase gift cards with Monero: 2000+ brands, 60+ countries. No KYC, no JS, full privacy with Tor support.",
+    "description": "Gift card store with 2000+ brands across 60+ countries. No KYC, no JavaScript required, and Tor support for full privacy.",
     "rating": {
       "average": 4.6,
       "reviews": 16
     },
     "added": "2025-09-03",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "xmr-club": {
     "name": "xmr.club",
@@ -25144,9 +24961,9 @@
     "categoryUrl": "https://monerica.com/utilities/address-verification",
     "status": "Verified",
     "founded": "2019-09-19",
-    "description": "Monero (XMR) payment alias service: register a yourname@xmr.id address that wallets resolve to your Monero address via DNS lookup. Paid in XMR, with integrity monitoring.",
+    "description": "Monero (XMR) payment alias service: register a yourname@xmr.id address that wallets resolve to your Monero address via DNS lookup, with integrity monitoring.",
     "added": "2022-06-30",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "xmr-irish": {
     "name": "xmr.irish",
@@ -25276,21 +25093,6 @@
     "description": "Explore Monero blocks, transactions, mempool activity, mining data, and privacy-preserving RingCT metadata.",
     "added": "2026-10-11",
     "updated": "2026-10-11"
-  },
-  "xmr-university": {
-    "name": "Xmr.university",
-    "slug": "xmr-university",
-    "profileUrl": "https://monerica.com/site/xmr-university",
-    "website": "https://xmr.university/",
-    "category": "Education",
-    "subcategory": "Guides",
-    "categoryUrl": "https://monerica.com/education/guides",
-    "status": "Admitted",
-    "javascript": "None",
-    "founded": "2025-11-09",
-    "description": "It is possible to achieve total freedom through the use of encryption and computer networks. Learn how here.",
-    "added": "2026-01-06",
-    "updated": "2026-11-09"
   },
   "xmr-win": {
     "name": "XMR.WIN",
@@ -25728,9 +25530,9 @@
       "Email Not Required"
     ],
     "founded": "2026-03-13",
-    "description": "Anonymous Monero eSIM Plans. 190+ countries. No KYC, no JavaScript, no email required. Tor supported.",
+    "description": "Anonymous prepaid data-only travel eSIMs for 190+ countries, delivered by QR code in under 60 seconds. No KYC, no JavaScript, no email required. Onion mirror available.",
     "added": "2026-03-14",
-    "updated": "2026-11-09"
+    "updated": "2026-11-10"
   },
   "xmrstreet": {
     "name": "XmrStreet",
@@ -25813,9 +25615,9 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
-    "description": "Xray-core is an open-source network proxy platform by Project X (XTLS), origin of the XTLS and REALITY protocols, used to build proxy and VPN tools. Takes XMR donations.",
+    "description": "Xray-core is an open-source network proxy platform by Project X (XTLS), origin of the XTLS and REALITY protocols, used to build proxy and VPN tools.",
     "added": "2026-01-15",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "xt-com": {
     "name": "XT.COM",
@@ -25914,9 +25716,9 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Verified",
-    "description": "Public Invidious instance: a privacy-focused alternative YouTube front-end to watch and search videos without ads or a Google account. Accepts Monero (XMR) donations.",
+    "description": "Public Invidious instance: a privacy-focused alternative YouTube front-end to watch and search videos without ads or a Google account.",
     "added": "2025-05-21",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "yifi": {
     "name": "YiFi",
@@ -26206,9 +26008,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "founded": "2014-09-29",
-    "description": "Website with software downloads, operating systems and tools, plus music mash-ups, humor videos, wallpapers and a blog. Accepts Monero (XMR) donations.",
+    "description": "Website with software downloads, operating systems and tools, plus music mash-ups, humor videos, wallpapers and a blog.",
     "added": "2026-02-03",
-    "updated": "2026-10-30"
+    "updated": "2026-11-10"
   },
   "zoneminder": {
     "name": "Zoneminder",

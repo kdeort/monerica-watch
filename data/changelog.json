@@ -1,5 +1,125 @@
 [
   {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "99Stack",
+    "slug": "99stack",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/99stack",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Atomic Networks",
+    "slug": "atomic-networks",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/atomic-networks",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "PrivateAlps",
+    "slug": "privatealps",
+    "category": "Web Hosting \u203a Offshore & Privacy Hosting",
+    "profileUrl": "https://monerica.com/site/privatealps",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Barn Jerky & Barn Stuff",
+    "slug": "barn-jerky-and-barn-stuff",
+    "category": "Businesses \u203a Food & Drink (Online)",
+    "profileUrl": "https://monerica.com/site/barn-jerky-and-barn-stuff",
+    "detail": "Removed from directory (was Verified)"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Buy Claude With Crypto",
+    "slug": "buy-claude-with-crypto",
+    "category": "Cards \u203a Gift Cards",
+    "profileUrl": "https://monerica.com/site/buy-claude-with-crypto",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "DEX.fo",
+    "slug": "dex-fo",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/dex-fo",
+    "detail": "Removed from directory (was Verified)"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "IR Eyewear",
+    "slug": "ir-eyewear",
+    "category": "Businesses \u203a Clothing, Apparel & Accessories",
+    "profileUrl": "https://monerica.com/site/ir-eyewear",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Mobit",
+    "slug": "mobit",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/mobit",
+    "detail": "Removed from directory (was Verified)"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Nadeko Monero Node",
+    "slug": "nadeko-monero-node",
+    "category": "Nodes \u203a Public Remote Nodes & Operators",
+    "profileUrl": "https://monerica.com/site/nadeko-monero-node",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "OffshoreRacks",
+    "slug": "offshoreracks",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/offshoreracks",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Plisio",
+    "slug": "plisio",
+    "category": "Merchant Services \u203a Integrations",
+    "profileUrl": "https://monerica.com/site/plisio",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-10T18:36:12Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Xmr.university",
+    "slug": "xmr-university",
+    "category": "Education \u203a Guides",
+    "profileUrl": "https://monerica.com/site/xmr-university",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
     "timestamp": "2026-11-10T06:50:15Z",
     "type": "REMOVED_LISTING",
     "severity": "medium",
