@@ -2649,11 +2649,11 @@
     "category": "Utilities",
     "subcategory": "Blockchain Explorers",
     "categoryUrl": "https://monerica.com/utilities/blockchain-explorers",
-    "status": "Admitted",
+    "status": "Verified",
     "founded": "2013-05-29",
     "description": "Historical Monero charts, including daily transactions and the average transaction fee in USD.",
     "added": "2024-11-18",
-    "updated": "2026-10-27"
+    "updated": "2026-11-11"
   },
   "bitlist": {
     "name": "BitList",
@@ -5970,6 +5970,40 @@
     "added": "2026-06-05",
     "updated": "2026-10-30"
   },
+  "dex-fo": {
+    "name": "DEX.fo",
+    "slug": "dex-fo",
+    "profileUrl": "https://monerica.com/site/dex-fo",
+    "website": "https://dex.fo",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://dexfo673ncucr6ltr45754sff2s4cwjbi7ic5hin6amneggmy2xtl3yd.onion/"
+      }
+    ],
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Verified",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Own & Third-Party",
+    "rates": "Float",
+    "javascript": "Optional",
+    "tags": [
+      "Account Not Required",
+      "API Available",
+      "Email Not Required",
+      "Letter of Guarantee"
+    ],
+    "founded": "2025-02-24",
+    "description": "Automatic cryptocurrency exchange. Zero KYC, zero registration. No IP collection, no metadata logging.",
+    "rating": {
+      "average": 4.8,
+      "reviews": 17
+    },
+    "added": "2026-04-09",
+    "updated": "2026-11-11"
+  },
   "dfx-ag": {
     "name": "DFX AG",
     "slug": "dfx-ag",
@@ -7598,12 +7632,12 @@
     "category": "Cards",
     "subcategory": "Reloadable Cards",
     "categoryUrl": "https://monerica.com/cards/reloadable-cards",
-    "status": "Admitted",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2025-10-09",
     "description": "No-KYC virtual Visa card that you top up with crypto. No verification, plans from $5/month with a 1.3% top-up fee.",
     "added": "2026-11-03",
-    "updated": "2026-11-10"
+    "updated": "2026-11-11"
   },
   "freeje": {
     "name": "Freeje",
@@ -9398,6 +9432,29 @@
     "added": "2026-04-05",
     "updated": "2026-11-10"
   },
+  "iceswap": {
+    "name": "IceSwap",
+    "slug": "iceswap",
+    "profileUrl": "https://monerica.com/site/iceswap",
+    "website": "https://iceswap.io",
+    "category": "Exchanges",
+    "subcategory": "Aggregators",
+    "categoryUrl": "https://monerica.com/exchanges/aggregators",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "liquidity": "Third Party",
+    "rates": "Float",
+    "javascript": "Required",
+    "tags": [
+      "Account Not Required",
+      "API Available",
+      "Email Not Required"
+    ],
+    "founded": "2026-09-28",
+    "description": "Crypto swap aggregator that compares rates from multiple exchanges and routes swaps through the best offer found.",
+    "added": "2026-11-11",
+    "updated": "2026-11-11"
+  },
   "icrypex": {
     "name": "Icrypex",
     "slug": "icrypex",
@@ -9737,6 +9794,28 @@
     "description": "Official getmonero.org list of Monero community IRC and Matrix channels, bridged to other chat platforms, for development, support and general discussion of Monero (XMR).",
     "added": "2023-09-12",
     "updated": "2026-10-30"
+  },
+  "ironbalkans": {
+    "name": "IronBalkans",
+    "slug": "ironbalkans",
+    "profileUrl": "https://monerica.com/site/ironbalkans",
+    "website": "https://ironbalkans.com",
+    "category": "Web Hosting",
+    "subcategory": "VPS Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/vps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required",
+      "Owns Physical Servers"
+    ],
+    "country": "RO",
+    "founded": "2026-09-01",
+    "description": "No-KYC KVM VPS hosting in Romania with dedicated vCPU and RAM, SSD storage, full root access, DDoS filtering and a random account ID with recovery key at signup.",
+    "added": "2026-11-11",
+    "updated": "2026-11-11"
   },
   "ironswaps": {
     "name": "IronSwaps",
@@ -11322,6 +11401,26 @@
     "added": "2026-01-15",
     "updated": "2026-11-09"
   },
+  "lnvps": {
+    "name": "LNVPS",
+    "slug": "lnvps",
+    "profileUrl": "https://monerica.com/site/lnvps",
+    "website": "https://lnvps.net/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://rheyodythpbwimdugzofiy5z5ofe4kvqhrxsmyxqy4e4hwf3aempncad.onion"
+      }
+    ],
+    "category": "Web Hosting",
+    "subcategory": "VPS Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/vps",
+    "status": "Admitted",
+    "country": "IE",
+    "description": "VPS hosting in Dublin, Ireland with SSD or HDD storage, hourly or monthly billing and Nostr key login, plus a VPN, managed Nostr relays and Minecraft servers.",
+    "added": "2026-11-11",
+    "updated": "2026-11-11"
+  },
   "local-p2p-exchange": {
     "name": "Local P2P Exchange",
     "slug": "local-p2p-exchange",
@@ -11995,31 +12094,6 @@
     "founded": "2017-10-25",
     "description": "Monero (XMR) price page on Messari with live XMR to USD charts, market cap, supply and volume metrics, plus Monero research reports, news and project profile.",
     "added": "2025-12-18",
-    "updated": "2026-10-30"
-  },
-  "mexc": {
-    "name": "Mexc",
-    "slug": "mexc",
-    "profileUrl": "https://monerica.com/site/mexc",
-    "website": "https://www.mexc.com",
-    "category": "Exchanges",
-    "subcategory": "Centralized Exchanges (Account Required)",
-    "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
-    "status": "Questionable",
-    "kycPolicy": "Mandatory KYC",
-    "liquidity": "Own",
-    "tags": [
-      "Affiliate Program",
-      "Perpetuals"
-    ],
-    "country": "SC",
-    "founded": "2018-04-01",
-    "description": "Centralized crypto exchange offering spot trading with an XMR/USDT pair, plus perpetual futures, copy trading, trading bots, staking, P2P and fiat deposits.",
-    "rating": {
-      "average": 4,
-      "reviews": 2
-    },
-    "added": "2022-06-22",
     "updated": "2026-10-30"
   },
   "mia-ai": {
@@ -13030,6 +13104,27 @@
     "description": "Everything about Monero in Germany. Here, you can exchange information about Monero.",
     "added": "2026-08-10",
     "updated": "2026-08-10"
+  },
+  "monero-in-ukrainian": {
+    "name": "Monero in Ukrainian",
+    "slug": "monero-in-ukrainian",
+    "profileUrl": "https://monerica.com/site/monero-in-ukrainian",
+    "website": "https://morok.ink/monero/",
+    "category": "Education",
+    "subcategory": "Guides",
+    "categoryUrl": "https://monerica.com/education/guides",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required"
+    ],
+    "country": "UA",
+    "founded": "2026-11-10",
+    "description": "Monero in Ukrainian: beginner guides, wallets, seed safety, scam warnings, news, full history, glossary and an in-browser address checker. Privacy, not trading.",
+    "added": "2026-11-11",
+    "updated": "2026-11-11"
   },
   "monero-inflation-checker": {
     "name": "Monero Inflation Checker",
@@ -22857,7 +22952,7 @@
       "reviews": 14
     },
     "added": "2026-06-11",
-    "updated": "2026-10-27"
+    "updated": "2026-11-11"
   },
   "top-up-balance": {
     "name": "Top Up Balance",

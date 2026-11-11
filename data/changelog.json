@@ -1,5 +1,85 @@
 [
   {
+    "timestamp": "2026-11-11T18:42:11Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "BitInfoCharts",
+    "slug": "bitinfocharts",
+    "category": "Utilities \u203a Blockchain Explorers",
+    "profileUrl": "https://monerica.com/site/bitinfocharts",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-11T18:42:11Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "DEX.fo",
+    "slug": "dex-fo",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/dex-fo",
+    "detail": "Added to directory (Status: Verified, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-11T18:42:11Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Freedomia",
+    "slug": "freedomia",
+    "category": "Cards \u203a Reloadable Cards",
+    "profileUrl": "https://monerica.com/site/freedomia",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-11T18:42:11Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "IceSwap",
+    "slug": "iceswap",
+    "category": "Exchanges \u203a Aggregators",
+    "profileUrl": "https://monerica.com/site/iceswap",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-11T18:42:11Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "IronBalkans",
+    "slug": "ironbalkans",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/ironbalkans",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-11T18:42:11Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "LNVPS",
+    "slug": "lnvps",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/lnvps",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-11T18:42:11Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Monero in Ukrainian",
+    "slug": "monero-in-ukrainian",
+    "category": "Education \u203a Guides",
+    "profileUrl": "https://monerica.com/site/monero-in-ukrainian",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-11T18:42:11Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Mexc",
+    "slug": "mexc",
+    "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
+    "profileUrl": "https://monerica.com/site/mexc",
+    "detail": "Removed from directory (was Questionable)"
+  },
+  {
     "timestamp": "2026-11-11T06:53:47Z",
     "type": "STATUS_CHANGE",
     "severity": "high",
