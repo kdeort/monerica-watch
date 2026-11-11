@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-10T18:21:45Z",
-  "total": 1431,
-  "verified": 283,
-  "admitted": 994,
+  "generated": "2026-11-11T00:12:29Z",
+  "total": 1433,
+  "verified": 284,
+  "admitted": 995,
   "questionable": 94,
   "scam": 60,
-  "no_kyc": 359,
-  "tor_enabled": 144,
+  "no_kyc": 360,
+  "tor_enabled": 145,
   "active_warnings": [
     {
       "name": "1984 Hosting",
@@ -206,6 +206,16 @@
       "status": "Questionable",
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Marked as Questionable",
+      "updated": "2026-11-10"
+    },
+    {
+      "name": "MoneroDir",
+      "slug": "monerodir",
+      "profileUrl": "https://monerica.com/site/monerodir",
+      "category": "Other Directories \u203a Monero Directories",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
       "updated": "2026-11-10"
     },
     {
@@ -496,16 +506,6 @@
       "status": "Scam",
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
-      "updated": "2026-10-30"
-    },
-    {
-      "name": "404.cash",
-      "slug": "404-cash",
-      "profileUrl": "https://monerica.com/site/404-cash",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
       "updated": "2026-10-30"
     }
   ]

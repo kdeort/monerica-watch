@@ -2269,9 +2269,9 @@
     "status": "Admitted",
     "country": "GB",
     "founded": "1996-04-13",
-    "description": "A London-based digital marketing agency known for precision, creativity, and measurable results. We specialise in expert SEO, PPC, and web design services",
+    "description": "A London-based digital marketing agency known for precision, creativity, and measurable results. We specialize in expert SEO, PPC, and web design services",
     "added": "2025-10-24",
-    "updated": "2026-06-23"
+    "updated": "2026-11-10"
   },
   "bird-marketing-usa": {
     "name": "Bird Marketing USA",
@@ -8006,7 +8006,7 @@
       "reviews": 13
     },
     "added": "2026-01-06",
-    "updated": "2026-11-08"
+    "updated": "2026-11-10"
   },
   "ghostswap-app": {
     "name": "GhostSwap.app",
@@ -8174,6 +8174,23 @@
     "description": "Privacy-focused link-in-bio service for the Monero (XMR) ecosystem: one handle gives a profile page plus OpenAlias, NIP-05, WebFinger and PGP lookups, without trackers.",
     "added": "2025-12-24",
     "updated": "2026-11-09"
+  },
+  "goafk": {
+    "name": "goAFK",
+    "slug": "goafk",
+    "profileUrl": "https://monerica.com/site/goafk",
+    "website": "https://goafk.io",
+    "category": "Phone & SMS",
+    "subcategory": "eSIMs & SIM Cards",
+    "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
+    "status": "Admitted",
+    "tags": [
+      "Affiliate Program",
+      "API Available"
+    ],
+    "description": "Prepaid travel eSIMs for 148 countries plus regional plans, 1 to 365 days. Buy on the website or in the Telegram mini app; the QR code arrives right after payment.",
+    "added": "2026-11-10",
+    "updated": "2026-11-10"
   },
   "goblin-card": {
     "name": "Goblin Card",
@@ -14274,9 +14291,9 @@
       "Sells Sponsorship"
     ],
     "founded": "2026-10-18",
-    "description": "A hand-checked catalogue of 11,648 websites that use, accept or build on Monero, from exchanges and wallets to shops, hosts and the people running nodes.",
+    "description": "A hand-checked catalog of 11,648 websites that use, accept or build on Monero, from exchanges and wallets to shops, hosts and the people running nodes.",
     "added": "2026-10-26",
-    "updated": "2026-10-27"
+    "updated": "2026-11-10"
   },
   "monerodroid": {
     "name": "MoneroDroid",
@@ -15288,7 +15305,7 @@
       "reviews": 1
     },
     "added": "2024-10-31",
-    "updated": "2026-07-24"
+    "updated": "2026-11-10"
   },
   "nanswap": {
     "name": "Nanswap",
@@ -17385,7 +17402,7 @@
     "category": "Web Hosting",
     "subcategory": "VPS Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/vps",
-    "status": "Admitted",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-09-28",
     "description": "VPS and dedicated servers with email-only signup: no ID documents, no phone verification. Root access, IPMI on dedicated, public status page with uptime history.",
@@ -18986,9 +19003,9 @@
     ],
     "country": "AU",
     "founded": "2026-04-01",
-    "description": "Australian-owned online store supplying research-grade lyophilised peptides to researchers and laboratories. Ships Australia-wide via Express Post.",
+    "description": "Australian-owned online store supplying research-grade lyophilized peptides to researchers and laboratories. Ships Australia-wide via Express Post.",
     "added": "2026-05-02",
-    "updated": "2026-06-23"
+    "updated": "2026-11-10"
   },
   "reticulum": {
     "name": "Reticulum",
@@ -21798,6 +21815,32 @@
     "description": "Instant crypto swap service with 180+ pairs including XMR, BTC, ETH, LTC and USDT on many networks. No account needed, fixed or floating rates, payouts usually under 10 min.",
     "added": "2025-12-15",
     "updated": "2026-10-30"
+  },
+  "swapdusk": {
+    "name": "SwapDusk",
+    "slug": "swapdusk",
+    "profileUrl": "https://monerica.com/site/swapdusk",
+    "website": "https://swapdusk.com",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "https://swapdusk.com/terms.html"
+      }
+    ],
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Mixed",
+    "rates": "Float",
+    "tags": [
+      "Account Not Required",
+      "API Available"
+    ],
+    "description": "Instant crypto swaps across 21 coins and networks including BTC, XMR, LTC, USDT and PIVX. Floating rates, itemized fees shown before you send, and swap tracking by ID.",
+    "added": "2026-11-10",
+    "updated": "2026-11-10"
   },
   "swapgate": {
     "name": "Swapgate",
@@ -25571,7 +25614,7 @@
       "reviews": 9
     },
     "added": "2026-04-08",
-    "updated": "2026-10-25"
+    "updated": "2026-11-10"
   },
   "xpg": {
     "name": "XPG",

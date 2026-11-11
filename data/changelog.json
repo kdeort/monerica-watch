@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-11T00:37:31Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "goAFK",
+    "slug": "goafk",
+    "category": "Phone & SMS \u203a eSIMs & SIM Cards",
+    "profileUrl": "https://monerica.com/site/goafk",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-11T00:37:31Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "PhantomVPS",
+    "slug": "phantomvps",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/phantomvps",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-11T00:37:31Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "SwapDusk",
+    "slug": "swapdusk",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/swapdusk",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-10T18:36:12Z",
     "type": "STATUS_CHANGE",
     "severity": "info",

@@ -4,7 +4,25 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Tue, 10 Nov 2026 18:36:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 00:37:31 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] goAFK — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/goafk</link>
+      <description>Category: Phone &amp; SMS › eSIMs &amp; SIM Cards | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">goafk-NEW_LISTING-2026-11-11T00:37:31Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] PhantomVPS — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/phantomvps</link>
+      <description>Category: Web Hosting › VPS Hosting | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">phantomvps-STATUS_CHANGE-2026-11-11T00:37:31Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] SwapDusk — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/swapdusk</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">swapdusk-NEW_LISTING-2026-11-11T00:37:31Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] 99Stack — Status changed: Admitted → Verified</title>
       <link>https://monerica.com/site/99stack</link>
@@ -226,24 +244,6 @@
       <link>https://monerica.com/site/rdp-vision</link>
       <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Added to directory (Status: Admitted, KYC: Not Stated)</description>
       <guid isPermaLink="false">rdp-vision-NEW_LISTING-2026-11-07T18:27:56Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] CryptoPostage — Status changed: Verified → Questionable</title>
-      <link>https://monerica.com/site/cryptopostage</link>
-      <description>Category: Businesses › Postage &amp; Shipping Services | Status changed: Verified → Questionable</description>
-      <guid isPermaLink="false">cryptopostage-STATUS_CHANGE-2026-11-07T06:40:36Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Monero Miner — Status changed: Verified → Questionable</title>
-      <link>https://monerica.com/site/monero-miner</link>
-      <description>Category: Mining › Miscellaneous | Status changed: Verified → Questionable</description>
-      <guid isPermaLink="false">monero-miner-STATUS_CHANGE-2026-11-07T06:40:36Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] xmr.fan — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/xmr-fan</link>
-      <description>Category: Utilities › Open Source Projects | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">xmr-fan-NEW_LISTING-2026-11-07T06:40:36Z</guid>
     </item>
   </channel>
 </rss>
