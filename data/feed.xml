@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Wed, 11 Nov 2026 00:37:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:53:47 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] OffCard.xyz — Status changed: Verified → Questionable</title>
+      <link>https://monerica.com/site/offcard-xyz</link>
+      <description>Category: Cards › Reloadable Cards | Status changed: Verified → Questionable</description>
+      <guid isPermaLink="false">offcard-xyz-STATUS_CHANGE-2026-11-11T06:53:47Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] OnionSwap — Status changed: Admitted → Questionable</title>
+      <link>https://monerica.com/site/onionswap</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Admitted → Questionable</description>
+      <guid isPermaLink="false">onionswap-STATUS_CHANGE-2026-11-11T06:53:47Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] goAFK — Added to directory (Status: Admitted, KYC: Not Stated)</title>
       <link>https://monerica.com/site/goafk</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/silo</link>
       <description>Category: Exchanges › Miscellaneous | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
       <guid isPermaLink="false">silo-NEW_LISTING-2026-11-08T00:36:04Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Teva Galilee &amp; Arts — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/teva-galilee-and-arts</link>
-      <description>Category: Businesses › Travel &amp; Accommodation | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">teva-galilee-and-arts-NEW_LISTING-2026-11-08T00:36:04Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Rdp.Vision — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/rdp-vision</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">rdp-vision-NEW_LISTING-2026-11-07T18:27:56Z</guid>
     </item>
   </channel>
 </rss>

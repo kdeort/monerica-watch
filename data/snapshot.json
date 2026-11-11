@@ -16199,16 +16199,16 @@
     "category": "Cards",
     "subcategory": "Reloadable Cards",
     "categoryUrl": "https://monerica.com/cards/reloadable-cards",
-    "status": "Verified",
+    "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "founded": "2026-04-17",
     "description": "Create a Visa card with Apple Pay and Google Pay support, ATM withdrawals, and the ability to send funds directly to your ACH bank account \u2014 all without KYC.",
     "rating": {
-      "average": 5,
-      "reviews": 4
+      "average": 4.2,
+      "reviews": 5
     },
     "added": "2026-09-15",
-    "updated": "2026-10-26"
+    "updated": "2026-11-11"
   },
   "okspot": {
     "name": "OKSPOT",
@@ -16353,7 +16353,7 @@
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Admitted",
+    "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "tags": [
@@ -16364,7 +16364,7 @@
     "founded": "2026-08-03",
     "description": "Swap crypto instantly \u2014 anonymous, no KYC, no account. BTC, XMR, ETH & more, powered by our own liquidity.",
     "added": "2026-08-03",
-    "updated": "2026-08-03"
+    "updated": "2026-11-11"
   },
   "onlinesim": {
     "name": "OnlineSim",

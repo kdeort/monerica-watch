@@ -1,13 +1,33 @@
 {
-  "generated": "2026-11-11T00:12:29Z",
+  "generated": "2026-11-11T05:02:10Z",
   "total": 1433,
-  "verified": 284,
-  "admitted": 995,
-  "questionable": 94,
+  "verified": 283,
+  "admitted": 994,
+  "questionable": 96,
   "scam": 60,
   "no_kyc": 360,
   "tor_enabled": 145,
   "active_warnings": [
+    {
+      "name": "OffCard.xyz",
+      "slug": "offcard-xyz",
+      "profileUrl": "https://monerica.com/site/offcard-xyz",
+      "category": "Cards \u203a Reloadable Cards",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-11"
+    },
+    {
+      "name": "OnionSwap",
+      "slug": "onionswap",
+      "profileUrl": "https://monerica.com/site/onionswap",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-11"
+    },
     {
       "name": "1984 Hosting",
       "slug": "1984-hosting",
@@ -487,26 +507,6 @@
       "kycPolicy": "Not Stated",
       "warning": "Marked as Questionable",
       "updated": "2026-11-01"
-    },
-    {
-      "name": "n.exchange",
-      "slug": "n-exchange",
-      "profileUrl": "https://monerica.com/site/n-exchange",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Shotgun KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-10-31"
-    },
-    {
-      "name": "1xmr",
-      "slug": "1xmr",
-      "profileUrl": "https://monerica.com/site/1xmr",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Scam",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-10-30"
     }
   ]
 }

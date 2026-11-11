@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-11T06:53:47Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "OffCard.xyz",
+    "slug": "offcard-xyz",
+    "category": "Cards \u203a Reloadable Cards",
+    "profileUrl": "https://monerica.com/site/offcard-xyz",
+    "detail": "Status changed: Verified \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-11T06:53:47Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "OnionSwap",
+    "slug": "onionswap",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/onionswap",
+    "detail": "Status changed: Admitted \u2192 Questionable"
+  },
+  {
     "timestamp": "2026-11-11T00:37:31Z",
     "type": "NEW_LISTING",
     "severity": "info",
