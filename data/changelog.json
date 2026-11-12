@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-12T18:41:11Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Philara",
+    "slug": "philara",
+    "category": "Businesses \u203a Digital Goods/ Services",
+    "profileUrl": "https://monerica.com/site/philara",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-12T00:51:09Z",
     "type": "NEW_LISTING",
     "severity": "info",

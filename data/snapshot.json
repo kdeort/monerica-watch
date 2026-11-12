@@ -1473,9 +1473,9 @@
       "Open Source"
     ],
     "founded": "2010-03-16",
-    "description": "ArchBang is a minimal Arch Linux based live ISO image with sensible defaults, now running the MangoWM Wayland window manager. Free download with guide and FAQ.",
+    "description": "Minimal Arch Linux based live ISO with sensible defaults, running the MangoWM Wayland window manager. Free download with a guide and FAQ.",
     "added": "2026-09-10",
-    "updated": "2026-10-30"
+    "updated": "2026-11-12"
   },
   "archon-systems": {
     "name": "Archon Systems",
@@ -16319,8 +16319,8 @@
     "founded": "2026-04-17",
     "description": "Create a Visa card with Apple Pay and Google Pay support, ATM withdrawals, and the ability to send funds directly to your ACH bank account \u2014 all without KYC.",
     "rating": {
-      "average": 4.2,
-      "reviews": 5
+      "average": 3.7,
+      "reviews": 6
     },
     "added": "2026-09-15",
     "updated": "2026-11-11"
@@ -17523,6 +17523,26 @@
     "description": "VPS and dedicated servers with email-only signup: no ID documents, no phone verification. Root access, IPMI on dedicated, public status page with uptime history.",
     "added": "2026-11-06",
     "updated": "2026-11-10"
+  },
+  "philara": {
+    "name": "Philara",
+    "slug": "philara",
+    "profileUrl": "https://monerica.com/site/philara",
+    "website": "https://philara.org/",
+    "category": "Businesses",
+    "subcategory": "Digital Goods/ Services",
+    "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "tags": [
+      "Account Not Required",
+      "Affiliate Program",
+      "Email Not Required"
+    ],
+    "founded": "2025-07-16",
+    "description": "Private apps for the inner life \u2014 life coaching, values-based budgeting, and private notes. No servers, no accounts, no tracking: private by architecture, not promise.",
+    "added": "2026-11-12",
+    "updated": "2026-11-12"
   },
   "phreeli": {
     "name": "Phreeli",
@@ -22117,8 +22137,8 @@
     "founded": "2026-06-24",
     "description": "A vetted directory of crypto swap exchanges and aggregators \u2014 fees, grades, KYC & AML posture, and whether they run without JavaScript.",
     "rating": {
-      "average": 2.8,
-      "reviews": 4
+      "average": 3.2,
+      "reviews": 5
     },
     "added": "2026-06-25",
     "updated": "2026-08-05"

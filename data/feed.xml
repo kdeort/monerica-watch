@@ -4,7 +4,13 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Thu, 12 Nov 2026 12:52:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:41:11 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] Philara — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/philara</link>
+      <description>Category: Businesses › Digital Goods/ Services | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">philara-NEW_LISTING-2026-11-12T18:41:11Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] NoctHost — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/nocthost</link>
@@ -238,12 +244,6 @@
       <link>https://monerica.com/site/oblako</link>
       <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
       <guid isPermaLink="false">oblako-NEW_LISTING-2026-11-09T00:38:17Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] 0trace — Status changed: Questionable → Scam</title>
-      <link>https://monerica.com/site/0trace</link>
-      <description>Category: Exchanges › Instant Swaps | Status changed: Questionable → Scam</description>
-      <guid isPermaLink="false">0trace-STATUS_CHANGE-2026-11-08T18:27:46Z</guid>
     </item>
   </channel>
 </rss>
