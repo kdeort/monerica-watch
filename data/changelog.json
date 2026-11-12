@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-12T00:51:09Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "NoctHost",
+    "slug": "nocthost",
+    "category": "Web Hosting \u203a Cloud Resellers",
+    "profileUrl": "https://monerica.com/site/nocthost",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-11T18:42:11Z",
     "type": "STATUS_CHANGE",
     "severity": "info",

@@ -15725,6 +15725,26 @@
     "added": "2022-06-22",
     "updated": "2026-11-03"
   },
+  "nocthost": {
+    "name": "NoctHost",
+    "slug": "nocthost",
+    "profileUrl": "https://monerica.com/site/nocthost",
+    "website": "https://nocthost.com",
+    "category": "Web Hosting",
+    "subcategory": "Cloud Resellers",
+    "categoryUrl": "https://monerica.com/web-hosting/cloud-resellers",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
+    "tags": [
+      "API Available"
+    ],
+    "country": "EE",
+    "founded": "2026-06-14",
+    "description": "Hourly VPS, dedicated CPU, GPU and bare metal servers on Vultr, DigitalOcean, Hetzner and Linode in 33 cities, with one prepaid balance and a REST API.",
+    "added": "2026-11-11",
+    "updated": "2026-11-12"
+  },
   "nocturne-cards": {
     "name": "Nocturne Cards",
     "slug": "nocturne-cards",

@@ -4,7 +4,13 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Wed, 11 Nov 2026 18:42:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 00:51:09 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] NoctHost — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/nocthost</link>
+      <description>Category: Web Hosting › Cloud Resellers | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">nocthost-NEW_LISTING-2026-11-12T00:51:09Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] BitInfoCharts — Status changed: Admitted → Verified</title>
       <link>https://monerica.com/site/bitinfocharts</link>
@@ -238,12 +244,6 @@
       <link>https://monerica.com/site/0trace</link>
       <description>Category: Exchanges › Instant Swaps | Status changed: Questionable → Scam</description>
       <guid isPermaLink="false">0trace-STATUS_CHANGE-2026-11-08T18:27:46Z</guid>
-    </item>
-    <item>
-      <title>[WARNING_ADDED] 0trace — Warning added: Listed as a scam: do not use.</title>
-      <link>https://monerica.com/site/0trace</link>
-      <description>Category: Exchanges › Instant Swaps | Warning added: Listed as a scam: do not use.</description>
-      <guid isPermaLink="false">0trace-WARNING_ADDED-2026-11-08T18:27:46Z</guid>
     </item>
   </channel>
 </rss>

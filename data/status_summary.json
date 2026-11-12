@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-11T18:27:02Z",
-  "total": 1437,
+  "generated": "2026-11-12T00:22:28Z",
+  "total": 1438,
   "verified": 286,
-  "admitted": 996,
+  "admitted": 997,
   "questionable": 95,
   "scam": 60,
-  "no_kyc": 363,
+  "no_kyc": 364,
   "tor_enabled": 147,
   "active_warnings": [
     {
