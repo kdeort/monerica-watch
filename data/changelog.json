@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-13T00:43:58Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "XMRLottery",
+    "slug": "xmrlottery",
+    "category": "Businesses \u203a Gambling",
+    "profileUrl": "https://monerica.com/site/xmrlottery",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-12T18:41:11Z",
     "type": "NEW_LISTING",
     "severity": "info",

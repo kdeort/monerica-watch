@@ -4,7 +4,13 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Thu, 12 Nov 2026 18:41:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 00:43:58 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] XMRLottery — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/xmrlottery</link>
+      <description>Category: Businesses › Gambling | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">xmrlottery-NEW_LISTING-2026-11-13T00:43:58Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] Philara — Added to directory (Status: Admitted, KYC: Not Stated)</title>
       <link>https://monerica.com/site/philara</link>
@@ -238,12 +244,6 @@
       <link>https://monerica.com/site/bitcoin2monero</link>
       <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Admitted → Verified</description>
       <guid isPermaLink="false">bitcoin2monero-STATUS_CHANGE-2026-11-09T00:38:17Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] OBLAKO — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/oblako</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">oblako-NEW_LISTING-2026-11-09T00:38:17Z</guid>
     </item>
   </channel>
 </rss>
