@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": "2026-11-13T18:39:09Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Beam Up Music",
+    "slug": "beam-up-music",
+    "category": "Media \u203a Music & Radio",
+    "profileUrl": "https://monerica.com/site/beam-up-music",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-13T18:39:09Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "HTTProxy",
+    "slug": "httproxy",
+    "category": "VPNs & Proxies \u203a Proxies",
+    "profileUrl": "https://monerica.com/site/httproxy",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-13T18:39:09Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Swaplume",
+    "slug": "swaplume",
+    "category": "Exchanges \u203a Aggregators",
+    "profileUrl": "https://monerica.com/site/swaplume",
+    "detail": "Added to directory (Status: Admitted, KYC: Varies By Provider)"
+  },
+  {
+    "timestamp": "2026-11-13T18:39:09Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "BitMart",
+    "slug": "bitmart",
+    "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
+    "profileUrl": "https://monerica.com/site/bitmart",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
     "timestamp": "2026-11-13T06:54:45Z",
     "type": "STATUS_CHANGE",
     "severity": "high",

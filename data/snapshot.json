@@ -117,13 +117,16 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Questionable",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "API Available"
     ],
     "founded": "2025-12-06",
     "description": "Anonymous prediction markets for sports and esports. XMR only. 0.4% rake. Winners always get paid.",
     "added": "2025-12-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "1984-hosting": {
     "name": "1984 Hosting",
@@ -269,13 +272,13 @@
     ],
     "country": "DE",
     "founded": "2024-12-04",
-    "description": "Virtual prepaid Mastercard, anonymous payments, instant crypto top-ups, Apple & Google Pay ready",
+    "description": "High-privacy prepaid crypto cards you fund with Monero, Bitcoin or USDT. Order and pay from most jurisdictions; Apple Pay and Google Pay on eligible cards.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2025-10-02",
-    "updated": "2026-10-16"
+    "updated": "2026-11-13"
   },
   "3kita-exchange": {
     "name": "3Kita Exchange",
@@ -325,12 +328,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Advanced, open-source web-based control panel designed for managing Xray-core server. It offers a user-friendly interface for configuring and monitoring various VPN an",
     "added": "2026-01-15",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "3xpl": {
     "name": "3xpl",
@@ -531,12 +531,9 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source Rust library and self-hosted payment gateway for accepting Monero (XMR). Tracks payments to subaddresses using only a view key, with no hot wallet.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "account-warehouse": {
     "name": "Account Warehouse",
@@ -565,8 +562,7 @@
     "status": "Verified",
     "javascript": "None",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "founded": "2021-12-26",
     "description": "Android app store focused on privacy and security, with app signing key pinning, signed repository metadata, automatic updates and no account needed.",
@@ -607,13 +603,12 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "tags": [
-      "API Available",
-      "Open Source"
+      "API Available"
     ],
     "founded": "2019-11-15",
     "description": "Anonymous email forwarding. No IP Logs. End-to-end email encryption. MITM protection.",
     "added": "2023-09-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "advin-servers": {
     "name": "Advin Servers",
@@ -664,13 +659,10 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2026-07-26",
     "description": "Autonomous Monero (XMR) payments for Hermes and Openclaw agents via shell. JSON-in, JSON-out wrappers over monero-wallet-rpc for sending, receiving, verifying, and sweeping.",
     "added": "2026-07-28",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "agents-media": {
     "name": "Agents Media",
@@ -754,11 +746,16 @@
     "categoryUrl": "https://monerica.com/vpns/inside-14-eyes",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "IT"
+      ]
+    },
     "country": "IT",
     "founded": "2010-05-31",
     "description": "A VPN based on OpenVPN and operated by activists and hacktivists in defense of net neutrality, privacy and against censorship.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "al-uy": {
     "name": "al.uy",
@@ -841,6 +838,41 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BD",
+        "BH",
+        "BO",
+        "CF",
+        "DZ",
+        "GU",
+        "IQ",
+        "IR",
+        "JO",
+        "KH",
+        "KP",
+        "KW",
+        "LB",
+        "LK",
+        "LY",
+        "ML",
+        "MP",
+        "MR",
+        "NP",
+        "OM",
+        "PK",
+        "PR",
+        "PS",
+        "SD",
+        "SO",
+        "SY",
+        "US",
+        "VI",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -855,7 +887,7 @@
       "reviews": 2
     },
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "alkaline": {
     "name": "Alkaline",
@@ -900,6 +932,11 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -912,7 +949,7 @@
       "reviews": 1
     },
     "added": "2026-08-10",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "altcoin-trader": {
     "name": "Altcoin Trader",
@@ -1071,11 +1108,14 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "TH",
     "founded": "2026-07-14",
     "description": "Online shop in Bangkok selling research peptides and bacteriostatic water for laboratory research use only. Same-day dispatch, free delivery across Thailand.",
     "added": "2026-10-27",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "amsterdam-marijuana-seeds": {
     "name": "Amsterdam Marijuana Seeds",
@@ -1139,8 +1179,7 @@
     "status": "Verified",
     "javascript": "Optional",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "founded": "2022-11-19",
     "description": "Open-source, open-data shadow library and search engine mirroring Library Genesis, Sci-Hub, Z-Library and more for books and papers.",
@@ -1149,7 +1188,7 @@
       "reviews": 1
     },
     "added": "2023-09-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "annihilator": {
     "name": "Annihilator",
@@ -1161,12 +1200,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source anti-forensic shell tool that corrupts, renames and deletes files and metadata to prevent data recovery on SSDs and flash drives where secure erase fails.",
     "added": "2025-06-03",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "anon-shop": {
     "name": "Anon Shop",
@@ -1466,12 +1502,9 @@
     "categoryUrl": "https://monerica.com/wallets/mobile-wallets",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "A native Android Monero wallet application built with Kotlin and Jetpack Compose.",
     "added": "2026-01-26",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "apple-bitcoins": {
     "name": "Apple Bitcoins",
@@ -1530,9 +1563,6 @@
     "categoryUrl": "https://monerica.com/non-profits/operating-systems",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2010-03-16",
     "description": "Minimal Arch Linux based live ISO with sensible defaults, running the MangoWM Wayland window manager. Free download with a guide and FAQ.",
     "added": "2026-09-10",
@@ -1724,9 +1754,6 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2017-11-16",
     "description": "Non-custodial multi-coin crypto wallet for desktop and mobile supporting Monero (XMR), Bitcoin and 1000+ assets, with built-in swaps, crypto purchase and staking.",
     "added": "2025-03-04",
@@ -1771,10 +1798,13 @@
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "founded": "2026-04-02",
     "description": "Official adult video site of performer Ava Holyass with a full video catalog, collections, bundles and exclusives.",
     "added": "2026-05-01",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "ava-hosting": {
     "name": "AVA Hosting",
@@ -1889,6 +1919,22 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CA",
+        "CU",
+        "ER",
+        "IR",
+        "KP",
+        "RU",
+        "SG",
+        "SY",
+        "TW",
+        "US",
+        "VE"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -1897,7 +1943,7 @@
     "founded": "2021-11-22",
     "description": "Centralized cryptocurrency exchange with spot trading markets, including a Monero XMR/USDT pair.",
     "added": "2025-08-26",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "backlynk": {
     "name": "Backlynk",
@@ -1946,6 +1992,14 @@
     "liquidity": "Third Party",
     "rates": "Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "IR",
+        "KP",
+        "RU",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -1960,7 +2014,7 @@
       "reviews": 11
     },
     "added": "2025-12-09",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "bank-exit": {
     "name": "Bank Exit",
@@ -2079,6 +2133,27 @@
     "added": "2025-04-27",
     "updated": "2026-11-10"
   },
+  "beam-up-music": {
+    "name": "Beam Up Music",
+    "slug": "beam-up-music",
+    "profileUrl": "https://monerica.com/site/beam-up-music",
+    "website": "https://beamup.org/shop/",
+    "category": "Media",
+    "subcategory": "Music & Radio",
+    "categoryUrl": "https://monerica.com/media/music",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required",
+      "Owns Physical Servers"
+    ],
+    "country": "GB",
+    "founded": "2016-01-01",
+    "description": "Online store for Beam Up Music releases: dubwise bass music as digital downloads and physical CD and vinyl.",
+    "added": "2026-11-13",
+    "updated": "2026-11-13"
+  },
   "beauty-abounded": {
     "name": "Beauty Abounded",
     "slug": "beauty-abounded",
@@ -2122,8 +2197,7 @@
     "status": "Admitted",
     "javascript": "Optional",
     "tags": [
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2026-09-19",
     "description": "Create a dumbphone on Android. Beeswax prevents access to web browsers and newly installed apps. You can't browse or access new apps without your lock code.",
@@ -2176,9 +2250,6 @@
     "categoryUrl": "https://monerica.com/wallets/desktop-wallets",
     "status": "Questionable",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "US",
     "founded": "2026-08-19",
     "description": "Open-source desktop Monero wallet with built-in swaps, portfolio tracking, and advanced transaction tools.",
@@ -2228,11 +2299,14 @@
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "US",
     "founded": "2023-09-01",
     "description": "Colorado maker of small-batch hemp products: CBD, CBN and CBG gummies, tinctures, hard candy and Kanna formulations.",
     "added": "2026-10-06",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "biglybit": {
     "name": "BiglyBT",
@@ -2294,11 +2368,16 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "country": "VG",
     "founded": "2022-06-30",
     "description": "Decentralized crypto exchange for multi-chain trading. Buy, sell, swap and bridge crypto across Ethereum, Bitcoin, Solana, Polygon and more.",
     "added": "2025-07-19",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "binance": {
     "name": "Binance",
@@ -2403,8 +2482,7 @@
     "javascript": "None",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2026-09-27",
     "description": "Monero-centered desktop wallet built on Feather, free and open source. Tor built in, Tails support, Trocador integration, atomic swaps without KYC, reproducible builds.",
@@ -2450,6 +2528,13 @@
     "liquidity": "Own",
     "rates": "Fixed & Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "KP",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -2464,7 +2549,7 @@
       "reviews": 2
     },
     "added": "2025-03-09",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "bitcall": {
     "name": "Bitcall",
@@ -2496,9 +2581,6 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2023-06-01",
     "description": "A self-hosted, open-source cryptocurrency all-in-one solution. It's secure, private, censorship-resistant and free.",
     "added": "2024-09-26",
@@ -2631,6 +2713,14 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Own",
     "rates": "Float",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -2645,7 +2735,7 @@
       "reviews": 1
     },
     "added": "2024-01-12",
-    "updated": "2026-10-31"
+    "updated": "2026-11-13"
   },
   "bitcoinwiki-monero": {
     "name": "Bitcoinwiki - Monero",
@@ -2694,6 +2784,16 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CA",
+        "CU",
+        "IR",
+        "KP",
+        "SY",
+        "US"
+      ]
+    },
     "tags": [
       "API Available",
       "Perpetuals"
@@ -2702,7 +2802,7 @@
     "founded": "2012-10-11",
     "description": "Centralized cryptocurrency exchange with spot, margin and derivatives trading. Monero (XMR) trades against USD, BTC and USDT, plus XMR perpetual futures.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "bitgolder": {
     "name": "Bitgolder",
@@ -2789,28 +2889,6 @@
     "added": "2026-02-10",
     "updated": "2026-11-12"
   },
-  "bitmart": {
-    "name": "BitMart",
-    "slug": "bitmart",
-    "profileUrl": "https://monerica.com/site/bitmart",
-    "website": "https://www.bitmart.com",
-    "category": "Exchanges",
-    "subcategory": "Centralized Exchanges (Account Required)",
-    "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
-    "status": "Admitted",
-    "kycPolicy": "Mandatory KYC",
-    "liquidity": "Own",
-    "javascript": "Required",
-    "tags": [
-      "API Available",
-      "Perpetuals"
-    ],
-    "country": "KY",
-    "founded": "2017-01-01",
-    "description": "Centralized cryptocurrency exchange with spot trading that includes an XMR/USDT pair for buying and selling Monero (XMR) against the USDT stablecoin.",
-    "added": "2023-01-09",
-    "updated": "2026-11-12"
-  },
   "bitmixlist-aml": {
     "name": "BitMixList AML",
     "slug": "bitmixlist-aml",
@@ -2866,9 +2944,6 @@
     "categoryUrl": "https://monerica.com/merchant-services/integrations",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2019-01-02",
     "description": "Accept crypto payments at your shop, market stall, or business. Get instant payment notifications and generate receipts.",
     "added": "2022-11-15",
@@ -2943,6 +3018,26 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AS",
+        "BD",
+        "BO",
+        "CU",
+        "FM",
+        "GU",
+        "IR",
+        "KP",
+        "MH",
+        "MP",
+        "PR",
+        "PW",
+        "SD",
+        "SY",
+        "US",
+        "VI"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -2950,7 +3045,7 @@
     "founded": "2020-02-26",
     "description": "Instant cryptocurrency exchange service for swapping coins and tokens, based in East Asia (bitswap.kr). Listed for Monero (XMR) swaps.",
     "added": "2026-01-01",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "bitswitch-io": {
     "name": "BitSwitch.io",
@@ -2990,6 +3085,30 @@
     "liquidity": "Third Party",
     "rates": "Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BY",
+        "CU",
+        "GU",
+        "IR",
+        "KP",
+        "LY",
+        "MM",
+        "MP",
+        "PR",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "US",
+        "VE",
+        "VI",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -3004,7 +3123,7 @@
       "reviews": 3
     },
     "added": "2025-11-24",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "bl4cksqu4re": {
     "name": "bl4cksqu4re",
@@ -3073,11 +3192,22 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CU",
+        "IR",
+        "KP",
+        "RU",
+        "SY",
+        "VE"
+      ]
+    },
     "country": "MO",
     "founded": "2014-02-18",
     "description": "Hosting provider offering DDoS-protected cloud NVMe VPS, dedicated servers, web hosting, domain names, SSL certificates and cPanel licenses, headquartered in Macau.",
     "added": "2025-09-07",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "blinkcodes": {
     "name": "BlinkCodes",
@@ -3191,19 +3321,33 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps",
     "status": "Verified",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BY",
+        "CU",
+        "IQ",
+        "IR",
+        "MM",
+        "PS",
+        "RU",
+        "SY",
+        "YE"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "Owns Physical Servers"
     ],
     "country": "EE",
-    "founded": "2010-03-24",
+    "founded": "2016-01-01",
     "description": "KVM VPS with instant setup and VNC access in many locations worldwide, plus dedicated servers.",
     "rating": {
       "average": 4,
       "reviews": 4
     },
     "added": "2024-07-26",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "blynex": {
     "name": "Blynex",
@@ -3293,6 +3437,37 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AE",
+        "AF",
+        "BY",
+        "CD",
+        "CF",
+        "CU",
+        "GB",
+        "GU",
+        "HT",
+        "IN",
+        "IR",
+        "KP",
+        "LY",
+        "ML",
+        "MM",
+        "NI",
+        "PR",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "US",
+        "VE",
+        "VI",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -3300,7 +3475,7 @@
     "founded": "2026-09-21",
     "description": "Fully automated Account-Free cryptocurrency exchange platform designed to make digital asset trading fast, secure, and privacy-oriented.",
     "added": "2026-10-07",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "bridgoro": {
     "name": "Bridgoro",
@@ -3400,9 +3575,6 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2018-07-26",
     "description": "BTCPay Server is a free, self-hosted, open-source crypto payment processor with POS, invoicing, payment links and crowdfunding apps; Monero (XMR) is supported via plugin.",
     "added": "2022-06-22",
@@ -3431,13 +3603,13 @@
     ],
     "country": "NL",
     "founded": "2024-12-01",
-    "description": "Deploy a privacy-focused VPS in minutes: email-only signup, encrypted storage, full root access, KVM, and Netherlands or Lithuania locations.",
+    "description": "Deploy a privacy-focused VPS in minutes: email-only signup, encrypted storage, full root access, KVM, located in the Netherlands.",
     "rating": {
       "average": 4,
       "reviews": 4
     },
     "added": "2025-03-06",
-    "updated": "2026-11-10"
+    "updated": "2026-11-13"
   },
   "btse": {
     "name": "Btse",
@@ -3451,11 +3623,24 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CA",
+        "CU",
+        "GB",
+        "IR",
+        "KP",
+        "RU",
+        "SY",
+        "TW",
+        "US"
+      ]
+    },
     "country": "LI",
     "founded": "2002-03-29",
     "description": "Centralized crypto exchange for spot and futures trading of BTC, ETH, SOL and 150+ cryptocurrencies, with Monero (XMR/USD) among its trading pairs.",
     "added": "2022-06-22",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "buckets-ninja": {
     "name": "Buckets Ninja",
@@ -3547,11 +3732,14 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "US",
     "founded": "2022-03-17",
     "description": "Body-safe borosilicate glass toys for adults. Beginner and advanced pieces, ships plain with no branding to the lower 48 states and DC. 18+ only.",
     "added": "2026-10-26",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "buy-uk-esim": {
     "name": "Buy UK eSIM",
@@ -3614,6 +3802,22 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CA",
+        "CN",
+        "CU",
+        "HK",
+        "IR",
+        "KP",
+        "SC",
+        "SD",
+        "SG",
+        "SY",
+        "US",
+        "UZ"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "API Available",
@@ -3627,7 +3831,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "bypass-city": {
     "name": "Bypass City",
@@ -3722,9 +3926,6 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "US",
     "founded": "2018-01-01",
     "description": "Allows you to safely store, send, receive, and exchange your XMR, BTC, and LTC (and exchange other currencies)",
@@ -3761,6 +3962,9 @@
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
     "javascript": "Required",
+    "restrictions": {
+      "other": "21+"
+    },
     "tags": [
       "Account Not Required"
     ],
@@ -3768,7 +3972,7 @@
     "founded": "2023-04-20",
     "description": "Federally Legal Cannabis \u2013 Ships Discreetly. All of our products are federally legal.",
     "added": "2026-04-19",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "call-to-concious": {
     "name": "Call to Conscience",
@@ -3830,6 +4034,21 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Own & Third-Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CN",
+        "CU",
+        "GB",
+        "IR",
+        "KP",
+        "PA",
+        "SY",
+        "TR",
+        "US",
+        "VC"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -3838,7 +4057,7 @@
     "founded": "2026-05-17",
     "description": "Instant XMR swaps to and from BTC, USDT and other coins: type the swap in plain words, get one quote, send. Non-custodial by design, no account needed.",
     "added": "2026-08-28",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "canvasblocker": {
     "name": "CanvasBlocker",
@@ -3850,12 +4069,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source Firefox extension that blocks or fakes JavaScript APIs used for browser fingerprinting, including canvas, WebGL, audio, DOMRect, SVG, screen and navigator.",
     "added": "2025-06-16",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "canvory": {
     "name": "Canvory",
@@ -3866,10 +4082,13 @@
     "subcategory": "Medical/ Natural Treatments",
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "DE",
     "description": "European online CBD shop selling hemp buds, CBD oils, extracts, dab wax, cosmetics, food and textiles, with duty-free shipping within the European Union.",
     "added": "2026-01-23",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "capsized-vault": {
     "name": "Capsized Vault",
@@ -3914,6 +4133,16 @@
     "status": "Verified",
     "kycPolicy": "Varies By Provider",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CU",
+        "IR",
+        "KP",
+        "SD",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program"
@@ -3926,7 +4155,7 @@
       "reviews": 1
     },
     "added": "2026-06-16",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "cardtoshi-com": {
     "name": "Cardtoshi.com",
@@ -4055,6 +4284,11 @@
     "liquidity": "Own",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CN"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -4069,7 +4303,7 @@
       "reviews": 15
     },
     "added": "2025-07-06",
-    "updated": "2026-11-08"
+    "updated": "2026-11-13"
   },
   "centrobill": {
     "name": "Centrobill",
@@ -4140,13 +4374,36 @@
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BY",
+        "EH",
+        "GU",
+        "IR",
+        "KP",
+        "LY",
+        "MP",
+        "PK",
+        "PR",
+        "PS",
+        "RU",
+        "SD",
+        "SO",
+        "SY",
+        "US",
+        "VI",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required"
     ],
     "founded": "2022-12-03",
     "description": "Instant crypto exchange for swapping Monero (XMR) and other coins to Bitcoin (BTC) with no registration, using a simple form with a recipient address and live rates.",
     "added": "2026-06-27",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "changee": {
     "name": "Changee",
@@ -4189,6 +4446,24 @@
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AS",
+        "BD",
+        "BO",
+        "CU",
+        "GU",
+        "IR",
+        "JP",
+        "KP",
+        "MP",
+        "PR",
+        "SD",
+        "SY",
+        "US",
+        "VI"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -4199,7 +4474,7 @@
     "founded": "2018-05-01",
     "description": "Instant cryptocurrency exchange service for swapping between 300+ digital assets online with low fees.",
     "added": "2023-10-03",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "changelly": {
     "name": "Changelly",
@@ -4213,6 +4488,27 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AT",
+        "BD",
+        "CU",
+        "DE",
+        "GB",
+        "HK",
+        "IN",
+        "IQ",
+        "IR",
+        "JP",
+        "KP",
+        "SY",
+        "TR",
+        "US",
+        "VE",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -4222,7 +4518,7 @@
     "founded": "2013-12-26",
     "description": "A global crypto exchange platform serving over 7 million users worldwide. Support team works 24/7 to smooth your purchase or exchange experience.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "changenow": {
     "name": "ChangeNOW",
@@ -4237,6 +4533,14 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "GB",
+        "IN",
+        "RU",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -4251,7 +4555,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "changer-man": {
     "name": "Changer-man",
@@ -4502,11 +4806,14 @@
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "GB",
     "founded": "2016-02-27",
     "description": "UK online adult store selling sex dolls, sexbots, adult toys and lingerie.",
     "added": "2025-08-27",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "cloudarion": {
     "name": "Cloudarion",
@@ -4653,9 +4960,6 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "US",
     "founded": "2026-05-11",
     "description": "We help merchants take payments on any website. You add a buy button, we do the hard part behind it, and we never store your customers' info.",
@@ -4710,13 +5014,19 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "IR",
+        "MM"
+      ]
+    },
     "tags": [
       "Affiliate Program"
     ],
     "founded": "2019-03-28",
     "description": "Swiss hosting provider offering dedicated bare metal servers, AMD SEV confidential computing servers and DDoS protection.",
     "added": "2024-09-18",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "coincards": {
     "name": "Coincards",
@@ -4780,6 +5090,32 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BY",
+        "CA",
+        "CU",
+        "EH",
+        "GU",
+        "IR",
+        "KP",
+        "LY",
+        "MP",
+        "NL",
+        "PK",
+        "PR",
+        "PS",
+        "RU",
+        "SD",
+        "SO",
+        "SY",
+        "US",
+        "VI",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -4789,7 +5125,7 @@
     "founded": "2019-01-17",
     "description": "Crypto exchange established in 2020 which enables trading anonymously, and most importantly, in a safe way.",
     "added": "2024-08-21",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "coinex": {
     "name": "Coinex",
@@ -4803,6 +5139,20 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CA",
+        "CH",
+        "CN",
+        "CU",
+        "GB",
+        "HK",
+        "IR",
+        "KP",
+        "KZ",
+        "US"
+      ]
+    },
     "tags": [
       "Perpetuals"
     ],
@@ -4810,7 +5160,7 @@
     "founded": "2017-01-01",
     "description": "Centralized crypto exchange with spot, margin and futures trading, listing Monero (XMR) pairs including XMR/USDT, XMR/USDC and XMR/BTC, plus leveraged XMR/USDT.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "coingecko": {
     "name": "CoinGecko",
@@ -4924,6 +5274,11 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -4932,7 +5287,7 @@
     "founded": "2022-06-09",
     "description": "An Instant Cryptocurrency Exchange Aggregator for swapping XMR pairs across several exchanges at the best prices with no registration required.",
     "added": "2024-12-08",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "coinpaprika": {
     "name": "Coinpaprika",
@@ -4984,6 +5339,46 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BD",
+        "BI",
+        "BO",
+        "CG",
+        "CM",
+        "CN",
+        "DZ",
+        "EG",
+        "ET",
+        "GA",
+        "GB",
+        "GH",
+        "HK",
+        "ID",
+        "IQ",
+        "IR",
+        "KW",
+        "LS",
+        "LY",
+        "MA",
+        "MK",
+        "MM",
+        "NA",
+        "NP",
+        "OM",
+        "PK",
+        "QA",
+        "RU",
+        "SD",
+        "SL",
+        "SS",
+        "TD",
+        "TN",
+        "US",
+        "YE"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -4992,7 +5387,7 @@
     "founded": "2020-10-07",
     "description": "Crypto lending platform: use Monero (XMR) and 345+ other assets as collateral for instant crypto loans, plus a wallet, interest accounts and XMR exchange.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "coinsbee": {
     "name": "Coinsbee",
@@ -5157,6 +5552,36 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Varies By Provider",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BD",
+        "BY",
+        "CD",
+        "CF",
+        "CN",
+        "CU",
+        "DZ",
+        "EG",
+        "IQ",
+        "IR",
+        "KP",
+        "LB",
+        "LY",
+        "MA",
+        "ML",
+        "MM",
+        "NP",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "VE",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -5164,7 +5589,7 @@
     "founded": "2026-07-08",
     "description": "No accounts, No kyc and payouts you can split across multiple wallets. Fast & Private",
     "added": "2026-09-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "crmclick": {
     "name": "CRMClick",
@@ -5381,12 +5806,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "A standalone way to donate in sovereign cryptocurrency : Monero XMR, Bitcoin BTC & June G1",
     "added": "2025-07-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "crypto-am": {
     "name": "Crypto.am",
@@ -5533,6 +5955,18 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "IR",
+        "IS",
+        "KP",
+        "LI",
+        "NO",
+        "RU",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -5541,7 +5975,7 @@
     "founded": "2024-12-18",
     "description": "Non-custodial instant crypto exchange with fixed and floating rates for pairs like XMR/USDT and BTC/XMR, no registration for standard swaps, plus an exchange API.",
     "added": "2025-12-04",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "cryptomus": {
     "name": "Cryptomus",
@@ -5750,9 +6184,6 @@
     "categoryUrl": "https://monerica.com/nodes/node-software-and-deployment",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2023-12-17",
     "description": "Cuprate is an alternative Monero node implementation in Rust (cuprated), aiming to be fast and compatible with monerod; a work in progress funded via Monero CCS.",
     "added": "2025-09-08",
@@ -5843,6 +6274,12 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "RU"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -5852,7 +6289,7 @@
     "founded": "2025-05-22",
     "description": "No-KYC travel eSIM for 180+ countries. No account, ID, or email required. Instant QR activation. Available on the web and via Telegram.",
     "added": "2026-06-14",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "cypher-market": {
     "name": "Cypher Market",
@@ -5887,6 +6324,12 @@
     "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "RU"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -5895,7 +6338,7 @@
     "founded": "2026-07-03",
     "description": "No-account VPN, no email, no KYC - credentials are generated in your browser. VLESS/Reality and AmneziaWG exits in the Netherlands, Romania and Finland. From $1.99/week.",
     "added": "2026-08-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "cypherfaucet": {
     "name": "CypherFaucet",
@@ -5929,15 +6372,23 @@
     "status": "Verified",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
+    "rates": "Fixed & Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
       "API Available",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
-    "country": "SE",
+    "country": "PA",
     "founded": "2025-01-26",
     "description": "Non-custodial swap aggregator for private crypto exchanges. Find the best rate across trusted providers and swap instantly.",
     "rating": {
@@ -5945,7 +6396,7 @@
       "reviews": 5
     },
     "added": "2025-03-13",
-    "updated": "2026-10-25"
+    "updated": "2026-11-13"
   },
   "cyphergoat-pro": {
     "name": "CypherGoat Pro",
@@ -6250,7 +6701,7 @@
     "description": "Automatic cryptocurrency exchange. Zero KYC, zero registration. No IP collection, no metadata logging.",
     "rating": {
       "average": 4.8,
-      "reviews": 17
+      "reviews": 18
     },
     "added": "2026-04-09",
     "updated": "2026-11-11"
@@ -6427,11 +6878,14 @@
     "categoryUrl": "https://monerica.com/businesses/tobacco-products-and-accessories",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "US",
     "founded": "2007-02-01",
     "description": "US online store selling concentrate and dry herb vaporizers, eNails, glass rigs, storage jars, batteries and hemp clothing, with free US shipping.",
     "added": "2025-10-21",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "diyar-ciftci-node": {
     "name": "Diyar Ciftci Node",
@@ -6504,12 +6958,9 @@
     "categoryUrl": "https://monerica.com/nodes/node-software-and-deployment",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "A docker-compose project to package a Monero node with an advanced monitoring dashboard.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "dohost": {
     "name": "DoHost",
@@ -6672,6 +7123,32 @@
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BY",
+        "CA",
+        "CU",
+        "EH",
+        "GU",
+        "IR",
+        "KP",
+        "LY",
+        "MP",
+        "NL",
+        "PK",
+        "PR",
+        "PS",
+        "RU",
+        "SD",
+        "SO",
+        "SY",
+        "US",
+        "VI",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program"
@@ -6684,7 +7161,7 @@
       "reviews": 2
     },
     "added": "2025-09-14",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "ducks-party": {
     "name": "Ducks Party",
@@ -6729,6 +7206,14 @@
     "liquidity": "Third Party",
     "rates": "Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CA",
+        "CR",
+        "GB",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -6743,7 +7228,7 @@
       "reviews": 1
     },
     "added": "2026-09-06",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "easyccv": {
     "name": "EasyCCV",
@@ -6774,16 +7259,13 @@
     "categoryUrl": "https://monerica.com/nodes/node-software-and-deployment",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source script and GUI that installs a Monero (XMR) full node on Ubuntu/Debian in a few steps, with Tor onion access for mobile wallets, SSH over Tor and ban-list setup.",
     "rating": {
       "average": 5,
       "reviews": 1
     },
     "added": "2025-04-07",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "easynodedroid": {
     "name": "EasynodeDroid",
@@ -6835,9 +7317,6 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "US",
     "founded": "2014-01-01",
     "description": "Edge is a self-custody mobile wallet for iOS and Android supporting Monero (XMR), Bitcoin, Ethereum and more, with in-app swaps, buy/sell and username/password backup.",
@@ -7021,12 +7500,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Ergo is an open-source Qt-based toolkit from the Calm OS project for developing converged applications that adapt across desktop and mobile. GPLv3 licensed.",
     "added": "2025-04-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "erolove": {
     "name": "EroLove",
@@ -7038,13 +7514,16 @@
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Affiliate Program"
     ],
     "founded": "2026-09-08",
     "description": "AI sex chat for adults with a cast of written characters, like a night bartender in Leeds and a furniture maker in Cardiff. They remember you, and it is free to start.",
     "added": "2026-10-21",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "escape-the-technocracy": {
     "name": "Escape the Technocracy",
@@ -7097,12 +7576,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source implementation of ETH-XMR atomic swaps (beta) by Athanor Labs: swapd daemon and swapcli tool to find peers, make and take offers and swap Ethereum for Monero.",
     "added": "2023-09-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "ethos-found": {
     "name": "Ethos Found",
@@ -7322,6 +7798,16 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SD",
+        "SY",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -7331,7 +7817,7 @@
     "founded": "2024-02-13",
     "description": "Instant cryptocurrency exchange with 2500+ coins including Monero (XMR), fixed or floating rates, a choice of liquidity provider per swap, API and affiliate program.",
     "added": "2025-02-13",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "explore-monero": {
     "name": "Explore Monero",
@@ -7392,6 +7878,29 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BY",
+        "EH",
+        "GU",
+        "IR",
+        "KP",
+        "LY",
+        "MP",
+        "PK",
+        "PR",
+        "PS",
+        "RU",
+        "SD",
+        "SO",
+        "SY",
+        "US",
+        "VI",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -7402,7 +7911,7 @@
     "founded": "2022-12-27",
     "description": "Crypto exchange and business infrastructure offering swaps including Monero (XMR) to USDT, a live rates API, partner integration and TRON (TRX) energy rental.",
     "added": "2025-06-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "eylenburg-cloud-comparison": {
     "name": "Eylenburg Cloud Comparison",
@@ -7572,13 +8081,10 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2010-09-29",
     "description": "A mobile app for logging and viewing your workouts. Whether you\u2019re running, cycling or hiking, FitoTrack will show you the most important information.",
     "added": "2026-06-28",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "fixedfloat": {
     "name": "FixedFloat",
@@ -7593,6 +8099,13 @@
     "liquidity": "Own",
     "rates": "Fixed & Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "GE",
+        "IN",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -7607,7 +8120,7 @@
       "reviews": 3
     },
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "flashift": {
     "name": "Flashift",
@@ -7929,9 +8442,6 @@
     "categoryUrl": "https://monerica.com/non-profits/media",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "US",
     "founded": "2012-12-17",
     "description": "Supports free speech and freedom of the press. Develops software to support the digital security of journalists and their sources. Conducts legal advocacy for journalists.",
@@ -7949,10 +8459,24 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CU",
+        "IR",
+        "KP",
+        "LY",
+        "MM",
+        "RU",
+        "SY",
+        "VE",
+        "ZW"
+      ]
+    },
     "founded": "2025-10-09",
     "description": "No-KYC virtual Visa card that you top up with crypto. No verification, plans from $5/month with a 1.3% top-up fee.",
     "added": "2026-11-03",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "freeje": {
     "name": "Freeje",
@@ -7983,7 +8507,6 @@
     "javascript": "Required",
     "tags": [
       "Email Not Required",
-      "Open Source",
       "Owns Physical Servers"
     ],
     "country": "US",
@@ -8110,6 +8633,18 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CU",
+        "IR",
+        "KN",
+        "KP",
+        "RU",
+        "SY",
+        "US"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -8118,7 +8653,7 @@
     "founded": "2024-07-01",
     "description": "Instant cryptocurrency swap service for exchanging coins, including Monero (XMR).",
     "added": "2025-12-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "fujn-swap": {
     "name": "Fujn Swap",
@@ -8199,6 +8734,42 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AE",
+        "AR",
+        "AT",
+        "CA",
+        "CN",
+        "CU",
+        "DE",
+        "ES",
+        "FR",
+        "GB",
+        "HK",
+        "ID",
+        "IN",
+        "IR",
+        "JP",
+        "KH",
+        "KP",
+        "KR",
+        "MM",
+        "MT",
+        "MY",
+        "NL",
+        "PH",
+        "PK",
+        "RU",
+        "SD",
+        "SG",
+        "TH",
+        "US",
+        "UZ",
+        "VE",
+        "VN"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -8207,7 +8778,7 @@
     "founded": "2013-01-01",
     "description": "Centralized crypto exchange with spot, margin, futures and perpetual contract trading, including XMR/USDT perpetuals, plus P2P, staking, a crypto card and a Web3 wallet.",
     "added": "2026-01-01",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "gatepath-vpn": {
     "name": "Gatepath VPN",
@@ -8358,6 +8929,14 @@
     "liquidity": "Third Party",
     "rates": "Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -8371,7 +8950,7 @@
       "reviews": 13
     },
     "added": "2026-01-06",
-    "updated": "2026-11-10"
+    "updated": "2026-11-13"
   },
   "ghostswap-app": {
     "name": "GhostSwap.app",
@@ -8505,12 +9084,9 @@
     "categoryUrl": "https://monerica.com/non-profits/individuals",
     "status": "Admitted",
     "javascript": "None",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Personal page of glassez, a hobbyist open-source developer who mainly contributes to the qBittorrent BitTorrent client.",
     "added": "2026-01-11",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "gleec": {
     "name": "Gleec",
@@ -8576,6 +9152,57 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AL",
+        "BA",
+        "BF",
+        "BG",
+        "BY",
+        "CD",
+        "CF",
+        "CM",
+        "CU",
+        "ET",
+        "GW",
+        "HR",
+        "HT",
+        "IQ",
+        "IR",
+        "JM",
+        "KE",
+        "KP",
+        "LB",
+        "LY",
+        "MC",
+        "MD",
+        "ME",
+        "MK",
+        "ML",
+        "MM",
+        "MS",
+        "MZ",
+        "NA",
+        "NG",
+        "NI",
+        "PH",
+        "RS",
+        "RU",
+        "SI",
+        "SN",
+        "SO",
+        "SS",
+        "SY",
+        "TN",
+        "TZ",
+        "VE",
+        "VN",
+        "YE",
+        "ZA",
+        "ZW"
+      ]
+    },
     "country": "MX",
     "founded": "2025-05-07",
     "description": "Physical Mastercard with no KYC. Deposit crypto and spend in USD, EUR, MXN and other currencies worldwide. ATM cash withdrawals, Apple Pay and Google Pay.",
@@ -8584,7 +9211,7 @@
       "reviews": 2
     },
     "added": "2025-11-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "gobrrr": {
     "name": "GoBrrr",
@@ -8642,6 +9269,18 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BD",
+        "BO",
+        "CU",
+        "IR",
+        "KP",
+        "SD",
+        "SY",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -8652,7 +9291,7 @@
     "founded": "2017-12-29",
     "description": "Instant cryptocurrency exchange with hundreds of coins and Monero (XMR) pairs, fixed or floating rates and no account registration.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "goexme": {
     "name": "GoExme",
@@ -8800,13 +9439,10 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2020-06-20",
     "description": "A screen recorder that has minimal impact on system performance by recording your monitor using the GPU only, similar to shadowplay on windows.",
     "added": "2026-06-28",
-    "updated": "2026-06-28"
+    "updated": "2026-11-13"
   },
   "grapheneos": {
     "name": "GrapheneOS",
@@ -8818,9 +9454,6 @@
     "categoryUrl": "https://monerica.com/non-profits/operating-systems",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "CA",
     "founded": "2019-03-23",
     "description": "Open-source mobile operating system with Android app compatibility, built as a non-profit, adding hardened sandboxing, exploit mitigations and a stricter permission model.",
@@ -8859,12 +9492,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source proof-of-concept project building payment channels for Monero (XMR) between merchants and customers; the v1 CLI is archived while it moves to monero-oxide/FCMP++.",
     "added": "2025-10-03",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "grifhost-com": {
     "name": "GrifHost.com",
@@ -8954,9 +9584,6 @@
     "categoryUrl": "https://monerica.com/mining/software",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2022-11-14",
     "description": "Free desktop GUI for Monero (XMR) mining that combines P2Pool and XMRig for decentralized mining, with options to run a Monero node, a proxy and the XvB raffle.",
     "rating": {
@@ -9209,11 +9836,14 @@
     "subcategory": "Medical/ Natural Treatments",
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "US",
     "founded": "2017-05-23",
     "description": "Online kratom shop selling 1-gram kratom capsules, leaf powder, plain-leaf and enhanced blends, extracts, sample packs and kilos, with lab testing reports.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "herman-shine": {
     "name": "Herman Shine",
@@ -9431,6 +10061,22 @@
     "categoryUrl": "https://monerica.com/exchanges/peer-to-peer-exchanges",
     "status": "Verified",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CU",
+        "IQ",
+        "IR",
+        "KP",
+        "PR",
+        "RU",
+        "SD",
+        "SO",
+        "SY",
+        "US",
+        "VI"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -9439,7 +10085,7 @@
     "founded": "2016-03-22",
     "description": "Non-custodial peer-to-peer Bitcoin trading platform using multisig escrow. Users set their own offers, currencies and payment methods, which can include Monero (XMR).",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "honest-people": {
     "name": "Honest People",
@@ -9665,6 +10311,11 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -9674,7 +10325,7 @@
     "founded": "2022-04-12",
     "description": "Compliant privacy for crypto transactions. Swap non-custodially across 120+ chains. Transact Freely. Stay Private.",
     "added": "2023-09-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "howtobuymonero-net": {
     "name": "HowToBuyMonero.net",
@@ -9706,6 +10357,26 @@
     "added": "2025-12-31",
     "updated": "2026-11-12"
   },
+  "httproxy": {
+    "name": "HTTProxy",
+    "slug": "httproxy",
+    "profileUrl": "https://monerica.com/site/httproxy",
+    "website": "https://httproxy.taila34f84.ts.net/",
+    "category": "VPNs & Proxies",
+    "subcategory": "Proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "javascript": "None",
+    "restrictions": {
+      "vpn": "Allowed",
+      "tor": "Allowed"
+    },
+    "founded": "1996-10-08",
+    "description": "I run this new proxy service from my own house. This is true residential IP since it uses my spare mobile phone.",
+    "added": "2026-11-13",
+    "updated": "2026-11-13"
+  },
   "htx": {
     "name": "HTX",
     "slug": "htx",
@@ -9718,6 +10389,23 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CN",
+        "CU",
+        "GB",
+        "HK",
+        "IR",
+        "KP",
+        "MM",
+        "RU",
+        "SD",
+        "SG",
+        "SY",
+        "US",
+        "VE"
+      ]
+    },
     "tags": [
       "Perpetuals"
     ],
@@ -9725,7 +10413,7 @@
     "founded": "2013-01-01",
     "description": "Centralized crypto exchange with Monero (XMR) spot markets including XMR/USDT and XMR/BTC, plus XMR/USDT perpetual futures, and trading for 600+ other cryptocurrencies.",
     "added": "2025-08-06",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "husher": {
     "name": "Husher",
@@ -9739,6 +10427,31 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CA",
+        "CD",
+        "CU",
+        "DE",
+        "ES",
+        "FR",
+        "GB",
+        "HK",
+        "IQ",
+        "IR",
+        "JP",
+        "KP",
+        "LT",
+        "MT",
+        "NL",
+        "SD",
+        "SG",
+        "SS",
+        "SY",
+        "US",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -9748,7 +10461,7 @@
     "founded": "2025-08-23",
     "description": "Non-custodial crypto exchange for instant swaps between BTC, ETH, USDT and other coins, where users keep control of their own keys; community-governed platform.",
     "added": "2026-07-18",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "hushsims": {
     "name": "HushSIMs",
@@ -9795,13 +10508,10 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2003-04-13",
     "description": "I2P (Invisible Internet Project) is a decentralized, privacy-focused network that allows people to communicate and share information anonymously.",
     "added": "2026-04-05",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "i2pd": {
     "name": "I2Pd",
@@ -9813,13 +10523,10 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2015-05-10",
     "description": "i2pd (I2P Daemon) is a full-featured C++ client for I2P, the encrypted peer-to-peer network layer, with apps for desktop and Android.",
     "added": "2026-04-05",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "iceswap": {
     "name": "IceSwap",
@@ -10093,6 +10800,24 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CD",
+        "CU",
+        "IQ",
+        "IR",
+        "KP",
+        "LY",
+        "ML",
+        "MM",
+        "NI",
+        "SO",
+        "SS",
+        "SY",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -10102,7 +10827,7 @@
     "founded": "2018-01-01",
     "description": "All-in-one decentralized (DEX) aggregator with multi-blockchain support for retail, wallets, exchanges and TradFi.",
     "added": "2026-02-19",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "inteltechniques": {
     "name": "IntelTechniques",
@@ -10160,13 +10885,10 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2021-01-06",
     "description": "Invidious is a free, open-source (AGPL) alternative front-end to YouTube: watch videos without ads or a Google account, subscribe and make playlists.",
     "added": "2024-12-26",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "iran-netlify": {
     "name": "Iran Netlify",
@@ -10326,7 +11048,6 @@
     "javascript": "Optional",
     "tags": [
       "Email Not Required",
-      "Open Source",
       "Owns Physical Servers"
     ],
     "country": "GI",
@@ -10626,12 +11347,9 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source point-of-sale system for accepting Monero (XMR) payments: a progressive web app for phones or tablets plus a server running a view-only wallet.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "kastelo-traducciones": {
     "name": "Kastelo Traducciones",
@@ -10678,13 +11396,10 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2018-09-04",
     "description": "Open-source, ad-free password manager for Android using KeePass .kdbx files, with autofill, passkeys, TOTP/HOTP two-factor codes and biometric unlock.",
     "added": "2022-06-22",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "kera-desktop": {
     "name": "Kera Desktop",
@@ -10741,12 +11456,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Keyboard Visualizer syncs your OpenRGB lights to music, visualizing audio from any app, site, or game using input or loopback devices.",
     "added": "2025-04-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "keynode-vpn": {
     "name": "KeyNode VPN",
@@ -10827,12 +11539,9 @@
     "categoryUrl": "https://monerica.com/mining/software",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Extremely high performance Monero (XMR) and Cryptonote Stratum mining protocol proxy.",
     "added": "2023-09-15",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "kingofood": {
     "name": "KingoFood",
@@ -10875,11 +11584,14 @@
     "subcategory": "Pornography & Adult Products",
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Admitted",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "US",
     "founded": "1994-05-13",
     "description": "Adult website offering BDSM and fetish-themed pornographic video content by subscription.",
     "added": "2025-08-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "ko-net": {
     "name": "Ko-Net",
@@ -10996,6 +11708,23 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BY",
+        "CD",
+        "CU",
+        "IQ",
+        "IR",
+        "JP",
+        "KP",
+        "LY",
+        "RU",
+        "SD",
+        "SS",
+        "SY"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "API Available",
@@ -11009,7 +11738,7 @@
       "reviews": 2
     },
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "kryptex": {
     "name": "Kryptex",
@@ -11036,13 +11765,10 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2020-08-04",
     "description": "Kryptor is a free, open-source file encryption and signing tool for Windows, Linux and macOS, a simpler alternative to GPG, age and Minisign.",
     "added": "2025-05-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "kucoin": {
     "name": "KuCoin",
@@ -11056,6 +11782,25 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AS",
+        "BY",
+        "CN",
+        "FR",
+        "GU",
+        "HK",
+        "KZ",
+        "MP",
+        "MY",
+        "NL",
+        "PR",
+        "RU",
+        "SG",
+        "US",
+        "UZ"
+      ]
+    },
     "tags": [
       "API Available",
       "Perpetuals"
@@ -11068,7 +11813,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "kuk-fan": {
     "name": "kuk.fan",
@@ -11272,13 +12017,12 @@
     "javascript": "Optional",
     "tags": [
       "API Available",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2020-06-11",
     "description": "Directory of crypto and privacy services such as exchanges, VPNs, VPS hosts, eSIMs and cards, with 0-10 scores, KYC levels and filters for Monero (XMR), Tor and I2P.",
     "added": "2022-09-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "kycnotlist": {
     "name": "KycNotList",
@@ -11362,6 +12106,9 @@
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Affiliate Program"
     ],
@@ -11369,7 +12116,7 @@
     "founded": "2017-08-30",
     "description": "Laboratory equipment and service. Vacuum, pressure, ultra low freezers, high temperature heaters, filtering, distillation, glassware, reactors and more.",
     "added": "2024-09-24",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "label-drop": {
     "name": "Label Drop",
@@ -11471,13 +12218,16 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Email Not Required"
     ],
     "founded": "2026-11-04",
     "description": "Private AI companion chat for adults with characters that remember you, plus photos and voice messages. Account number signup, no email or phone needed.",
     "added": "2026-11-08",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "lbr-designs": {
     "name": "LBR designs",
@@ -11636,8 +12386,7 @@
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2025-10-07",
     "description": "Free, open-source (GPL-3.0) Android workout tracker on F-Droid with an exercise library, set/rep/rest logging, custom workout builder and offline use.",
@@ -11685,12 +12434,9 @@
     "categoryUrl": "https://monerica.com/non-profits/miscellaneous",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Open Source"
-    ],
     "description": "LibreTorrent is a free, open-source (copyleft) torrent client for Android with BitTorrent 2.0 and WebTorrent support, available on F-Droid.",
     "added": "2025-01-05",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "libretube": {
     "name": "LibreTube",
@@ -11731,6 +12477,24 @@
     "categoryUrl": "https://monerica.com/exchanges/decentralized-exchanges",
     "status": "Verified",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CA",
+        "CN",
+        "CU",
+        "GB",
+        "IR",
+        "KP",
+        "MM",
+        "RU",
+        "SD",
+        "SY",
+        "UA",
+        "US",
+        "VE"
+      ]
+    },
     "tags": [
       "Email Not Required",
       "Perpetuals"
@@ -11743,7 +12507,7 @@
       "reviews": 1
     },
     "added": "2025-12-17",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "linux-mint": {
     "name": "Linux Mint",
@@ -11757,8 +12521,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "tags": [
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2006-06-07",
     "description": "An operating system for desktop and laptop computers. It is designed to work 'out of the box' and comes fully equipped with the apps most people need.",
@@ -11790,12 +12553,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Self-hostable service that watches a Monero wallet and pushes live donation updates to a JSON wishlist for display on websites.",
     "added": "2023-09-28",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "lizardswap": {
     "name": "LizardSwap",
@@ -11859,6 +12619,22 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CA",
+        "CU",
+        "ER",
+        "IR",
+        "KP",
+        "RU",
+        "SG",
+        "SY",
+        "TW",
+        "US",
+        "VE"
+      ]
+    },
     "tags": [
       "Affiliate Program"
     ],
@@ -11866,7 +12642,7 @@
     "founded": "2021-07-14",
     "description": "A no-KYC centralized exchange providing spot trading for Monero (XMR) alongside BTC, ETH, SOL, XRP, and LTC, with unlimited daily withdrawals.",
     "added": "2026-01-15",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "lnvps": {
     "name": "LNVPS",
@@ -11917,13 +12693,10 @@
     "subcategory": "Technologies",
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2018-07-05",
     "description": "A browser extension that boosts privacy by emulating CDNs\u2014intercepts traffic, finds supported resources locally, and injects them into your environment.",
     "added": "2025-02-05",
-    "updated": "2026-02-16"
+    "updated": "2026-11-13"
   },
   "localenby": {
     "name": "Localenby",
@@ -12021,6 +12794,18 @@
     "liquidity": "Third Party",
     "rates": "Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IQ",
+        "IR",
+        "KP",
+        "SD",
+        "SS",
+        "SY",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -12029,7 +12814,7 @@
     "founded": "2026-11-03",
     "description": "Non-custodial, walletless swap platform. Swap instantly without connecting a wallet, registration, or KYC. Fast, private, and secure.",
     "added": "2026-11-04",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "ludlow-institute": {
     "name": "Ludlow Institute",
@@ -12131,12 +12916,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "A self-hosted Monero light-wallet service, allowing for an always-on, immediate use wallet without sync times and with private connectivity over Tor.",
     "added": "2026-01-25",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "lyra-hosting": {
     "name": "Lyra Hosting",
@@ -12382,13 +13164,10 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2021-03-01",
     "description": "mCaptcha is a libre, proof-of-work based captcha system that does not track users, with APIs compatible with reCAPTCHA and hCaptcha as a drop-in replacement.",
     "added": "2025-08-03",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "mchanger": {
     "name": "MChanger",
@@ -12515,13 +13294,10 @@
     "subcategory": "Open Source Projects",
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2018-07-05",
     "description": "Open-source Python script that deterministically generates a Monero (XMR) brain wallet from an argon2id hash of a user-chosen passphrase, letting the seed be recovered.",
     "added": "2025-02-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "memorial-center": {
     "name": "Memorial Center",
@@ -12568,12 +13344,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "A cross-platform mobile application for communicating with MeshCore LoRa mesh network devices via Bluetooth Low Energy (BLE).",
     "added": "2026-08-08",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "messari-monero": {
     "name": "Messari - Monero",
@@ -12775,8 +13548,7 @@
     "tags": [
       "Account Not Required",
       "API Available",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2026-05-04",
     "description": "Swap Across 50+ blockchains via Atomic Swap, THORChain, Chainflip, and Near-Intents all without KYC",
@@ -12832,13 +13604,10 @@
     "subcategory": "Open Source Projects",
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2018-07-05",
     "description": "Open-source, self-hosted federated microblogging server on ActivityPub with Mastodon API, groups, Tor/I2P federation and paid subscriptions using Monero (XMR).",
     "added": "2023-10-08",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "mixed": {
     "name": "MIXED",
@@ -12915,13 +13684,51 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AO",
+        "BD",
+        "BF",
+        "BI",
+        "BY",
+        "CD",
+        "CF",
+        "CN",
+        "CU",
+        "GN",
+        "GW",
+        "HT",
+        "ID",
+        "IQ",
+        "IR",
+        "KP",
+        "LB",
+        "LV",
+        "LY",
+        "ML",
+        "MM",
+        "NE",
+        "NI",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "TT",
+        "US",
+        "VE",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required"
     ],
     "founded": "2023-09-01",
     "description": "Non-custodial crypto swap aggregator for trading BTC, ETH, DOGE, Monero (XMR), BNB and 400+ other coins across blockchains with fixed or floating rates. No account needed.",
     "added": "2026-03-04",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "mlnl-host": {
     "name": "MLNL:HOST",
@@ -12981,12 +13788,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Monero transacting and wallet management via the interactive mmgen-xmrwallet command.",
     "added": "2025-04-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "mmoga": {
     "name": "MMOGA",
@@ -13018,8 +13822,7 @@
     "tags": [
       "Account Not Required",
       "API Available",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2026-09-04",
     "description": "One RPC address for your Monero wallet. A relay over public nodes that checks every block, tx and header against multi-node consensus. Free or Pro tier. No account, no KYC.",
@@ -13082,9 +13885,6 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2014-06-12",
     "description": "Official website for Monero. Guides, resources, the official GUI and CLI wallet downloads and more.",
     "added": "2022-06-22",
@@ -13123,14 +13923,13 @@
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "Open Source",
       "Sells Sponsorship"
     ],
     "country": "US",
     "founded": "2026-05-14",
     "description": "Learn Monero for free: courses, lessons and quizzes from beginner to advanced. Create a free account to track your quiz scores. Tor friendly, works without JavaScript.",
     "added": "2026-06-29",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "monero-ban-list": {
     "name": "Monero Ban List",
@@ -13249,8 +14048,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "tags": [
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2007-10-09",
     "description": "Self-hosting crypto payment gateway for merchants. No KYC, no censorship, 100% non-custodial (view-only wallet). BTCPay & WooCommerce compatible. Easy Docker deployment.",
@@ -13370,12 +14168,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "This plugin enables you to give your users access to private Discourse groups and categories for Monero payments.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-eco-system": {
     "name": "Monero Eco system",
@@ -13402,12 +14197,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "GitHub organization hosting community-maintained Monero (XMR) projects, including Python and C# RPC libraries, the Monero GUI guide, translations and outreach docs.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-education": {
     "name": "Monero Education",
@@ -13508,12 +14300,9 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source WooCommerce plugin for accepting Monero (XMR) payments in WordPress stores, with wallet-rpc or explorer validation, live price updates and XMR price display.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-general-fund": {
     "name": "Monero General Fund",
@@ -13567,9 +14356,6 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Curated GitHub list by hundehausen of 300+ Monero (XMR) repositories: wallets, nodes, RandomX, payment gateways, libraries, FCMP and Seraphis research.",
     "added": "2022-06-22",
     "updated": "2026-11-12"
@@ -13664,9 +14450,6 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "None",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2022-04-15",
     "description": "Web tool that audits the Monero (XMR) blockchain to show no inflation bug exists, verifying circulating supply, emission and proofs across every transaction type.",
     "added": "2022-06-22",
@@ -13792,12 +14575,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source MCP server that gives AI agents a Monero (XMR) wallet: check balances, create addresses, and send or receive XMR. Read-only by default, sending is opt-in.",
     "added": "2026-03-02",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-means-money": {
     "name": "Monero Means Money",
@@ -13824,12 +14604,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Free and open-source Android point-of-sale (POS) app for accepting Monero (XMR) payments, with a self-hosted backend, Bluetooth receipt printing and QR/NFC payments.",
     "added": "2025-07-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-miner": {
     "name": "Monero Miner",
@@ -13884,12 +14661,9 @@
     "categoryUrl": "https://monerica.com/wallets/desktop-wallets",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source Qt desktop app for creating and coordinating Monero (XMR) multisig wallets (e.g. 2-of-3) and multisig transfers between parties, using Tor; Linux AppImage.",
     "added": "2025-10-07",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-mumble-youtube": {
     "name": "Monero Mumble - YouTube",
@@ -13975,12 +14749,9 @@
     "categoryUrl": "https://monerica.com/nodes/node-software-and-deployment",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Unofficial Umbrel app for running a Monero (XMR) full node on an Umbrel personal server, with a web dashboard. Open-source on GitHub.",
     "added": "2023-07-26",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-nodo": {
     "name": "Monero Nodo",
@@ -14064,8 +14835,7 @@
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2025-02-04",
@@ -14164,9 +14934,6 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2014-04-18",
     "description": "Official Monero (XMR) GitHub organization hosting source code for the Monero daemon and CLI, Monero GUI wallet, getmonero.org website, docs and research-lab.",
     "added": "2022-06-22",
@@ -14241,6 +15008,9 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "None",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Affiliate Program",
       "Email Not Required"
@@ -14252,7 +15022,7 @@
       "reviews": 2
     },
     "added": "2025-12-30",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "monero-social": {
     "name": "Monero Social",
@@ -14394,12 +15164,9 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source Python desktop wallet for Windows, Mac and Linux that automatically pays recurring Monero (XMR) subscriptions using the Monero Payment Request Protocol.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-suite": {
     "name": "Monero Suite",
@@ -14411,9 +15178,6 @@
     "categoryUrl": "https://monerica.com/nodes/node-software-and-deployment",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2023-10-01",
     "description": "Web tool that builds a personal docker-compose.yml to configure and deploy Monero (XMR) services, such as a monerod node, on your own machine with Docker.",
     "added": "2022-06-22",
@@ -14549,7 +15313,7 @@
     "founded": "2026-04-21",
     "description": "The latest Monero discussions & price talk, technical help, and general chat. A privacy-first forum for Monero users: no email required, works over Tor.",
     "added": "2026-08-06",
-    "updated": "2026-08-06"
+    "updated": "2026-11-13"
   },
   "monero-vanity-address-generator": {
     "name": "Monero vanity address generator",
@@ -14561,12 +15325,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "CUDA-accelerated tool that generates Monero vanity wallet addresses matching user-specified patterns on NVIDIA GPUs.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-vegas": {
     "name": "Monero Vegas",
@@ -14584,6 +15345,9 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -14596,7 +15360,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-10-20"
+    "updated": "2026-11-13"
   },
   "monero-vs-bitcoin-fees": {
     "name": "Monero vs. Bitcoin Fees",
@@ -14625,14 +15389,13 @@
     "javascript": "Required",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2026-04-07",
     "description": "Explore a secure and convenient monero web wallet for managing Monero online. Access your funds easily while enjoying privacy-focused digital asset features.",
     "added": "2026-04-15",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-woocommerce-extension": {
     "name": "Monero WooCommerce Extension",
@@ -14679,18 +15442,15 @@
     "name": "monero-csharp",
     "slug": "monero-csharp",
     "profileUrl": "https://monerica.com/site/monero-csharp",
-    "website": "https://github.com/btcpay-monero/monero-csharp",
+    "website": "https://btcpay-monero.github.io/monero-csharp/",
     "category": "Utilities",
     "subcategory": "Open Source Projects",
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source C# (.NET) library for interacting with Monero (XMR) daemon and wallet RPCs, published on NuGet as MoneroNet by the btcpay-monero project. MIT licensed.",
     "added": "2026-04-01",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-gpg": {
     "name": "monero-gpg",
@@ -14702,12 +15462,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Sign a message/file with GPG and include the current Monero block stats at the bottom.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-ceo": {
     "name": "Monero.ceo",
@@ -14785,6 +15542,9 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required"
     ],
@@ -14795,7 +15555,7 @@
       "reviews": 3
     },
     "added": "2025-03-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monero-the-cryptocurrency-king": {
     "name": "Monero: The Cryptocurrency King",
@@ -14822,6 +15582,9 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -14830,7 +15593,7 @@
     "founded": "2026-10-24",
     "description": "Provably Fair PvP mini-games. Our retro-style gaming site lets you create free or xmr-based games, that you can play against your friends or enemies. Ingame chat included.",
     "added": "2026-10-31",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "moneroc": {
     "name": "moneroc",
@@ -14842,12 +15605,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source command-line tool that automates churning Monero (XMR) through monero-wallet-rpc, creating accounts and moving funds between them with randomized delays.",
     "added": "2025-02-16",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monerochad": {
     "name": "MoneroChad",
@@ -14859,12 +15619,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source Discord bot with Monero (XMR) commands for price, price charts, transaction, block and network info, plus prices for other cryptocurrencies.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monerochan": {
     "name": "Monerochan",
@@ -14892,12 +15649,11 @@
     "status": "Admitted",
     "javascript": "Optional",
     "tags": [
-      "API Available",
-      "Open Source"
+      "API Available"
     ],
     "description": "Open-source API for accepting Monero (XMR) payments, with invoice creation, wallet sync status endpoints and interactive API docs for merchant integration.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monerochan-news": {
     "name": "Monerochan.News",
@@ -14931,6 +15687,9 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -14942,7 +15701,7 @@
       "reviews": 3
     },
     "added": "2023-09-13",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monerodir": {
     "name": "MoneroDir",
@@ -14972,12 +15731,9 @@
     "categoryUrl": "https://monerica.com/nodes/node-software-and-deployment",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "MoneroDroid is an open-source Android app for running a full or pruned Monero (XMR) node on a phone, with SD card storage, background service and start on boot.",
     "added": "2026-01-27",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "moneroflow": {
     "name": "MoneroFlow",
@@ -14992,8 +15748,7 @@
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2026-04-01",
@@ -15132,7 +15887,6 @@
     "javascript": "Optional",
     "tags": [
       "Email Not Required",
-      "Open Source",
       "Sells Sponsorship"
     ],
     "country": "US",
@@ -15175,8 +15929,7 @@
     "status": "Verified",
     "javascript": "Optional",
     "tags": [
-      "API Available",
-      "Open Source"
+      "API Available"
     ],
     "founded": "2026-05-12",
     "description": "Reorg-aware Monero (XMR) network metrics: live chain reorganizations, orphan blocks, network hashrate, block time, mempool, mining-pool distribution and Nakamoto coefficient.",
@@ -15222,12 +15975,9 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source (GPLv3) standalone Monero (XMR) payment processor for receiving and sending payments, run as a self-hosted gateway for e-commerce sites.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "moneropostage": {
     "name": "Moneropostage",
@@ -15266,7 +16016,6 @@
       "Account Not Required",
       "API Available",
       "Email Not Required",
-      "Open Source",
       "Sells Sponsorship"
     ],
     "founded": "2026-01-30",
@@ -15291,9 +16040,6 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "None",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2026-04-16",
     "description": "Companies that market themselves as privacy-focused but refuse to accept Monero \u2014 the only truly private money.",
     "added": "2026-04-16",
@@ -15359,8 +16105,7 @@
     "javascript": "Required",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2026-06-03",
     "description": "Non-custodial interface to swap in and out of Monero. No account, no KYC, no logs \u2014 funds are never held. Open-source frontend with a published canary and TOR service.",
@@ -15457,8 +16202,7 @@
     "status": "Admitted",
     "javascript": "Required",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "country": "AT",
     "founded": "2025-10-25",
@@ -15491,9 +16235,6 @@
     "categoryUrl": "https://monerica.com/wallets/mobile-wallets",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2017-11-09",
     "description": "Monerujo is a free, open-source Android wallet for Monero (XMR) with street mode, custom and public node scanning, built-in swaps and Ledger hardware wallet support.",
     "rating": {
@@ -15546,9 +16287,6 @@
     "subcategory": "Mobile Wallets",
     "categoryUrl": "https://monerica.com/wallets/mobile-wallets",
     "status": "Verified",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2026-01-01",
     "description": "Monfluo is an open-source Android wallet for Monero (XMR), forked from Mysu and Monerujo, with coin control, seed passphrases and its own F-Droid repository.",
     "rating": {
@@ -15588,6 +16326,9 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "None",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -15595,7 +16336,7 @@
     "founded": "2026-08-07",
     "description": "Monero (XMR) scratchcard casino available only over Tor, with no accounts and no JavaScript required, and a stated payback of 90% or more.",
     "added": "2026-08-07",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "monkstash": {
     "name": "MonkStash",
@@ -15622,11 +16363,21 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SD",
+        "SY",
+        "UA"
+      ]
+    },
     "country": "LT",
     "founded": "2012-04-17",
     "description": "Hosting provider offering Windows and Linux VPS, Forex VPS, RDP, dedicated servers, domains, web hosting and business email in 25+ locations.",
     "added": "2022-11-08",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "monstadomains": {
     "name": "MonstaDomains",
@@ -15694,8 +16445,7 @@
     "javascript": "None",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2026-10-18",
     "description": "An open-source atomic-swap client for ETH and XMR / XMR to ETH, traded peer to peer from your own machine over Tor.",
@@ -15716,7 +16466,6 @@
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "Open Source",
       "Owns Physical Servers"
     ],
     "country": "UA",
@@ -15774,8 +16523,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "tags": [
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "country": "SE",
     "founded": "2009-03-01",
@@ -15918,6 +16666,37 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BD",
+        "BH",
+        "BO",
+        "BY",
+        "CN",
+        "CU",
+        "DZ",
+        "EC",
+        "EG",
+        "GB",
+        "IQ",
+        "IR",
+        "IS",
+        "KG",
+        "KP",
+        "MA",
+        "MK",
+        "NA",
+        "NP",
+        "PK",
+        "QA",
+        "RU",
+        "SA",
+        "SY",
+        "US",
+        "VE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available"
@@ -15926,7 +16705,7 @@
     "founded": "2018-01-26",
     "description": "Non-custodial instant crypto swap service for BTC, ETH, LTC, SOL, USDT and Monero (XMR), with an API, white-label exchange and affiliate program.",
     "added": "2026-05-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "nadanada": {
     "name": "nadanada",
@@ -16017,6 +16796,23 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AS",
+        "BD",
+        "BO",
+        "CU",
+        "GU",
+        "IR",
+        "KP",
+        "MP",
+        "PR",
+        "SD",
+        "SY",
+        "US",
+        "VI"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -16027,7 +16823,7 @@
     "founded": "2021-12-13",
     "description": "Instant crypto exchange focused on Nano (XNO), Banano and DogeNano, with swaps to and from Monero (XMR), BTC, ETH and USDT. Also sells gift cards payable in Monero.",
     "added": "2025-09-21",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "natural-ether": {
     "name": "Natural Ether",
@@ -16038,11 +16834,14 @@
     "subcategory": "Medical/ Natural Treatments",
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "US",
     "founded": "2011-11-23",
     "description": "Online store selling entheogens and botanical products from around the world, including San Pedro cactus cuttings, kratom, medicinal herbs, seeds, snuff and incense.",
     "added": "2022-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "navi-land": {
     "name": "Navi Land",
@@ -16385,7 +17184,6 @@
     "javascript": "Optional",
     "tags": [
       "DMCA Ignored",
-      "Open Source",
       "Owns Physical Servers",
       "Sells Tor Exit Hosting"
     ],
@@ -16396,7 +17194,7 @@
       "reviews": 5
     },
     "added": "2026-04-13",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "nodebooth": {
     "name": "NodeBooth",
@@ -16710,6 +17508,16 @@
     "liquidity": "Third Party",
     "rates": "Fixed",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CU",
+        "IR",
+        "KP",
+        "RU",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required",
@@ -16718,7 +17526,7 @@
     "founded": "2026-10-26",
     "description": "Instant fixed-rate exchange to buy or sell XMR without an account. The quoted amount is what you receive, fees included. Optional refund address and PGP-signed guarantee.",
     "added": "2026-10-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "nullcart": {
     "name": "NullCart",
@@ -16739,8 +17547,7 @@
     "javascript": "None",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "country": "ZW",
     "founded": "2026-08-29",
@@ -16810,10 +17617,13 @@
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "founded": "2014-07-07",
     "description": "Adult video game platform offering free and paid hentai and adult games for PC, Android and iOS, playable online or as downloads, with an 18+ age requirement.",
     "added": "2025-03-31",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "nym-vpn": {
     "name": "NYM VPN",
@@ -16876,14 +17686,13 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "tags": [
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2023-09-27",
     "description": "VPN service with a two-party relay design, no email needed, and apps for iOS, macOS, Android, Windows and Linux plus WireGuard configs.",
     "added": "2025-11-03",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "obscurify-ai": {
     "name": "Obscurify.ai",
@@ -16952,6 +17761,27 @@
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BY",
+        "CD",
+        "CF",
+        "CU",
+        "IR",
+        "KP",
+        "LY",
+        "MM",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "VE",
+        "YE",
+        "ZW"
+      ]
+    },
     "founded": "2026-04-17",
     "description": "Create a Visa card with Apple Pay and Google Pay support, ATM withdrawals, and the ability to send funds directly to your ACH bank account \u2014 all without KYC.",
     "rating": {
@@ -16959,7 +17789,7 @@
       "reviews": 6
     },
     "added": "2026-09-15",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "okspot": {
     "name": "OKSPOT",
@@ -17043,8 +17873,7 @@
     "status": "Admitted",
     "javascript": "Optional",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "founded": "2007-10-09",
     "description": "Open-source Omarchy bar widget with XMR/USD candlestick charts, node health, receive QR codes and optional watch-only wallet, XMRig and P2Pool monitoring.",
@@ -17092,12 +17921,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Currently available Monero blockchain explorers have several limitations which are of special importance to privacy-oriented users.",
     "added": "2025-09-08",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "onionswap": {
     "name": "OnionSwap",
@@ -17192,6 +18018,11 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -17200,7 +18031,7 @@
     "founded": "2024-12-09",
     "description": "Instant crypto swap aggregator, now branded MoneroDEX, that lets users compare exchanges and trade directly with them at fixed or floating rates and a swap guarantee.",
     "added": "2025-08-23",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "opaquedb": {
     "name": "OpaqueDB",
@@ -17212,14 +18043,11 @@
     "categoryUrl": "https://monerica.com/non-profits/security",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Open Source"
-    ],
     "country": "NL",
     "founded": "2026-06-29",
     "description": "A fully open-source, post-quantum distributed private database that lets you run SQL queries over encrypted data without revealing either the data or the query itself.",
     "added": "2026-07-01",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "open-cryptopay": {
     "name": "Open CryptoPay",
@@ -17376,8 +18204,7 @@
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2026-08-20",
     "description": "Spin up your own Monero Shop with 1 click today. Share your QR code to let others find your shop. Sell goods, process orders and receive Monero.",
@@ -17537,8 +18364,7 @@
     "status": "Verified",
     "javascript": "Optional",
     "tags": [
-      "API Available",
-      "Open Source"
+      "API Available"
     ],
     "founded": "2020-12-21",
     "description": "A privacy-focused offline maps & GPS app for hiking, cycling, biking, and driving. Absolutely free. No ads. No tracking.",
@@ -17576,6 +18402,24 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AT",
+        "CN",
+        "CU",
+        "DE",
+        "ES",
+        "FR",
+        "IR",
+        "IT",
+        "KP",
+        "NL",
+        "PT",
+        "SD",
+        "SG",
+        "US"
+      ]
+    },
     "tags": [
       "Affiliate Program"
     ],
@@ -17583,7 +18427,7 @@
     "founded": "2024-01-01",
     "description": "Centralized exchange for spot and futures trading of 800+ crypto assets plus tokenized stocks, ETFs, commodities and forex, with a Monero XMR/USDT spot pair.",
     "added": "2025-08-06",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "ovd-info": {
     "name": "OVD.info",
@@ -17689,6 +18533,9 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required"
     ],
@@ -17696,7 +18543,7 @@
     "founded": "2026-03-01",
     "description": "Research-grade peptides for Australian researchers. COA-verified products including BPC-157, GHK-Cu, MOTS-C and Retatrutide. Express Post shipping.",
     "added": "2026-05-02",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "p-a-z-nia-radio-network": {
     "name": "P.A.Z.NIA Radio Network",
@@ -17811,12 +18658,9 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "A lightweight, fully self-hosted Point-of-Sale (POS) backend and embeddable checkout widget for accepting Monero (XMR) payments.",
     "added": "2026-03-19",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "paid-monero-nostr-relays": {
     "name": "Paid Monero Nostr Relays",
@@ -17866,8 +18710,7 @@
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "country": "GB",
     "founded": "2026-03-08",
@@ -17901,9 +18744,6 @@
     "categoryUrl": "https://monerica.com/non-profits/operating-systems",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2013-12-09",
     "description": "Debian-based GNU/Linux distribution with a focus on security, privacy, and development.",
     "added": "2026-09-01",
@@ -18114,7 +18954,7 @@
     "description": "A modern platform for instant and anonymous cryptocurrency exchange. Supports more than 1000 different coins.",
     "rating": {
       "average": 5,
-      "reviews": 1
+      "reviews": 2
     },
     "added": "2025-01-22",
     "updated": "2026-11-12"
@@ -18129,6 +18969,9 @@
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required"
     ],
@@ -18136,7 +18979,7 @@
     "founded": "1996-03-10",
     "description": "Premium Peptides for Advanced Research Lab-tested, HPLC-verified peptides with 99%+ purity.",
     "added": "2026-03-27",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "phantom-ai": {
     "name": "Phantom AI",
@@ -18351,12 +19194,9 @@
     "categoryUrl": "https://monerica.com/nodes/node-software-and-deployment",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Free open-source tool suite for running a full or pruned Monero (XMR) node on Raspberry Pi and other ARM64 hardware, with web interface, Tor/I2P and block explorer.",
     "added": "2025-07-14",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "pionex": {
     "name": "Pionex",
@@ -18370,6 +19210,26 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BY",
+        "CA",
+        "CN",
+        "CU",
+        "ES",
+        "FR",
+        "GB",
+        "HK",
+        "IR",
+        "KP",
+        "NL",
+        "RU",
+        "SG",
+        "SY",
+        "US"
+      ]
+    },
     "tags": [
       "API Available"
     ],
@@ -18377,7 +19237,7 @@
     "founded": "2019-02-09",
     "description": "Crypto exchange known for built-in trading bots, listing Monero spot pairs XMR/USDT, XMR/BTC and XMR/ETH plus XMR leveraged tokens (XMR3L, XMR3S, XMR1S).",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "piped": {
     "name": "Piped",
@@ -18409,10 +19269,13 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Admitted",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "founded": "2026-10-25",
     "description": "Player-versus-player games including coin flip, dice, chess, hold'em, liar's dice, mines and battleship. Players stake against each other, not the house.",
     "added": "2026-11-02",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "plaintext": {
     "name": "Plaintext",
@@ -18481,6 +19344,42 @@
     "liquidity": "Third Party",
     "rates": "Fixed",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BS",
+        "BW",
+        "CA",
+        "CU",
+        "ET",
+        "GH",
+        "GU",
+        "IQ",
+        "IR",
+        "KP",
+        "LK",
+        "LY",
+        "MM",
+        "MY",
+        "NG",
+        "NI",
+        "PA",
+        "PK",
+        "PR",
+        "SA",
+        "SD",
+        "SG",
+        "SO",
+        "SS",
+        "SY",
+        "TN",
+        "TT",
+        "US",
+        "VE",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program"
@@ -18489,7 +19388,7 @@
     "founded": "2017-12-13",
     "description": "Exchange crypto-to-crypto and crypto-to-fiat instantly. Best rates from trusted partners, no hidden fees, processing in minutes.",
     "added": "2025-12-08",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "platypuspay": {
     "name": "PlatypusPay",
@@ -18518,6 +19417,31 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "CD",
+        "CI",
+        "CN",
+        "CU",
+        "GB",
+        "HK",
+        "IQ",
+        "IR",
+        "KP",
+        "LY",
+        "ML",
+        "MM",
+        "PS",
+        "SD",
+        "SG",
+        "SO",
+        "SY",
+        "US",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "API Available",
       "Perpetuals"
@@ -18526,7 +19450,7 @@
     "founded": "2014-01-10",
     "description": "Centralized cryptocurrency exchange for trading Bitcoin, Ethereum, TRON, USDT and altcoins. Pairs listed: XMR perpetual, XMR/USDT, XMR/BTC and XMR/USDC.",
     "added": "2022-06-22",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "popbob-gg": {
     "name": "popbob.gg",
@@ -18551,10 +19475,13 @@
     "subcategory": "Pornography & Adult Products",
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Verified",
+    "restrictions": {
+      "other": "18+"
+    },
     "founded": "2008-09-29",
     "description": "Paid subscription to Pornhub Premium, an adult video streaming service with ad-free HD content.",
     "added": "2022-06-22",
-    "updated": "2026-11-10"
+    "updated": "2026-11-13"
   },
   "port-authority": {
     "name": "Port Authority",
@@ -18566,12 +19493,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Port Authority is a Firefox add-on that blocks websites from using JavaScript to port scan your computer or internal network and blocks LexisNexis tracking scripts.",
     "added": "2025-03-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "premimumize": {
     "name": "Premimumize",
@@ -18644,8 +19568,7 @@
     "status": "Admitted",
     "javascript": "Required",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "founded": "2026-01-23",
     "description": "Free web tool for reading paywalled news articles, built on Bypass Paywalls Clean rules, with links to Archive.today, Archive.org and Smry.ai as alternatives.",
@@ -18662,11 +19585,14 @@
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "US",
     "founded": "2014-12-26",
     "description": "Online medical marijuana card service in US states: same-day video visits with licensed physicians for cannabis recommendations.",
     "added": "2025-10-02",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "priamex": {
     "name": "Priamex",
@@ -18705,14 +19631,13 @@
     "categoryUrl": "https://monerica.com/non-profits/search-engines",
     "status": "Admitted",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "country": "SK",
     "founded": "2021-10-29",
     "description": "Open-source general purpose web search engine based in the EU with its own independent index, written in Rust, run on renewable energy and without user tracking.",
     "added": "2026-04-27",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "privacy-academy": {
     "name": "Privacy Academy",
@@ -18747,13 +19672,10 @@
     "categoryUrl": "https://monerica.com/non-profits/activism",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2019-04-04",
     "description": "A socially motivated website that provides information for protecting your data security and privacy.",
     "added": "2026-01-05",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "privacy-sexy": {
     "name": "Privacy Sexy",
@@ -19012,10 +19934,13 @@
     "categoryUrl": "https://monerica.com/businesses/pornography-and-adult-products",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "founded": "2022-10-16",
     "description": "AI platform for creating NSFW AI companion characters, with uncensored chat and AI-generated images and video in realistic, anime and fantasy styles.",
     "added": "2025-03-31",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "protagonist-exchange": {
     "name": "Protagonist Exchange",
@@ -19057,9 +19982,6 @@
     "categoryUrl": "https://monerica.com/non-profits/operating-systems",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2021-11-03",
     "description": "Minimal Android fork (custom ROM) focused on UI design and performance, with privacy features like microG support and sensor permissions. No longer maintained.",
     "added": "2025-08-10",
@@ -19196,6 +20118,31 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BY",
+        "CD",
+        "CF",
+        "CN",
+        "CU",
+        "IQ",
+        "IR",
+        "KP",
+        "LB",
+        "LY",
+        "MM",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "TW",
+        "VE",
+        "YE",
+        "ZW"
+      ]
+    },
     "founded": "2026-01-01",
     "description": "Spend Your Crypto. Privately. Fund your account with 100+ cryptocurrencies. Get a virtual card instantly. Pay anywhere\u2014online or in-store (Google Pay or Apple Pay).",
     "rating": {
@@ -19203,7 +20150,7 @@
       "reviews": 1
     },
     "added": "2026-05-30",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "psb-hosting": {
     "name": "Psb Hosting",
@@ -19417,11 +20364,19 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/sms-verification-and-virtual-numbers",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ]
+    },
     "country": "HK",
     "founded": "2019-02-03",
     "description": "Rent virtual phone number for SMS verification, or buy private numbers for long term usage.",
     "added": "2025-01-27",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "quantum-proxies": {
     "name": "Quantum Proxies",
@@ -19463,8 +20418,7 @@
     "status": "Verified",
     "javascript": "Optional",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "founded": "2010-03-30",
     "description": "Security-focused desktop operating system that aims to provide security through compartmentalization.",
@@ -19490,6 +20444,11 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -19504,7 +20463,7 @@
       "reviews": 7
     },
     "added": "2024-06-14",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "quiverflow-crm": {
     "name": "Quiverflow CRM",
@@ -19693,13 +20652,12 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "founded": "2025-03-31",
     "description": "Comprehensive universal, multilingual, and monolingual dictionaries\u2014perfect for e-readers, phones, tablets, and desktop apps. Powered by Wiktionary.",
     "added": "2026-01-27",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "reagent-tests-uk": {
     "name": "Reagent Tests UK",
@@ -19711,11 +20669,14 @@
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "country": "GB",
     "founded": "2015-02-06",
     "description": "UK online shop selling reagent drug test kits for MDMA, cocaine, ketamine and psychedelics, plus lab scales. Ships in plain packaging.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "real-mad-honey": {
     "name": "Real Mad Honey",
@@ -19748,6 +20709,23 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Third Party",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AS",
+        "BD",
+        "BO",
+        "CU",
+        "GU",
+        "IR",
+        "KP",
+        "MP",
+        "PR",
+        "SD",
+        "SY",
+        "US",
+        "VI"
+      ]
+    },
     "tags": [
       "Account Not Required"
     ],
@@ -19759,7 +20737,7 @@
       "reviews": 13
     },
     "added": "2025-09-14",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "red-mercury-vault": {
     "name": "Red Mercury Vault",
@@ -19817,12 +20795,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source Android gallery app built with Jetpack Compose for browsing and organizing photos and videos. Available on F-Droid, Google Play and GitHub.",
     "added": "2025-11-28",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "refuseless": {
     "name": "Refuseless",
@@ -19886,6 +20861,9 @@
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required"
     ],
@@ -19893,7 +20871,7 @@
     "founded": "2026-04-01",
     "description": "Australian-owned online store supplying research-grade lyophilized peptides to researchers and laboratories. Ships Australia-wide via Express Post.",
     "added": "2026-05-02",
-    "updated": "2026-11-10"
+    "updated": "2026-11-13"
   },
   "reticulum": {
     "name": "Reticulum",
@@ -19921,9 +20899,6 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "None",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2024-05-14",
     "description": "A peer-to-peer trading network you run yourself\u2014no website, no central service. Just software connecting you directly with others to trade.",
     "added": "2025-04-04",
@@ -20007,9 +20982,6 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Required",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2026-02-26",
     "description": "A complete stack for machine-to-machine finance. Desktop wallet, edge-deployed payment gateway, protocol middleware, and AI agent bridge \u2014 all powered by Monero.",
     "added": "2026-03-18",
@@ -20092,6 +21064,36 @@
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BY",
+        "CA",
+        "EH",
+        "GB",
+        "GU",
+        "IR",
+        "KP",
+        "KZ",
+        "LY",
+        "MM",
+        "MP",
+        "NI",
+        "PR",
+        "PS",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "TT",
+        "US",
+        "VE",
+        "VI",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required"
     ],
@@ -20099,7 +21101,7 @@
     "founded": "2024-01-01",
     "description": "Instant cryptocurrency exchange for swapping BTC, ETH, TON, Monero (XMR) and 50+ other coins at fixed or floating rates, with pairs like BTC to XMR and XMR to USDT.",
     "added": "2026-03-02",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "runeswap": {
     "name": "RuneSwap",
@@ -20278,8 +21280,7 @@
     "javascript": "Required",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2025-12-23",
     "description": "Independent non-custodial crypto swap directory. Routes users directly to verified on-chain liquidity providers with zero account registration.",
@@ -20348,9 +21349,6 @@
     "categoryUrl": "https://monerica.com/wallets/mobile-wallets",
     "status": "Admitted",
     "javascript": "None",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2024-04-20",
     "description": "Open-source mobile Monero (XMR) wallet for Android built on Rust (libsaketo) and Flutter. Still a work-in-progress project.",
     "added": "2026-06-29",
@@ -20501,6 +21499,11 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BF"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -20515,7 +21518,7 @@
       "reviews": 2
     },
     "added": "2024-08-11",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "selhorst-services-inc-cpa": {
     "name": "Selhorst Services Inc. - CPA",
@@ -20546,6 +21549,14 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -20553,7 +21564,7 @@
     "founded": "2025-06-20",
     "description": "Non-custodial instant swap exchange. Trade 2000+ assets wallet-to-wallet with no signup, no account and no KYC. Fixed or float rates.",
     "added": "2026-06-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "seneschal": {
     "name": "Seneschal",
@@ -20644,6 +21655,16 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "ER",
+        "IR",
+        "KP",
+        "RU",
+        "SD"
+      ]
+    },
     "tags": [
       "DMCA Ignored",
       "Owns Physical Servers",
@@ -20653,7 +21674,7 @@
     "founded": "2025-02-28",
     "description": "Hosting provider with VPS and dedicated servers in Amsterdam, Netherlands and Stockholm, Sweden, plus NVMe web hosting and LIR services (RIPE IPv4, IPv6).",
     "added": "2026-05-26",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "servers-guru": {
     "name": "Servers Guru",
@@ -20840,13 +21861,10 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "None",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2023-10-08",
     "description": "A zero-confirmation, javascript-optional, self-hosted monero-only superchat app for livestreams.",
     "added": "2023-10-08",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "shadowdesk-io": {
     "name": "Shadowdesk.io",
@@ -20860,6 +21878,20 @@
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CU",
+        "IR",
+        "KP",
+        "MM",
+        "SD",
+        "SS",
+        "SY",
+        "VE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available"
@@ -20868,7 +21900,7 @@
     "founded": "2026-03-02",
     "description": "Non-custodial swap aggregator routing assets through Monero (XMR) to enhance transaction privacy.",
     "added": "2026-05-02",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "shadowex": {
     "name": "ShadowEX",
@@ -20974,6 +22006,15 @@
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -20982,7 +22023,7 @@
     "founded": "2026-06-01",
     "description": "Non-custodial instant cryptocurrency swap supporting 900+ coins across 30+ blockchains. No accounts, no identity verification, no custody of funds.",
     "added": "2026-07-13",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "shkeeper": {
     "name": "shkeeper",
@@ -21144,12 +22185,9 @@
     "categoryUrl": "https://monerica.com/wallets/mobile-wallets",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Free open-source companion app for Monerujo that turns a spare offline phone into a DIY Bluetooth hardware wallet for signing Monero (XMR) transactions. On F-Droid and GitHub.",
     "added": "2025-07-11",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "silent-donor": {
     "name": "Silent Donor",
@@ -21200,6 +22238,28 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AS",
+        "BD",
+        "BO",
+        "CN",
+        "CU",
+        "GU",
+        "IR",
+        "KP",
+        "MM",
+        "MP",
+        "PR",
+        "SD",
+        "SO",
+        "SY",
+        "US",
+        "VI",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -21212,7 +22272,7 @@
       "reviews": 3
     },
     "added": "2023-10-01",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "silent-link": {
     "name": "Silent Link",
@@ -21340,6 +22400,14 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Fixed",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -21347,7 +22415,7 @@
     "founded": "2026-10-11",
     "description": "Self-custody web wallet with a beginner-friendly interface and built-in, bridge-free atomic swaps. No account required.",
     "added": "2026-11-07",
-    "updated": "2026-11-07"
+    "updated": "2026-11-13"
   },
   "silver-coconut": {
     "name": "Silver Coconut",
@@ -21410,6 +22478,72 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "AT",
+        "BE",
+        "BG",
+        "BI",
+        "CD",
+        "CF",
+        "CI",
+        "CN",
+        "CO",
+        "CU",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "EE",
+        "ER",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GN",
+        "GR",
+        "GU",
+        "GW",
+        "HR",
+        "HU",
+        "IE",
+        "IN",
+        "IQ",
+        "IR",
+        "IT",
+        "JP",
+        "KP",
+        "LR",
+        "LT",
+        "LU",
+        "LV",
+        "LY",
+        "ML",
+        "MM",
+        "MP",
+        "MT",
+        "NI",
+        "NL",
+        "PL",
+        "PR",
+        "PT",
+        "RO",
+        "SD",
+        "SE",
+        "SI",
+        "SK",
+        "SO",
+        "SS",
+        "SY",
+        "US",
+        "VE",
+        "VI",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -21424,7 +22558,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "simplex": {
     "name": "SimpleX",
@@ -21459,8 +22593,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2022-08-18",
     "description": "Fast Decentralized VPN, Browser Fingerprint Profiles, Affordable Degoogled Phones, and Cloud Services.",
@@ -21528,9 +22661,6 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "IT",
     "founded": "2026-01-20",
     "description": "A Wayland desktop environment built on labwc, with its own shell, a shared application framework, and a small family of first-party apps.",
@@ -21585,8 +22715,7 @@
     "status": "Verified",
     "javascript": "Optional",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "country": "US",
     "founded": "2025-11-24",
@@ -21703,12 +22832,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Free, open-source YouTube client for Android TV and set-top boxes with up to 8K playback, casting from phones and support for devices without Google services.",
     "added": "2025-01-23",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "smmkings": {
     "name": "SMMKings",
@@ -21817,6 +22943,15 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -21826,7 +22961,7 @@
     "founded": "2024-04-24",
     "description": "Instant cryptocurrency exchange for swapping Monero (XMR), BTC, ETH, USDT and 200+ other coins at fixed or floating rates, with no registration required.",
     "added": "2025-08-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "snowhaze": {
     "name": "SnowHaze",
@@ -21854,11 +22989,14 @@
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "21+"
+    },
     "country": "US",
     "founded": "2026-07-11",
     "description": "US online shop for lyophilized research peptides in sealed vials, for laboratory research use only. Third-party tested. Free US shipping.",
     "added": "2026-10-21",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "socialwick": {
     "name": "SocialWick",
@@ -21887,10 +23025,16 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps",
     "status": "Admitted",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "IR",
+        "MM"
+      ]
+    },
     "country": "CH",
     "description": "Dedicated servers, cloud hosting, VPS, DDoS protection, colocation, CDN, object storage s3, dedicated VPN, WordPress, Drupal, Joomla.",
     "added": "2025-09-05",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "solar-swap": {
     "name": "Solar Swap",
@@ -22122,11 +23266,23 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "CU",
+        "IQ",
+        "IR",
+        "KP",
+        "MM",
+        "SY"
+      ],
+      "other": "18+"
+    },
     "country": "CR",
     "founded": "2026-10-15",
     "description": "Licensed casino with 5,000+ games: slots, live casino, crash and instant games. No KYC for crypto players for standard play. Min deposit 10 EUR. 18+.",
     "added": "2026-10-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "spindipper": {
     "name": "Spindipper",
@@ -22190,6 +23346,31 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BY",
+        "CD",
+        "CF",
+        "CU",
+        "ER",
+        "GW",
+        "IQ",
+        "IR",
+        "KP",
+        "LB",
+        "LY",
+        "ML",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "UA",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "API Available"
     ],
@@ -22201,7 +23382,7 @@
       "reviews": 2
     },
     "added": "2025-11-23",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "sponsorblock": {
     "name": "SponsorBlock",
@@ -22215,13 +23396,12 @@
     "javascript": "Optional",
     "tags": [
       "API Available",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2018-06-23",
     "description": "A browser extension that allows you to skip in-video youtube sponsor segments, based on crowd-sourced data.",
     "added": "2024-12-30",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "spoof-caller-id": {
     "name": "Spoof Caller ID",
@@ -22309,6 +23489,14 @@
     "categoryUrl": "https://monerica.com/vpns/proxies",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ]
+    },
     "tags": [
       "Affiliate Program"
     ],
@@ -22316,7 +23504,7 @@
     "founded": "2023-08-19",
     "description": "Premium residential, budget residential, static residential, datacenter proxy, and LTE proxy",
     "added": "2025-12-03",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "sshwap": {
     "name": "sshwap",
@@ -22349,9 +23537,6 @@
     "categoryUrl": "https://monerica.com/wallets/mobile-wallets",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2014-02-09",
     "description": "Open-source, non-custodial multicoin wallet for Monero (XMR), Bitcoin, Firo, Litecoin and more on iOS, Android, F-Droid, Windows, macOS and Linux.",
     "added": "2023-04-19",
@@ -22398,12 +23583,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source GitHub project that packages the Monero (XMR) daemon, monerod, as a service for StartOS (formerly EmbassyOS), with build instructions.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "stasher-news": {
     "name": "Stasher News",
@@ -22415,13 +23597,10 @@
     "categoryUrl": "https://monerica.com/communities/forums",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2026-08-04",
     "description": "A forum similar to Reddit or Hacker News. Unlike on Reddit or Hacker News where you earn \"upvotes\" or \"karma\" where you earn Monero (XMR) for creating and curating content.",
     "added": "2026-09-07",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "stay-certified": {
     "name": "Stay Certified",
@@ -22482,6 +23661,12 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CA",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -22496,7 +23681,7 @@
       "reviews": 3
     },
     "added": "2023-09-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "stealths-net": {
     "name": "Stealths.NET",
@@ -22516,13 +23701,13 @@
     ],
     "country": "VG",
     "founded": "2023-08-10",
-    "description": "Prepaid cards (Visa & Mastercard), VCC, gift cards, rewarble, eSIM plans and virtual phone numbers. Strict no-KYC / no-identifiable data policy.",
+    "description": "Prepaid cards (Visa, AMEX & Mastercard), VCC, gift cards, rewarble, eSIM plans and virtual phone numbers. Strict no-KYC / no-identifiable data policy.",
     "rating": {
       "average": 5,
-      "reviews": 4
+      "reviews": 5
     },
     "added": "2023-08-23",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "stereoswap": {
     "name": "StereoSwap",
@@ -22727,6 +23912,14 @@
     "liquidity": "Third Party",
     "rates": "Fixed",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -22735,7 +23928,7 @@
     "founded": "2023-05-15",
     "description": "Non-custodial, no-KYC instant swap Specializing in Monero. Fixed-rate, no slippage during the swap. No account required.",
     "added": "2026-06-14",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "supportxmr": {
     "name": "SupportXMR",
@@ -22864,6 +24057,29 @@
     "added": "2025-08-20",
     "updated": "2026-11-12"
   },
+  "swaplume": {
+    "name": "Swaplume",
+    "slug": "swaplume",
+    "profileUrl": "https://monerica.com/site/swaplume",
+    "website": "https://swaplume.com",
+    "category": "Exchanges",
+    "subcategory": "Aggregators",
+    "categoryUrl": "https://monerica.com/exchanges/aggregators",
+    "status": "Admitted",
+    "kycPolicy": "Varies By Provider",
+    "liquidity": "Third Party",
+    "rates": "Fixed & Float",
+    "javascript": "Required",
+    "tags": [
+      "Account Not Required",
+      "API Available",
+      "Email Not Required"
+    ],
+    "founded": "2026-11-03",
+    "description": "Aggregator compares live offers from 9 instant exchanges by amount received after fees. Not an exchange; no account, no wallet connection, never holds funds. KYC varies by pro",
+    "added": "2026-11-13",
+    "updated": "2026-11-13"
+  },
   "swapmonero": {
     "name": "SwapMonero",
     "slug": "swapmonero",
@@ -22944,6 +24160,11 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -22953,7 +24174,7 @@
     "founded": "2026-02-12",
     "description": "Non-custodial instant swap between XMR and USDC (Arbitrum). No account, no KYC. Available via web, Telegram bot, and API.",
     "added": "2026-02-15",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "swappix": {
     "name": "Swappix",
@@ -22968,6 +24189,27 @@
     "liquidity": "Third Party",
     "rates": "Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AS",
+        "CD",
+        "CU",
+        "GU",
+        "IQ",
+        "IR",
+        "JP",
+        "KP",
+        "KR",
+        "MP",
+        "PR",
+        "SD",
+        "SS",
+        "SY",
+        "US",
+        "VI",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -22976,7 +24218,7 @@
     "founded": "2023-05-02",
     "description": "Instant cryptocurrency exchange with 570+ coins including Monero (XMR). Fixed or floating rates, no registration, with swaps typically completed in 5-15 minutes.",
     "added": "2024-09-13",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "swapraven": {
     "name": "SwapRaven",
@@ -23057,6 +24299,55 @@
     "status": "Verified",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BD",
+        "BI",
+        "BO",
+        "BY",
+        "CA",
+        "CD",
+        "CF",
+        "CI",
+        "CN",
+        "CU",
+        "DE",
+        "ER",
+        "ET",
+        "GB",
+        "GN",
+        "GU",
+        "GW",
+        "HT",
+        "IQ",
+        "IR",
+        "KP",
+        "LB",
+        "LR",
+        "LY",
+        "MD",
+        "ME",
+        "ML",
+        "MM",
+        "MP",
+        "NI",
+        "PR",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "TN",
+        "TR",
+        "US",
+        "VE",
+        "VI",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -23069,7 +24360,7 @@
       "reviews": 2
     },
     "added": "2024-09-16",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "swapsphera": {
     "name": "SwapSphera",
@@ -23083,11 +24374,28 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AS",
+        "BD",
+        "BO",
+        "CU",
+        "GU",
+        "IR",
+        "KP",
+        "MP",
+        "PR",
+        "SD",
+        "SY",
+        "US",
+        "VI"
+      ]
+    },
     "country": "CZ",
     "founded": "2024-07-02",
     "description": "Simplifies the exchange process, providing the best rates for over 2250 cryptocurrencies and tokens.",
     "added": "2024-11-08",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "swapss": {
     "name": "SwapSS",
@@ -23102,6 +24410,14 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CA",
+        "GB",
+        "JP",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -23112,7 +24428,7 @@
     "founded": "2025-04-16",
     "description": "Instant cryptocurrency exchange with float and fixed rates for swapping Monero (XMR), Bitcoin, USDT, ETH and LTC across 115 pairs, plus SwapSS Pay, an API and free tools.",
     "added": "2026-07-13",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "swapswop": {
     "name": "SwapSwop",
@@ -23194,6 +24510,45 @@
     "liquidity": "Own",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AT",
+        "BO",
+        "CA",
+        "CG",
+        "CI",
+        "CN",
+        "CU",
+        "DE",
+        "ER",
+        "ES",
+        "FR",
+        "GB",
+        "HK",
+        "ID",
+        "IN",
+        "IQ",
+        "IR",
+        "JP",
+        "KP",
+        "LR",
+        "LY",
+        "ML",
+        "MM",
+        "MT",
+        "MY",
+        "NL",
+        "SD",
+        "SG",
+        "SO",
+        "SY",
+        "US",
+        "UZ",
+        "VE",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -23208,7 +24563,7 @@
       "reviews": 5
     },
     "added": "2024-09-16",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "swapzilla": {
     "name": "Swapzilla",
@@ -23222,6 +24577,14 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -23229,7 +24592,7 @@
     "founded": "1993-04-02",
     "description": "Crypto swap aggregator that compares rates across multiple exchangers instantly. Enter the amount, see the best rate, and swap directly from your wallet. No registration.",
     "added": "2026-04-16",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "swapzone": {
     "name": "Swapzone",
@@ -23243,6 +24606,41 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BD",
+        "BI",
+        "BO",
+        "CG",
+        "CM",
+        "CN",
+        "DZ",
+        "EG",
+        "ET",
+        "GA",
+        "GH",
+        "IQ",
+        "IR",
+        "KP",
+        "KW",
+        "LS",
+        "LY",
+        "MA",
+        "MK",
+        "MM",
+        "NP",
+        "QA",
+        "RU",
+        "SD",
+        "SL",
+        "SO",
+        "SS",
+        "TD",
+        "TN",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -23257,7 +24655,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "swissbullion": {
     "name": "SwissBullion",
@@ -23405,9 +24803,6 @@
     "categoryUrl": "https://monerica.com/non-profits/individuals",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2022-06-27",
     "description": "Official website of Tech1k, a developer of many open-source privacy-focused programs.",
     "added": "2025-05-01",
@@ -23636,13 +25031,16 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Email Not Required"
     ],
     "founded": "2026-11-03",
     "description": "A private Monero blackjack table. Practice with a free virtual bankroll or join the XMR table.",
     "added": "2026-11-04",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "the-onion-host": {
     "name": "The Onion Host",
@@ -23735,8 +25133,7 @@
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "country": "US",
     "founded": "2008-09-12",
@@ -23821,9 +25218,6 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "DE",
     "founded": "2016-03-11",
     "description": "Hosts different frontend services such as SearXNG, Invidious, Wikiless and many more.",
@@ -23844,12 +25238,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source, noncustodial livestream tipping service for Monero (XMR) that lets streamers receive XMR tips from viewers. Self-hostable code on GitHub.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "tixati": {
     "name": "Tixati",
@@ -23930,14 +25321,11 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "US",
     "founded": "2006-10-17",
     "description": "Nonprofit behind Tor Browser and the Tor network, which relays traffic through volunteer servers to block trackers, resist fingerprinting and get around censorship.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "torbox": {
     "name": "Torbox",
@@ -24105,6 +25493,38 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BY",
+        "CD",
+        "CF",
+        "CN",
+        "CU",
+        "ER",
+        "ET",
+        "GW",
+        "HK",
+        "HT",
+        "IQ",
+        "IR",
+        "KP",
+        "LB",
+        "LY",
+        "ML",
+        "MM",
+        "NI",
+        "RU",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "US",
+        "VE",
+        "YE",
+        "ZW"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -24119,7 +25539,7 @@
       "reviews": 11
     },
     "added": "2022-11-01",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "trevoid-crypto-swaps": {
     "name": "Tr\u00eavoid Crypto Swaps",
@@ -24174,11 +25594,19 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ]
+    },
     "country": "US",
     "founded": "2023-05-01",
     "description": "A reliable platform for crypto and fiat transactions \u2014 manage your assets, make payments, and access loans in one place.",
     "added": "2025-12-17",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "ulmo-online": {
     "name": "Ulmo.online",
@@ -24551,11 +25979,14 @@
     "subcategory": "Medical/ Natural Treatments",
     "categoryUrl": "https://monerica.com/businesses/medical-natural-treatments",
     "status": "Admitted",
+    "restrictions": {
+      "other": "21+"
+    },
     "country": "US",
     "founded": "2018-07-22",
     "description": "Medical cannabis dispensary with locations in Edinburg, McAllen and Mission in Texas's Rio Grande Valley, selling THC flower, pre-rolls, edibles, beverages and kava.",
     "added": "2025-07-24",
-    "updated": "2026-10-30"
+    "updated": "2026-11-13"
   },
   "valravn-crafts": {
     "name": "Valravn Crafts",
@@ -24567,6 +25998,9 @@
     "categoryUrl": "https://monerica.com/businesses/tobacco-products-and-accessories",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required"
     ],
@@ -24574,7 +26008,7 @@
     "founded": "2024-05-25",
     "description": "Czech online store of handcrafted hookahs and accessories, including hookah stems, bowls, ceramic ware, mouthpieces, keychains and charcoal.",
     "added": "2026-06-10",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "van-eckert-strafrecht-and-steuerrecht": {
     "name": "van Eckert | Strafrecht & Steuerrecht",
@@ -24782,11 +26216,18 @@
     "categoryUrl": "https://monerica.com/web-hosting/vps",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "IR",
+        "RU"
+      ]
+    },
     "country": "UA",
     "founded": "2017-01-01",
     "description": "Hosting provider in Kyiv, Ukraine offering SSD and NVMe KVM VPS, Linux and Windows VPS, and dedicated servers.",
     "added": "2024-07-01",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "virtualsim-net": {
     "name": "Virtualsim.net",
@@ -24846,6 +26287,13 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP"
+      ]
+    },
     "tags": [
       "Affiliate Program",
       "API Available"
@@ -24853,7 +26301,7 @@
     "founded": "2025-12-01",
     "description": "Real 4G/5G mobile proxies, carrier-based SMS verifications and global eSIMs unified into one privacy-focused platform.",
     "added": "2026-06-09",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "vormweb-search-engine": {
     "name": "VormWeb - Search Engine",
@@ -25067,6 +26515,13 @@
     "liquidity": "Third Party",
     "rates": "Float",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -25079,7 +26534,7 @@
       "reviews": 11
     },
     "added": "2025-12-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "walls-rip": {
     "name": "walls.rip",
@@ -25291,6 +26746,11 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "tags": [
       "API Available"
     ],
@@ -25298,7 +26758,7 @@
     "founded": "2008-09-09",
     "description": "Centralized cryptocurrency exchange with spot trading that includes an XMR/USDT pair for buying and selling Monero (XMR) against the USDT stablecoin.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "whonix": {
     "name": "Whonix",
@@ -25318,8 +26778,7 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "tags": [
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2013-06-14",
     "description": "Anonymity focused operating system specifically designed for advanced security and privacy.",
@@ -25544,6 +27003,14 @@
     "liquidity": "Own",
     "rates": "Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "IR",
+        "KP",
+        "RU"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -25559,7 +27026,7 @@
       "reviews": 4
     },
     "added": "2024-10-09",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "xcubicle": {
     "name": "xCubicle",
@@ -25634,6 +27101,32 @@
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "AS",
+        "BY",
+        "CA",
+        "CU",
+        "EH",
+        "GU",
+        "IR",
+        "KP",
+        "LY",
+        "MP",
+        "NL",
+        "PK",
+        "PR",
+        "PS",
+        "RU",
+        "SD",
+        "SO",
+        "SY",
+        "US",
+        "VI",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -25648,7 +27141,7 @@
       "reviews": 4
     },
     "added": "2024-12-04",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xhosts-uk": {
     "name": "XHosts UK",
@@ -25750,10 +27243,13 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Admitted",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "founded": "2025-06-20",
     "description": "Online crypto jackpot game with provably fair live draws. Deposit Monero (XMR) for diamonds to buy tickets. Sign up with email and a nickname.",
     "added": "2025-12-02",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xmr-donate": {
     "name": "XMR Donate",
@@ -25882,6 +27378,9 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -25889,7 +27388,7 @@
     "founded": "2026-05-21",
     "description": "No KYC. No bullshit. No accounts. Drop the ball, win Monero. Provably fair Plinko you can verify yourself, so bring your own wallet and send it.",
     "added": "2026-05-24",
-    "updated": "2026-06-23"
+    "updated": "2026-11-13"
   },
   "xmr-stagenet-faucet": {
     "name": "XMR Stagenet Faucet",
@@ -25926,12 +27425,9 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "Open-source CLI for trustless Bitcoin-to-Monero (BTC to XMR) atomic swaps by COMIT. Now archived and unmaintained; development continues in the eigenwallet fork.",
     "added": "2023-09-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xmr-trade": {
     "name": "XMR Trade",
@@ -26013,10 +27509,13 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
+    "restrictions": {
+      "other": "18+"
+    },
     "founded": "2024-12-15",
     "description": "Play dices using Monero. Privacy-respecting, registration-free and provably fair.",
     "added": "2025-03-02",
-    "updated": "2026-06-23"
+    "updated": "2026-11-13"
   },
   "xmr-bio": {
     "name": "xmr.bio",
@@ -26100,8 +27599,7 @@
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "founded": "2026-10-19",
     "description": "Free browser-based Monero tools: payment links and QR codes, payment proof checks, transaction tracking, current fees, restore height, node checks and unit conversion.",
@@ -26199,13 +27697,13 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Admitted",
     "javascript": "None",
-    "tags": [
-      "Open Source"
-    ],
+    "restrictions": {
+      "other": "18+"
+    },
     "founded": "2021-02-05",
     "description": "Theoretically anonymous poker tables that exclusively use Monero. No limit Texas Hold 'Em You can choose from one of the set stakes or rent a private server. Low rakes of 1%",
     "added": "2023-11-15",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "xmr-pw": {
     "name": "XMR.pw",
@@ -26247,6 +27745,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "javascript": "Optional",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -26254,7 +27755,7 @@
     "founded": "2026-10-20",
     "description": "XMR.sarl is a privacy-first betting site that runs entirely on Monero (XMR). You don't register with an email or username he site generates a random accounts.",
     "added": "2026-10-23",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "xmr-tx-taxi": {
     "name": "xmr.tx.taxi",
@@ -26282,6 +27783,9 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Affiliate Program",
       "API Available",
@@ -26290,7 +27794,7 @@
     "founded": "2026-05-30",
     "description": "Prediction market for trading YES/NO shares on real-world events with Monero (XMR). No email needed to sign up; a REST API and MCP server let AI agents and bots trade.",
     "added": "2026-05-30",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "xmr2cex": {
     "name": "xmr2cex",
@@ -26338,13 +27842,10 @@
     "categoryUrl": "https://monerica.com/non-profits/miscellaneous",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2026-03-01",
     "description": "Open standard for Monero (XMR) internet payments based on HTTP 402, letting AI agents, APIs and relays pay per request with no accounts and no protocol fees.",
     "added": "2026-03-04",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xmradar": {
     "name": "XMRadar",
@@ -26357,8 +27858,7 @@
     "status": "Admitted",
     "javascript": "Optional",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "founded": "2026-10-29",
     "description": "Free, open-source Chrome/Firefox extension: tip Monero on X from your own wallet, verify swap receipts and letters of guarantee before depositing, and copy posts to Nostr.",
@@ -26400,9 +27900,6 @@
     "categoryUrl": "https://monerica.com/utilities/blockchain-explorers",
     "status": "Admitted",
     "javascript": "None",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2016-09-22",
     "description": "Open-source Monero (XMR) blockchain explorer with no JavaScript, cookies or trackers. Look up blocks, transactions and the mempool; testnet and stagenet explorers linked.",
     "added": "2022-06-22",
@@ -26440,7 +27937,6 @@
     "status": "Verified",
     "javascript": "Optional",
     "tags": [
-      "Open Source",
       "Sells Sponsorship"
     ],
     "founded": "2024-02-07",
@@ -26457,13 +27953,10 @@
     "subcategory": "Open Source Projects",
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Verified",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2025-11-25",
     "description": "A professional, zero-knowledge Monero Point of Sale system built with a Cypherpunk Industrial aesthetic. Your browser is your bank.",
     "added": "2025-12-21",
-    "updated": "2026-02-16"
+    "updated": "2026-11-13"
   },
   "xmrhub": {
     "name": "XMRHub",
@@ -26495,12 +27988,9 @@
     "categoryUrl": "https://monerica.com/mining/software",
     "status": "Verified",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "High-performance, open source CPU/GPU miner for RandomX, KawPow, CryptoNight, AstroBWT & GhostRider. Official builds for Windows, Linux, macOS & FreeBSD.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xmrig-for-android": {
     "name": "XMRig for Android",
@@ -26526,9 +28016,6 @@
     "categoryUrl": "https://monerica.com/mining/software",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2016-09-15",
     "description": "Extremely high-performance CryptoNote stratum protocol proxy. Works with any pool and any miner with nicehash support.",
     "added": "2022-06-22",
@@ -26550,6 +28037,9 @@
     "categoryUrl": "https://monerica.com/businesses/gambling",
     "status": "Admitted",
     "kycPolicy": "Not Stated",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -26557,7 +28047,7 @@
     "founded": "2026-11-12",
     "description": "Online arcade with scratch tickets and a fortune wheel played with prepaid credits, plus instant cash-out of any balance. A prize-pool lottery game is coming soon.",
     "added": "2026-11-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xmrmatters": {
     "name": "XMRMatters",
@@ -26604,8 +28094,7 @@
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required",
-      "Open Source"
+      "Email Not Required"
     ],
     "country": "EC",
     "founded": "2026-06-01",
@@ -26699,12 +28188,9 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "A simple, easily deployable, lightweight Monero payment processor that connects to your own Monero node.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xmrscan": {
     "name": "Xmrscan",
@@ -26798,13 +28284,10 @@
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "country": "US",
     "description": "Self-hosted, open-source Monero (XMR) payment gateway for web stores. Runs in Docker, uses view-only wallets and an HTTP API to create invoices and send payment callbacks.",
     "added": "2023-10-16",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xpl-ex": {
     "name": "XPL-EX",
@@ -26816,12 +28299,9 @@
     "categoryUrl": "https://monerica.com/non-profits/technologies",
     "status": "Admitted",
     "javascript": "Optional",
-    "tags": [
-      "Open Source"
-    ],
     "description": "XPL-EX (XPrivacyLua EX) is an open-source Xposed privacy manager for Android 6+ that spoofs device identifiers and feeds apps fake data to block tracking and fingerprinting.",
     "added": "2026-01-25",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xray-core": {
     "name": "Xray Core",
@@ -26849,11 +28329,16 @@
     "kycPolicy": "Mandatory KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "country": "SG",
     "founded": "2018-01-01",
     "description": "Centralized cryptocurrency exchange offering spot, margin and futures trading, P2P, copy trading and earn products, with an XMR/USDT Monero spot market.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "xvpnc": {
     "name": "XVPNc",
@@ -26918,6 +28403,14 @@
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "GB",
+        "IN",
+        "RU",
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -26928,7 +28421,7 @@
     "founded": "2023-06-17",
     "description": "Exchange xmr and receive funds from legal exchange, fast swaps, loyalty programm (more swaps lower fees) in aml trigger return to the sender's address",
     "added": "2026-09-09",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "yewtu-be": {
     "name": "Yewtu.be",
@@ -26956,6 +28449,17 @@
     "kycPolicy": "Varies By Provider",
     "liquidity": "Varies By Provider",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "CN",
+        "CU",
+        "DZ",
+        "IR",
+        "KP",
+        "SY",
+        "US"
+      ]
+    },
     "tags": [
       "API Available"
     ],
@@ -26967,7 +28471,7 @@
       "reviews": 1
     },
     "added": "2026-03-26",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "yourcryptopal": {
     "name": "Yourcryptopal",
@@ -26981,10 +28485,19 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CU",
+        "KP",
+        "RU",
+        "US"
+      ]
+    },
     "founded": "2024-06-11",
     "description": "Crypto top-up and swap service: deposit euros via PayPal or Monero (XMR), swap between six currencies including XMR, LTC and USDT, and withdraw to your own wallet.",
     "added": "2025-12-30",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "yt-dlp-online": {
     "name": "YT-DLP online",
@@ -27012,6 +28525,11 @@
     "status": "Admitted",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "US"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "API Available",
@@ -27020,7 +28538,7 @@
     "founded": "2024-11-11",
     "description": "Non-custodial instant crypto swaps with no traditional KYC and no signup \u2014 swap the privacy coin Zano (ZANO) and other assets directly from your own wallet.",
     "added": "2026-06-05",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "zaperia": {
     "name": "Zaperia",
@@ -27067,8 +28585,7 @@
     "status": "Admitted",
     "javascript": "Optional",
     "tags": [
-      "Account Not Required",
-      "Open Source"
+      "Account Not Required"
     ],
     "founded": "2025-11-06",
     "description": "End-to-end encrypted messenger that runs entirely over Tor. Messages travel directly between devices. Nothing in the middle to hack, subpoena, or shut down.",
@@ -27099,13 +28616,10 @@
     "categoryUrl": "https://monerica.com/utilities/open-source-projects",
     "status": "Admitted",
     "javascript": "None",
-    "tags": [
-      "Open Source"
-    ],
     "founded": "2025-12-31",
     "description": "The first trustless, permissionless wrapped Monero. Verify real XMR transactions on-chain without revealing your secrets.",
     "added": "2026-01-10",
-    "updated": "2026-11-09"
+    "updated": "2026-11-13"
   },
   "zerokyc-pay": {
     "name": "ZeroKYC Pay",
@@ -27139,6 +28653,30 @@
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BD",
+        "BO",
+        "CD",
+        "CF",
+        "CU",
+        "ER",
+        "GW",
+        "IQ",
+        "IR",
+        "KP",
+        "LB",
+        "LY",
+        "ML",
+        "SD",
+        "SO",
+        "SS",
+        "SY",
+        "US",
+        "YE"
+      ]
+    },
     "tags": [
       "Account Not Required",
       "Email Not Required"
@@ -27146,7 +28684,7 @@
     "founded": "2026-05-09",
     "description": "Swap Monero (XMR) and 1,000+ cryptocurrencies with live fixed or floating rates, no account required, and direct wallet-to-wallet delivery.",
     "added": "2026-07-25",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "zeto": {
     "name": "ZETO",
@@ -27220,7 +28758,6 @@
     "tags": [
       "Account Not Required",
       "Email Not Required",
-      "Open Source",
       "Owns Physical Servers"
     ],
     "country": "GE",

@@ -1,13 +1,73 @@
 {
-  "generated": "2026-11-13T07:12:02Z",
-  "total": 1440,
+  "generated": "2026-11-13T18:21:39Z",
+  "total": 1442,
   "verified": 285,
-  "admitted": 999,
+  "admitted": 1001,
   "questionable": 96,
   "scam": 60,
   "no_kyc": 364,
   "tor_enabled": 148,
   "active_warnings": [
+    {
+      "name": "0xnull",
+      "slug": "0xnull",
+      "profileUrl": "https://monerica.com/site/0xnull",
+      "category": "Businesses \u203a Gambling",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "BIM Exchange",
+      "slug": "bim-exchange",
+      "profileUrl": "https://monerica.com/site/bim-exchange",
+      "category": "Exchanges \u203a Aggregators",
+      "status": "Questionable",
+      "kycPolicy": "Varies By Provider",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "ChangeHero",
+      "slug": "changehero",
+      "profileUrl": "https://monerica.com/site/changehero",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Rare KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "Changelly",
+      "slug": "changelly",
+      "profileUrl": "https://monerica.com/site/changelly",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Shotgun KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "CoinCraddle",
+      "slug": "coincraddle",
+      "profileUrl": "https://monerica.com/site/coincraddle",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "EagleSwap",
+      "slug": "eagleswap",
+      "profileUrl": "https://monerica.com/site/eagleswap",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
     {
       "name": "Getatext",
       "slug": "getatext",
@@ -19,6 +79,156 @@
       "updated": "2026-11-13"
     },
     {
+      "name": "Houdini Swap",
+      "slug": "houdini-swap",
+      "profileUrl": "https://monerica.com/site/houdini-swap",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Shotgun KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "HTX",
+      "slug": "htx",
+      "profileUrl": "https://monerica.com/site/htx",
+      "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
+      "status": "Questionable",
+      "kycPolicy": "Mandatory KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "Instaswap",
+      "slug": "instaswap",
+      "profileUrl": "https://monerica.com/site/instaswap",
+      "category": "Exchanges \u203a Aggregators",
+      "status": "Questionable",
+      "kycPolicy": "Varies By Provider",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "Monero Web",
+      "slug": "monero-web",
+      "profileUrl": "https://monerica.com/site/monero-web",
+      "category": "Wallets \u203a Web & Browser Wallets",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "n.exchange",
+      "slug": "n-exchange",
+      "profileUrl": "https://monerica.com/site/n-exchange",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Shotgun KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "NoData Hosting Solutions",
+      "slug": "nodata-hosting-solutions",
+      "profileUrl": "https://monerica.com/site/nodata-hosting-solutions",
+      "category": "Web Hosting \u203a Offshore & Privacy Hosting",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "OffCard.xyz",
+      "slug": "offcard-xyz",
+      "profileUrl": "https://monerica.com/site/offcard-xyz",
+      "category": "Cards \u203a Reloadable Cards",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "REBEX",
+      "slug": "rebex",
+      "profileUrl": "https://monerica.com/site/rebex",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Varies By Provider",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "ServerExpress",
+      "slug": "serverexpress",
+      "profileUrl": "https://monerica.com/site/serverexpress",
+      "category": "Web Hosting \u203a VPS Hosting",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "SnapSwap.io",
+      "slug": "snapswap-io",
+      "profileUrl": "https://monerica.com/site/snapswap-io",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "SplitNOW",
+      "slug": "splitnow",
+      "profileUrl": "https://monerica.com/site/splitnow",
+      "category": "Exchanges \u203a Aggregators",
+      "status": "Questionable",
+      "kycPolicy": "Varies By Provider",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "Superswap",
+      "slug": "superswap",
+      "profileUrl": "https://monerica.com/site/superswap",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "Wagyu.xyz",
+      "slug": "wagyu-xyz",
+      "profileUrl": "https://monerica.com/site/wagyu-xyz",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "YellowChanger",
+      "slug": "yellowchanger",
+      "profileUrl": "https://monerica.com/site/yellowchanger",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Shotgun KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
+      "name": "Yourcryptopal",
+      "slug": "yourcryptopal",
+      "profileUrl": "https://monerica.com/site/yourcryptopal",
+      "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
+    {
       "name": "0trace",
       "slug": "0trace",
       "profileUrl": "https://monerica.com/site/0trace",
@@ -26,16 +236,6 @@
       "status": "Scam",
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "0xnull",
-      "slug": "0xnull",
-      "profileUrl": "https://monerica.com/site/0xnull",
-      "category": "Businesses \u203a Gambling",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
       "updated": "2026-11-12"
     },
     {
@@ -159,16 +359,6 @@
       "updated": "2026-11-12"
     },
     {
-      "name": "BIM Exchange",
-      "slug": "bim-exchange",
-      "profileUrl": "https://monerica.com/site/bim-exchange",
-      "category": "Exchanges \u203a Aggregators",
-      "status": "Questionable",
-      "kycPolicy": "Varies By Provider",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
       "name": "Bitgolder",
       "slug": "bitgolder",
       "profileUrl": "https://monerica.com/site/bitgolder",
@@ -219,26 +409,6 @@
       "updated": "2026-11-12"
     },
     {
-      "name": "ChangeHero",
-      "slug": "changehero",
-      "profileUrl": "https://monerica.com/site/changehero",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Rare KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Changelly",
-      "slug": "changelly",
-      "profileUrl": "https://monerica.com/site/changelly",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Shotgun KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
       "name": "Changer-man",
       "slug": "changer-man",
       "profileUrl": "https://monerica.com/site/changer-man",
@@ -273,16 +443,6 @@
       "slug": "cloudarion",
       "profileUrl": "https://monerica.com/site/cloudarion",
       "category": "Web Hosting \u203a VPS Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "CoinCraddle",
-      "slug": "coincraddle",
-      "profileUrl": "https://monerica.com/site/coincraddle",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
       "status": "Questionable",
       "kycPolicy": "Not Stated",
       "warning": "Marked as Questionable",
@@ -345,166 +505,6 @@
       "category": "Businesses \u203a Email Providers/ Forwarders",
       "status": "Questionable",
       "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "DarkVps",
-      "slug": "darkvps",
-      "profileUrl": "https://monerica.com/site/darkvps",
-      "category": "Web Hosting \u203a Offshore & Privacy Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Dex.CR",
-      "slug": "dex-cr",
-      "profileUrl": "https://monerica.com/site/dex-cr",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Scam",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "disapeer",
-      "slug": "disapeer",
-      "profileUrl": "https://monerica.com/site/disapeer",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "DoHost",
-      "slug": "dohost",
-      "profileUrl": "https://monerica.com/site/dohost",
-      "category": "Web Hosting \u203a VPS Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "DotWee",
-      "slug": "dotwee",
-      "profileUrl": "https://monerica.com/site/dotwee",
-      "category": "Web Hosting \u203a Domains & DNS",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Duino-Coin",
-      "slug": "duino-coin",
-      "profileUrl": "https://monerica.com/site/duino-coin",
-      "category": "Businesses \u203a Blockchain Services",
-      "status": "Scam",
-      "kycPolicy": "Not Stated",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "EagleSwap",
-      "slug": "eagleswap",
-      "profileUrl": "https://monerica.com/site/eagleswap",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Expeer",
-      "slug": "expeer",
-      "profileUrl": "https://monerica.com/site/expeer",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Shotgun KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Fujn Swap",
-      "slug": "fujn-swap",
-      "profileUrl": "https://monerica.com/site/fujn-swap",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "GhostSwap.app",
-      "slug": "ghostswap-app",
-      "profileUrl": "https://monerica.com/site/ghostswap-app",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Gift Claude",
-      "slug": "gift-claude",
-      "profileUrl": "https://monerica.com/site/gift-claude",
-      "category": "Cards \u203a Gift Cards",
-      "status": "Scam",
-      "kycPolicy": "Not Stated",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "HammerVM LTD",
-      "slug": "hammervm-ltd",
-      "profileUrl": "https://monerica.com/site/hammervm-ltd",
-      "category": "Web Hosting \u203a Tor & Onion Hosting",
-      "status": "Scam",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Hellex",
-      "slug": "hellex",
-      "profileUrl": "https://monerica.com/site/hellex",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Hostry",
-      "slug": "hostry",
-      "profileUrl": "https://monerica.com/site/hostry",
-      "category": "Web Hosting \u203a Domains & DNS",
-      "status": "Scam",
-      "kycPolicy": "Not Stated",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "HostSlim",
-      "slug": "hostslim",
-      "profileUrl": "https://monerica.com/site/hostslim",
-      "category": "Web Hosting \u203a Tor & Onion Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Houdini Swap",
-      "slug": "houdini-swap",
-      "profileUrl": "https://monerica.com/site/houdini-swap",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Shotgun KYC",
       "warning": "Marked as Questionable",
       "updated": "2026-11-12"
     }
