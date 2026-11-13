@@ -8265,7 +8265,7 @@
     "category": "Phone & SMS",
     "subcategory": "SMS Verification & Virtual Numbers",
     "categoryUrl": "https://monerica.com/phone-and-sms/sms-verification-and-virtual-numbers",
-    "status": "Verified",
+    "status": "Questionable",
     "kycPolicy": "Rare KYC",
     "javascript": "Optional",
     "tags": [
@@ -8280,7 +8280,7 @@
       "reviews": 2
     },
     "added": "2026-03-19",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "getprivacy-earth": {
     "name": "getprivacy.earth",

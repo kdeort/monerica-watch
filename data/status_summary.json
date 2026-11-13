@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-12T23:31:14Z",
+  "generated": "2026-11-13T01:11:03Z",
   "total": 1440,
-  "verified": 286,
+  "verified": 285,
   "admitted": 999,
-  "questionable": 95,
+  "questionable": 96,
   "scam": 60,
   "no_kyc": 364,
   "tor_enabled": 148,
   "active_warnings": [
+    {
+      "name": "Getatext",
+      "slug": "getatext",
+      "profileUrl": "https://monerica.com/site/getatext",
+      "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+      "status": "Questionable",
+      "kycPolicy": "Rare KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-13"
+    },
     {
       "name": "0trace",
       "slug": "0trace",
@@ -495,16 +505,6 @@
       "category": "Exchanges \u203a Instant Swaps (No Account)",
       "status": "Questionable",
       "kycPolicy": "Shotgun KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "HTX",
-      "slug": "htx",
-      "profileUrl": "https://monerica.com/site/htx",
-      "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
-      "status": "Questionable",
-      "kycPolicy": "Mandatory KYC",
       "warning": "Marked as Questionable",
       "updated": "2026-11-12"
     }

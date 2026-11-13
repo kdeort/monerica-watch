@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-13T06:54:45Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Getatext",
+    "slug": "getatext",
+    "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+    "profileUrl": "https://monerica.com/site/getatext",
+    "detail": "Status changed: Verified \u2192 Questionable"
+  },
+  {
     "timestamp": "2026-11-13T00:43:58Z",
     "type": "NEW_LISTING",
     "severity": "info",

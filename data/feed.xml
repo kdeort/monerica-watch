@@ -4,7 +4,13 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Fri, 13 Nov 2026 00:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:54:45 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] Getatext — Status changed: Verified → Questionable</title>
+      <link>https://monerica.com/site/getatext</link>
+      <description>Category: Phone &amp; SMS › SMS Verification &amp; Virtual Numbers | Status changed: Verified → Questionable</description>
+      <guid isPermaLink="false">getatext-STATUS_CHANGE-2026-11-13T06:54:45Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] XMRLottery — Added to directory (Status: Admitted, KYC: Not Stated)</title>
       <link>https://monerica.com/site/xmrlottery</link>
@@ -238,12 +244,6 @@
       <link>https://monerica.com/site/cointree</link>
       <description>Category: Businesses › Miscellaneous | Removed from directory (was Admitted)</description>
       <guid isPermaLink="false">cointree-REMOVED_LISTING-2026-11-09T07:05:03Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Bitcoin2Monero — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/bitcoin2monero</link>
-      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">bitcoin2monero-STATUS_CHANGE-2026-11-09T00:38:17Z</guid>
     </item>
   </channel>
 </rss>
