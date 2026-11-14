@@ -10772,6 +10772,12 @@
     "slug": "instantshippinglabels-com",
     "profileUrl": "https://monerica.com/site/instantshippinglabels-com",
     "website": "https://instantshippinglabels.com",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://islzhgkqm2nibbbgwzmmrbj6goikio5q3knrx3ulejruomzg3c6mw7yd.onion"
+      }
+    ],
     "category": "Businesses",
     "subcategory": "Postage & Shipping Services",
     "categoryUrl": "https://monerica.com/businesses/postage-and-shipping-services",
@@ -10786,7 +10792,7 @@
     "founded": "2025-05-01",
     "description": "Prepaid shipping labels online with no account: USPS, UPS, FedEx, Canada Post, DPD, Evri and other carriers. Instant PDF and bulk CSV import.",
     "added": "2026-02-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "instaswap": {
     "name": "Instaswap",
@@ -20695,7 +20701,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-07-24"
+    "updated": "2026-11-13"
   },
   "rebex": {
     "name": "REBEX",
@@ -22844,7 +22850,7 @@
     "category": "Businesses",
     "subcategory": "Marketing",
     "categoryUrl": "https://monerica.com/businesses/marketing",
-    "status": "Admitted",
+    "status": "Verified",
     "javascript": "Optional",
     "tags": [
       "Affiliate Program"
@@ -22852,7 +22858,7 @@
     "founded": "2016-09-15",
     "description": "AI-Powered & Automated SMM Panel for Social Media Marketing, Advertising and WebTraffic services, since 2016.",
     "added": "2026-01-03",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "sms-activate": {
     "name": "SMS Activate",
@@ -25681,7 +25687,7 @@
     "category": "Businesses",
     "subcategory": "AI Services",
     "categoryUrl": "https://monerica.com/businesses/ai-services",
-    "status": "Admitted",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Required",
     "tags": [
@@ -25691,7 +25697,7 @@
     "founded": "2026-10-26",
     "description": "Uncensored and abliterated AI models through an OpenAI-compatible API, with prepaid token pricing and account-key registration and login.",
     "added": "2026-10-27",
-    "updated": "2026-11-12"
+    "updated": "2026-11-13"
   },
   "ungovernable-misfits": {
     "name": "Ungovernable Misfits",

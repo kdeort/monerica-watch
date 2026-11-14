@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Fri, 13 Nov 2026 18:39:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 00:37:23 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] SMMKings — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/smmkings</link>
+      <description>Category: Businesses › Marketing | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">smmkings-STATUS_CHANGE-2026-11-14T00:37:23Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] UncensoredLabs — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/uncensoredlabs</link>
+      <description>Category: Businesses › AI Services | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">uncensoredlabs-STATUS_CHANGE-2026-11-14T00:37:23Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] Beam Up Music — Added to directory (Status: Admitted, KYC: Not Stated)</title>
       <link>https://monerica.com/site/beam-up-music</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/protagonist-exchange</link>
       <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
       <guid isPermaLink="false">protagonist-exchange-NEW_LISTING-2026-11-10T00:36:06Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] AbliteratedLLM — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
-      <link>https://monerica.com/site/abliteratedllm</link>
-      <description>Category: Businesses › AI Services | Added to directory (Status: Admitted, KYC: Shotgun KYC)</description>
-      <guid isPermaLink="false">abliteratedllm-NEW_LISTING-2026-11-09T18:41:23Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Elektrine — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/elektrine</link>
-      <description>Category: Businesses › Email Providers/ Forwarders | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">elektrine-NEW_LISTING-2026-11-09T18:41:23Z</guid>
     </item>
   </channel>
 </rss>

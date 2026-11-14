@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-14T00:37:23Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "SMMKings",
+    "slug": "smmkings",
+    "category": "Businesses \u203a Marketing",
+    "profileUrl": "https://monerica.com/site/smmkings",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-14T00:37:23Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "UncensoredLabs",
+    "slug": "uncensoredlabs",
+    "category": "Businesses \u203a AI Services",
+    "profileUrl": "https://monerica.com/site/uncensoredlabs",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
     "timestamp": "2026-11-13T18:39:09Z",
     "type": "NEW_LISTING",
     "severity": "info",
