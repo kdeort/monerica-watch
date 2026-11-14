@@ -3072,6 +3072,35 @@
     "added": "2025-03-12",
     "updated": "2026-11-12"
   },
+  "bitvps": {
+    "name": "BitVPS",
+    "slug": "bitvps",
+    "profileUrl": "https://monerica.com/site/bitvps",
+    "website": "https://bitvps.com",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://bitvps4pngisidy7golxfyti2ivyimg5o6t7po3ggj7vo7lmbxcmjuyd.onion"
+      }
+    ],
+    "category": "Web Hosting",
+    "subcategory": "VPS Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/vps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "restrictions": {
+      "vpn": "Allowed",
+      "tor": "Allowed"
+    },
+    "tags": [
+      "Account Not Required"
+    ],
+    "country": "US",
+    "founded": "2011-12-03",
+    "description": "KVM VPS on NVMe storage with Linux or Windows Server in the EU, US and Singapore, root access, prepaid for 1 to 365 days. No account needed; an email receives the access link.",
+    "added": "2026-11-14",
+    "updated": "2026-11-14"
+  },
   "bitxchange": {
     "name": "BitXchange",
     "slug": "bitxchange",
@@ -10015,6 +10044,21 @@
     "description": "VPN service for secure, anonymous and unrestricted internet access on all devices",
     "added": "2025-10-02",
     "updated": "2026-11-12"
+  },
+  "hidetap": {
+    "name": "HideTap",
+    "slug": "hidetap",
+    "profileUrl": "https://monerica.com/site/hidetap",
+    "website": "https://hidetap.com",
+    "category": "Cards",
+    "subcategory": "Reloadable Cards",
+    "categoryUrl": "https://monerica.com/cards/reloadable-cards",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "founded": "2026-11-01",
+    "description": "Virtual Visa cards funded with crypto wallet deposits, for online services such as AI tools, ads, hosting and streaming. Cards use an alias name and support 3D Secure.",
+    "added": "2026-11-14",
+    "updated": "2026-11-14"
   },
   "hipersemillas": {
     "name": "Hipersemillas",
@@ -18629,7 +18673,7 @@
       "reviews": 6
     },
     "added": "2026-09-03",
-    "updated": "2026-11-09"
+    "updated": "2026-11-14"
   },
   "packetra": {
     "name": "Packetra",
