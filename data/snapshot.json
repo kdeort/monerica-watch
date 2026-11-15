@@ -10401,26 +10401,6 @@
     "added": "2025-12-31",
     "updated": "2026-11-12"
   },
-  "httproxy": {
-    "name": "HTTProxy",
-    "slug": "httproxy",
-    "profileUrl": "https://monerica.com/site/httproxy",
-    "website": "https://httproxy.taila34f84.ts.net/",
-    "category": "VPNs & Proxies",
-    "subcategory": "Proxies",
-    "categoryUrl": "https://monerica.com/vpns/proxies",
-    "status": "Admitted",
-    "kycPolicy": "Not Stated",
-    "javascript": "None",
-    "restrictions": {
-      "vpn": "Allowed",
-      "tor": "Allowed"
-    },
-    "founded": "1996-10-08",
-    "description": "I run this new proxy service from my own house. This is true residential IP since it uses my spare mobile phone.",
-    "added": "2026-11-13",
-    "updated": "2026-11-13"
-  },
   "htx": {
     "name": "HTX",
     "slug": "htx",
@@ -18673,7 +18653,7 @@
       "reviews": 6
     },
     "added": "2026-09-03",
-    "updated": "2026-11-14"
+    "updated": "2026-11-15"
   },
   "packetra": {
     "name": "Packetra",

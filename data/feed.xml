@@ -4,7 +4,13 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sun, 15 Nov 2026 00:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 06:47:59 +0000</lastBuildDate>
+    <item>
+      <title>[REMOVED_LISTING] HTTProxy — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/httproxy</link>
+      <description>Category: VPNs &amp; Proxies › Proxies | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">httproxy-REMOVED_LISTING-2026-11-15T06:47:59Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] BitVPS — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/bitvps</link>
@@ -238,12 +244,6 @@
       <link>https://monerica.com/site/justhost-ru</link>
       <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
       <guid isPermaLink="false">justhost-ru-REMOVED_LISTING-2026-11-10T06:50:15Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] OmaMonero — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/omamonero</link>
-      <description>Category: Utilities › Open Source Projects | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">omamonero-NEW_LISTING-2026-11-10T00:36:06Z</guid>
     </item>
   </channel>
 </rss>

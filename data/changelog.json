@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-15T06:47:59Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "HTTProxy",
+    "slug": "httproxy",
+    "category": "VPNs & Proxies \u203a Proxies",
+    "profileUrl": "https://monerica.com/site/httproxy",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
     "timestamp": "2026-11-14T18:28:35Z",
     "type": "NEW_LISTING",
     "severity": "info",
