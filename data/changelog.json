@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": "2026-11-15T18:29:21Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Capsul",
+    "slug": "capsul",
+    "category": "Web Hosting \u203a Shared & Cloud Hosting",
+    "profileUrl": "https://monerica.com/site/capsul",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-15T18:29:21Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Pirate Face",
+    "slug": "pirate-face",
+    "category": "Businesses \u203a AI Services",
+    "profileUrl": "https://monerica.com/site/pirate-face",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-15T18:29:21Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Plinko XMR",
+    "slug": "plinko-xmr",
+    "category": "Businesses \u203a Gambling",
+    "profileUrl": "https://monerica.com/site/plinko-xmr",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-15T18:29:21Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "xmr.gifts",
+    "slug": "xmr-gifts",
+    "category": "Cards \u203a Gift Cards",
+    "profileUrl": "https://monerica.com/site/xmr-gifts",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-15T06:47:59Z",
     "type": "REMOVED_LISTING",
     "severity": "medium",

@@ -3066,8 +3066,8 @@
     "founded": "2022-01-01",
     "description": "Instant cryptocurrency exchange for swapping coins and tokens, including Monero (XMR), with no signup required. Also offers a Telegram bot and order lookup by ID.",
     "rating": {
-      "average": 4,
-      "reviews": 1
+      "average": 4.5,
+      "reviews": 2
     },
     "added": "2025-03-12",
     "updated": "2026-11-15"
@@ -4134,6 +4134,25 @@
     "description": "Open-source, non-custodial iPhone wallet built natively in SwiftUI. Polyseed support, subaddresses per receive, multiple wallets and accounts, Face ID, verifiable builds.",
     "added": "2026-10-06",
     "updated": "2026-11-12"
+  },
+  "capsul": {
+    "name": "Capsul",
+    "slug": "capsul",
+    "profileUrl": "https://monerica.com/site/capsul",
+    "website": "https://capsul.org/",
+    "category": "Web Hosting",
+    "subcategory": "Shared & Cloud Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/shared-hosting",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "tags": [
+      "Owns Physical Servers"
+    ],
+    "country": "US",
+    "founded": "2020-03-09",
+    "description": "Small cloud VPS service with daily root disk backups, fast local storage, hourly billing and a choice of Linux, BSD, Guix and NixOS images.",
+    "added": "2026-11-15",
+    "updated": "2026-11-15"
   },
   "car-battery-lb": {
     "name": "Car Battery LB",
@@ -19283,6 +19302,20 @@
     "added": "2025-04-17",
     "updated": "2026-11-12"
   },
+  "pirate-face": {
+    "name": "Pirate Face",
+    "slug": "pirate-face",
+    "profileUrl": "https://monerica.com/site/pirate-face",
+    "website": "https://pirateface.co/",
+    "category": "Businesses",
+    "subcategory": "AI Services",
+    "categoryUrl": "https://monerica.com/businesses/ai-services",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "description": "Index of open-weight AI models shared as torrents and magnet links, with checksums and a provenance log so models stay available independent of any single platform.",
+    "added": "2026-11-15",
+    "updated": "2026-11-15"
+  },
   "pivarena": {
     "name": "PIVArena",
     "slug": "pivarena",
@@ -19434,6 +19467,26 @@
     "description": "A privacy-first payment processor for Monero, Zcash, Bitcoin, Litecoin, Ethereum and Solana. One script tag, 0.25% fees, every payment forwarded straight to your wallet.",
     "added": "2026-07-28",
     "updated": "2026-11-09"
+  },
+  "plinko-xmr": {
+    "name": "Plinko XMR",
+    "slug": "plinko-xmr",
+    "profileUrl": "https://monerica.com/site/plinko-xmr",
+    "website": "https://dropxmr.com/",
+    "category": "Businesses",
+    "subcategory": "Gambling",
+    "categoryUrl": "https://monerica.com/businesses/gambling",
+    "status": "Admitted",
+    "restrictions": {
+      "countriesNotServed": [
+        "IR"
+      ],
+      "other": "Minimum age 18"
+    },
+    "founded": "2026-11-15",
+    "description": "No email needed. Deposit XMR and play; every drop can be verified.",
+    "added": "2026-11-15",
+    "updated": "2026-11-15"
   },
   "poloniex": {
     "name": "Poloniex",
@@ -21364,7 +21417,7 @@
     "description": "Swap crypto privately without KYC or an account. Every trade is held in escrow, fees are built into the quoted rate and no data is kept.",
     "rating": {
       "average": 4.8,
-      "reviews": 24
+      "reviews": 25
     },
     "added": "2025-12-04",
     "updated": "2026-11-09"
@@ -27651,6 +27704,19 @@
     "added": "2025-09-08",
     "updated": "2026-11-09"
   },
+  "xmr-gifts": {
+    "name": "xmr.gifts",
+    "slug": "xmr-gifts",
+    "profileUrl": "https://monerica.com/site/xmr-gifts",
+    "website": "https://xmr.gifts/",
+    "category": "Cards",
+    "subcategory": "Gift Cards",
+    "categoryUrl": "https://monerica.com/cards/gift-cards",
+    "status": "Admitted",
+    "description": "Digital gift cards for Amazon, Steam, Apple, Uber, Netflix and 30+ other brands, plus prepaid Visa and Mastercard, with guest checkout and optional email delivery.",
+    "added": "2026-11-15",
+    "updated": "2026-11-15"
+  },
   "xmr-id": {
     "name": "XMR.ID",
     "slug": "xmr-id",
@@ -27860,7 +27926,7 @@
       "reviews": 2
     },
     "added": "2026-01-30",
-    "updated": "2026-11-09"
+    "updated": "2026-11-15"
   },
   "xmr402": {
     "name": "XMR402",

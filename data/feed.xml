@@ -4,7 +4,31 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sun, 15 Nov 2026 12:34:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 18:29:21 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] Capsul — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/capsul</link>
+      <description>Category: Web Hosting › Shared &amp; Cloud Hosting | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">capsul-NEW_LISTING-2026-11-15T18:29:21Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Pirate Face — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/pirate-face</link>
+      <description>Category: Businesses › AI Services | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">pirate-face-NEW_LISTING-2026-11-15T18:29:21Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Plinko XMR — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/plinko-xmr</link>
+      <description>Category: Businesses › Gambling | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">plinko-xmr-NEW_LISTING-2026-11-15T18:29:21Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] xmr.gifts — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/xmr-gifts</link>
+      <description>Category: Cards › Gift Cards | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">xmr-gifts-NEW_LISTING-2026-11-15T18:29:21Z</guid>
+    </item>
     <item>
       <title>[REMOVED_LISTING] HTTProxy — Removed from directory (was Admitted)</title>
       <link>https://monerica.com/site/httproxy</link>
@@ -220,30 +244,6 @@
       <link>https://monerica.com/site/offshoreracks</link>
       <description>Category: Web Hosting › VPS Hosting | Removed from directory (was Admitted)</description>
       <guid isPermaLink="false">offshoreracks-REMOVED_LISTING-2026-11-10T18:36:12Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Plisio — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/plisio</link>
-      <description>Category: Merchant Services › Integrations | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">plisio-REMOVED_LISTING-2026-11-10T18:36:12Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Xmr.university — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/xmr-university</link>
-      <description>Category: Education › Guides | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">xmr-university-REMOVED_LISTING-2026-11-10T18:36:12Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Hostealo — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/hostealo</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">hostealo-REMOVED_LISTING-2026-11-10T06:50:15Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] justhost.ru — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/justhost-ru</link>
-      <description>Category: Web Hosting › VPS &amp; Dedicated Server Providers | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">justhost-ru-REMOVED_LISTING-2026-11-10T06:50:15Z</guid>
     </item>
   </channel>
 </rss>
