@@ -1,23 +1,13 @@
 {
-  "generated": "2026-11-16T00:07:23Z",
+  "generated": "2026-11-16T06:36:43Z",
   "total": 1448,
-  "verified": 288,
-  "admitted": 1002,
+  "verified": 290,
+  "admitted": 1001,
   "questionable": 96,
-  "scam": 62,
+  "scam": 61,
   "no_kyc": 366,
   "tor_enabled": 150,
   "active_warnings": [
-    {
-      "name": "Beluga",
-      "slug": "beluga",
-      "profileUrl": "https://monerica.com/site/beluga",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Scam",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-16"
-    },
     {
       "name": "xmr.gifts",
       "slug": "xmr-gifts",
@@ -506,6 +496,16 @@
       "status": "Scam",
       "kycPolicy": "Not Stated",
       "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-12"
+    },
+    {
+      "name": "CryptoPostage",
+      "slug": "cryptopostage",
+      "profileUrl": "https://monerica.com/site/cryptopostage",
+      "category": "Businesses \u203a Postage & Shipping Services",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
       "updated": "2026-11-12"
     }
   ]

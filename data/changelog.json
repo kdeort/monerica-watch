@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-16T08:08:05Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Beluga",
+    "slug": "beluga",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/beluga",
+    "detail": "Status changed: Scam \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-16T08:08:05Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Buckets Ninja",
+    "slug": "buckets-ninja",
+    "category": "Web Hosting \u203a Storage & Seedboxes",
+    "profileUrl": "https://monerica.com/site/buckets-ninja",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
     "timestamp": "2026-11-16T00:51:40Z",
     "type": "STATUS_CHANGE",
     "severity": "info",

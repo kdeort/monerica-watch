@@ -49,6 +49,10 @@
     ],
     "founded": "2026-07-17",
     "description": "Independent directory of no-KYC exchanges, VPNs and cards. Claims independently verified with dated timestamps and incident history.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-09-07",
     "updated": "2026-09-20"
   },
@@ -2212,11 +2216,11 @@
     "name": "Beluga",
     "slug": "beluga",
     "profileUrl": "https://monerica.com/site/beluga",
+    "website": "https://beluga.to",
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Scam",
-    "warning": "Listed as a scam: do not use.",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Float",
@@ -3711,13 +3715,13 @@
     "category": "Web Hosting",
     "subcategory": "Storage & Seedboxes",
     "categoryUrl": "https://monerica.com/web-hosting/storage-and-seedboxes",
-    "status": "Admitted",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "founded": "2026-08-17",
     "description": "Anonymous S3-compatible object storage. No KYC, just an email. Encrypted at rest and prepaid, at \u20ac7.99 per TB per month.",
     "added": "2026-08-21",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "build-it-by-manolutions": {
     "name": "BUILD-IT\u2122 by Manolutions",

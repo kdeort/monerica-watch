@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Mon, 16 Nov 2026 00:51:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 08:08:05 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] Beluga — Status changed: Scam → Verified</title>
+      <link>https://monerica.com/site/beluga</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Scam → Verified</description>
+      <guid isPermaLink="false">beluga-STATUS_CHANGE-2026-11-16T08:08:05Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] Buckets Ninja — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/buckets-ninja</link>
+      <description>Category: Web Hosting › Storage &amp; Seedboxes | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">buckets-ninja-STATUS_CHANGE-2026-11-16T08:08:05Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] Advin Servers — Status changed: Admitted → Verified</title>
       <link>https://monerica.com/site/advin-servers</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/barn-jerky-and-barn-stuff</link>
       <description>Category: Businesses › Food &amp; Drink (Online) | Removed from directory (was Verified)</description>
       <guid isPermaLink="false">barn-jerky-and-barn-stuff-REMOVED_LISTING-2026-11-10T18:36:12Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Buy Claude With Crypto — Removed from directory (was Scam)</title>
-      <link>https://monerica.com/site/buy-claude-with-crypto</link>
-      <description>Category: Cards › Gift Cards | Removed from directory (was Scam)</description>
-      <guid isPermaLink="false">buy-claude-with-crypto-REMOVED_LISTING-2026-11-10T18:36:12Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] DEX.fo — Removed from directory (was Verified)</title>
-      <link>https://monerica.com/site/dex-fo</link>
-      <description>Category: Exchanges › Instant Swaps (No Account) | Removed from directory (was Verified)</description>
-      <guid isPermaLink="false">dex-fo-REMOVED_LISTING-2026-11-10T18:36:12Z</guid>
     </item>
   </channel>
 </rss>
