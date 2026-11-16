@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-16T18:44:01Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Husher",
+    "slug": "husher",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/husher",
+    "detail": "Status changed: Admitted \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-16T18:44:01Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "infinitepass",
+    "slug": "infinitepass",
+    "category": "Businesses \u203a Digital Goods/ Services",
+    "profileUrl": "https://monerica.com/site/infinitepass",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
     "timestamp": "2026-11-16T08:08:05Z",
     "type": "STATUS_CHANGE",
     "severity": "info",

@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-16T12:30:37Z",
-  "total": 1448,
+  "generated": "2026-11-16T17:26:18Z",
+  "total": 1447,
   "verified": 290,
-  "admitted": 1001,
-  "questionable": 96,
+  "admitted": 999,
+  "questionable": 97,
   "scam": 61,
   "no_kyc": 366,
   "tor_enabled": 150,
   "active_warnings": [
+    {
+      "name": "Husher",
+      "slug": "husher",
+      "profileUrl": "https://monerica.com/site/husher",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Shotgun KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-16"
+    },
     {
       "name": "xmr.gifts",
       "slug": "xmr-gifts",
@@ -496,16 +506,6 @@
       "status": "Scam",
       "kycPolicy": "Not Stated",
       "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "CryptoPostage",
-      "slug": "cryptopostage",
-      "profileUrl": "https://monerica.com/site/cryptopostage",
-      "category": "Businesses \u203a Postage & Shipping Services",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
       "updated": "2026-11-12"
     }
   ]

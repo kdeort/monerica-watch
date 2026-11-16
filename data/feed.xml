@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Mon, 16 Nov 2026 14:46:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:44:01 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] Husher — Status changed: Admitted → Questionable</title>
+      <link>https://monerica.com/site/husher</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Admitted → Questionable</description>
+      <guid isPermaLink="false">husher-STATUS_CHANGE-2026-11-16T18:44:01Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] infinitepass — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/infinitepass</link>
+      <description>Category: Businesses › Digital Goods/ Services | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">infinitepass-REMOVED_LISTING-2026-11-16T18:44:01Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] Beluga — Status changed: Scam → Verified</title>
       <link>https://monerica.com/site/beluga</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/atomic-networks</link>
       <description>Category: Web Hosting › VPS Hosting | Status changed: Admitted → Verified</description>
       <guid isPermaLink="false">atomic-networks-STATUS_CHANGE-2026-11-10T18:36:12Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] PrivateAlps — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/privatealps</link>
-      <description>Category: Web Hosting › Offshore &amp; Privacy Hosting | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">privatealps-STATUS_CHANGE-2026-11-10T18:36:12Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Barn Jerky &amp; Barn Stuff — Removed from directory (was Verified)</title>
-      <link>https://monerica.com/site/barn-jerky-and-barn-stuff</link>
-      <description>Category: Businesses › Food &amp; Drink (Online) | Removed from directory (was Verified)</description>
-      <guid isPermaLink="false">barn-jerky-and-barn-stuff-REMOVED_LISTING-2026-11-10T18:36:12Z</guid>
     </item>
   </channel>
 </rss>

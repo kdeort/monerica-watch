@@ -56,10 +56,6 @@
     ],
     "founded": "2026-07-17",
     "description": "Independent directory of no-KYC exchanges, VPNs and cards. Claims independently verified with dated timestamps and incident history.",
-    "rating": {
-      "average": 5,
-      "reviews": 1
-    },
     "added": "2026-09-07",
     "updated": "2026-11-16"
   },
@@ -2275,7 +2271,7 @@
     "founded": "2022-02-14",
     "description": "No-logs doubleVPN, de-Googled secure smartphone, bootable encrypted privacy-OS SSD, personals messengers and private email. No account required to order.",
     "added": "2026-06-01",
-    "updated": "2026-11-09"
+    "updated": "2026-11-16"
   },
   "best-wallet": {
     "name": "Best Wallet",
@@ -10503,7 +10499,7 @@
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Admitted",
+    "status": "Questionable",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "javascript": "Required",
@@ -10541,7 +10537,7 @@
     "founded": "2025-08-23",
     "description": "Non-custodial crypto exchange for instant swaps between BTC, ETH, USDT and other coins, where users keep control of their own keys; community-governed platform.",
     "added": "2026-07-18",
-    "updated": "2026-11-13"
+    "updated": "2026-11-16"
   },
   "hushsims": {
     "name": "HushSIMs",
@@ -10770,22 +10766,6 @@
     "founded": "2021-10-13",
     "description": "Crypto self-custody courses & individual coaching in regards to crypto privacy and security.",
     "added": "2024-03-19",
-    "updated": "2026-11-12"
-  },
-  "infinitepass": {
-    "name": "infinitepass",
-    "slug": "infinitepass",
-    "profileUrl": "https://monerica.com/site/infinitepass",
-    "website": "https://75648.web.wepage.com",
-    "category": "Businesses",
-    "subcategory": "Digital Goods/ Services",
-    "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
-    "status": "Admitted",
-    "javascript": "Optional",
-    "country": "US",
-    "founded": "2013-01-09",
-    "description": "Gamepass for a dollar for life. It's only a dollar because I make the profit back.",
-    "added": "2025-12-05",
     "updated": "2026-11-12"
   },
   "initech": {
@@ -19524,9 +19504,9 @@
       "other": "Minimum age 18"
     },
     "founded": "2026-11-15",
-    "description": "No email needed. Deposit XMR and play; every drop can be verified.",
+    "description": "Non-custodial crypto swaps, sports betting on football, basketball and MMA, casino games including Plinko, prediction markets and gift cards. Place sports bets.",
     "added": "2026-11-15",
-    "updated": "2026-11-15"
+    "updated": "2026-11-16"
   },
   "poloniex": {
     "name": "Poloniex",
