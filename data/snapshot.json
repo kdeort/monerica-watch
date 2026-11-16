@@ -42,10 +42,17 @@
     "subcategory": "No KYC Services",
     "categoryUrl": "https://monerica.com/other-directories/no-kyc-services",
     "status": "Admitted",
-    "javascript": "Optional",
     "tags": [
       "Account Not Required",
-      "Email Not Required"
+      "Affiliate Program",
+      "API Available",
+      "DMCA Ignored",
+      "Email Not Required",
+      "Letter of Guarantee",
+      "Owns Physical Servers",
+      "Perpetuals",
+      "Sells Sponsorship",
+      "Sells Tor Exit Hosting"
     ],
     "founded": "2026-07-17",
     "description": "Independent directory of no-KYC exchanges, VPNs and cards. Claims independently verified with dated timestamps and incident history.",
@@ -54,7 +61,7 @@
       "reviews": 1
     },
     "added": "2026-09-07",
-    "updated": "2026-09-20"
+    "updated": "2026-11-16"
   },
   "0trace": {
     "name": "0trace",
@@ -16190,7 +16197,7 @@
     "description": "Non-custodial interface to swap in and out of Monero. No account, no KYC, no logs \u2014 funds are never held. Open-source frontend with a published canary and TOR service.",
     "rating": {
       "average": 5,
-      "reviews": 1
+      "reviews": 2
     },
     "added": "2026-06-03",
     "updated": "2026-11-12"
