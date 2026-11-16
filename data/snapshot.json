@@ -618,13 +618,17 @@
     "category": "Web Hosting",
     "subcategory": "Shared & Cloud Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/shared-hosting",
-    "status": "Admitted",
+    "status": "Verified",
     "javascript": "Optional",
     "country": "US",
     "founded": "2020-08-19",
     "description": "Affordable cloud VPS servers, dedicated servers, and web hsoting. We offer reliable and quality hosting solutions located all across the world.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2023-11-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-15"
   },
   "aeronnect": {
     "name": "Aeronnect",
@@ -2203,6 +2207,28 @@
     "description": "Create a dumbphone on Android. Beeswax prevents access to web browsers and newly installed apps. You can't browse or access new apps without your lock code.",
     "added": "2026-10-20",
     "updated": "2026-10-20"
+  },
+  "beluga": {
+    "name": "Beluga",
+    "slug": "beluga",
+    "profileUrl": "https://monerica.com/site/beluga",
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Scam",
+    "warning": "Listed as a scam: do not use.",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Own",
+    "rates": "Float",
+    "tags": [
+      "Account Not Required",
+      "API Available",
+      "Email Not Required"
+    ],
+    "founded": "2026-11-05",
+    "description": "No-account swaps between Monero, Bitcoin, Ethereum and Solana, plus a 1:1 XMR to XMR2 bridge on Hyperliquid with a standing USDC bid and live reserve proofs.",
+    "added": "2026-11-15",
+    "updated": "2026-11-16"
   },
   "berggold": {
     "name": "Berggold",
@@ -16817,6 +16843,9 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Required",
+    "restrictions": {
+      "other": "18+"
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -16831,7 +16860,7 @@
       "reviews": 1
     },
     "added": "2024-10-31",
-    "updated": "2026-11-12"
+    "updated": "2026-11-15"
   },
   "nanswap": {
     "name": "Nanswap",
@@ -27708,11 +27737,11 @@
     "name": "xmr.gifts",
     "slug": "xmr-gifts",
     "profileUrl": "https://monerica.com/site/xmr-gifts",
-    "website": "https://xmr.gifts/",
     "category": "Cards",
     "subcategory": "Gift Cards",
     "categoryUrl": "https://monerica.com/cards/gift-cards",
-    "status": "Admitted",
+    "status": "Scam",
+    "warning": "Listed as a scam: do not use.",
     "description": "Digital gift cards for Amazon, Steam, Apple, Uber, Netflix and 30+ other brands, plus prepaid Visa and Mastercard, with guest checkout and optional email delivery.",
     "added": "2026-11-15",
     "updated": "2026-11-15"

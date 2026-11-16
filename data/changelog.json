@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": "2026-11-16T00:51:40Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Advin Servers",
+    "slug": "advin-servers",
+    "category": "Web Hosting \u203a Shared & Cloud Hosting",
+    "profileUrl": "https://monerica.com/site/advin-servers",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-16T00:51:40Z",
+    "type": "NEW_LISTING",
+    "severity": "high",
+    "name": "Beluga",
+    "slug": "beluga",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/beluga",
+    "detail": "Added to directory (Status: Scam, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-16T00:51:40Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "xmr.gifts",
+    "slug": "xmr-gifts",
+    "category": "Cards \u203a Gift Cards",
+    "profileUrl": "https://monerica.com/site/xmr-gifts",
+    "detail": "Status changed: Admitted \u2192 Scam"
+  },
+  {
+    "timestamp": "2026-11-16T00:51:40Z",
+    "type": "WARNING_ADDED",
+    "severity": "high",
+    "name": "xmr.gifts",
+    "slug": "xmr-gifts",
+    "category": "Cards \u203a Gift Cards",
+    "profileUrl": "https://monerica.com/site/xmr-gifts",
+    "detail": "Warning added: Listed as a scam: do not use."
+  },
+  {
     "timestamp": "2026-11-15T18:29:21Z",
     "type": "NEW_LISTING",
     "severity": "info",
