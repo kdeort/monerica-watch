@@ -435,6 +435,7 @@
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "tags": [
       "Account Not Required",
@@ -449,7 +450,7 @@
       "reviews": 1
     },
     "added": "2026-09-07",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "99stack": {
     "name": "99Stack",
@@ -4526,6 +4527,7 @@
     "status": "Questionable",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -4555,7 +4557,7 @@
     "founded": "2018-05-01",
     "description": "Instant cryptocurrency exchange service for swapping between 300+ digital assets online with low fees.",
     "added": "2023-10-03",
-    "updated": "2026-11-13"
+    "updated": "2026-11-16"
   },
   "changelly": {
     "name": "Changelly",
@@ -5824,21 +5826,6 @@
     "description": "Online store selling Monero (XMR) merch: hoodies, t-shirts, caps, mugs, phone cases, stickers and gifts, with worldwide shipping.",
     "added": "2026-01-19",
     "updated": "2026-11-12"
-  },
-  "crypto-luxury-store": {
-    "name": "Crypto Luxury Store",
-    "slug": "crypto-luxury-store",
-    "profileUrl": "https://monerica.com/site/crypto-luxury-store",
-    "category": "Businesses",
-    "subcategory": "Luxury Goods",
-    "categoryUrl": "https://monerica.com/businesses/luxury-goods",
-    "status": "Scam",
-    "warning": "Listed as a scam: do not use.",
-    "country": "GB",
-    "founded": "2024-01-24",
-    "description": "Online store in Dudley, UK, selling luxury goods such as designer watches, handbags and fashion.",
-    "added": "2025-05-20",
-    "updated": "2026-11-10"
   },
   "crypto-prisoners": {
     "name": "Crypto Prisoners",
@@ -8713,6 +8700,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -8734,7 +8722,7 @@
     "founded": "2024-07-01",
     "description": "Instant cryptocurrency swap service for exchanging coins, including Monero (XMR).",
     "added": "2025-12-29",
-    "updated": "2026-11-13"
+    "updated": "2026-11-16"
   },
   "fujn-swap": {
     "name": "Fujn Swap",
@@ -9321,6 +9309,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Required",
     "tags": [
       "Account Not Required",
@@ -9335,7 +9324,7 @@
       "reviews": 1
     },
     "added": "2026-09-07",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "godex": {
     "name": "GoDex",
@@ -13686,6 +13675,7 @@
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "rates": "Float",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -13696,7 +13686,7 @@
     "founded": "2025-06-16",
     "description": "Fully anonymus exchange 24/7 (own liquidity / high volumes), no KYC. Available to everyone.",
     "added": "2025-10-17",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "mixpay": {
     "name": "MixPay",
@@ -17802,6 +17792,7 @@
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "rates": "Float",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -17817,7 +17808,7 @@
       "reviews": 2
     },
     "added": "2025-10-09",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "offcard-xyz": {
     "name": "OffCard.xyz",
@@ -17965,6 +17956,7 @@
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "liquidity": "Own",
+    "rates": "Fixed & Float",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -17978,7 +17970,7 @@
       "reviews": 1
     },
     "added": "2026-07-28",
-    "updated": "2026-07-28"
+    "updated": "2026-11-16"
   },
   "onion-monero-blockchain-explorer": {
     "name": "Onion Monero Blockchain Explorer",
@@ -22455,6 +22447,7 @@
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
+    "rates": "Fixed",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -22463,7 +22456,7 @@
     "founded": "2026-10-18",
     "description": "Swap service for Monero with no account, email or ID. Rate is the Kraken last price minus 0.5%, locked for 30 minutes. Orders are checked and paid out manually.",
     "added": "2026-10-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "silkpad-computers": {
     "name": "SilkPad Computers",
@@ -23571,7 +23564,7 @@
     "category": "Web Hosting",
     "subcategory": "Cloud Resellers",
     "categoryUrl": "https://monerica.com/web-hosting/cloud-resellers",
-    "status": "Admitted",
+    "status": "Questionable",
     "javascript": "Optional",
     "tags": [
       "Affiliate Program",
@@ -23580,7 +23573,7 @@
     "founded": "2017-01-08",
     "description": "Accountless, API-driven VPS hosting. Reseller of Vultr, DigitalOcean, and an un-named provider under \"Sporestack EU\"",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "spyderproxies": {
     "name": "SpyderProxies",
@@ -24262,6 +24255,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -24277,7 +24271,7 @@
     "founded": "2026-02-12",
     "description": "Non-custodial instant swap between XMR and USDC (Arbitrum). No account, no KYC. Available via web, Telegram bot, and API.",
     "added": "2026-02-15",
-    "updated": "2026-11-13"
+    "updated": "2026-11-16"
   },
   "swappix": {
     "name": "Swappix",
@@ -24365,6 +24359,7 @@
     "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Required",
     "tags": [
       "Account Not Required"
@@ -24373,7 +24368,7 @@
     "founded": "2025-02-08",
     "description": "Swap 2,000+ cryptocurrencies instantly with no KYC. Anonymous, secure, and trusted by 150K+ traders.",
     "added": "2026-03-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "swaps": {
     "name": "Swaps",
@@ -24543,6 +24538,7 @@
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Required",
     "tags": [
       "Account Not Required",
@@ -24552,7 +24548,7 @@
     "founded": "2019-11-15",
     "description": "Instant cryptocurrency swap service listing over 500 Monero (XMR) trading pairs for exchanging XMR with other coins and tokens.",
     "added": "2022-11-13",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "swapter": {
     "name": "Swapter",
@@ -26176,6 +26172,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed",
     "javascript": "Required",
     "tags": [
       "Account Not Required",
@@ -26185,7 +26182,7 @@
     "founded": "2026-09-27",
     "description": "Instant cross-chain swap aggregator, XMR/ZEC first-class \u2014 370+ coins, fixed rates, no account, no KYC, no logs. Order is just a URL.",
     "added": "2026-09-28",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "veldt-gold": {
     "name": "Veldt Gold",
@@ -28264,6 +28261,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "tags": [
       "Account Not Required",
@@ -28278,7 +28276,7 @@
       "reviews": 2
     },
     "added": "2025-08-15",
-    "updated": "2026-11-12"
+    "updated": "2026-11-16"
   },
   "xmrsafe": {
     "name": "XMRsafe",
@@ -28518,6 +28516,7 @@
     "status": "Questionable",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -28537,7 +28536,7 @@
     "founded": "2023-06-17",
     "description": "Exchange xmr and receive funds from legal exchange, fast swaps, loyalty programm (more swaps lower fees) in aml trigger return to the sender's address",
     "added": "2026-09-09",
-    "updated": "2026-11-13"
+    "updated": "2026-11-16"
   },
   "yewtu-be": {
     "name": "Yewtu.be",
@@ -28768,6 +28767,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -28800,7 +28800,7 @@
     "founded": "2026-05-09",
     "description": "Swap Monero (XMR) and 1,000+ cryptocurrencies with live fixed or floating rates, no account required, and direct wallet-to-wallet delivery.",
     "added": "2026-07-25",
-    "updated": "2026-11-13"
+    "updated": "2026-11-16"
   },
   "zeto": {
     "name": "ZETO",

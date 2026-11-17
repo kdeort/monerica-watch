@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-17T00:42:40Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "SporeStack",
+    "slug": "sporestack",
+    "category": "Web Hosting \u203a Cloud Resellers",
+    "profileUrl": "https://monerica.com/site/sporestack",
+    "detail": "Status changed: Admitted \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-17T00:42:40Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Crypto Luxury Store",
+    "slug": "crypto-luxury-store",
+    "category": "Businesses \u203a Luxury Goods",
+    "profileUrl": "https://monerica.com/site/crypto-luxury-store",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
     "timestamp": "2026-11-16T18:44:01Z",
     "type": "STATUS_CHANGE",
     "severity": "high",
