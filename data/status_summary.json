@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-17T02:36:15Z",
-  "total": 1446,
+  "generated": "2026-11-17T12:44:31Z",
+  "total": 1439,
   "verified": 290,
-  "admitted": 998,
-  "questionable": 98,
-  "scam": 60,
-  "no_kyc": 366,
+  "admitted": 994,
+  "questionable": 97,
+  "scam": 58,
+  "no_kyc": 361,
   "tor_enabled": 150,
   "active_warnings": [
     {
@@ -309,16 +309,6 @@
       "updated": "2026-11-13"
     },
     {
-      "name": "0trace",
-      "slug": "0trace",
-      "profileUrl": "https://monerica.com/site/0trace",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Scam",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
       "name": "1984 Hosting",
       "slug": "1984-hosting",
       "profileUrl": "https://monerica.com/site/1984-hosting",
@@ -506,6 +496,16 @@
       "status": "Scam",
       "kycPolicy": "Not Stated",
       "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-12"
+    },
+    {
+      "name": "Cloudarion",
+      "slug": "cloudarion",
+      "profileUrl": "https://monerica.com/site/cloudarion",
+      "category": "Web Hosting \u203a VPS Hosting",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
       "updated": "2026-11-12"
     }
   ]

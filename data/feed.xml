@@ -4,7 +4,61 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Tue, 17 Nov 2026 06:57:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:49:02 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] ONIX — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/onix</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">onix-NEW_LISTING-2026-11-17T12:49:02Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] 0trace — Removed from directory (was Scam)</title>
+      <link>https://monerica.com/site/0trace</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Removed from directory (was Scam)</description>
+      <guid isPermaLink="false">0trace-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] BarbadosExchange — Removed from directory (was Questionable)</title>
+      <link>https://monerica.com/site/barbadosexchange</link>
+      <description>Category: Exchanges › Aggregators | Removed from directory (was Questionable)</description>
+      <guid isPermaLink="false">barbadosexchange-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] Cipher Cards — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/cipher-cards</link>
+      <description>Category: Cards › Reloadable Cards | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">cipher-cards-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] Decentraleyes — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/decentraleyes</link>
+      <description>Category: Non-Profits › Technologies | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">decentraleyes-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] di Monero - Digital Asset Manager — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/di-monero-digital-asset-manager</link>
+      <description>Category: Businesses › Digital Goods/ Services | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">di-monero-digital-asset-manager-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] Secrex — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/secrex</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">secrex-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] TidoEx — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/tidoex</link>
+      <description>Category: Exchanges › Centralized Exchanges (Account Required) | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">tidoex-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] Xedo — Removed from directory (was Scam)</title>
+      <link>https://monerica.com/site/xedo</link>
+      <description>Category: Phone &amp; SMS › SMS Verification &amp; Virtual Numbers | Removed from directory (was Scam)</description>
+      <guid isPermaLink="false">xedo-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] SporeStack — Status changed: Admitted → Questionable</title>
       <link>https://monerica.com/site/sporestack</link>
@@ -190,60 +244,6 @@
       <link>https://monerica.com/site/iceswap</link>
       <description>Category: Exchanges › Aggregators | Added to directory (Status: Admitted, KYC: Not Stated)</description>
       <guid isPermaLink="false">iceswap-NEW_LISTING-2026-11-11T18:42:11Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] IronBalkans — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/ironbalkans</link>
-      <description>Category: Web Hosting › VPS Hosting | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">ironbalkans-NEW_LISTING-2026-11-11T18:42:11Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] LNVPS — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/lnvps</link>
-      <description>Category: Web Hosting › VPS Hosting | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">lnvps-NEW_LISTING-2026-11-11T18:42:11Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Monero in Ukrainian — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/monero-in-ukrainian</link>
-      <description>Category: Education › Guides | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">monero-in-ukrainian-NEW_LISTING-2026-11-11T18:42:11Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Mexc — Removed from directory (was Questionable)</title>
-      <link>https://monerica.com/site/mexc</link>
-      <description>Category: Exchanges › Centralized Exchanges (Account Required) | Removed from directory (was Questionable)</description>
-      <guid isPermaLink="false">mexc-REMOVED_LISTING-2026-11-11T18:42:11Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] OffCard.xyz — Status changed: Verified → Questionable</title>
-      <link>https://monerica.com/site/offcard-xyz</link>
-      <description>Category: Cards › Reloadable Cards | Status changed: Verified → Questionable</description>
-      <guid isPermaLink="false">offcard-xyz-STATUS_CHANGE-2026-11-11T06:53:47Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] OnionSwap — Status changed: Admitted → Questionable</title>
-      <link>https://monerica.com/site/onionswap</link>
-      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Admitted → Questionable</description>
-      <guid isPermaLink="false">onionswap-STATUS_CHANGE-2026-11-11T06:53:47Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] goAFK — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/goafk</link>
-      <description>Category: Phone &amp; SMS › eSIMs &amp; SIM Cards | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">goafk-NEW_LISTING-2026-11-11T00:37:31Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] PhantomVPS — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/phantomvps</link>
-      <description>Category: Web Hosting › VPS Hosting | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">phantomvps-STATUS_CHANGE-2026-11-11T00:37:31Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] SwapDusk — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/swapdusk</link>
-      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">swapdusk-NEW_LISTING-2026-11-11T00:37:31Z</guid>
     </item>
   </channel>
 </rss>

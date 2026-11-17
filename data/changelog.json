@@ -1,5 +1,95 @@
 [
   {
+    "timestamp": "2026-11-17T12:49:02Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "ONIX",
+    "slug": "onix",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/onix",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-17T12:49:02Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "0trace",
+    "slug": "0trace",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/0trace",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
+    "timestamp": "2026-11-17T12:49:02Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "BarbadosExchange",
+    "slug": "barbadosexchange",
+    "category": "Exchanges \u203a Aggregators",
+    "profileUrl": "https://monerica.com/site/barbadosexchange",
+    "detail": "Removed from directory (was Questionable)"
+  },
+  {
+    "timestamp": "2026-11-17T12:49:02Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Cipher Cards",
+    "slug": "cipher-cards",
+    "category": "Cards \u203a Reloadable Cards",
+    "profileUrl": "https://monerica.com/site/cipher-cards",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-17T12:49:02Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Decentraleyes",
+    "slug": "decentraleyes",
+    "category": "Non-Profits \u203a Technologies",
+    "profileUrl": "https://monerica.com/site/decentraleyes",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-17T12:49:02Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "di Monero - Digital Asset Manager",
+    "slug": "di-monero-digital-asset-manager",
+    "category": "Businesses \u203a Digital Goods/ Services",
+    "profileUrl": "https://monerica.com/site/di-monero-digital-asset-manager",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-17T12:49:02Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Secrex",
+    "slug": "secrex",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/secrex",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-17T12:49:02Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "TidoEx",
+    "slug": "tidoex",
+    "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
+    "profileUrl": "https://monerica.com/site/tidoex",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-17T12:49:02Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Xedo",
+    "slug": "xedo",
+    "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+    "profileUrl": "https://monerica.com/site/xedo",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
     "timestamp": "2026-11-17T00:42:40Z",
     "type": "STATUS_CHANGE",
     "severity": "high",
