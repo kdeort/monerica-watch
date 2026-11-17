@@ -8972,6 +8972,10 @@
     ],
     "founded": "2026-04-01",
     "description": "No-KYC VPS on DigitalOcean and OVHcloud across 14 countries and 18 cities. Hourly billing from a prepaid balance, full root access, token-based account, Tor onion site.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-06-20",
     "updated": "2026-11-12"
   },
@@ -17317,7 +17321,7 @@
     "founded": "2026-05-13",
     "description": "Privacy-first VPS and dedicated servers in Stockholm, Helsinki, Oslo and Reykjavik. No KYC, email-only signup. VPS from $3.90/mo, bare metal from $69/mo.",
     "added": "2026-09-04",
-    "updated": "2026-11-12"
+    "updated": "2026-11-17"
   },
   "nosint": {
     "name": "NoSINT",
@@ -17923,6 +17927,10 @@
       {
         "label": "Tor",
         "url": "http://onixgwsmpvyqpm5xzqy3gh7n2bq6frnrzj2xm5x56zh6rmd6sr6xbuqd.onion/"
+      },
+      {
+        "label": "I2P",
+        "url": "http://s2g4mykeukgzmpfbsz72ytc4ia5pcw3j3yywd3kehsfrpgpfntxa.b32.i2p/?lang=en"
       }
     ],
     "category": "Exchanges",
@@ -17939,12 +17947,11 @@
     "tags": [
       "Account Not Required",
       "API Available",
-      "DMCA Ignored",
       "Email Not Required",
       "Letter of Guarantee"
     ],
     "founded": "2026-10-29",
-    "description": "Instant crypto exchange with floating or fixed rates, order tracking by order number and PGP-signed receipts. Available over Tor with a multilingual interface.",
+    "description": "Instant crypto exchange with floating or fixed rates, order tracking by order number and PGP-signed receipts. Available over Tor and I2P with a multilingual interface.",
     "added": "2026-11-17",
     "updated": "2026-11-17"
   },
@@ -22877,7 +22884,7 @@
     "founded": "2025-09-29",
     "description": "Virtual numbers for SMS verification codes: 1,304 platforms, 145 countries, from $0.07 a code; 7-30 day rentals. Email-only sign-up.",
     "added": "2026-09-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-17"
   },
   "sms-lease": {
     "name": "sms.lease",
@@ -24019,12 +24026,6 @@
     "slug": "swapdusk",
     "profileUrl": "https://monerica.com/site/swapdusk",
     "website": "https://swapdusk.com",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "https://swapdusk.com/terms.html"
-      }
-    ],
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
@@ -24039,7 +24040,7 @@
     ],
     "description": "Instant crypto swaps across 21 coins and networks including BTC, XMR, LTC, USDT and PIVX. Floating rates, itemized fees shown before you send, and swap tracking by ID.",
     "added": "2026-11-10",
-    "updated": "2026-11-12"
+    "updated": "2026-11-17"
   },
   "swapgate": {
     "name": "Swapgate",

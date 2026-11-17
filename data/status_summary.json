@@ -1,13 +1,33 @@
 {
-  "generated": "2026-11-17T12:44:31Z",
+  "generated": "2026-11-17T15:57:24Z",
   "total": 1439,
   "verified": 290,
   "admitted": 994,
   "questionable": 97,
   "scam": 58,
   "no_kyc": 361,
-  "tor_enabled": 150,
+  "tor_enabled": 149,
   "active_warnings": [
+    {
+      "name": "NordBastion",
+      "slug": "nordbastion",
+      "profileUrl": "https://monerica.com/site/nordbastion",
+      "category": "Web Hosting \u203a VPS Hosting",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-17"
+    },
+    {
+      "name": "SMS Activate",
+      "slug": "sms-activate",
+      "profileUrl": "https://monerica.com/site/sms-activate",
+      "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-17"
+    },
     {
       "name": "67.tax",
       "slug": "67-tax",
@@ -482,26 +502,6 @@
       "name": "CharityHost.org",
       "slug": "charityhost-org",
       "profileUrl": "https://monerica.com/site/charityhost-org",
-      "category": "Web Hosting \u203a VPS Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "CJS CDKeys",
-      "slug": "cjs-cdkeys",
-      "profileUrl": "https://monerica.com/site/cjs-cdkeys",
-      "category": "Businesses \u203a Digital Goods/ Services",
-      "status": "Scam",
-      "kycPolicy": "Not Stated",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Cloudarion",
-      "slug": "cloudarion",
-      "profileUrl": "https://monerica.com/site/cloudarion",
       "category": "Web Hosting \u203a VPS Hosting",
       "status": "Questionable",
       "kycPolicy": "Not Stated",
