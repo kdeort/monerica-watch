@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-18T18:42:33Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "mintit",
+    "slug": "mintit",
+    "category": "Merchant Services \u203a Open Source Projects",
+    "profileUrl": "https://monerica.com/site/mintit",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-18T18:42:33Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "tf2cart",
+    "slug": "tf2cart",
+    "category": "Businesses \u203a Digital Goods/ Services",
+    "profileUrl": "https://monerica.com/site/tf2cart",
+    "detail": "Added to directory (Status: Admitted, KYC: Varies By Provider)"
+  },
+  {
+    "timestamp": "2026-11-18T18:42:33Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "XMRVCC",
+    "slug": "xmrvcc",
+    "category": "Cards \u203a Prepaid Cards",
+    "profileUrl": "https://monerica.com/site/xmrvcc",
+    "detail": "Removed from directory (was Verified)"
+  },
+  {
     "timestamp": "2026-11-18T06:57:28Z",
     "type": "NEW_LISTING",
     "severity": "info",

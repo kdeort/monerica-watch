@@ -9730,7 +9730,7 @@
     "name": "Heleket",
     "slug": "heleket",
     "profileUrl": "https://monerica.com/site/heleket",
-    "website": "https://heleket.com",
+    "website": "heleket.hk",
     "category": "Merchant Services",
     "subcategory": "Integrations",
     "categoryUrl": "https://monerica.com/merchant-services/integrations",
@@ -9747,7 +9747,7 @@
       "reviews": 1
     },
     "added": "2025-06-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "helihost": {
     "name": "HelioHost",
@@ -13529,6 +13529,23 @@
     "description": "Calculates Monero (XMR) mining profitability for owned and rented hashrate, helping miners estimate earnings, costs, and potential returns.",
     "added": "2026-08-14",
     "updated": "2026-11-12"
+  },
+  "mintit": {
+    "name": "mintit",
+    "slug": "mintit",
+    "profileUrl": "https://monerica.com/site/mintit",
+    "website": "https://mintit.dev",
+    "category": "Merchant Services",
+    "subcategory": "Open Source Projects",
+    "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
+    "status": "Admitted",
+    "tags": [
+      "API Available"
+    ],
+    "founded": "2026-06-30",
+    "description": "Self-hosted, non-custodial payment processor for Monero with fixed fiat-priced invoices, signed webhooks, an admin dashboard and a developer API.",
+    "added": "2026-11-18",
+    "updated": "2026-11-18"
   },
   "miradex": {
     "name": "Miradex",
@@ -24998,6 +25015,21 @@
     "added": "2024-12-11",
     "updated": "2026-11-12"
   },
+  "tf2cart": {
+    "name": "tf2cart",
+    "slug": "tf2cart",
+    "profileUrl": "https://monerica.com/site/tf2cart",
+    "website": "https://tf2cart.com/",
+    "category": "Businesses",
+    "subcategory": "Digital Goods/ Services",
+    "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
+    "status": "Admitted",
+    "kycPolicy": "Varies By Provider",
+    "founded": "2026-05-13",
+    "description": "Buy and sell Team Fortress 2 keys and Tour of Duty tickets with Steam sign-in, quotes and automated trade-bot delivery.",
+    "added": "2026-11-18",
+    "updated": "2026-11-18"
+  },
   "tgcrawl": {
     "name": "TGCrawl",
     "slug": "tgcrawl",
@@ -28327,31 +28359,6 @@
     "founded": "2023-12-16",
     "description": "Belgium-based shop selling XmrSigner and SeedSigner hardware wallets, titanium and steel seed backups, smartcards and 3D-printed tools for Monero and Bitcoin self-custody.",
     "added": "2024-03-02",
-    "updated": "2026-11-12"
-  },
-  "xmrvcc": {
-    "name": "XMRVCC",
-    "slug": "xmrvcc",
-    "profileUrl": "https://monerica.com/site/xmrvcc",
-    "website": "https://xmrvcc.com",
-    "category": "Cards",
-    "subcategory": "Prepaid Cards",
-    "categoryUrl": "https://monerica.com/cards/prepaid-cards",
-    "status": "Verified",
-    "kycPolicy": "Guaranteed No KYC",
-    "javascript": "Optional",
-    "tags": [
-      "Account Not Required",
-      "Email Not Required"
-    ],
-    "country": "CY",
-    "founded": "2025-10-15",
-    "description": "Create a disposable VCC order, save your Order ID, and track delivery from one secure page. Also sells eSIMs and gift cards.",
-    "rating": {
-      "average": 4.9,
-      "reviews": 9
-    },
-    "added": "2026-04-08",
     "updated": "2026-11-12"
   },
   "xpg": {
