@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Wed, 18 Nov 2026 00:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:57:28 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] Hollymolly — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/hollymolly</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">hollymolly-NEW_LISTING-2026-11-18T06:57:28Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Urban eSIM — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/urban-esim</link>
+      <description>Category: Phone &amp; SMS › eSIMs &amp; SIM Cards | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">urban-esim-NEW_LISTING-2026-11-18T06:57:28Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] NoIDeSim — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/noidesim</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/nocthost</link>
       <description>Category: Web Hosting › Cloud Resellers | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
       <guid isPermaLink="false">nocthost-NEW_LISTING-2026-11-12T00:51:09Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] BitInfoCharts — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/bitinfocharts</link>
-      <description>Category: Utilities › Blockchain Explorers | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">bitinfocharts-STATUS_CHANGE-2026-11-11T18:42:11Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] DEX.fo — Added to directory (Status: Verified, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/dex-fo</link>
-      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Verified, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">dex-fo-NEW_LISTING-2026-11-11T18:42:11Z</guid>
     </item>
   </channel>
 </rss>

@@ -5782,7 +5782,7 @@
     "name": "Crypto Train",
     "slug": "crypto-train",
     "profileUrl": "https://monerica.com/site/crypto-train",
-    "website": "https://www.crypto-train.com",
+    "website": "https://www.crypto-train.com/?utm_source=monerica",
     "category": "Exchanges",
     "subcategory": "Aggregators",
     "categoryUrl": "https://monerica.com/exchanges/aggregators",
@@ -5795,9 +5795,9 @@
       "Email Not Required"
     ],
     "founded": "2026-09-10",
-    "description": "Compares live quotes from eight instant-swap providers and can route one transfer across several at once, showing what the split costs. Non-custodial, no account.",
+    "description": "Compares instant-swap providers at the same second, with each one's KYC grade and measured price record. No account; you swap directly with the provider.",
     "added": "2026-09-28",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "crypto-box-compact": {
     "name": "Crypto-Box-compact",
@@ -10081,6 +10081,33 @@
     "description": "Non-custodial peer-to-peer Bitcoin trading platform using multisig escrow. Users set their own offers, currencies and payment methods, which can include Monero (XMR).",
     "added": "2022-06-22",
     "updated": "2026-11-13"
+  },
+  "hollymolly": {
+    "name": "Hollymolly",
+    "slug": "hollymolly",
+    "profileUrl": "https://monerica.com/site/hollymolly",
+    "website": "https://hollymolly.io/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://hllymlyl73oqlawq7rcstrc545uxrdy3n4z6spvm7ffgszlvpukagqyd.onion/"
+      }
+    ],
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
+    "tags": [
+      "Account Not Required",
+      "API Available",
+      "Email Not Required"
+    ],
+    "founded": "2026-02-05",
+    "description": "Private no-KYC crypto swap site with a pure HTML and CSS interface that works without JavaScript, a Tor mirror, automatic refunds to your refund address and an API.",
+    "added": "2026-11-18",
+    "updated": "2026-11-18"
   },
   "honest-people": {
     "name": "Honest People",
@@ -25798,6 +25825,21 @@
     "description": "Reddit marketing service selling post and comment upvotes and downvotes, hand-written Reddit posts and comments, aged accounts and post removal.",
     "added": "2026-08-31",
     "updated": "2026-11-12"
+  },
+  "urban-esim": {
+    "name": "Urban eSIM",
+    "slug": "urban-esim",
+    "profileUrl": "https://monerica.com/site/urban-esim",
+    "website": "https://urbanesim.com",
+    "category": "Phone & SMS",
+    "subcategory": "eSIMs & SIM Cards",
+    "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "founded": "2026-10-12",
+    "description": "Travel eSIM data plans for 190+ countries with travel, lifetime and unlimited bundles. Install by QR code in minutes, top up anytime and keep your home number.",
+    "added": "2026-11-18",
+    "updated": "2026-11-18"
   },
   "use-monero": {
     "name": "Use Monero",

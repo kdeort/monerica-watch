@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-17T23:20:47Z",
-  "total": 1441,
+  "generated": "2026-11-18T05:11:45Z",
+  "total": 1443,
   "verified": 290,
-  "admitted": 996,
+  "admitted": 998,
   "questionable": 97,
   "scam": 58,
-  "no_kyc": 362,
-  "tor_enabled": 150,
+  "no_kyc": 363,
+  "tor_enabled": 151,
   "active_warnings": [
     {
       "name": "NordBastion",

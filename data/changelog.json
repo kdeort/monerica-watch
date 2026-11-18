@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-18T06:57:28Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Hollymolly",
+    "slug": "hollymolly",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/hollymolly",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-18T06:57:28Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Urban eSIM",
+    "slug": "urban-esim",
+    "category": "Phone & SMS \u203a eSIMs & SIM Cards",
+    "profileUrl": "https://monerica.com/site/urban-esim",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-18T00:50:37Z",
     "type": "NEW_LISTING",
     "severity": "info",
