@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Tue, 17 Nov 2026 18:47:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:50:37 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] NoIDeSim — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/noidesim</link>
+      <description>Category: Phone &amp; SMS › eSIMs &amp; SIM Cards | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">noidesim-NEW_LISTING-2026-11-18T00:50:37Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Workstation Rent — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/workstation-rent</link>
+      <description>Category: Web Hosting › GPU Servers | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">workstation-rent-NEW_LISTING-2026-11-18T00:50:37Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] ONIX — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/onix</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/dex-fo</link>
       <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Verified, KYC: Guaranteed No KYC)</description>
       <guid isPermaLink="false">dex-fo-NEW_LISTING-2026-11-11T18:42:11Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Freedomia — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/freedomia</link>
-      <description>Category: Cards › Reloadable Cards | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">freedomia-STATUS_CHANGE-2026-11-11T18:42:11Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] IceSwap — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/iceswap</link>
-      <description>Category: Exchanges › Aggregators | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">iceswap-NEW_LISTING-2026-11-11T18:42:11Z</guid>
     </item>
   </channel>
 </rss>

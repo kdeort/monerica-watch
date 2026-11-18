@@ -10905,6 +10905,10 @@
     "country": "RO",
     "founded": "2026-09-01",
     "description": "No-KYC KVM VPS hosting in Romania with dedicated vCPU and RAM, SSD storage, full root access, DDoS filtering and a random account ID with recovery key at signup.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-11-11",
     "updated": "2026-11-11"
   },
@@ -17197,6 +17201,32 @@
     "added": "2026-05-24",
     "updated": "2026-11-12"
   },
+  "noidesim": {
+    "name": "NoIDeSim",
+    "slug": "noidesim",
+    "profileUrl": "https://monerica.com/site/noidesim",
+    "website": "https://www.noidesim.com",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://pn6cgq3ea32ojfaycdtd6ulzxhyqqrmg6fobj6dyha44gcyviuwxsqid.onion"
+      }
+    ],
+    "category": "Phone & SMS",
+    "subcategory": "eSIMs & SIM Cards",
+    "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
+    "restrictions": {
+      "vpn": "Allowed",
+      "tor": "Allowed"
+    },
+    "founded": "2026-09-05",
+    "description": "Prepaid travel data eSIMs for 199 countries and 26 regions. No ID, email or account; the QR code is delivered on the order page within minutes.",
+    "added": "2026-11-17",
+    "updated": "2026-11-17"
+  },
   "noirtrade": {
     "name": "NoirTrade",
     "slug": "noirtrade",
@@ -18962,7 +18992,7 @@
     "description": "A modern platform for instant and anonymous cryptocurrency exchange. Supports more than 1000 different coins.",
     "rating": {
       "average": 5,
-      "reviews": 3
+      "reviews": 4
     },
     "added": "2025-01-22",
     "updated": "2026-11-12"
@@ -26931,6 +26961,21 @@
     "description": "Official getmonero.org page listing Monero community workgroups, such as the Core Team, and where the volunteers developing and researching Monero meet and coordinate.",
     "added": "2022-06-22",
     "updated": "2026-11-12"
+  },
+  "workstation-rent": {
+    "name": "Workstation Rent",
+    "slug": "workstation-rent",
+    "profileUrl": "https://monerica.com/site/workstation-rent",
+    "website": "https://workstation.rent/",
+    "category": "Web Hosting",
+    "subcategory": "GPU Servers",
+    "categoryUrl": "https://monerica.com/web-hosting/gpu-servers",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "founded": "2026-11-11",
+    "description": "Dedicated Mac Studio (128 GB) and RTX PRO 6000 (96 GB VRAM) rentals by the week or month. Run AI chat or ComfyUI in your browser, or connect over SSH and remote desktop.",
+    "added": "2026-11-17",
+    "updated": "2026-11-17"
   },
   "wormgpt": {
     "name": "WormGPT",

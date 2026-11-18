@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-18T00:50:37Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "NoIDeSim",
+    "slug": "noidesim",
+    "category": "Phone & SMS \u203a eSIMs & SIM Cards",
+    "profileUrl": "https://monerica.com/site/noidesim",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-18T00:50:37Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Workstation Rent",
+    "slug": "workstation-rent",
+    "category": "Web Hosting \u203a GPU Servers",
+    "profileUrl": "https://monerica.com/site/workstation-rent",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-17T12:49:02Z",
     "type": "NEW_LISTING",
     "severity": "info",
