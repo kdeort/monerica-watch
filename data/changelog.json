@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-19T06:57:12Z",
+    "type": "KYC_CHANGE",
+    "severity": "medium",
+    "name": "mintit",
+    "slug": "mintit",
+    "category": "Merchant Services \u203a Open Source Projects",
+    "profileUrl": "https://monerica.com/site/mintit",
+    "detail": "KYC policy changed: Not Stated \u2192 Guaranteed No KYC"
+  },
+  {
     "timestamp": "2026-11-19T00:51:24Z",
     "type": "KYC_CHANGE",
     "severity": "medium",

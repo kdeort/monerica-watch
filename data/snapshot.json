@@ -3803,6 +3803,10 @@
     "country": "AE",
     "founded": "2022-05-31",
     "description": "Buy a virtual phone number and quickly receive SMS Verification (OTP) from any platform like Telegram, WhatsApp, etc.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2025-07-11",
     "updated": "2026-11-12"
   },
@@ -13549,13 +13553,18 @@
     "subcategory": "Open Source Projects",
     "categoryUrl": "https://monerica.com/merchant-services/open-source-projects",
     "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "restrictions": {
+      "vpn": "Allowed",
+      "tor": "Allowed"
+    },
     "tags": [
       "API Available"
     ],
     "founded": "2026-06-30",
-    "description": "Self-hosted, non-custodial payment processor for Monero with fixed fiat-priced invoices, signed webhooks, an admin dashboard and a developer API.",
+    "description": "Self-hosted, non-custodial Monero payment processor. Fiat-priced invoices, checkout pages, signed webhooks, admin dashboard and developer API. No spend keys on your server.",
     "added": "2026-11-18",
-    "updated": "2026-11-18"
+    "updated": "2026-11-19"
   },
   "miradex": {
     "name": "Miradex",
@@ -16806,7 +16815,7 @@
     "description": "Lets you access ChatGPT, Claude and all other top LLMs + image models without subscription.",
     "rating": {
       "average": 5,
-      "reviews": 1
+      "reviews": 2
     },
     "added": "2024-10-31",
     "updated": "2026-11-18"
@@ -21803,8 +21812,8 @@
     "founded": "2021-07-18",
     "description": "Anonymous VPS, cloud and dedicated servers plus web hosting in the Netherlands, Germany, Finland, the USA, Canada and Singapore.",
     "rating": {
-      "average": 3.8,
-      "reviews": 5
+      "average": 4,
+      "reviews": 6
     },
     "added": "2023-09-12",
     "updated": "2026-11-12"
