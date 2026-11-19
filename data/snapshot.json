@@ -1477,6 +1477,21 @@
     "added": "2023-08-23",
     "updated": "2026-11-12"
   },
+  "anyip": {
+    "name": "anyIP",
+    "slug": "anyip",
+    "profileUrl": "https://monerica.com/site/anyip",
+    "website": "https://anyip.io/",
+    "category": "VPNs & Proxies",
+    "subcategory": "Proxies",
+    "categoryUrl": "https://monerica.com/vpns/proxies",
+    "status": "Admitted",
+    "kycPolicy": "Shotgun KYC",
+    "country": "SG",
+    "description": "Residential and mobile proxies on one plan, with 116M+ IPs in 195+ countries, HTTP/HTTPS, SOCKS5 and UDP, unlimited IP rotation, long sticky sessions and city-level targeting.",
+    "added": "2026-11-19",
+    "updated": "2026-11-19"
+  },
   "apo-wallet": {
     "name": "APO wallet",
     "slug": "apo-wallet",
@@ -2805,7 +2820,7 @@
     "founded": "2022-07-19",
     "description": "Online dealer selling LBMA-certified gold and silver coins and bars, with live spot pricing and insured worldwide delivery.",
     "added": "2024-08-14",
-    "updated": "2026-11-12"
+    "updated": "2026-11-19"
   },
   "bithost": {
     "name": "bithost",
@@ -10715,7 +10730,7 @@
     "category": "Web Hosting",
     "subcategory": "Offshore & Privacy Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/offshore",
-    "status": "Admitted",
+    "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "tags": [
@@ -10726,8 +10741,12 @@
     "country": "US",
     "founded": "2022-08-22",
     "description": "Multi-cloud VPS hosting with email-only signup and Tor-friendly checkout.",
+    "rating": {
+      "average": 1,
+      "reviews": 1
+    },
     "added": "2024-06-03",
-    "updated": "2026-11-10"
+    "updated": "2026-11-19"
   },
   "instant-exchangers": {
     "name": "Instant Exchangers",

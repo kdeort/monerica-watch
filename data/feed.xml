@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Thu, 19 Nov 2026 12:56:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:48:30 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] anyIP — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
+      <link>https://monerica.com/site/anyip</link>
+      <description>Category: VPNs &amp; Proxies › Proxies | Added to directory (Status: Admitted, KYC: Shotgun KYC)</description>
+      <guid isPermaLink="false">anyip-NEW_LISTING-2026-11-19T18:48:30Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] Initech — Status changed: Admitted → Questionable</title>
+      <link>https://monerica.com/site/initech</link>
+      <description>Category: Web Hosting › Offshore &amp; Privacy Hosting | Status changed: Admitted → Questionable</description>
+      <guid isPermaLink="false">initech-STATUS_CHANGE-2026-11-19T18:48:30Z</guid>
+    </item>
     <item>
       <title>[KYC_CHANGE] mintit — KYC policy changed: Not Stated → Guaranteed No KYC</title>
       <link>https://monerica.com/site/mintit</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/beam-up-music</link>
       <description>Category: Media › Music &amp; Radio | Added to directory (Status: Admitted, KYC: Not Stated)</description>
       <guid isPermaLink="false">beam-up-music-NEW_LISTING-2026-11-13T18:39:09Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] HTTProxy — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/httproxy</link>
-      <description>Category: VPNs &amp; Proxies › Proxies | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">httproxy-NEW_LISTING-2026-11-13T18:39:09Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Swaplume — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
-      <link>https://monerica.com/site/swaplume</link>
-      <description>Category: Exchanges › Aggregators | Added to directory (Status: Admitted, KYC: Varies By Provider)</description>
-      <guid isPermaLink="false">swaplume-NEW_LISTING-2026-11-13T18:39:09Z</guid>
     </item>
   </channel>
 </rss>

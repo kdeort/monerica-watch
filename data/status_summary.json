@@ -1,13 +1,33 @@
 {
-  "generated": "2026-11-19T12:32:23Z",
-  "total": 1444,
+  "generated": "2026-11-19T18:44:16Z",
+  "total": 1445,
   "verified": 289,
   "admitted": 1000,
-  "questionable": 97,
+  "questionable": 98,
   "scam": 58,
   "no_kyc": 363,
   "tor_enabled": 151,
   "active_warnings": [
+    {
+      "name": "Bitgolder",
+      "slug": "bitgolder",
+      "profileUrl": "https://monerica.com/site/bitgolder",
+      "category": "Businesses \u203a Precious Metals",
+      "status": "Scam",
+      "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-19"
+    },
+    {
+      "name": "Initech",
+      "slug": "initech",
+      "profileUrl": "https://monerica.com/site/initech",
+      "category": "Web Hosting \u203a Offshore & Privacy Hosting",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-19"
+    },
     {
       "name": "NordBastion",
       "slug": "nordbastion",
@@ -439,16 +459,6 @@
       "updated": "2026-11-12"
     },
     {
-      "name": "Bitgolder",
-      "slug": "bitgolder",
-      "profileUrl": "https://monerica.com/site/bitgolder",
-      "category": "Businesses \u203a Precious Metals",
-      "status": "Scam",
-      "kycPolicy": "Not Stated",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
       "name": "BloomSMS",
       "slug": "bloomsms",
       "profileUrl": "https://monerica.com/site/bloomsms",
@@ -496,16 +506,6 @@
       "status": "Scam",
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "CharityHost.org",
-      "slug": "charityhost-org",
-      "profileUrl": "https://monerica.com/site/charityhost-org",
-      "category": "Web Hosting \u203a VPS Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
       "updated": "2026-11-12"
     }
   ]
