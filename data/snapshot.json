@@ -256,7 +256,7 @@
       "reviews": 1
     },
     "added": "2025-10-02",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "3kita-exchange": {
     "name": "3Kita Exchange",
@@ -269,6 +269,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -278,7 +279,7 @@
     "founded": "2026-10-02",
     "description": "Instant swaps between XMR, BTC, USDT, ZEC, ETH, SOL and LTC with no account required. Offers fixed and floating rates and order tracking by link.",
     "added": "2026-10-16",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "3v-hosting": {
     "name": "3v-Hosting",
@@ -559,6 +560,7 @@
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "tags": [
       "Account Not Required",
       "API Available",
@@ -568,7 +570,7 @@
     "founded": "2019-10-23",
     "description": "Web-based cryptocurrency swaps, including Bitcoin and Monero. Offers fixed and floating exchange rates, order tracking, and cryptocurrency tools.",
     "added": "2026-04-08",
-    "updated": "2026-09-19"
+    "updated": "2026-11-18"
   },
   "addy-io": {
     "name": "addy.io",
@@ -870,7 +872,7 @@
       "reviews": 2
     },
     "added": "2022-06-22",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "alkaline": {
     "name": "Alkaline",
@@ -1997,7 +1999,7 @@
       "reviews": 11
     },
     "added": "2025-12-09",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "bank-exit": {
     "name": "Bank Exit",
@@ -2048,7 +2050,7 @@
       "reviews": 2
     },
     "added": "2023-09-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "basedflare": {
     "name": "BasedFlare",
@@ -2131,7 +2133,7 @@
     "founded": "2021-05-18",
     "description": "Facial serums, soaps, face moisturizers, complexion cleansers and other beauty and skincare products for men and women.",
     "added": "2025-01-07",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "beehostingpro": {
     "name": "BeeHostingPro",
@@ -3361,7 +3363,7 @@
       "reviews": 4
     },
     "added": "2024-07-26",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "blynex": {
     "name": "Blynex",
@@ -3623,7 +3625,7 @@
       "reviews": 4
     },
     "added": "2025-03-06",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "btse": {
     "name": "Btse",
@@ -3927,7 +3929,7 @@
       "reviews": 2
     },
     "added": "2022-08-24",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "cake-wallet": {
     "name": "Cake Wallet",
@@ -4589,7 +4591,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "changer-man": {
     "name": "Changer-man",
@@ -4812,7 +4814,7 @@
       "reviews": 1
     },
     "added": "2024-10-10",
-    "updated": "2026-11-09"
+    "updated": "2026-11-18"
   },
   "cloud-climax": {
     "name": "Cloud Climax",
@@ -4877,11 +4879,12 @@
     "subcategory": "Digital Goods/ Services",
     "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
     "status": "Admitted",
+    "kycPolicy": "Rare KYC",
     "javascript": "Optional",
     "founded": "2026-01-18",
-    "description": "Buy and sell TF2 keys. Sign in with Steam, get a quote, and a trade bot delivers automatically.",
+    "description": "Buy and sell Team Fortress 2 keys with Steam sign-in, instant quotes and automated trade-bot delivery. Supports 1 to 4,000 keys per trade.",
     "added": "2026-09-24",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "cobalt": {
     "name": "Cobalt",
@@ -5075,7 +5078,7 @@
       "reviews": 3
     },
     "added": "2022-06-22",
-    "updated": "2026-11-09"
+    "updated": "2026-11-18"
   },
   "coincart-store": {
     "name": "Coincart.store",
@@ -5335,6 +5338,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -5344,7 +5348,7 @@
     "founded": "2018-05-30",
     "description": "Russian-language exchange service swapping Monero (XMR), Bitcoin, USDT and other crypto with rubles via Sberbank, Alfa Bank and other banks or cash, operating 24/7.",
     "added": "2025-12-08",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "coinrabbit": {
     "name": "Coinrabbit",
@@ -6114,6 +6118,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -6123,7 +6128,7 @@
     "founded": "2024-06-27",
     "description": "Instant crypto exchange with 1000+ pairs across 200+ coins, including Bitcoin, Ethereum, USDT and Monero (XMR). Non-custodial swaps with no account needed and 24/7 support.",
     "added": "2025-05-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "cryptwerk": {
     "name": "Cryptwerk",
@@ -6399,7 +6404,7 @@
       "reviews": 5
     },
     "added": "2025-03-13",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "cyphergoat-pro": {
     "name": "CypherGoat Pro",
@@ -7096,6 +7101,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Optional",
     "restrictions": {
       "countriesNotServed": [
@@ -7135,7 +7141,7 @@
       "reviews": 2
     },
     "added": "2025-09-14",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "ducks-party": {
     "name": "Ducks Party",
@@ -7603,7 +7609,7 @@
       "reviews": 3
     },
     "added": "2025-09-14",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "eunobit": {
     "name": "Eunobit",
@@ -7734,7 +7740,7 @@
       "reviews": 3
     },
     "added": "2023-09-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "expeer": {
     "name": "Expeer",
@@ -7851,6 +7857,7 @@
     "status": "Admitted",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -7885,7 +7892,7 @@
     "founded": "2022-12-27",
     "description": "Crypto exchange and business infrastructure offering swaps including Monero (XMR) to USDT, a live rates API, partner integration and TRON (TRX) energy rental.",
     "added": "2025-06-12",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "eylenburg-cloud-comparison": {
     "name": "Eylenburg Cloud Comparison",
@@ -8925,7 +8932,7 @@
       "reviews": 13
     },
     "added": "2026-01-06",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "ghostswap-app": {
     "name": "GhostSwap.app",
@@ -9190,7 +9197,7 @@
       "reviews": 2
     },
     "added": "2025-11-22",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "gobrrr": {
     "name": "GoBrrr",
@@ -9969,6 +9976,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own & Third-Party",
+    "rates": "Float",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -9978,7 +9986,7 @@
     "founded": "2026-10-14",
     "description": "KYC free zone we will never, under any circumstances, require our users to undergo KYC procedures. Swap BTC, ETH, XMR, ZEC & USDT anonymous, no account. No logs.",
     "added": "2026-10-15",
-    "updated": "2026-11-09"
+    "updated": "2026-11-18"
   },
   "hideour-name": {
     "name": "hideour.name",
@@ -10098,6 +10106,7 @@
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
+    "rates": "Fixed & Float",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -10979,7 +10988,7 @@
       "reviews": 1
     },
     "added": "2024-03-20",
-    "updated": "2026-09-28"
+    "updated": "2026-11-18"
   },
   "ishosting": {
     "name": "ishosting",
@@ -12564,6 +12573,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "tags": [
       "Account Not Required",
@@ -12573,7 +12583,7 @@
     "founded": "2025-11-17",
     "description": "Instant cryptocurrency exchange for swapping BTC, ETH, LTC, SOL, USDT and Monero (XMR) with no account needed, a 0.4% fee and a Telegram bot.",
     "added": "2026-02-25",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "lizex": {
     "name": "Lizex",
@@ -15036,7 +15046,7 @@
       "reviews": 2
     },
     "added": "2025-12-30",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "monero-social": {
     "name": "Monero Social",
@@ -16799,7 +16809,7 @@
       "reviews": 1
     },
     "added": "2024-10-31",
-    "updated": "2026-11-15"
+    "updated": "2026-11-18"
   },
   "nanswap": {
     "name": "Nanswap",
@@ -17004,7 +17014,7 @@
       "reviews": 1
     },
     "added": "2025-08-23",
-    "updated": "2026-08-09"
+    "updated": "2026-11-18"
   },
   "neverkyc-com": {
     "name": "NEVERKYC.COM",
@@ -17458,7 +17468,7 @@
       "reviews": 1
     },
     "added": "2023-12-27",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "novonode": {
     "name": "Novonode",
@@ -17530,7 +17540,7 @@
       "reviews": 1
     },
     "added": "2023-09-12",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "noxswap": {
     "name": "NoxSwap",
@@ -18048,7 +18058,7 @@
     "founded": "2018-06-13",
     "description": "Virtual phone number service for receiving SMS verification codes online. Temporary and rental numbers in 110+ countries for 1000+ apps and websites.",
     "added": "2024-07-13",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "onlive-server": {
     "name": "Onlive Server",
@@ -18099,6 +18109,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -18113,7 +18124,7 @@
     "founded": "2024-12-09",
     "description": "Instant crypto swap aggregator, now branded MoneroDEX, that lets users compare exchanges and trade directly with them at fixed or floating rates and a swap guarantee.",
     "added": "2025-08-23",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "opaquedb": {
     "name": "OpaqueDB",
@@ -18905,7 +18916,7 @@
       "reviews": 1
     },
     "added": "2024-10-10",
-    "updated": "2026-07-24"
+    "updated": "2026-11-18"
   },
   "peace-and-quite": {
     "name": "Peace and Quite",
@@ -19039,7 +19050,7 @@
       "reviews": 4
     },
     "added": "2025-01-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "peptimal-com": {
     "name": "Peptimal.com",
@@ -19414,6 +19425,7 @@
     "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "tags": [
       "Account Not Required",
@@ -19425,7 +19437,7 @@
     "founded": "2025-07-28",
     "description": "Non-custodial instant crypto exchange for swapping a range of coins with fixed or floating rates and no account required, with 24/7 live chat, Telegram and email support.",
     "added": "2026-07-08",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "platov": {
     "name": "Platov",
@@ -20579,7 +20591,7 @@
       "reviews": 7
     },
     "added": "2024-06-14",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "quiverflow-crm": {
     "name": "Quiverflow CRM",
@@ -20735,7 +20747,7 @@
     "founded": "2022-03-11",
     "description": "No KYC Virtual Private Servers (& RDP), Dedicated Servers & Domains @ Up to 10 Gbit/s",
     "added": "2025-06-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "rdp-vision": {
     "name": "Rdp.Vision",
@@ -21179,6 +21191,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -21217,7 +21230,7 @@
     "founded": "2024-01-01",
     "description": "Instant cryptocurrency exchange for swapping BTC, ETH, TON, Monero (XMR) and 50+ other coins at fixed or floating rates, with pairs like BTC to XMR and XMR to USDT.",
     "added": "2026-03-02",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "runeswap": {
     "name": "RuneSwap",
@@ -21380,7 +21393,7 @@
     "founded": "2019-10-09",
     "description": "Digital money aggregator researching the safest XMR swap providers focused on privacy, best rates & freedom from KYC checks.",
     "added": "2025-08-08",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "safeswapglobal": {
     "name": "SafeSwapGlobal",
@@ -21453,7 +21466,7 @@
       "reviews": 25
     },
     "added": "2025-12-04",
-    "updated": "2026-11-09"
+    "updated": "2026-11-18"
   },
   "saketo": {
     "name": "Saketo",
@@ -21966,6 +21979,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -21989,7 +22003,7 @@
     "founded": "2026-03-02",
     "description": "Non-custodial swap aggregator routing assets through Monero (XMR) to enhance transaction privacy.",
     "added": "2026-05-02",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "shadowex": {
     "name": "ShadowEX",
@@ -22094,6 +22108,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -22112,7 +22127,7 @@
     "founded": "2026-06-01",
     "description": "Non-custodial instant cryptocurrency swap supporting 900+ coins across 30+ blockchains. No accounts, no identity verification, no custody of funds.",
     "added": "2026-07-13",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "shkeeper": {
     "name": "shkeeper",
@@ -22394,7 +22409,7 @@
       "reviews": 1
     },
     "added": "2022-12-06",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "silentapi": {
     "name": "SilentAPI",
@@ -22648,7 +22663,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "simplex": {
     "name": "SimpleX",
@@ -22723,7 +22738,7 @@
       "reviews": 1
     },
     "added": "2023-09-12",
-    "updated": "2026-11-10"
+    "updated": "2026-11-18"
   },
   "simxl": {
     "name": "SimXL",
@@ -23137,6 +23152,7 @@
     "status": "Admitted",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Required",
     "tags": [
       "Account Not Required",
@@ -23146,7 +23162,7 @@
     "founded": "2026-10-29",
     "description": "Privacy-first, non-custodial crypto exchange. We never require KYC or freeze your funds. No accounts, just wallet-to-wallet swaps.",
     "added": "2026-10-30",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "solarhosting": {
     "name": "SolarHosting",
@@ -23607,6 +23623,7 @@
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -23615,7 +23632,7 @@
     "founded": "2026-05-08",
     "description": "A terminal-UI cryptocurrency swapper accessible over SSH. It works on any device with a terminal emulator, an SSH client and low bandwidth internet.",
     "added": "2026-05-09",
-    "updated": "2026-11-09"
+    "updated": "2026-11-18"
   },
   "stack-wallet": {
     "name": "Stack Wallet",
@@ -23771,7 +23788,7 @@
       "reviews": 3
     },
     "added": "2023-09-12",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "stealths-net": {
     "name": "Stealths.NET",
@@ -23797,7 +23814,7 @@
       "reviews": 5
     },
     "added": "2023-08-23",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "stereoswap": {
     "name": "StereoSwap",
@@ -24060,6 +24077,7 @@
     "status": "Admitted",
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
+    "rates": "Float",
     "javascript": "Required",
     "tags": [
       "Account Not Required",
@@ -24070,7 +24088,7 @@
     "founded": "2026-05-20",
     "description": "Non-custodial instant swap: send to a one-time deposit, receive in your wallet. Standard 0.5% / Private 1%.",
     "added": "2026-08-30",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "swapcore": {
     "name": "Swapcore",
@@ -24742,7 +24760,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "swissbullion": {
     "name": "SwissBullion",
@@ -25621,7 +25639,7 @@
       "reviews": 11
     },
     "added": "2022-11-01",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "trevoid-crypto-swaps": {
     "name": "Tr\u00eavoid Crypto Swaps",
@@ -26201,7 +26219,7 @@
       "reviews": 1
     },
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "velshocards": {
     "name": "VelshoCards",
@@ -26681,7 +26699,7 @@
       "reviews": 1
     },
     "added": "2025-03-26",
-    "updated": "2026-11-09"
+    "updated": "2026-11-18"
   },
   "waxybridge": {
     "name": "Waxybridge",
@@ -27019,7 +27037,7 @@
       "reviews": 2
     },
     "added": "2023-06-22",
-    "updated": "2026-10-30"
+    "updated": "2026-11-18"
   },
   "workgroups": {
     "name": "Workgroups",
@@ -27139,7 +27157,7 @@
       "reviews": 4
     },
     "added": "2024-10-09",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "xcubicle": {
     "name": "xCubicle",
@@ -27659,7 +27677,7 @@
       "reviews": 16
     },
     "added": "2025-09-03",
-    "updated": "2026-11-10"
+    "updated": "2026-11-18"
   },
   "xmr-club": {
     "name": "xmr.club",
@@ -27999,7 +28017,7 @@
       "reviews": 4
     },
     "added": "2024-06-05",
-    "updated": "2026-10-19"
+    "updated": "2026-11-18"
   },
   "xmrchain-net": {
     "name": "xmrchain.net",
@@ -28053,7 +28071,7 @@
     "founded": "2024-02-07",
     "description": "Open-source Monero (XMR) superchat and tipping platform for live streamers. Fans tip without an account; tips go straight to the creator's wallet, with OBS and Twitch support.",
     "added": "2024-08-10",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "xmretail-pos": {
     "name": "XMRetail POS",
@@ -28359,7 +28377,7 @@
     "founded": "2023-12-16",
     "description": "Belgium-based shop selling XmrSigner and SeedSigner hardware wallets, titanium and steel seed backups, smartcards and 3D-printed tools for Monero and Bitcoin self-custody.",
     "added": "2024-03-02",
-    "updated": "2026-11-12"
+    "updated": "2026-11-18"
   },
   "xpg": {
     "name": "XPG",
@@ -28612,6 +28630,7 @@
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
     "status": "Admitted",
     "liquidity": "Third Party",
+    "rates": "Fixed & Float",
     "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
@@ -28626,7 +28645,7 @@
     "founded": "2024-11-11",
     "description": "Non-custodial instant crypto swaps with no traditional KYC and no signup \u2014 swap the privacy coin Zano (ZANO) and other assets directly from your own wallet.",
     "added": "2026-06-05",
-    "updated": "2026-11-13"
+    "updated": "2026-11-18"
   },
   "zaperia": {
     "name": "Zaperia",
