@@ -4,7 +4,25 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Fri, 20 Nov 2026 12:52:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:49:11 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] Beluga — Status changed: Verified → Questionable</title>
+      <link>https://monerica.com/site/beluga</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Verified → Questionable</description>
+      <guid isPermaLink="false">beluga-STATUS_CHANGE-2026-11-20T18:49:11Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] Wagyu.xyz — Status changed: Questionable → Scam</title>
+      <link>https://monerica.com/site/wagyu-xyz</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Questionable → Scam</description>
+      <guid isPermaLink="false">wagyu-xyz-STATUS_CHANGE-2026-11-20T18:49:11Z</guid>
+    </item>
+    <item>
+      <title>[WARNING_ADDED] Wagyu.xyz — Warning added: Listed as a scam: do not use.</title>
+      <link>https://monerica.com/site/wagyu-xyz</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Warning added: Listed as a scam: do not use.</description>
+      <guid isPermaLink="false">wagyu-xyz-WARNING_ADDED-2026-11-20T18:49:11Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] anyIP — Added to directory (Status: Admitted, KYC: Shotgun KYC)</title>
       <link>https://monerica.com/site/anyip</link>
@@ -226,24 +244,6 @@
       <link>https://monerica.com/site/hidetap</link>
       <description>Category: Cards › Reloadable Cards | Added to directory (Status: Admitted, KYC: Not Stated)</description>
       <guid isPermaLink="false">hidetap-NEW_LISTING-2026-11-14T18:28:35Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] SMMKings — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/smmkings</link>
-      <description>Category: Businesses › Marketing | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">smmkings-STATUS_CHANGE-2026-11-14T00:37:23Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] UncensoredLabs — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/uncensoredlabs</link>
-      <description>Category: Businesses › AI Services | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">uncensoredlabs-STATUS_CHANGE-2026-11-14T00:37:23Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Beam Up Music — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/beam-up-music</link>
-      <description>Category: Media › Music &amp; Radio | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">beam-up-music-NEW_LISTING-2026-11-13T18:39:09Z</guid>
     </item>
   </channel>
 </rss>

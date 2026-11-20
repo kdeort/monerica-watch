@@ -924,6 +924,7 @@
     },
     "tags": [
       "Account Not Required",
+      "API Available",
       "Email Not Required"
     ],
     "country": "WS",
@@ -934,7 +935,7 @@
       "reviews": 1
     },
     "added": "2026-08-10",
-    "updated": "2026-11-13"
+    "updated": "2026-11-20"
   },
   "altcoin-trader": {
     "name": "Altcoin Trader",
@@ -2192,7 +2193,7 @@
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Verified",
+    "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Float",
@@ -2204,7 +2205,7 @@
     "founded": "2026-11-05",
     "description": "No-account swaps between Monero, Bitcoin, Ethereum and Solana, plus a 1:1 XMR to XMR2 bridge on Hyperliquid with a standing USDC bid and live reserve proofs.",
     "added": "2026-11-15",
-    "updated": "2026-11-16"
+    "updated": "2026-11-20"
   },
   "berggold": {
     "name": "Berggold",
@@ -26650,11 +26651,11 @@
     "name": "Wagyu.xyz",
     "slug": "wagyu-xyz",
     "profileUrl": "https://monerica.com/site/wagyu-xyz",
-    "website": "https://wagyu.xyz/",
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Questionable",
+    "status": "Scam",
+    "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Third Party",
     "rates": "Float",
@@ -26678,7 +26679,7 @@
       "reviews": 11
     },
     "added": "2025-12-20",
-    "updated": "2026-11-13"
+    "updated": "2026-11-20"
   },
   "walls-rip": {
     "name": "walls.rip",

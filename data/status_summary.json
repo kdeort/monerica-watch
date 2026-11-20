@@ -1,13 +1,33 @@
 {
-  "generated": "2026-11-20T11:22:11Z",
+  "generated": "2026-11-20T16:40:32Z",
   "total": 1445,
-  "verified": 289,
+  "verified": 288,
   "admitted": 1000,
   "questionable": 98,
-  "scam": 58,
+  "scam": 59,
   "no_kyc": 363,
   "tor_enabled": 151,
   "active_warnings": [
+    {
+      "name": "Beluga",
+      "slug": "beluga",
+      "profileUrl": "https://monerica.com/site/beluga",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-20"
+    },
+    {
+      "name": "Wagyu.xyz",
+      "slug": "wagyu-xyz",
+      "profileUrl": "https://monerica.com/site/wagyu-xyz",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-20"
+    },
     {
       "name": "Bitgolder",
       "slug": "bitgolder",
@@ -329,16 +349,6 @@
       "updated": "2026-11-13"
     },
     {
-      "name": "Wagyu.xyz",
-      "slug": "wagyu-xyz",
-      "profileUrl": "https://monerica.com/site/wagyu-xyz",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-13"
-    },
-    {
       "name": "Yourcryptopal",
       "slug": "yourcryptopal",
       "profileUrl": "https://monerica.com/site/yourcryptopal",
@@ -495,16 +505,6 @@
       "category": "Businesses \u203a Electronics/ Computer Hardware",
       "status": "Scam",
       "kycPolicy": "Not Stated",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Changer-man",
-      "slug": "changer-man",
-      "profileUrl": "https://monerica.com/site/changer-man",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Scam",
-      "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
       "updated": "2026-11-12"
     }

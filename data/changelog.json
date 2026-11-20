@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-20T18:49:11Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Beluga",
+    "slug": "beluga",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/beluga",
+    "detail": "Status changed: Verified \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-20T18:49:11Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Wagyu.xyz",
+    "slug": "wagyu-xyz",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/wagyu-xyz",
+    "detail": "Status changed: Questionable \u2192 Scam"
+  },
+  {
+    "timestamp": "2026-11-20T18:49:11Z",
+    "type": "WARNING_ADDED",
+    "severity": "high",
+    "name": "Wagyu.xyz",
+    "slug": "wagyu-xyz",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/wagyu-xyz",
+    "detail": "Warning added: Listed as a scam: do not use."
+  },
+  {
     "timestamp": "2026-11-19T18:48:30Z",
     "type": "NEW_LISTING",
     "severity": "info",
