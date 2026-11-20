@@ -18744,7 +18744,7 @@
       "reviews": 6
     },
     "added": "2026-09-03",
-    "updated": "2026-11-15"
+    "updated": "2026-11-19"
   },
   "packetra": {
     "name": "Packetra",
@@ -20351,9 +20351,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "founded": "2026-09-29",
-    "description": "Linux and Windows KVM VPS in the Netherlands with Ryzen 7950X CPUs, DDR5 RAM and NVMe storage. Email-only signup. Linux plans from $5/month.",
+    "description": "Linux and Windows KVM VPS on Ryzen hosts in Germany and Poland with network egress in the Netherlands.",
     "added": "2026-10-10",
-    "updated": "2026-11-12"
+    "updated": "2026-11-19"
   },
   "pulsed-media": {
     "name": "Pulsed Media",
