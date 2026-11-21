@@ -4,7 +4,37 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sat, 21 Nov 2026 12:41:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 18:31:02 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] L&#x27;Épicerie Libre — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/l-epicerie-libre</link>
+      <description>Category: Businesses › Food &amp; Drink (Online) | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">l-epicerie-libre-NEW_LISTING-2026-11-21T18:31:02Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] LibreMonero — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/libremonero</link>
+      <description>Category: Merchant Services › Integrations | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">libremonero-NEW_LISTING-2026-11-21T18:31:02Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] VividVPS — Added to directory (Status: Admitted, KYC: Rare KYC)</title>
+      <link>https://monerica.com/site/vividvps</link>
+      <description>Category: Web Hosting › VPS Hosting | Added to directory (Status: Admitted, KYC: Rare KYC)</description>
+      <guid isPermaLink="false">vividvps-NEW_LISTING-2026-11-21T18:31:02Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] XMR Host — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/xmr-host</link>
+      <description>Category: Web Hosting › VPS Hosting | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">xmr-host-STATUS_CHANGE-2026-11-21T18:31:02Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] Vsys — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/vsys</link>
+      <description>Category: Web Hosting › VPS Hosting | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">vsys-REMOVED_LISTING-2026-11-21T18:31:02Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] foldoy — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/foldoy</link>
@@ -214,36 +244,6 @@
       <link>https://monerica.com/site/xmr-gifts</link>
       <description>Category: Cards › Gift Cards | Warning added: Listed as a scam: do not use.</description>
       <guid isPermaLink="false">xmr-gifts-WARNING_ADDED-2026-11-16T00:51:40Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Capsul — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/capsul</link>
-      <description>Category: Web Hosting › Shared &amp; Cloud Hosting | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">capsul-NEW_LISTING-2026-11-15T18:29:21Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Pirate Face — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/pirate-face</link>
-      <description>Category: Businesses › AI Services | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">pirate-face-NEW_LISTING-2026-11-15T18:29:21Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Plinko XMR — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/plinko-xmr</link>
-      <description>Category: Businesses › Gambling | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">plinko-xmr-NEW_LISTING-2026-11-15T18:29:21Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] xmr.gifts — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/xmr-gifts</link>
-      <description>Category: Cards › Gift Cards | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">xmr-gifts-NEW_LISTING-2026-11-15T18:29:21Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] HTTProxy — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/httproxy</link>
-      <description>Category: VPNs &amp; Proxies › Proxies | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">httproxy-REMOVED_LISTING-2026-11-15T06:47:59Z</guid>
     </item>
   </channel>
 </rss>

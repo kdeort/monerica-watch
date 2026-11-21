@@ -2205,7 +2205,7 @@
     "founded": "2026-11-05",
     "description": "No-account swaps between Monero, Bitcoin, Ethereum and Solana, plus a 1:1 XMR to XMR2 bridge on Hyperliquid with a standing USDC bid and live reserve proofs.",
     "added": "2026-11-15",
-    "updated": "2026-11-20"
+    "updated": "2026-11-21"
   },
   "berggold": {
     "name": "Berggold",
@@ -12136,6 +12136,22 @@
     "added": "2023-06-12",
     "updated": "2026-11-12"
   },
+  "l-epicerie-libre": {
+    "name": "L'\u00c9picerie Libre",
+    "slug": "l-epicerie-libre",
+    "profileUrl": "https://monerica.com/site/l-epicerie-libre",
+    "website": "https://libre-market.com/m/epicerie",
+    "category": "Businesses",
+    "subcategory": "Food & Drink (Online)",
+    "categoryUrl": "https://monerica.com/businesses/food-and-drink",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "javascript": "Required",
+    "country": "FR",
+    "description": "Online grocery marketplace of French producers selling vegetables, honey, seeds and artisan products, shipped across France to Mondial Relay pickup points.",
+    "added": "2026-11-21",
+    "updated": "2026-11-21"
+  },
   "la-balconcina-bandb": {
     "name": "La Balconcina B&B",
     "slug": "la-balconcina-bandb",
@@ -12480,6 +12496,26 @@
     "description": "Open-source e-commerce platform to create a free online shop with native Monero (XMR) and Bitcoin payments, 5% sales commission and EU hosting; based in France.",
     "added": "2026-08-06",
     "updated": "2026-11-12"
+  },
+  "libremonero": {
+    "name": "LibreMonero",
+    "slug": "libremonero",
+    "profileUrl": "https://monerica.com/site/libremonero",
+    "website": "https://libremonero.com/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://yz63nea37zpknh4q6rhj2yzzpe7q5r5gdyes52eats7eksn2h22bgwid.onion/"
+      }
+    ],
+    "category": "Merchant Services",
+    "subcategory": "Integrations",
+    "categoryUrl": "https://monerica.com/merchant-services/integrations",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "description": "Hosted Monero payment detection API for merchants, using a view-only wallet and per-customer subaddresses. Non-custodial, webhooks, no server to run. Free plan; Pro \u20ac8/month.",
+    "added": "2026-11-21",
+    "updated": "2026-11-21"
   },
   "libretorrent": {
     "name": "Libretorrent",
@@ -26449,6 +26485,21 @@
     "added": "2025-10-12",
     "updated": "2026-11-12"
   },
+  "vividvps": {
+    "name": "VividVPS",
+    "slug": "vividvps",
+    "profileUrl": "https://monerica.com/site/vividvps",
+    "website": "https://vividvps.com",
+    "category": "Web Hosting",
+    "subcategory": "VPS Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/vps",
+    "status": "Admitted",
+    "kycPolicy": "Rare KYC",
+    "founded": "2025-11-18",
+    "description": "Self-managed Linux, Windows, MikroTik RouterOS CHR, and cPanel VPS hosting across 21 cities, with NVMe storage on select plans.",
+    "added": "2026-11-21",
+    "updated": "2026-11-21"
+  },
   "voidmob": {
     "name": "VoidMob",
     "slug": "voidmob",
@@ -26642,22 +26693,6 @@
     "founded": "2026-09-07",
     "description": "Linux and Windows VPS with a dedicated IPv4 and a 1 Gbps DDoS-protected port. Monthly from 512 MB RAM. Email signup, no ID upload. Instant SSH or RDP after the wallet debit.",
     "added": "2026-09-09",
-    "updated": "2026-11-12"
-  },
-  "vsys": {
-    "name": "Vsys",
-    "slug": "vsys",
-    "profileUrl": "https://monerica.com/site/vsys",
-    "website": "https://vsys.host",
-    "category": "Web Hosting",
-    "subcategory": "VPS Hosting",
-    "categoryUrl": "https://monerica.com/web-hosting/vps",
-    "status": "Admitted",
-    "javascript": "Optional",
-    "country": "UA",
-    "founded": "2019-02-04",
-    "description": "Website hosting, VPS & dedicated servers to fully managed Kubernetes and cloud solutions",
-    "added": "2025-09-14",
     "updated": "2026-11-12"
   },
   "w3bs3c": {
@@ -27445,7 +27480,7 @@
     "category": "Web Hosting",
     "subcategory": "VPS Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/vps",
-    "status": "Admitted",
+    "status": "Verified",
     "javascript": "Optional",
     "tags": [
       "Account Not Required",
@@ -27453,8 +27488,12 @@
     ],
     "founded": "2026-06-22",
     "description": "VPS hosting and proxy provider. No account or email needed; servers deploy automatically in under 60 seconds.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-07-19",
-    "updated": "2026-11-12"
+    "updated": "2026-11-21"
   },
   "xmr-land": {
     "name": "XMR Land",

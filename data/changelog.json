@@ -1,5 +1,55 @@
 [
   {
+    "timestamp": "2026-11-21T18:31:02Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "L'\u00c9picerie Libre",
+    "slug": "l-epicerie-libre",
+    "category": "Businesses \u203a Food & Drink (Online)",
+    "profileUrl": "https://monerica.com/site/l-epicerie-libre",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-21T18:31:02Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "LibreMonero",
+    "slug": "libremonero",
+    "category": "Merchant Services \u203a Integrations",
+    "profileUrl": "https://monerica.com/site/libremonero",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-21T18:31:02Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "VividVPS",
+    "slug": "vividvps",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/vividvps",
+    "detail": "Added to directory (Status: Admitted, KYC: Rare KYC)"
+  },
+  {
+    "timestamp": "2026-11-21T18:31:02Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "XMR Host",
+    "slug": "xmr-host",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/xmr-host",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-21T18:31:02Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Vsys",
+    "slug": "vsys",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/vsys",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
     "timestamp": "2026-11-21T00:47:14Z",
     "type": "NEW_LISTING",
     "severity": "info",
