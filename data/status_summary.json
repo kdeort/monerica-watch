@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-20T16:40:32Z",
-  "total": 1445,
+  "generated": "2026-11-20T22:21:29Z",
+  "total": 1447,
   "verified": 288,
-  "admitted": 1000,
+  "admitted": 1002,
   "questionable": 98,
   "scam": 59,
-  "no_kyc": 363,
+  "no_kyc": 365,
   "tor_enabled": 151,
   "active_warnings": [
+    {
+      "name": "1984 Hosting",
+      "slug": "1984-hosting",
+      "profileUrl": "https://monerica.com/site/1984-hosting",
+      "category": "Web Hosting \u203a Tor & Onion Hosting",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-20"
+    },
     {
       "name": "Beluga",
       "slug": "beluga",
@@ -357,16 +367,6 @@
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Marked as Questionable",
       "updated": "2026-11-13"
-    },
-    {
-      "name": "1984 Hosting",
-      "slug": "1984-hosting",
-      "profileUrl": "https://monerica.com/site/1984-hosting",
-      "category": "Web Hosting \u203a Tor & Onion Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
     },
     {
       "name": "1xmr",

@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Fri, 20 Nov 2026 18:49:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 00:47:14 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] foldoy — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/foldoy</link>
+      <description>Category: Businesses › Email Providers/ Forwarders | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">foldoy-NEW_LISTING-2026-11-21T00:47:14Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] XMR Tickets — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/xmr-tickets</link>
+      <description>Category: Businesses › Travel &amp; Accommodation | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">xmr-tickets-NEW_LISTING-2026-11-21T00:47:14Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] Beluga — Status changed: Verified → Questionable</title>
       <link>https://monerica.com/site/beluga</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/httproxy</link>
       <description>Category: VPNs &amp; Proxies › Proxies | Removed from directory (was Admitted)</description>
       <guid isPermaLink="false">httproxy-REMOVED_LISTING-2026-11-15T06:47:59Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] BitVPS — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/bitvps</link>
-      <description>Category: Web Hosting › VPS Hosting | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">bitvps-NEW_LISTING-2026-11-14T18:28:35Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] HideTap — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/hidetap</link>
-      <description>Category: Cards › Reloadable Cards | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">hidetap-NEW_LISTING-2026-11-14T18:28:35Z</guid>
     </item>
   </channel>
 </rss>

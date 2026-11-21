@@ -123,7 +123,7 @@
     "founded": "2020-12-23",
     "description": "Icelandic hosting company offering web hosting, VPS, WordPress security packs, FreeDNS and domain registration on renewable energy.",
     "added": "2024-01-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-20"
   },
   "1gbits": {
     "name": "1Gbits",
@@ -8247,6 +8247,34 @@
     "description": "Centralized crypto exchange with 450+ spot pairs, margin and futures trading. Monero (XMR) is listed with XMR/USDT and XMR/BTC markets.",
     "added": "2022-06-22",
     "updated": "2026-10-30"
+  },
+  "foldoy": {
+    "name": "foldoy",
+    "slug": "foldoy",
+    "profileUrl": "https://monerica.com/site/foldoy",
+    "website": "https://foldoy.com",
+    "category": "Businesses",
+    "subcategory": "Email Providers/ Forwarders",
+    "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Optional",
+    "restrictions": {
+      "countriesNotServed": [
+        "CU",
+        "IR",
+        "KP",
+        "SY"
+      ],
+      "vpn": "May trigger verification",
+      "tor": "May trigger verification",
+      "other": "Minimum age 18"
+    },
+    "country": "NO",
+    "founded": "2026-08-10",
+    "description": "Encrypted email with subject lines encrypted, Thunderbird and mail app support, aliases, custom domains and a free plan. Hosted in Norway; code is open source.",
+    "added": "2026-11-20",
+    "updated": "2026-11-20"
   },
   "forgeswap": {
     "name": "ForgeSwap",
@@ -19076,7 +19104,7 @@
     "description": "A modern platform for instant and anonymous cryptocurrency exchange. Supports more than 1000 different coins.",
     "rating": {
       "average": 5,
-      "reviews": 4
+      "reviews": 5
     },
     "added": "2025-01-22",
     "updated": "2026-11-18"
@@ -26731,7 +26759,7 @@
     "updated": "2026-11-18"
   },
   "waxybridge": {
-    "name": "Waxybridge",
+    "name": "WaxyBridge",
     "slug": "waxybridge",
     "profileUrl": "https://monerica.com/site/waxybridge",
     "website": "https://waxybridge.com",
@@ -26740,9 +26768,9 @@
     "categoryUrl": "https://monerica.com/phone-and-sms/voip-calling-and-messaging",
     "status": "Admitted",
     "founded": "2026-09-17",
-    "description": "Browser-based WhatsApp client that provisions a WhatsApp account for you, so you can message any phone number without your own. Sold as a monthly subscription.",
+    "description": "Browser-based WhatsApp client with provisioned accounts, so you can message any phone number without your own SIM, with no IP leaks or device fingerprinting.",
     "added": "2026-10-02",
-    "updated": "2026-11-10"
+    "updated": "2026-11-20"
   },
   "web-wipe": {
     "name": "Web Wipe",
@@ -27559,6 +27587,21 @@
     "description": "Free Monero stagenet faucet that sends test sXMR to a stagenet address after a captcha, for developers testing wallets and apps; unused sXMR can be returned.",
     "added": "2026-07-26",
     "updated": "2026-11-12"
+  },
+  "xmr-tickets": {
+    "name": "XMR Tickets",
+    "slug": "xmr-tickets",
+    "profileUrl": "https://monerica.com/site/xmr-tickets",
+    "website": "https://xmrtickets.com/",
+    "category": "Businesses",
+    "subcategory": "Travel & Accommodation",
+    "categoryUrl": "https://monerica.com/businesses/travel",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "founded": "2026-11-06",
+    "description": "UK National Rail train tickets with instant online checkout.",
+    "added": "2026-11-20",
+    "updated": "2026-11-20"
   },
   "xmr-to-btc-atomic-swap": {
     "name": "XMR to BTC Atomic Swap",
