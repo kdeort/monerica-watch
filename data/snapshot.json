@@ -3798,6 +3798,10 @@
     ],
     "founded": "2025-12-20",
     "description": "UK +44 eSIM provider Get a UK number or Global Data eSIMs in seconds. No App. No Account. No KYC. 100% Private.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-07-10",
     "updated": "2026-11-12"
   },
@@ -4210,7 +4214,7 @@
       "reviews": 1
     },
     "added": "2026-06-16",
-    "updated": "2026-11-13"
+    "updated": "2026-11-22"
   },
   "cardtoshi-com": {
     "name": "Cardtoshi.com",
@@ -4834,7 +4838,7 @@
       "reviews": 1
     },
     "added": "2024-10-10",
-    "updated": "2026-11-18"
+    "updated": "2026-11-22"
   },
   "cloud-climax": {
     "name": "Cloud Climax",
@@ -5550,6 +5554,23 @@
     "description": "The Initiative supports copyfree licensing, certifies compliance with the Standard Definition, and builds a community around copyfree policy.",
     "added": "2022-06-22",
     "updated": "2026-11-09"
+  },
+  "core": {
+    "name": "CORE",
+    "slug": "core",
+    "profileUrl": "https://monerica.com/site/core",
+    "website": "https://co-re.io",
+    "category": "Exchanges",
+    "subcategory": "Aggregators",
+    "categoryUrl": "https://monerica.com/exchanges/aggregators",
+    "status": "Admitted",
+    "kycPolicy": "Varies By Provider",
+    "liquidity": "Third Party",
+    "rates": "Fixed & Float",
+    "founded": "2026-09-29",
+    "description": "Compares quotes from several swap services and places the order with one of them. No account needed. The service running the swap may request KYC/AML checks.",
+    "added": "2026-11-22",
+    "updated": "2026-11-22"
   },
   "counseling-practice-r-l-fellner": {
     "name": "Counseling Practice R.L.Fellner",
@@ -17479,6 +17500,10 @@
     ],
     "founded": "2025-10-13",
     "description": "Cryptocurrency exchange offering instant swaps between coins including Monero (XMR) and Beam, with live markets, floating rates and private swap tracking codes.",
+    "rating": {
+      "average": 1,
+      "reviews": 1
+    },
     "added": "2025-08-27",
     "updated": "2026-11-12"
   },
@@ -19138,10 +19163,10 @@
     "description": "A modern platform for instant and anonymous cryptocurrency exchange. Supports more than 1000 different coins.",
     "rating": {
       "average": 5,
-      "reviews": 6
+      "reviews": 7
     },
     "added": "2025-01-22",
-    "updated": "2026-11-18"
+    "updated": "2026-11-22"
   },
   "peptimal-com": {
     "name": "Peptimal.com",
@@ -19229,9 +19254,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "founded": "2026-09-28",
-    "description": "VPS and dedicated servers with email-only signup: no ID documents, no phone verification. Root access, IPMI on dedicated, public status page with uptime history.",
+    "description": "No-KYC VPS and dedicated servers with root access, NVMe and bare-metal plans, IPMI on dedicated servers, a public status page, test IPs and email-only sign-up.",
     "added": "2026-11-06",
-    "updated": "2026-11-12"
+    "updated": "2026-11-22"
   },
   "philara": {
     "name": "Philara",
@@ -24233,11 +24258,14 @@
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Admitted",
+    "status": "Verified",
     "kycPolicy": "Shotgun KYC",
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
     "javascript": "Required",
+    "restrictions": {
+      "other": "not allowed in EU/EEA"
+    },
     "tags": [
       "Account Not Required",
       "Affiliate Program",
@@ -24248,7 +24276,7 @@
     "founded": "2024-03-27",
     "description": "Instant cryptocurrency swap service for exchanging one coin for another online without a traditional exchange order book.",
     "added": "2025-08-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-22"
   },
   "swaplume": {
     "name": "Swaplume",

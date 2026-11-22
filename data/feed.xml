@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sun, 22 Nov 2026 12:39:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 18:33:33 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] CORE — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
+      <link>https://monerica.com/site/core</link>
+      <description>Category: Exchanges › Aggregators | Added to directory (Status: Admitted, KYC: Varies By Provider)</description>
+      <guid isPermaLink="false">core-NEW_LISTING-2026-11-22T18:33:33Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] Swapgate — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/swapgate</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">swapgate-STATUS_CHANGE-2026-11-22T18:33:33Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] L&#x27;Épicerie Libre — Added to directory (Status: Admitted, KYC: Not Stated)</title>
       <link>https://monerica.com/site/l-epicerie-libre</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/beluga</link>
       <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Scam, KYC: Guaranteed No KYC)</description>
       <guid isPermaLink="false">beluga-NEW_LISTING-2026-11-16T00:51:40Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] xmr.gifts — Status changed: Admitted → Scam</title>
-      <link>https://monerica.com/site/xmr-gifts</link>
-      <description>Category: Cards › Gift Cards | Status changed: Admitted → Scam</description>
-      <guid isPermaLink="false">xmr-gifts-STATUS_CHANGE-2026-11-16T00:51:40Z</guid>
-    </item>
-    <item>
-      <title>[WARNING_ADDED] xmr.gifts — Warning added: Listed as a scam: do not use.</title>
-      <link>https://monerica.com/site/xmr-gifts</link>
-      <description>Category: Cards › Gift Cards | Warning added: Listed as a scam: do not use.</description>
-      <guid isPermaLink="false">xmr-gifts-WARNING_ADDED-2026-11-16T00:51:40Z</guid>
     </item>
   </channel>
 </rss>

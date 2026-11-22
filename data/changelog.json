@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-22T18:33:33Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "CORE",
+    "slug": "core",
+    "category": "Exchanges \u203a Aggregators",
+    "profileUrl": "https://monerica.com/site/core",
+    "detail": "Added to directory (Status: Admitted, KYC: Varies By Provider)"
+  },
+  {
+    "timestamp": "2026-11-22T18:33:33Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Swapgate",
+    "slug": "swapgate",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/swapgate",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
     "timestamp": "2026-11-21T18:31:02Z",
     "type": "NEW_LISTING",
     "severity": "info",
