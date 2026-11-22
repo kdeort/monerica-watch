@@ -740,7 +740,7 @@
     "founded": "2010-05-31",
     "description": "A VPN based on OpenVPN and operated by activists and hacktivists in defense of net neutrality, privacy and against censorship.",
     "added": "2022-06-22",
-    "updated": "2026-11-13"
+    "updated": "2026-11-21"
   },
   "al-uy": {
     "name": "al.uy",
@@ -808,7 +808,7 @@
     "founded": "2008-02-29",
     "description": "Offshore hosting from Moldova on its own datacenter, network and hardware: DMCA-ignored VPS across Europe, dedicated servers, web hosting and domains.",
     "added": "2023-07-29",
-    "updated": "2026-11-12"
+    "updated": "2026-11-21"
   },
   "alfacash": {
     "name": "Alfacash",
@@ -2012,7 +2012,7 @@
     "description": "Private Cross Chain Swaps. Buy and exchange \u2014 fast, secure, no limits or default KYC. Low fees, instant swaps, and free AML verification.",
     "rating": {
       "average": 4.9,
-      "reviews": 11
+      "reviews": 12
     },
     "added": "2025-12-09",
     "updated": "2026-11-18"
@@ -8258,7 +8258,7 @@
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
-    "javascript": "Optional",
+    "javascript": "Required",
     "restrictions": {
       "countriesNotServed": [
         "CU",
@@ -8270,11 +8270,9 @@
       "tor": "May trigger verification",
       "other": "Minimum age 18"
     },
-    "country": "NO",
-    "founded": "2026-08-10",
-    "description": "Encrypted email with subject lines encrypted, Thunderbird and mail app support, aliases, custom domains and a free plan. Hosted in Norway; code is open source.",
+    "description": "Encrypted email with no phone number or ID at sign-up. Subject lines encrypted, Thunderbird support on every plan, aliases and a free tier.",
     "added": "2026-11-20",
-    "updated": "2026-11-20"
+    "updated": "2026-11-21"
   },
   "forgeswap": {
     "name": "ForgeSwap",
@@ -11675,7 +11673,7 @@
       "reviews": 1
     },
     "added": "2025-12-25",
-    "updated": "2026-11-09"
+    "updated": "2026-11-21"
   },
   "kobamundii": {
     "name": "Kobamundii",
@@ -17036,7 +17034,7 @@
     "founded": "2025-03-17",
     "description": "Instant swap service with no account or email required. Fixed or floating rates, quote shown before sending, order tracking by ID, and a Telegram mini app.",
     "added": "2026-11-01",
-    "updated": "2026-11-12"
+    "updated": "2026-11-21"
   },
   "neir": {
     "name": "Neir",
@@ -17672,7 +17670,7 @@
     "founded": "2026-10-26",
     "description": "Instant fixed-rate exchange to buy or sell XMR without an account. The quoted amount is what you receive, fees included. Optional refund address and PGP-signed guarantee.",
     "added": "2026-10-29",
-    "updated": "2026-11-13"
+    "updated": "2026-11-21"
   },
   "nullcart": {
     "name": "NullCart",
@@ -18806,7 +18804,7 @@
     "description": "Instant crypto exchange for BTC, XMR, ETH, LTC, SOL, XRP, USDT, USDC and more, with no account, Tor and no-JS access, PGP, and guarantee deposits listed publicly.",
     "rating": {
       "average": 4.7,
-      "reviews": 6
+      "reviews": 7
     },
     "added": "2026-09-03",
     "updated": "2026-11-19"
@@ -19140,7 +19138,7 @@
     "description": "A modern platform for instant and anonymous cryptocurrency exchange. Supports more than 1000 different coins.",
     "rating": {
       "average": 5,
-      "reviews": 5
+      "reviews": 6
     },
     "added": "2025-01-22",
     "updated": "2026-11-18"
@@ -23159,7 +23157,7 @@
     "founded": "2024-04-24",
     "description": "Instant cryptocurrency exchange for swapping Monero (XMR), BTC, ETH, USDT and 200+ other coins at fixed or floating rates, with no registration required.",
     "added": "2025-08-29",
-    "updated": "2026-11-13"
+    "updated": "2026-11-21"
   },
   "snowhaze": {
     "name": "SnowHaze",
@@ -25729,7 +25727,7 @@
     "description": "Crypto exchange aggregator that compares rates from partner instant exchanges for Monero (XMR) and other coin swaps, with no account required and Tor and no-JavaScript access.",
     "rating": {
       "average": 4.8,
-      "reviews": 11
+      "reviews": 12
     },
     "added": "2022-11-01",
     "updated": "2026-11-18"
@@ -28070,7 +28068,7 @@
       "reviews": 2
     },
     "added": "2026-01-30",
-    "updated": "2026-11-15"
+    "updated": "2026-11-21"
   },
   "xmr402": {
     "name": "XMR402",

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T18:04:07Z",
+  "generated": "2026-11-22T00:09:59Z",
   "total": 1449,
   "verified": 289,
   "admitted": 1003,
@@ -12,6 +12,16 @@
       "name": "Beluga",
       "slug": "beluga",
       "profileUrl": "https://monerica.com/site/beluga",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-21"
+    },
+    {
+      "name": "SnapSwap.io",
+      "slug": "snapswap-io",
+      "profileUrl": "https://monerica.com/site/snapswap-io",
       "category": "Exchanges \u203a Instant Swaps (No Account)",
       "status": "Questionable",
       "kycPolicy": "Guaranteed No KYC",
@@ -323,16 +333,6 @@
       "slug": "serverexpress",
       "profileUrl": "https://monerica.com/site/serverexpress",
       "category": "Web Hosting \u203a VPS Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-13"
-    },
-    {
-      "name": "SnapSwap.io",
-      "slug": "snapswap-io",
-      "profileUrl": "https://monerica.com/site/snapswap-io",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
       "status": "Questionable",
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Marked as Questionable",
