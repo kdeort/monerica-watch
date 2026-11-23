@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-22T18:27:17Z",
+  "generated": "2026-11-22T23:39:50Z",
   "total": 1450,
-  "verified": 290,
+  "verified": 291,
   "admitted": 1003,
-  "questionable": 98,
-  "scam": 59,
+  "questionable": 96,
+  "scam": 60,
   "no_kyc": 366,
   "tor_enabled": 152,
   "active_warnings": [
+    {
+      "name": "Yourcryptopal",
+      "slug": "yourcryptopal",
+      "profileUrl": "https://monerica.com/site/yourcryptopal",
+      "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-22"
+    },
     {
       "name": "Beluga",
       "slug": "beluga",
@@ -353,16 +363,6 @@
       "slug": "superswap",
       "profileUrl": "https://monerica.com/site/superswap",
       "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-13"
-    },
-    {
-      "name": "Yourcryptopal",
-      "slug": "yourcryptopal",
-      "profileUrl": "https://monerica.com/site/yourcryptopal",
-      "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
       "status": "Questionable",
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Marked as Questionable",

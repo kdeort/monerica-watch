@@ -1,5 +1,55 @@
 [
   {
+    "timestamp": "2026-11-23T00:44:18Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "BlankSearch",
+    "slug": "blanksearch",
+    "category": "Non-Profits \u203a Search Engines",
+    "profileUrl": "https://monerica.com/site/blanksearch",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-23T00:44:18Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "Mentality Cloud Services",
+    "slug": "mentality-cloud-services",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/mentality-cloud-services",
+    "detail": "Status changed: Admitted \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-23T00:44:18Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "Yourcryptopal",
+    "slug": "yourcryptopal",
+    "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
+    "profileUrl": "https://monerica.com/site/yourcryptopal",
+    "detail": "Status changed: Questionable \u2192 Scam"
+  },
+  {
+    "timestamp": "2026-11-23T00:44:18Z",
+    "type": "WARNING_ADDED",
+    "severity": "high",
+    "name": "Yourcryptopal",
+    "slug": "yourcryptopal",
+    "category": "Exchanges \u203a Centralized Exchanges (Account Required)",
+    "profileUrl": "https://monerica.com/site/yourcryptopal",
+    "detail": "Warning added: Listed as a scam: do not use."
+  },
+  {
+    "timestamp": "2026-11-23T00:44:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "monerotalk.org",
+    "slug": "monerotalk-org",
+    "category": "Communities \u203a Forums",
+    "profileUrl": "https://monerica.com/site/monerotalk-org",
+    "detail": "Removed from directory (was Questionable)"
+  },
+  {
     "timestamp": "2026-11-22T18:33:33Z",
     "type": "NEW_LISTING",
     "severity": "info",
@@ -1947,36 +1997,6 @@
     "slug": "bitxchange",
     "category": "Exchanges \u203a Instant Swaps",
     "profileUrl": "https://monerica.com/site/bitxchange",
-    "detail": "Status: Verified | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "CCE Cash",
-    "slug": "cce-cash",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/cce-cash",
-    "detail": "Status: Verified | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "BitcoinVN",
-    "slug": "bitcoinvn",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/bitcoinvn",
-    "detail": "Status: Verified | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Alfacash",
-    "slug": "alfacash",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/alfacash",
     "detail": "Status: Verified | KYC: Shotgun KYC"
   }
 ]

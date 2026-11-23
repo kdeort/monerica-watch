@@ -4,7 +4,37 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sun, 22 Nov 2026 18:33:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 00:44:18 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] BlankSearch — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/blanksearch</link>
+      <description>Category: Non-Profits › Search Engines | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">blanksearch-NEW_LISTING-2026-11-23T00:44:18Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] Mentality Cloud Services — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/mentality-cloud-services</link>
+      <description>Category: Web Hosting › VPS Hosting | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">mentality-cloud-services-STATUS_CHANGE-2026-11-23T00:44:18Z</guid>
+    </item>
+    <item>
+      <title>[STATUS_CHANGE] Yourcryptopal — Status changed: Questionable → Scam</title>
+      <link>https://monerica.com/site/yourcryptopal</link>
+      <description>Category: Exchanges › Centralized Exchanges (Account Required) | Status changed: Questionable → Scam</description>
+      <guid isPermaLink="false">yourcryptopal-STATUS_CHANGE-2026-11-23T00:44:18Z</guid>
+    </item>
+    <item>
+      <title>[WARNING_ADDED] Yourcryptopal — Warning added: Listed as a scam: do not use.</title>
+      <link>https://monerica.com/site/yourcryptopal</link>
+      <description>Category: Exchanges › Centralized Exchanges (Account Required) | Warning added: Listed as a scam: do not use.</description>
+      <guid isPermaLink="false">yourcryptopal-WARNING_ADDED-2026-11-23T00:44:18Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] monerotalk.org — Removed from directory (was Questionable)</title>
+      <link>https://monerica.com/site/monerotalk-org</link>
+      <description>Category: Communities › Forums | Removed from directory (was Questionable)</description>
+      <guid isPermaLink="false">monerotalk-org-REMOVED_LISTING-2026-11-23T00:44:18Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] CORE — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
       <link>https://monerica.com/site/core</link>
@@ -214,36 +244,6 @@
       <link>https://monerica.com/site/husher</link>
       <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Admitted → Questionable</description>
       <guid isPermaLink="false">husher-STATUS_CHANGE-2026-11-16T18:44:01Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] infinitepass — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/infinitepass</link>
-      <description>Category: Businesses › Digital Goods/ Services | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">infinitepass-REMOVED_LISTING-2026-11-16T18:44:01Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Beluga — Status changed: Scam → Verified</title>
-      <link>https://monerica.com/site/beluga</link>
-      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Scam → Verified</description>
-      <guid isPermaLink="false">beluga-STATUS_CHANGE-2026-11-16T08:08:05Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Buckets Ninja — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/buckets-ninja</link>
-      <description>Category: Web Hosting › Storage &amp; Seedboxes | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">buckets-ninja-STATUS_CHANGE-2026-11-16T08:08:05Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Advin Servers — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/advin-servers</link>
-      <description>Category: Web Hosting › Shared &amp; Cloud Hosting | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">advin-servers-STATUS_CHANGE-2026-11-16T00:51:40Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Beluga — Added to directory (Status: Scam, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/beluga</link>
-      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Scam, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">beluga-NEW_LISTING-2026-11-16T00:51:40Z</guid>
     </item>
   </channel>
 </rss>

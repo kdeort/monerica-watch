@@ -3214,6 +3214,28 @@
     "added": "2026-06-21",
     "updated": "2026-10-30"
   },
+  "blanksearch": {
+    "name": "BlankSearch",
+    "slug": "blanksearch",
+    "profileUrl": "https://monerica.com/site/blanksearch",
+    "website": "https://blanksearch.com/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://utjpewosd5twy7qp7ckvyitlg5mc3h5kffkvngsv6yf65kuh425btrad.onion"
+      }
+    ],
+    "category": "Non-Profits",
+    "subcategory": "Search Engines",
+    "categoryUrl": "https://monerica.com/non-profits/search-engines",
+    "status": "Admitted",
+    "tags": [
+      "Sells Sponsorship"
+    ],
+    "description": "Private search engine with no search history, tracking or profiling. Real web results from Brave and Bing indexes sent through its own servers, with contextual ads only.",
+    "added": "2026-11-22",
+    "updated": "2026-11-22"
+  },
   "blazingfast": {
     "name": "BlazingFast",
     "slug": "blazingfast",
@@ -9048,7 +9070,7 @@
     "description": "No-KYC VPS on DigitalOcean and OVHcloud across 14 countries and 18 cities. Hourly billing from a prepaid balance, full root access, token-based account, Tor onion site.",
     "rating": {
       "average": 5,
-      "reviews": 1
+      "reviews": 2
     },
     "added": "2026-06-20",
     "updated": "2026-11-12"
@@ -13439,13 +13461,13 @@
     "category": "Web Hosting",
     "subcategory": "VPS Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/vps",
-    "status": "Admitted",
+    "status": "Verified",
     "javascript": "Optional",
     "country": "FR",
     "founded": "2022-05-19",
     "description": "Offshore VPS hosting provider offering virtual private servers with free DDoS protection included.",
     "added": "2025-04-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-22"
   },
   "meshcore-open": {
     "name": "MeshCore Open",
@@ -16251,34 +16273,6 @@
     },
     "added": "2026-06-03",
     "updated": "2026-11-12"
-  },
-  "monerotalk-org": {
-    "name": "monerotalk.org",
-    "slug": "monerotalk-org",
-    "profileUrl": "https://monerica.com/site/monerotalk-org",
-    "website": "https://monerotalk.org/",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "http://he34rmgokvnyjyz3e54meproefvdwotpye72vo6bo4hzzrmrm3liqead.onion"
-      },
-      {
-        "label": "I2P",
-        "url": "http://xwnatcj2zqfza3s6vyvmanvaj2a3edd3j46z42v7bk5khnejnkha.b32.i2p"
-      }
-    ],
-    "category": "Communities",
-    "subcategory": "Forums",
-    "categoryUrl": "https://monerica.com/communities/forums",
-    "status": "Questionable",
-    "javascript": "Optional",
-    "tags": [
-      "Email Not Required"
-    ],
-    "founded": "2025-11-17",
-    "description": "Monero community forum for discussion, news, beginner help, development, mining and trading. No email needed to join, no trackers, and it works without JavaScript.",
-    "added": "2026-11-01",
-    "updated": "2026-11-01"
   },
   "monerotopia": {
     "name": "MoneroTopia",
@@ -28720,11 +28714,11 @@
     "name": "Yourcryptopal",
     "slug": "yourcryptopal",
     "profileUrl": "https://monerica.com/site/yourcryptopal",
-    "website": "http://yourcryptopal.com",
     "category": "Exchanges",
     "subcategory": "Centralized Exchanges (Account Required)",
     "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
-    "status": "Questionable",
+    "status": "Scam",
+    "warning": "Listed as a scam: do not use.",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "javascript": "Required",
@@ -28739,8 +28733,12 @@
     },
     "founded": "2024-06-11",
     "description": "Crypto top-up and swap service: deposit euros via PayPal or Monero (XMR), swap between six currencies including XMR, LTC and USDT, and withdraw to your own wallet.",
+    "rating": {
+      "average": 1,
+      "reviews": 1
+    },
     "added": "2025-12-30",
-    "updated": "2026-11-13"
+    "updated": "2026-11-22"
   },
   "yt-dlp-online": {
     "name": "YT-DLP online",
