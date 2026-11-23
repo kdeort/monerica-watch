@@ -1,5 +1,65 @@
 [
   {
+    "timestamp": "2026-11-23T18:48:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Bulletproof.cx",
+    "slug": "bulletproof-cx",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/bulletproof-cx",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-23T18:48:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Clannad VPN",
+    "slug": "clannad-vpn",
+    "category": "VPNs & Proxies \u203a Jurisdiction Not Disclosed",
+    "profileUrl": "https://monerica.com/site/clannad-vpn",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-23T18:48:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "ivek",
+    "slug": "ivek",
+    "category": "Jobs & Freelancers \u203a Developers & Consultants",
+    "profileUrl": "https://monerica.com/site/ivek",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-23T18:48:35Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "OffCard.xyz",
+    "slug": "offcard-xyz",
+    "category": "Cards \u203a Reloadable Cards",
+    "profileUrl": "https://monerica.com/site/offcard-xyz",
+    "detail": "Status changed: Questionable \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-23T18:48:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Paxwolfswap",
+    "slug": "paxwolfswap",
+    "category": "Exchanges \u203a Miscellaneous",
+    "profileUrl": "https://monerica.com/site/paxwolfswap",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-23T18:48:35Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "XMR.Company",
+    "slug": "xmr-company",
+    "category": "Businesses \u203a Digital Goods/ Services",
+    "profileUrl": "https://monerica.com/site/xmr-company",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-23T00:44:18Z",
     "type": "NEW_LISTING",
     "severity": "info",
@@ -1938,65 +1998,5 @@
     "category": "Exchanges \u203a Instant Swaps",
     "profileUrl": "https://monerica.com/site/n-exchange",
     "detail": "Status: Questionable | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "AlwaysMoney",
-    "slug": "alwaysmoney",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/alwaysmoney",
-    "detail": "Status: Admitted | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "BitSwap",
-    "slug": "bitswap",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/bitswap",
-    "detail": "Status: Admitted | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Monero Slots",
-    "slug": "monero-slots",
-    "category": "Businesses \u203a Gambling",
-    "profileUrl": "https://monerica.com/site/monero-slots",
-    "detail": "Status: Verified | KYC: Guaranteed No KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Lighter",
-    "slug": "lighter",
-    "category": "Exchanges \u203a Decentralized Exchanges",
-    "profileUrl": "https://monerica.com/site/lighter",
-    "detail": "Status: Verified | KYC: Not Stated"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "AltQuick",
-    "slug": "altquick",
-    "category": "Exchanges \u203a Centralized Exchanges",
-    "profileUrl": "https://monerica.com/site/altquick",
-    "detail": "Status: Verified | KYC: Not Stated"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "BitXchange",
-    "slug": "bitxchange",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/bitxchange",
-    "detail": "Status: Verified | KYC: Shotgun KYC"
   }
 ]

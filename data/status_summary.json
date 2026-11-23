@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-23T08:57:04Z",
-  "total": 1450,
-  "verified": 291,
-  "admitted": 1003,
-  "questionable": 96,
+  "generated": "2026-11-23T18:16:35Z",
+  "total": 1455,
+  "verified": 292,
+  "admitted": 1008,
+  "questionable": 95,
   "scam": 60,
-  "no_kyc": 366,
-  "tor_enabled": 152,
+  "no_kyc": 370,
+  "tor_enabled": 154,
   "active_warnings": [
     {
       "name": "Yourcryptopal",
@@ -319,16 +319,6 @@
       "updated": "2026-11-13"
     },
     {
-      "name": "OffCard.xyz",
-      "slug": "offcard-xyz",
-      "profileUrl": "https://monerica.com/site/offcard-xyz",
-      "category": "Cards \u203a Reloadable Cards",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-13"
-    },
-    {
       "name": "REBEX",
       "slug": "rebex",
       "profileUrl": "https://monerica.com/site/rebex",
@@ -505,6 +495,16 @@
       "category": "Businesses \u203a Electronics/ Computer Hardware",
       "status": "Scam",
       "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-12"
+    },
+    {
+      "name": "Changer-man",
+      "slug": "changer-man",
+      "profileUrl": "https://monerica.com/site/changer-man",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
       "updated": "2026-11-12"
     }

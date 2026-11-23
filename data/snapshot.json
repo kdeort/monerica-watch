@@ -3754,6 +3754,32 @@
     "added": "2026-02-19",
     "updated": "2026-11-12"
   },
+  "bulletproof-cx": {
+    "name": "Bulletproof.cx",
+    "slug": "bulletproof-cx",
+    "profileUrl": "https://monerica.com/site/bulletproof-cx",
+    "website": "https://bulletproof.cx",
+    "category": "Web Hosting",
+    "subcategory": "VPS Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/vps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "restrictions": {
+      "vpn": "Allowed",
+      "tor": "Allowed"
+    },
+    "tags": [
+      "API Available",
+      "DMCA Ignored",
+      "Email Not Required",
+      "Owns Physical Servers"
+    ],
+    "country": "LT",
+    "founded": "2026-11-11",
+    "description": "Offshore KVM VPS, dedicated servers, Plesk web hosting and private domains in Vilnius, Lithuania. Random account number sign-up, no ID, with Linux, Windows and one-click apps.",
+    "added": "2026-11-23",
+    "updated": "2026-11-23"
+  },
   "buskill": {
     "name": "BusKill",
     "slug": "buskill",
@@ -4798,6 +4824,26 @@
     "description": "Video game keys for Steam, Origin, Uplay, Xbox, Playstation, and other gaming platforms.",
     "added": "2023-05-12",
     "updated": "2026-11-12"
+  },
+  "clannad-vpn": {
+    "name": "Clannad VPN",
+    "slug": "clannad-vpn",
+    "profileUrl": "https://monerica.com/site/clannad-vpn",
+    "website": "https://clannad.io/",
+    "category": "VPNs & Proxies",
+    "subcategory": "Jurisdiction Not Disclosed",
+    "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
+    "tags": [
+      "Affiliate Program",
+      "Email Not Required"
+    ],
+    "founded": "2026-11-16",
+    "description": "A privacy-first VPN that helps you bypass even the most advanced DPI systems and keep your identity private. Accepts only Crypto (Monero, Bitcoin, Litecoin, Ethereum, USDT).",
+    "added": "2026-11-23",
+    "updated": "2026-11-23"
   },
   "clearswap": {
     "name": "ClearSwap",
@@ -11132,6 +11178,19 @@
     "description": "A human rights project that supports Russian citizens who have faced discrimination abroad after Russia\u2019s full-scale invasion of Ukraine.",
     "added": "2026-06-23",
     "updated": "2026-11-12"
+  },
+  "ivek": {
+    "name": "ivek",
+    "slug": "ivek",
+    "profileUrl": "https://monerica.com/site/ivek",
+    "website": "https://ivek.gg",
+    "category": "Jobs & Freelancers",
+    "subcategory": "Developers & Consultants",
+    "categoryUrl": "https://monerica.com/jobs/developers-and-consultants",
+    "status": "Admitted",
+    "description": "Freelance back-end developer and Linux sysadmin: Python APIs and bots, scraping and automation, reverse engineering, server hardening and technical consulting.",
+    "added": "2026-11-23",
+    "updated": "2026-11-23"
   },
   "ivpn": {
     "name": "IVPN",
@@ -17922,7 +17981,7 @@
     "category": "Cards",
     "subcategory": "Reloadable Cards",
     "categoryUrl": "https://monerica.com/cards/reloadable-cards",
-    "status": "Questionable",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "restrictions": {
@@ -17949,11 +18008,11 @@
     "founded": "2026-04-17",
     "description": "Create a Visa card with Apple Pay and Google Pay support, ATM withdrawals, and the ability to send funds directly to your ACH bank account \u2014 all without KYC.",
     "rating": {
-      "average": 3.9,
-      "reviews": 7
+      "average": 4,
+      "reviews": 8
     },
     "added": "2026-09-15",
-    "updated": "2026-11-13"
+    "updated": "2026-11-23"
   },
   "okspot": {
     "name": "OKSPOT",
@@ -18822,8 +18881,8 @@
     "founded": "2026-08-29",
     "description": "Instant crypto exchange for BTC, XMR, ETH, LTC, SOL, XRP, USDT, USDC and more, with no account, Tor and no-JS access, PGP, and guarantee deposits listed publicly.",
     "rating": {
-      "average": 4.7,
-      "reviews": 7
+      "average": 4.6,
+      "reviews": 8
     },
     "added": "2026-09-03",
     "updated": "2026-11-19"
@@ -18967,6 +19026,38 @@
     "description": "Privacy-first VPN, no logs policy, and pay-as-you-go pricing. No subscriptions. Powered by WireGuard. Unlimited devices. Full REST API.",
     "added": "2025-12-18",
     "updated": "2026-11-12"
+  },
+  "paxwolfswap": {
+    "name": "Paxwolfswap",
+    "slug": "paxwolfswap",
+    "profileUrl": "https://monerica.com/site/paxwolfswap",
+    "website": "https://paxwolfswap.com",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://paxwolfvilisdumhwsvmaduqpmq4x57m7mny37wh7eqdo7eulutgpcqd.onion"
+      }
+    ],
+    "category": "Exchanges",
+    "subcategory": "Miscellaneous",
+    "categoryUrl": "https://monerica.com/exchanges/miscellaneous",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Own",
+    "rates": "Fixed",
+    "javascript": "None",
+    "restrictions": {
+      "tor": "Allowed"
+    },
+    "tags": [
+      "Account Not Required",
+      "Email Not Required",
+      "Letter of Guarantee"
+    ],
+    "founded": "2026-10-16",
+    "description": "Operator-run exchange desk with fixed, pre-locked rates. Pay by bank transfer or wire in EUR, USD, GBP, CNY, HKD, SGD or AED. No account needed.",
+    "added": "2026-11-23",
+    "updated": "2026-11-23"
   },
   "paykassa": {
     "name": "PayKassa",
@@ -22444,6 +22535,12 @@
     "slug": "silent-exchange",
     "profileUrl": "https://monerica.com/site/silent-exchange",
     "website": "https://silent.exchange",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://silentxt5ugppd3viuf7qryhfgiuzyzku7d3bwnovjm7hzyizfy6wzid.onion/"
+      }
+    ],
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
@@ -22451,7 +22548,7 @@
     "kycPolicy": "Rare KYC",
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
-    "javascript": "Required",
+    "javascript": "Optional",
     "restrictions": {
       "countriesNotServed": [
         "AS",
@@ -22472,7 +22569,8 @@
         "VI",
         "YE",
         "ZW"
-      ]
+      ],
+      "tor": "Allowed"
     },
     "tags": [
       "Account Not Required",
@@ -22480,13 +22578,13 @@
     ],
     "country": "SC",
     "founded": "2021-11-05",
-    "description": "Fast & Anonymous Crypto to Crypto Swaps. No email. No KYC.Trade-in Minutes. 1500+ Crypto Pairs 24/7/365 Service Fee starting from 1%.",
+    "description": "No-account crypto swap service with 1,100+ coins and tokens, floating or fixed rates, fees shown in every quote, and a Tor onion mirror. Works without JavaScript.",
     "rating": {
       "average": 5,
       "reviews": 3
     },
     "added": "2023-10-01",
-    "updated": "2026-11-13"
+    "updated": "2026-11-23"
   },
   "silent-link": {
     "name": "Silent Link",
@@ -25494,13 +25592,13 @@
     ],
     "country": "AE",
     "founded": "2026-05-16",
-    "description": "Non-custodial swap aggregator. Compares live XMR quotes from THORChain, CCE.Cash and Changee and routes you to the best rate \u2014 no account, no KYC for standard swaps.",
+    "description": "Non-custodial swap aggregator that compares several providers and shows each one\u2019s real quote. No account, no KYC for standard swaps, and 0% TokensFund fee.",
     "rating": {
       "average": 4.8,
       "reviews": 14
     },
     "added": "2026-06-11",
-    "updated": "2026-11-12"
+    "updated": "2026-11-23"
   },
   "top-up-balance": {
     "name": "Top Up Balance",
@@ -27827,6 +27925,20 @@
     "description": "Directory of Monero (XMR) services, from exchanges and swaps to VPNs, VPS and prepaid cards, each tested with real deposits and withdrawals and graded on a rubric.",
     "added": "2026-05-22",
     "updated": "2026-11-12"
+  },
+  "xmr-company": {
+    "name": "XMR.Company",
+    "slug": "xmr-company",
+    "profileUrl": "https://monerica.com/site/xmr-company",
+    "website": "https://xmr.company",
+    "category": "Businesses",
+    "subcategory": "Digital Goods/ Services",
+    "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "description": "No-KYC travel eSIMs for 200+ countries, LBMA .9999 gold and silver bullion with insured delivery, and a sandboxed privacy AI assistant with pay-per-session access.",
+    "added": "2026-11-23",
+    "updated": "2026-11-23"
   },
   "xmr-fan": {
     "name": "xmr.fan",
