@@ -1,5 +1,165 @@
 [
   {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "1984 Hosting",
+    "slug": "1984-hosting",
+    "category": "Web Hosting \u203a Tor & Onion Hosting",
+    "profileUrl": "https://monerica.com/site/1984-hosting",
+    "detail": "Removed from directory (was Questionable)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "BillAndKeonne",
+    "slug": "billandkeonne",
+    "category": "Non-Profits \u203a Individuals",
+    "profileUrl": "https://monerica.com/site/billandkeonne",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Biscuit Wallet",
+    "slug": "biscuit-wallet",
+    "category": "Wallets \u203a Desktop Wallets",
+    "profileUrl": "https://monerica.com/site/biscuit-wallet",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Cardtoshi.com",
+    "slug": "cardtoshi-com",
+    "category": "Cards \u203a Prepaid Cards",
+    "profileUrl": "https://monerica.com/site/cardtoshi-com",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "getprivacy.earth",
+    "slug": "getprivacy-earth",
+    "category": "Businesses \u203a IT Services",
+    "profileUrl": "https://monerica.com/site/getprivacy-earth",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Invidious",
+    "slug": "invidious",
+    "category": "Non-Profits \u203a Technologies",
+    "profileUrl": "https://monerica.com/site/invidious",
+    "detail": "Removed from directory (was Verified)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Kapkap",
+    "slug": "kapkap",
+    "category": "Finance \u203a Charts, Prices & Market Data",
+    "profileUrl": "https://monerica.com/site/kapkap",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Kastelo Traducciones",
+    "slug": "kastelo-traducciones",
+    "category": "Businesses \u203a Local & Professional Services",
+    "profileUrl": "https://monerica.com/site/kastelo-traducciones",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "KYCless",
+    "slug": "kycless",
+    "category": "Other Directories \u203a No KYC Services",
+    "profileUrl": "https://monerica.com/site/kycless",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "LitePay",
+    "slug": "litepay",
+    "category": "Merchant Services \u203a Integrations",
+    "profileUrl": "https://monerica.com/site/litepay",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "MMGen Wallet",
+    "slug": "mmgen-wallet",
+    "category": "Wallets \u203a Desktop Wallets",
+    "profileUrl": "https://monerica.com/site/mmgen-wallet",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "MoneroSMS",
+    "slug": "monerosms",
+    "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+    "profileUrl": "https://monerica.com/site/monerosms",
+    "detail": "Removed from directory (was Scam)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Philara",
+    "slug": "philara",
+    "category": "Businesses \u203a Digital Goods/ Services",
+    "profileUrl": "https://monerica.com/site/philara",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "Saxemberg",
+    "slug": "saxemberg",
+    "category": "Nodes \u203a Public Remote Nodes & Operators",
+    "profileUrl": "https://monerica.com/site/saxemberg",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "SlowBearDigger",
+    "slug": "slowbeardigger",
+    "category": "Jobs & Freelancers \u203a Developers & Consultants",
+    "profileUrl": "https://monerica.com/site/slowbeardigger",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
+    "timestamp": "2026-11-24T18:47:18Z",
+    "type": "REMOVED_LISTING",
+    "severity": "medium",
+    "name": "XMRsafe",
+    "slug": "xmrsafe",
+    "category": "Wallets \u203a Hardware Wallets",
+    "profileUrl": "https://monerica.com/site/xmrsafe",
+    "detail": "Removed from directory (was Admitted)"
+  },
+  {
     "timestamp": "2026-11-24T00:47:36Z",
     "type": "NEW_LISTING",
     "severity": "info",
@@ -1838,165 +1998,5 @@
     "category": "Exchanges \u203a Instant Swaps",
     "profileUrl": "https://monerica.com/site/expeer",
     "detail": "Status: Admitted | KYC: Rare KYC"
-  },
-  {
-    "timestamp": "2026-11-02",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "rdp.monster",
-    "slug": "rdp-monster",
-    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
-    "profileUrl": "https://monerica.com/site/rdp-monster",
-    "detail": "Status: Verified | KYC: Guaranteed No KYC"
-  },
-  {
-    "timestamp": "2026-11-02",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "BTCVPS",
-    "slug": "btcvps",
-    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
-    "profileUrl": "https://monerica.com/site/btcvps",
-    "detail": "Status: Verified | KYC: Guaranteed No KYC"
-  },
-  {
-    "timestamp": "2026-11-02",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Changee",
-    "slug": "changee",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/changee",
-    "detail": "Status: Verified | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Monero Checkout",
-    "slug": "monero-checkout",
-    "category": "Merchant Services \u203a Open Source Projects",
-    "profileUrl": "https://monerica.com/site/monero-checkout",
-    "detail": "Status: Admitted | KYC: Guaranteed No KYC"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "high",
-    "name": "monerotalk.org",
-    "slug": "monerotalk-org",
-    "category": "Communities \u203a Forums",
-    "profileUrl": "https://monerica.com/site/monerotalk-org",
-    "detail": "Status: Questionable | KYC: Not Stated"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "NefiSwap",
-    "slug": "nefiswap",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/nefiswap",
-    "detail": "Status: Admitted | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Useraven",
-    "slug": "useraven",
-    "category": "Non-Profits \u203a Technologies",
-    "profileUrl": "https://monerica.com/site/useraven",
-    "detail": "Status: Admitted | KYC: Not Stated"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "XMRchan",
-    "slug": "xmrchan",
-    "category": "Communities \u203a Forums",
-    "profileUrl": "https://monerica.com/site/xmrchan",
-    "detail": "Status: Admitted | KYC: Guaranteed No KYC"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Solar Swap",
-    "slug": "solar-swap",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/solar-swap",
-    "detail": "Status: Admitted | KYC: Varies By Provider"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Spinatoshi",
-    "slug": "spinatoshi",
-    "category": "Businesses \u203a Gambling",
-    "profileUrl": "https://monerica.com/site/spinatoshi",
-    "detail": "Status: Admitted | KYC: Rare KYC"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "high",
-    "name": "67.tax",
-    "slug": "67-tax",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/67-tax",
-    "detail": "Status: Questionable | KYC: Guaranteed No KYC"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "high",
-    "name": "StereoSwap",
-    "slug": "stereoswap",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/stereoswap",
-    "detail": "Status: Questionable | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "ExWell",
-    "slug": "exwell",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/exwell",
-    "detail": "Status: Admitted | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-11-01",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Explace",
-    "slug": "explace",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/explace",
-    "detail": "Status: Admitted | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "HushSIMs",
-    "slug": "hushsims",
-    "category": "Phone & SMS \u203a eSIMs & SIM Cards",
-    "profileUrl": "https://monerica.com/site/hushsims",
-    "detail": "Status: Admitted | KYC: Varies By Provider"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Moneroarena",
-    "slug": "moneroarena",
-    "category": "Businesses \u203a Gambling",
-    "profileUrl": "https://monerica.com/site/moneroarena",
-    "detail": "Status: Admitted | KYC: Guaranteed No KYC"
   }
 ]

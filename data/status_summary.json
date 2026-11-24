@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-24T12:32:19Z",
-  "total": 1458,
-  "verified": 292,
-  "admitted": 1011,
-  "questionable": 95,
-  "scam": 60,
-  "no_kyc": 372,
-  "tor_enabled": 154,
+  "generated": "2026-11-24T17:00:05Z",
+  "total": 1442,
+  "verified": 291,
+  "admitted": 999,
+  "questionable": 94,
+  "scam": 58,
+  "no_kyc": 367,
+  "tor_enabled": 149,
   "active_warnings": [
+    {
+      "name": "AnonRefill.com",
+      "slug": "anonrefill-com",
+      "profileUrl": "https://monerica.com/site/anonrefill-com",
+      "category": "Phone & SMS \u203a eSIMs & SIM Cards",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-24"
+    },
     {
       "name": "Wagyu.xyz",
       "slug": "wagyu-xyz",
@@ -47,16 +57,6 @@
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Marked as Questionable",
       "updated": "2026-11-21"
-    },
-    {
-      "name": "1984 Hosting",
-      "slug": "1984-hosting",
-      "profileUrl": "https://monerica.com/site/1984-hosting",
-      "category": "Web Hosting \u203a Tor & Onion Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-20"
     },
     {
       "name": "Bitgolder",
@@ -399,16 +399,6 @@
       "updated": "2026-11-12"
     },
     {
-      "name": "AnonRefill.com",
-      "slug": "anonrefill-com",
-      "profileUrl": "https://monerica.com/site/anonrefill-com",
-      "category": "Cards \u203a Gift Cards",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-12"
-    },
-    {
       "name": "Apple Bitcoins",
       "slug": "apple-bitcoins",
       "profileUrl": "https://monerica.com/site/apple-bitcoins",
@@ -506,6 +496,16 @@
       "status": "Scam",
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-12"
+    },
+    {
+      "name": "CharityHost.org",
+      "slug": "charityhost-org",
+      "profileUrl": "https://monerica.com/site/charityhost-org",
+      "category": "Web Hosting \u203a VPS Hosting",
+      "status": "Questionable",
+      "kycPolicy": "Not Stated",
+      "warning": "Marked as Questionable",
       "updated": "2026-11-12"
     }
   ]

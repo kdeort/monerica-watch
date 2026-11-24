@@ -106,25 +106,6 @@
     "added": "2025-12-20",
     "updated": "2026-11-13"
   },
-  "1984-hosting": {
-    "name": "1984 Hosting",
-    "slug": "1984-hosting",
-    "profileUrl": "https://monerica.com/site/1984-hosting",
-    "website": "https://1984.hosting",
-    "category": "Web Hosting",
-    "subcategory": "Tor & Onion Hosting",
-    "categoryUrl": "https://monerica.com/web-hosting/tor-hosting",
-    "status": "Questionable",
-    "javascript": "Optional",
-    "tags": [
-      "Sells Tor Exit Hosting"
-    ],
-    "country": "IS",
-    "founded": "2020-12-23",
-    "description": "Icelandic hosting company offering web hosting, VPS, WordPress security packs, FreeDNS and domain registration on renewable energy.",
-    "added": "2024-01-22",
-    "updated": "2026-11-20"
-  },
   "1gbits": {
     "name": "1Gbits",
     "slug": "1gbits",
@@ -402,10 +383,11 @@
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Fixed & Float",
+    "country": "RU",
     "founded": "2026-10-21",
     "description": "Instant crypto swap service with floating and fixed rates, payouts across multiple networks, an affiliate program and an API. Pays out from its own reserve.",
     "added": "2026-11-23",
-    "updated": "2026-11-23"
+    "updated": "2026-11-24"
   },
   "67-tax": {
     "name": "67.tax",
@@ -1305,9 +1287,9 @@
     "slug": "anonrefill-com",
     "profileUrl": "https://monerica.com/site/anonrefill-com",
     "website": "https://anonrefill.com",
-    "category": "Cards",
-    "subcategory": "Gift Cards",
-    "categoryUrl": "https://monerica.com/cards/gift-cards",
+    "category": "Phone & SMS",
+    "subcategory": "eSIMs & SIM Cards",
+    "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
     "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
@@ -1316,13 +1298,13 @@
       "API Available"
     ],
     "founded": "2026-04-03",
-    "description": "Online store selling eSIM data plans for 200+ countries and gift cards for Steam, Amazon, PlayStation and 100+ brands.",
+    "description": "Online store selling eSIM data plans for 200+ countries.",
     "rating": {
       "average": 4,
       "reviews": 1
     },
     "added": "2026-04-06",
-    "updated": "2026-11-12"
+    "updated": "2026-11-24"
   },
   "anonymd": {
     "name": "AnonyMD",
@@ -2390,22 +2372,6 @@
     "added": "2025-08-27",
     "updated": "2026-11-12"
   },
-  "billandkeonne": {
-    "name": "BillAndKeonne",
-    "slug": "billandkeonne",
-    "profileUrl": "https://monerica.com/site/billandkeonne",
-    "website": "https://billandkeonne.org/",
-    "category": "Non-Profits",
-    "subcategory": "Individuals",
-    "categoryUrl": "https://monerica.com/non-profits/individuals",
-    "status": "Admitted",
-    "javascript": "Optional",
-    "country": "US",
-    "founded": "2025-11-04",
-    "description": "Behind Every Line of Code, There's a Family Supporting Bill and Keonne, the Samourai Wallet developers and their loved ones",
-    "added": "2026-06-23",
-    "updated": "2026-11-12"
-  },
   "bim-exchange": {
     "name": "BIM Exchange",
     "slug": "bim-exchange",
@@ -2512,32 +2478,6 @@
     "description": "An award-winning digital marketing agency delivering performance-driven solutions in SEO, PPC, web design, and branding.",
     "added": "2025-10-20",
     "updated": "2026-11-12"
-  },
-  "biscuit-wallet": {
-    "name": "Biscuit Wallet",
-    "slug": "biscuit-wallet",
-    "profileUrl": "https://monerica.com/site/biscuit-wallet",
-    "website": "https://biscuitwallet.com",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "http://biscuit6qpejzxfr7us7oibhjasvrozfeno7xonffzzoj4lmw6o3kbyd.onion/"
-      }
-    ],
-    "category": "Wallets",
-    "subcategory": "Desktop Wallets",
-    "categoryUrl": "https://monerica.com/wallets/desktop-wallets",
-    "status": "Admitted",
-    "kycPolicy": "Guaranteed No KYC",
-    "javascript": "None",
-    "tags": [
-      "Account Not Required",
-      "Email Not Required"
-    ],
-    "founded": "2026-09-27",
-    "description": "Monero-centered desktop wallet built on Feather, free and open source. Tor built in, Tails support, Trocador integration, atomic swaps without KYC, reproducible builds.",
-    "added": "2026-10-10",
-    "updated": "2026-11-09"
   },
   "bisq": {
     "name": "Bisq",
@@ -4310,25 +4250,6 @@
     },
     "added": "2026-06-16",
     "updated": "2026-11-22"
-  },
-  "cardtoshi-com": {
-    "name": "Cardtoshi.com",
-    "slug": "cardtoshi-com",
-    "profileUrl": "https://monerica.com/site/cardtoshi-com",
-    "category": "Cards",
-    "subcategory": "Prepaid Cards",
-    "categoryUrl": "https://monerica.com/cards/prepaid-cards",
-    "status": "Scam",
-    "warning": "Listed as a scam: do not use.",
-    "kycPolicy": "Guaranteed No KYC",
-    "tags": [
-      "Affiliate Program"
-    ],
-    "country": "DE",
-    "founded": "2024-03-28",
-    "description": "Deposit Monero, get instant USD cards and spend your crypto anywhere Mastercards are accepted.",
-    "added": "2026-03-17",
-    "updated": "2026-03-17"
   },
   "casbay": {
     "name": "Casbay",
@@ -8394,7 +8315,7 @@
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
     "status": "Admitted",
     "kycPolicy": "Guaranteed No KYC",
-    "javascript": "Required",
+    "javascript": "Optional",
     "restrictions": {
       "countriesNotServed": [
         "CU",
@@ -8406,9 +8327,10 @@
       "tor": "May trigger verification",
       "other": "Minimum age 18"
     },
-    "description": "Encrypted email with no phone number or ID at sign-up. Subject lines encrypted, Thunderbird support on every plan, aliases and a free tier.",
+    "founded": "2026-08-10",
+    "description": "Encrypted email with IMAP on every plan, a free tier, aliases and custom domains. Sign-up asks for no phone number or ID and works over Tor.",
     "added": "2026-11-20",
-    "updated": "2026-11-21"
+    "updated": "2026-11-24"
   },
   "forgeswap": {
     "name": "ForgeSwap",
@@ -9017,32 +8939,11 @@
     "added": "2026-03-19",
     "updated": "2026-11-13"
   },
-  "getprivacy-earth": {
-    "name": "getprivacy.earth",
-    "slug": "getprivacy-earth",
-    "profileUrl": "https://monerica.com/site/getprivacy-earth",
-    "website": "https://getprivacy.earth",
-    "category": "Businesses",
-    "subcategory": "IT Services",
-    "categoryUrl": "https://monerica.com/businesses/it-services",
-    "status": "Admitted",
-    "javascript": "Optional",
-    "founded": "2023-11-17",
-    "description": "Privacy and security coaching for individuals and organizations: device lockdown, de-Googling, GrapheneOS, data-breach recovery and workshops.",
-    "added": "2025-07-08",
-    "updated": "2026-11-12"
-  },
   "ghostbox": {
     "name": "ghostBox",
     "slug": "ghostbox",
     "profileUrl": "https://monerica.com/site/ghostbox",
     "website": "https://ghostbox.cc",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "http://ghost7whczovqqnabnvzbx24hqnfseyzzdqtzcpkyvbgfmwfgwii6pyd.onion"
-      }
-    ],
     "category": "Businesses",
     "subcategory": "Email Providers/ Forwarders",
     "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
@@ -9056,7 +8957,7 @@
       "reviews": 1
     },
     "added": "2023-12-23",
-    "updated": "2026-11-09"
+    "updated": "2026-11-24"
   },
   "ghostsims": {
     "name": "GhostSims",
@@ -9919,7 +9820,7 @@
     "name": "Heleket",
     "slug": "heleket",
     "profileUrl": "https://monerica.com/site/heleket",
-    "website": "heleket.hk",
+    "website": "https://heleket.hk",
     "category": "Merchant Services",
     "subcategory": "Integrations",
     "categoryUrl": "https://monerica.com/merchant-services/integrations",
@@ -9936,7 +9837,7 @@
       "reviews": 1
     },
     "added": "2025-06-12",
-    "updated": "2026-11-18"
+    "updated": "2026-11-24"
   },
   "helihost": {
     "name": "HelioHost",
@@ -11062,21 +10963,6 @@
     "added": "2026-11-08",
     "updated": "2026-11-12"
   },
-  "invidious": {
-    "name": "Invidious",
-    "slug": "invidious",
-    "profileUrl": "https://monerica.com/site/invidious",
-    "website": "https://invidious.io",
-    "category": "Non-Profits",
-    "subcategory": "Technologies",
-    "categoryUrl": "https://monerica.com/non-profits/technologies",
-    "status": "Verified",
-    "javascript": "Optional",
-    "founded": "2021-01-06",
-    "description": "Invidious is a free, open-source (AGPL) alternative front-end to YouTube: watch videos without ads or a Google account, subscribe and make playlists.",
-    "added": "2024-12-26",
-    "updated": "2026-11-13"
-  },
   "iran-netlify": {
     "name": "Iran Netlify",
     "slug": "iran-netlify",
@@ -11483,28 +11369,6 @@
     "added": "2026-10-19",
     "updated": "2026-11-12"
   },
-  "kapkap": {
-    "name": "Kapkap",
-    "slug": "kapkap",
-    "profileUrl": "https://monerica.com/site/kapkap",
-    "website": "https://kapkap.app",
-    "category": "Finance",
-    "subcategory": "Charts, Prices & Market Data",
-    "categoryUrl": "https://monerica.com/finance/charts-and-portfolios",
-    "status": "Admitted",
-    "kycPolicy": "Guaranteed No KYC",
-    "javascript": "Required",
-    "tags": [
-      "Account Not Required",
-      "Email Not Required",
-      "Owns Physical Servers"
-    ],
-    "country": "ME",
-    "founded": "2024-05-10",
-    "description": "Not your device, not your data. Built for the privacy-minded - Private portfolio tracker/Crypto+financial dashboard. No sign up, your data stays, encrypted, on your device.",
-    "added": "2026-03-22",
-    "updated": "2026-11-12"
-  },
   "karagodin": {
     "name": "Karagodin",
     "slug": "karagodin",
@@ -11554,27 +11418,6 @@
     "description": "Open-source point-of-sale system for accepting Monero (XMR) payments: a progressive web app for phones or tablets plus a server running a view-only wallet.",
     "added": "2022-06-22",
     "updated": "2026-11-13"
-  },
-  "kastelo-traducciones": {
-    "name": "Kastelo Traducciones",
-    "slug": "kastelo-traducciones",
-    "profileUrl": "https://monerica.com/site/kastelo-traducciones",
-    "website": "https://freakspot.net/kastelo/index.en.html",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "http://63xpbju6u6kzge3k5mobwivob2seui4ka26l2iboraw5lxz262brgjad.onion/kastelo"
-      }
-    ],
-    "category": "Businesses",
-    "subcategory": "Local & Professional Services",
-    "categoryUrl": "https://monerica.com/businesses/local-and-professional-services",
-    "status": "Admitted",
-    "javascript": "Optional",
-    "founded": "2016-06-28",
-    "description": "Website translation service for internationalization and localization of entire sites, plus subtitling and video transcription, priced per word.",
-    "added": "2025-07-03",
-    "updated": "2026-11-12"
   },
   "kathie": {
     "name": "kathie",
@@ -12130,22 +11973,6 @@
     },
     "added": "2026-04-02",
     "updated": "2026-11-09"
-  },
-  "kycless": {
-    "name": "KYCless",
-    "slug": "kycless",
-    "profileUrl": "https://monerica.com/site/kycless",
-    "website": "https://kycless.cc/",
-    "category": "Other Directories",
-    "subcategory": "No KYC Services",
-    "categoryUrl": "https://monerica.com/other-directories/no-kyc-services",
-    "status": "Admitted",
-    "kycPolicy": "Guaranteed No KYC",
-    "javascript": "Optional",
-    "founded": "2026-07-15",
-    "description": "Directory of privacy services listing crypto exchangers, mixers, VPNs, email, cards, hosting and wallets, with Monero (XMR) filters, user ratings and scam reports.",
-    "added": "2026-09-30",
-    "updated": "2026-11-12"
   },
   "kycnone": {
     "name": "KYCnone",
@@ -12766,21 +12593,6 @@
     "founded": "2006-06-07",
     "description": "An operating system for desktop and laptop computers. It is designed to work 'out of the box' and comes fully equipped with the apps most people need.",
     "added": "2023-09-12",
-    "updated": "2026-11-12"
-  },
-  "litepay": {
-    "name": "LitePay",
-    "slug": "litepay",
-    "profileUrl": "https://monerica.com/site/litepay",
-    "website": "https://litepay.ch",
-    "category": "Merchant Services",
-    "subcategory": "Integrations",
-    "categoryUrl": "https://monerica.com/merchant-services/integrations",
-    "status": "Admitted",
-    "javascript": "Optional",
-    "country": "CH",
-    "description": "Allows website owners, developers and merchants to accept Monero (and other cryptocurrency) easily without the need of submitting any kind of identifiable personal information",
-    "added": "2022-06-22",
     "updated": "2026-11-12"
   },
   "live-xmr-wishlist-as-a-service": {
@@ -14016,31 +13828,6 @@
     },
     "added": "2025-12-23",
     "updated": "2026-11-12"
-  },
-  "mmgen-wallet": {
-    "name": "MMGen Wallet",
-    "slug": "mmgen-wallet",
-    "profileUrl": "https://monerica.com/site/mmgen-wallet",
-    "website": "https://mmgen-wallet.cc",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "http://mmgen55rtcahqfp2hn3v7syqv2wqanks5oeezqg3ykwfkebmouzjxlad.onion"
-      },
-      {
-        "label": "I2P",
-        "url": "http://mmgen-wallet.i2p"
-      }
-    ],
-    "category": "Wallets",
-    "subcategory": "Desktop Wallets",
-    "categoryUrl": "https://monerica.com/wallets/desktop-wallets",
-    "status": "Admitted",
-    "javascript": "None",
-    "founded": "2023-01-21",
-    "description": "Open-source, terminal-based online/offline crypto wallet in Python for cold storage, supporting BTC, LTC, ETH, Monero (XMR) and more, with THORChain swaps and autosign.",
-    "added": "2025-05-01",
-    "updated": "2026-11-09"
   },
   "mmgen-wallet-gitlab": {
     "name": "mmgen-wallet - Gitlab",
@@ -16328,12 +16115,6 @@
     "slug": "monerosim",
     "profileUrl": "https://monerica.com/site/monerosim",
     "website": "https://monerosim.com",
-    "otherLinks": [
-      {
-        "label": "Tor",
-        "url": "http://qdf23bdohza5q23zqvdo3qk525nvg6de66wesuym4vjx4muhd7jxneqd.onion/"
-      }
-    ],
     "category": "Phone & SMS",
     "subcategory": "eSIMs & SIM Cards",
     "categoryUrl": "https://monerica.com/phone-and-sms/esims-and-sim-cards",
@@ -16346,22 +16127,7 @@
     "founded": "2026-09-14",
     "description": "Data-only travel eSIM for 200+ countries. No ID or account: a one-time recovery token, optional email. Per-MB billing, hotspot included, balance never expires.",
     "added": "2026-10-25",
-    "updated": "2026-11-12"
-  },
-  "monerosms": {
-    "name": "MoneroSMS",
-    "slug": "monerosms",
-    "profileUrl": "https://monerica.com/site/monerosms",
-    "category": "Phone & SMS",
-    "subcategory": "SMS Verification & Virtual Numbers",
-    "categoryUrl": "https://monerica.com/phone-and-sms/sms-verification-and-virtual-numbers",
-    "status": "Scam",
-    "warning": "Listed as a scam: do not use.",
-    "javascript": "Required",
-    "founded": "2022-11-21",
-    "description": "Virtual phone number service for sending and receiving SMS, at $3.60/mo plus per-message fees, with a web app, CLI client and Tor support.",
-    "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-24"
   },
   "moneroswap-net": {
     "name": "MoneroSwap.net",
@@ -19404,27 +19170,6 @@
     "added": "2026-11-06",
     "updated": "2026-11-22"
   },
-  "philara": {
-    "name": "Philara",
-    "slug": "philara",
-    "profileUrl": "https://monerica.com/site/philara",
-    "website": "https://philara.org/",
-    "category": "Businesses",
-    "subcategory": "Digital Goods/ Services",
-    "categoryUrl": "https://monerica.com/businesses/digital-goods-services",
-    "status": "Admitted",
-    "kycPolicy": "Not Stated",
-    "javascript": "Optional",
-    "tags": [
-      "Account Not Required",
-      "Affiliate Program",
-      "Email Not Required"
-    ],
-    "founded": "2025-07-16",
-    "description": "Private apps for the inner life \u2014 life coaching, values-based budgeting, and private notes. No servers, no accounts, no tracking: private by architecture, not promise.",
-    "added": "2026-11-12",
-    "updated": "2026-11-12"
-  },
   "phreeli": {
     "name": "Phreeli",
     "slug": "phreeli",
@@ -21784,27 +21529,6 @@
     "added": "2026-02-23",
     "updated": "2026-11-12"
   },
-  "saxemberg": {
-    "name": "Saxemberg",
-    "slug": "saxemberg",
-    "profileUrl": "https://monerica.com/site/saxemberg",
-    "website": "https://saxemberg.com/",
-    "category": "Nodes",
-    "subcategory": "Public Remote Nodes & Operators",
-    "categoryUrl": "https://monerica.com/nodes/public-remote-nodes-and-operators",
-    "status": "Admitted",
-    "kycPolicy": "Guaranteed No KYC",
-    "javascript": "Optional",
-    "tags": [
-      "Account Not Required",
-      "Email Not Required"
-    ],
-    "country": "PA",
-    "founded": "2020-06-01",
-    "description": "Public Monero remote node in Lithuania offering RPC access over clearnet, Tor and I2P, run by a blockchain infrastructure operator that also runs Polkadot and NEAR validators.",
-    "added": "2026-02-18",
-    "updated": "2026-11-12"
-  },
   "schwobaglamodda": {
     "name": "Schwobaglamodda",
     "slug": "schwobaglamodda",
@@ -23165,20 +22889,6 @@
     "description": "Animation production studio for companies and NGOs specialized in emotion-driven storytelling.",
     "added": "2024-01-25",
     "updated": "2026-07-24"
-  },
-  "slowbeardigger": {
-    "name": "SlowBearDigger",
-    "slug": "slowbeardigger",
-    "profileUrl": "https://monerica.com/site/slowbeardigger",
-    "website": "https://slowbeardigger.dev/",
-    "category": "Jobs & Freelancers",
-    "subcategory": "Developers & Consultants",
-    "categoryUrl": "https://monerica.com/jobs/developers-and-consultants",
-    "status": "Admitted",
-    "founded": "2025-10-30",
-    "description": "I craft secure, high-performance static websites with a minimalist, crypto-inspired aesthetic.",
-    "added": "2025-11-05",
-    "updated": "2025-11-05"
   },
   "slowservers": {
     "name": "SlowServers",
@@ -28597,20 +28307,6 @@
     },
     "added": "2025-08-15",
     "updated": "2026-11-16"
-  },
-  "xmrsafe": {
-    "name": "XMRsafe",
-    "slug": "xmrsafe",
-    "profileUrl": "https://monerica.com/site/xmrsafe",
-    "website": "https://xmrsafe.com",
-    "category": "Wallets",
-    "subcategory": "Hardware Wallets",
-    "categoryUrl": "https://monerica.com/wallets/hardware-wallets",
-    "status": "Admitted",
-    "founded": "2025-10-29",
-    "description": "Air-gapped hardware wallet for Monero (XMR) only, with open-source firmware, QR code signing, no WiFi or Bluetooth, and support for Feather and the official GUI wallet.",
-    "added": "2025-12-17",
-    "updated": "2026-10-30"
   },
   "xmrsale": {
     "name": "xmrSale",
