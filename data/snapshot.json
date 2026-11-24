@@ -390,6 +390,23 @@
     "added": "2025-10-05",
     "updated": "2026-11-12"
   },
+  "666-exchange": {
+    "name": "666.exchange",
+    "slug": "666-exchange",
+    "profileUrl": "https://monerica.com/site/666-exchange",
+    "website": "https://666.exchange",
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Own",
+    "rates": "Fixed & Float",
+    "founded": "2026-10-21",
+    "description": "Instant crypto swap service with floating and fixed rates, payouts across multiple networks, an affiliate program and an API. Pays out from its own reserve.",
+    "added": "2026-11-23",
+    "updated": "2026-11-23"
+  },
   "67-tax": {
     "name": "67.tax",
     "slug": "67-tax",
@@ -2047,6 +2064,36 @@
     "description": "Off-grid, resilient mesh communication with strong encryption, and extreme privacy.",
     "added": "2025-09-15",
     "updated": "2026-11-09"
+  },
+  "bartertowne": {
+    "name": "BarterTowne",
+    "slug": "bartertowne",
+    "profileUrl": "https://monerica.com/site/bartertowne",
+    "website": "https://bartertowne.agorist.market/",
+    "category": "Businesses",
+    "subcategory": "Travel & Accommodation",
+    "categoryUrl": "https://monerica.com/businesses/travel",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "None",
+    "restrictions": {
+      "vpn": "Allowed",
+      "tor": "Allowed",
+      "other": "Adults only, Shire Society \"members\" only, pledge required, children brought must be co stantly sipervised."
+    },
+    "tags": [
+      "Account Not Required",
+      "Affiliate Program",
+      "Email Not Required",
+      "Owns Physical Servers",
+      "Perpetuals",
+      "Sells Sponsorship"
+    ],
+    "country": "US",
+    "founded": "2026-10-31",
+    "description": "Year-round campground, RV and off-grid campsite rentals in Canaan, New Hampshire, run as an in-person community venue for agorists.",
+    "added": "2026-11-23",
+    "updated": "2026-11-23"
   },
   "based-win": {
     "name": "Based.win",
@@ -4841,7 +4888,7 @@
       "Email Not Required"
     ],
     "founded": "2026-11-16",
-    "description": "A privacy-first VPN that helps you bypass even the most advanced DPI systems and keep your identity private. Accepts only Crypto (Monero, Bitcoin, Litecoin, Ethereum, USDT).",
+    "description": "Privacy-First VPN that blends in with regular traffic. DPI-Resistant VLESS/REALITY Protocols. No-Logs, No KYC. Crypto payments only.",
     "added": "2026-11-23",
     "updated": "2026-11-23"
   },
@@ -15952,6 +15999,20 @@
     "added": "2026-01-27",
     "updated": "2026-11-13"
   },
+  "moneroflip": {
+    "name": "moneroflip",
+    "slug": "moneroflip",
+    "profileUrl": "https://monerica.com/site/moneroflip",
+    "website": "https://moneroflip.net",
+    "category": "Businesses",
+    "subcategory": "Gambling",
+    "categoryUrl": "https://monerica.com/businesses/gambling",
+    "status": "Admitted",
+    "founded": "2026-11-23",
+    "description": "PVP coinflip game using Monero, with custodial balances and verifiable game results.",
+    "added": "2026-11-24",
+    "updated": "2026-11-24"
+  },
   "moneroflow": {
     "name": "MoneroFlow",
     "slug": "moneroflow",
@@ -26860,7 +26921,7 @@
       "reviews": 11
     },
     "added": "2025-12-20",
-    "updated": "2026-11-20"
+    "updated": "2026-11-23"
   },
   "walls-rip": {
     "name": "walls.rip",

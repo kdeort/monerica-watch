@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-24T00:47:36Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "666.exchange",
+    "slug": "666-exchange",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/666-exchange",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-24T00:47:36Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "BarterTowne",
+    "slug": "bartertowne",
+    "category": "Businesses \u203a Travel & Accommodation",
+    "profileUrl": "https://monerica.com/site/bartertowne",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-24T00:47:36Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "moneroflip",
+    "slug": "moneroflip",
+    "category": "Businesses \u203a Gambling",
+    "profileUrl": "https://monerica.com/site/moneroflip",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-23T18:48:35Z",
     "type": "NEW_LISTING",
     "severity": "info",
@@ -1968,35 +1998,5 @@
     "category": "Businesses \u203a Gambling",
     "profileUrl": "https://monerica.com/site/moneroarena",
     "detail": "Status: Admitted | KYC: Guaranteed No KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Breezeswap",
-    "slug": "breezeswap",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/breezeswap",
-    "detail": "Status: Admitted | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Cambio",
-    "slug": "cambio",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/cambio",
-    "detail": "Status: Admitted | KYC: Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-10-31",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "high",
-    "name": "n.exchange",
-    "slug": "n-exchange",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/n-exchange",
-    "detail": "Status: Questionable | KYC: Shotgun KYC"
   }
 ]

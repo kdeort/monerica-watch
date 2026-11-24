@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-23T18:16:35Z",
-  "total": 1455,
+  "generated": "2026-11-24T00:24:20Z",
+  "total": 1458,
   "verified": 292,
-  "admitted": 1008,
+  "admitted": 1011,
   "questionable": 95,
   "scam": 60,
-  "no_kyc": 370,
+  "no_kyc": 372,
   "tor_enabled": 154,
   "active_warnings": [
+    {
+      "name": "Wagyu.xyz",
+      "slug": "wagyu-xyz",
+      "profileUrl": "https://monerica.com/site/wagyu-xyz",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-23"
+    },
     {
       "name": "Yourcryptopal",
       "slug": "yourcryptopal",
@@ -46,16 +56,6 @@
       "status": "Questionable",
       "kycPolicy": "Not Stated",
       "warning": "Marked as Questionable",
-      "updated": "2026-11-20"
-    },
-    {
-      "name": "Wagyu.xyz",
-      "slug": "wagyu-xyz",
-      "profileUrl": "https://monerica.com/site/wagyu-xyz",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Scam",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Listed as a scam: do not use.",
       "updated": "2026-11-20"
     },
     {

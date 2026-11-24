@@ -4,7 +4,25 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Mon, 23 Nov 2026 18:48:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 00:47:36 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] 666.exchange — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/666-exchange</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">666-exchange-NEW_LISTING-2026-11-24T00:47:36Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] BarterTowne — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/bartertowne</link>
+      <description>Category: Businesses › Travel &amp; Accommodation | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">bartertowne-NEW_LISTING-2026-11-24T00:47:36Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] moneroflip — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/moneroflip</link>
+      <description>Category: Businesses › Gambling | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">moneroflip-NEW_LISTING-2026-11-24T00:47:36Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] Bulletproof.cx — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/bulletproof-cx</link>
@@ -226,24 +244,6 @@
       <link>https://monerica.com/site/barbadosexchange</link>
       <description>Category: Exchanges › Aggregators | Removed from directory (was Questionable)</description>
       <guid isPermaLink="false">barbadosexchange-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Cipher Cards — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/cipher-cards</link>
-      <description>Category: Cards › Reloadable Cards | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">cipher-cards-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Decentraleyes — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/decentraleyes</link>
-      <description>Category: Non-Profits › Technologies | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">decentraleyes-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] di Monero - Digital Asset Manager — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/di-monero-digital-asset-manager</link>
-      <description>Category: Businesses › Digital Goods/ Services | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">di-monero-digital-asset-manager-REMOVED_LISTING-2026-11-17T12:49:02Z</guid>
     </item>
   </channel>
 </rss>
