@@ -19184,9 +19184,9 @@
     "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
     "founded": "2026-09-28",
-    "description": "No-KYC VPS and dedicated servers with root access, NVMe and bare-metal plans, IPMI on dedicated servers, a public status page, test IPs and email-only sign-up.",
+    "description": "VPS and dedicated servers with root access, NVMe and bare-metal plans, IPMI on dedicated servers, public test IPs and a status page. Sign-up with email, GitHub or user ID.",
     "added": "2026-11-06",
-    "updated": "2026-11-22"
+    "updated": "2026-11-25"
   },
   "phreeli": {
     "name": "Phreeli",
