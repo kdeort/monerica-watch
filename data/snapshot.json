@@ -8975,6 +8975,24 @@
     "added": "2026-03-07",
     "updated": "2026-11-12"
   },
+  "ghostsms": {
+    "name": "GhostSMS",
+    "slug": "ghostsms",
+    "profileUrl": "https://monerica.com/site/ghostsms",
+    "website": "https://ghostsms.org/en/",
+    "category": "Phone & SMS",
+    "subcategory": "SMS Verification & Virtual Numbers",
+    "categoryUrl": "https://monerica.com/phone-and-sms/sms-verification-and-virtual-numbers",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "Email Not Required"
+    ],
+    "founded": "2026-11-23",
+    "description": "Temporary phone numbers from 195 countries for one-time SMS verification codes. No KYC, email or phone number needed to sign up. Automatic refund if no code arrives.",
+    "added": "2026-11-25",
+    "updated": "2026-11-25"
+  },
   "ghostswap": {
     "name": "GhostSwap",
     "slug": "ghostswap",

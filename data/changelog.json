@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-25T06:59:00Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "GhostSMS",
+    "slug": "ghostsms",
+    "category": "Phone & SMS \u203a SMS Verification & Virtual Numbers",
+    "profileUrl": "https://monerica.com/site/ghostsms",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-25T00:51:00Z",
     "type": "STATUS_CHANGE",
     "severity": "high",
@@ -1988,15 +1998,5 @@
     "category": "Exchanges \u203a Instant Swaps",
     "profileUrl": "https://monerica.com/site/expeer",
     "detail": "Status changed: Admitted \u2192 Questionable"
-  },
-  {
-    "timestamp": "2026-11-02T16:49:38Z",
-    "type": "KYC_CHANGE",
-    "severity": "medium",
-    "name": "Expeer",
-    "slug": "expeer",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/expeer",
-    "detail": "KYC policy changed: Rare KYC \u2192 Shotgun KYC"
   }
 ]
