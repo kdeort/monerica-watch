@@ -379,7 +379,7 @@
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Admitted",
+    "status": "Questionable",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Fixed & Float",
@@ -24357,6 +24357,41 @@
     "description": "Swap 2,000+ cryptocurrencies instantly with no KYC. Anonymous, secure, and trusted by 150K+ traders.",
     "added": "2026-03-22",
     "updated": "2026-11-16"
+  },
+  "swaprouter": {
+    "name": "SwapRouter",
+    "slug": "swaprouter",
+    "profileUrl": "https://monerica.com/site/swaprouter",
+    "website": "https://swaprouter.app",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://k35pbegsvajwhmmgtpq3km2qtfckatmyvoctwbxokfxpp2qqfbcdvfid.onion"
+      }
+    ],
+    "category": "Exchanges",
+    "subcategory": "Aggregators",
+    "categoryUrl": "https://monerica.com/exchanges/aggregators",
+    "status": "Admitted",
+    "kycPolicy": "Varies By Provider",
+    "liquidity": "Third Party",
+    "rates": "Fixed & Float",
+    "javascript": "Optional",
+    "restrictions": {
+      "vpn": "Allowed",
+      "tor": "Allowed",
+      "other": "Swaps to or from addresses on sanctions lists are refused."
+    },
+    "tags": [
+      "Account Not Required",
+      "Affiliate Program",
+      "API Available",
+      "Email Not Required"
+    ],
+    "founded": "2026-11-22",
+    "description": "Swap aggregator comparing instant exchanges, bridges and DEXs, ranking routes by amount received after fees, with the KYC risk of each route shown. Non-custodial.",
+    "added": "2026-11-24",
+    "updated": "2026-11-24"
   },
   "swaps": {
     "name": "Swaps",

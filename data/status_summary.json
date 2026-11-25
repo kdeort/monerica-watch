@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-24T17:00:05Z",
-  "total": 1442,
+  "generated": "2026-11-25T00:37:20Z",
+  "total": 1443,
   "verified": 291,
   "admitted": 999,
-  "questionable": 94,
+  "questionable": 95,
   "scam": 58,
   "no_kyc": 367,
-  "tor_enabled": 149,
+  "tor_enabled": 150,
   "active_warnings": [
+    {
+      "name": "666.exchange",
+      "slug": "666-exchange",
+      "profileUrl": "https://monerica.com/site/666-exchange",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-24"
+    },
     {
       "name": "AnonRefill.com",
       "slug": "anonrefill-com",
@@ -496,16 +506,6 @@
       "status": "Scam",
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "CharityHost.org",
-      "slug": "charityhost-org",
-      "profileUrl": "https://monerica.com/site/charityhost-org",
-      "category": "Web Hosting \u203a VPS Hosting",
-      "status": "Questionable",
-      "kycPolicy": "Not Stated",
-      "warning": "Marked as Questionable",
       "updated": "2026-11-12"
     }
   ]

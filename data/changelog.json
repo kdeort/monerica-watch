@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-25T00:51:00Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "666.exchange",
+    "slug": "666-exchange",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/666-exchange",
+    "detail": "Status changed: Admitted \u2192 Questionable"
+  },
+  {
+    "timestamp": "2026-11-25T00:51:00Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "SwapRouter",
+    "slug": "swaprouter",
+    "category": "Exchanges \u203a Aggregators",
+    "profileUrl": "https://monerica.com/site/swaprouter",
+    "detail": "Added to directory (Status: Admitted, KYC: Varies By Provider)"
+  },
+  {
     "timestamp": "2026-11-24T18:47:18Z",
     "type": "REMOVED_LISTING",
     "severity": "medium",
@@ -1978,25 +1998,5 @@
     "category": "Exchanges \u203a Instant Swaps",
     "profileUrl": "https://monerica.com/site/expeer",
     "detail": "KYC policy changed: Rare KYC \u2192 Shotgun KYC"
-  },
-  {
-    "timestamp": "2026-11-02",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Alchimex",
-    "slug": "alchimex",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/alchimex",
-    "detail": "Status: Verified | KYC: Guaranteed No KYC"
-  },
-  {
-    "timestamp": "2026-11-02",
-    "type": "INITIAL_SNAPSHOT",
-    "severity": "info",
-    "name": "Expeer",
-    "slug": "expeer",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/expeer",
-    "detail": "Status: Admitted | KYC: Rare KYC"
   }
 ]
