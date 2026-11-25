@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Wed, 25 Nov 2026 13:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 18:40:41 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] Black Cat VPN — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/black-cat-vpn</link>
+      <description>Category: VPNs &amp; Proxies › Jurisdiction Not Disclosed | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">black-cat-vpn-STATUS_CHANGE-2026-11-25T18:40:41Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] WaldenPay — Added to directory (Status: Admitted, KYC: Rare KYC)</title>
+      <link>https://monerica.com/site/waldenpay</link>
+      <description>Category: Cards › Reloadable Cards | Added to directory (Status: Admitted, KYC: Rare KYC)</description>
+      <guid isPermaLink="false">waldenpay-NEW_LISTING-2026-11-25T18:40:41Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] GhostSMS — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/ghostsms</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/vividvps</link>
       <description>Category: Web Hosting › VPS Hosting | Added to directory (Status: Admitted, KYC: Rare KYC)</description>
       <guid isPermaLink="false">vividvps-NEW_LISTING-2026-11-21T18:31:02Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] XMR Host — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/xmr-host</link>
-      <description>Category: Web Hosting › VPS Hosting | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">xmr-host-STATUS_CHANGE-2026-11-21T18:31:02Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] Vsys — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/vsys</link>
-      <description>Category: Web Hosting › VPS Hosting | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">vsys-REMOVED_LISTING-2026-11-21T18:31:02Z</guid>
     </item>
   </channel>
 </rss>

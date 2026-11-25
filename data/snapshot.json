@@ -3167,7 +3167,7 @@
     "category": "VPNs & Proxies",
     "subcategory": "Jurisdiction Not Disclosed",
     "categoryUrl": "https://monerica.com/vpns/jurisdiction-not-disclosed",
-    "status": "Admitted",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "tags": [
       "Account Not Required",
@@ -3180,7 +3180,7 @@
       "reviews": 1
     },
     "added": "2026-10-10",
-    "updated": "2026-11-03"
+    "updated": "2026-11-25"
   },
   "black-metal-shop": {
     "name": "Black Metal Shop",
@@ -5826,7 +5826,7 @@
     "founded": "2021-10-20",
     "description": "A non-profit that uses cryptocurrency to reimburse volunteers who deliver supplies and food to homeless and houseless humans around the world.",
     "added": "2022-06-22",
-    "updated": "2026-11-12"
+    "updated": "2026-11-25"
   },
   "crypto-goodies": {
     "name": "Crypto Goodies",
@@ -17850,6 +17850,9 @@
         "ZW"
       ]
     },
+    "tags": [
+      "Affiliate Program"
+    ],
     "founded": "2026-04-17",
     "description": "Create a Visa card with Apple Pay and Google Pay support, ATM withdrawals, and the ability to send funds directly to your ACH bank account \u2014 all without KYC.",
     "rating": {
@@ -17857,7 +17860,7 @@
       "reviews": 8
     },
     "added": "2026-09-15",
-    "updated": "2026-11-23"
+    "updated": "2026-11-25"
   },
   "okspot": {
     "name": "OKSPOT",
@@ -18730,7 +18733,7 @@
       "reviews": 8
     },
     "added": "2026-09-03",
-    "updated": "2026-11-19"
+    "updated": "2026-11-25"
   },
   "packetra": {
     "name": "Packetra",
@@ -20174,7 +20177,7 @@
     "founded": "2026-06-23",
     "description": "Residential, premium residential, datacenter and 4G/5G mobile proxies billed per GB. No subscription, bandwidth never expires. HTTP + SOCKS5, country/city/ASN targeting.",
     "added": "2026-10-18",
-    "updated": "2026-11-12"
+    "updated": "2026-11-25"
   },
   "proxypagos": {
     "name": "ProxyPagos",
@@ -20579,7 +20582,7 @@
     "updated": "2026-11-12"
   },
   "quickex": {
-    "name": "QuickEx",
+    "name": "Quickex",
     "slug": "quickex",
     "profileUrl": "https://monerica.com/site/quickex",
     "website": "https://quickex.io/?utm_source=monerica",
@@ -20616,7 +20619,7 @@
       "reviews": 7
     },
     "added": "2024-06-14",
-    "updated": "2026-11-18"
+    "updated": "2026-11-25"
   },
   "quiverflow-crm": {
     "name": "Quiverflow CRM",
@@ -26686,6 +26689,34 @@
     "added": "2025-12-20",
     "updated": "2026-11-23"
   },
+  "waldenpay": {
+    "name": "WaldenPay",
+    "slug": "waldenpay",
+    "profileUrl": "https://monerica.com/site/waldenpay",
+    "website": "https://waldenpay.com/",
+    "category": "Cards",
+    "subcategory": "Reloadable Cards",
+    "categoryUrl": "https://monerica.com/cards/reloadable-cards",
+    "status": "Admitted",
+    "kycPolicy": "Rare KYC",
+    "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "AF",
+        "BY",
+        "CU",
+        "IR",
+        "KP",
+        "MM",
+        "RU",
+        "SY"
+      ]
+    },
+    "country": "HK",
+    "description": "Virtual prepaid Visa and Mastercard for online and in-store spending, usable with Apple Pay and Google Pay. Email-only signup and cards issued in about 10 minutes.",
+    "added": "2026-11-25",
+    "updated": "2026-11-25"
+  },
   "walls-rip": {
     "name": "walls.rip",
     "slug": "walls-rip",
@@ -28159,6 +28190,12 @@
     "slug": "xmrhub",
     "profileUrl": "https://monerica.com/site/xmrhub",
     "website": "https://xmrhub.io/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://xmrhubg7wywz67whi2wquaijdgj3txrpzqvm7b5vpnhudxqkbj4vkcqd.onion/"
+      }
+    ],
     "category": "Other Directories",
     "subcategory": "Monero Directories",
     "categoryUrl": "https://monerica.com/other-directories/monero-directories",
@@ -28172,7 +28209,7 @@
       "reviews": 1
     },
     "added": "2026-02-19",
-    "updated": "2026-11-12"
+    "updated": "2026-11-25"
   },
   "xmrig": {
     "name": "Xmrig",
