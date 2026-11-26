@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-25T20:54:23Z",
-  "total": 1447,
-  "verified": 292,
-  "admitted": 1002,
-  "questionable": 95,
+  "generated": "2026-11-26T04:45:02Z",
+  "total": 1450,
+  "verified": 293,
+  "admitted": 1005,
+  "questionable": 94,
   "scam": 58,
-  "no_kyc": 370,
+  "no_kyc": 372,
   "tor_enabled": 151,
   "active_warnings": [
     {
@@ -17,16 +17,6 @@
       "kycPolicy": "Not Stated",
       "warning": "Marked as Questionable",
       "updated": "2026-11-25"
-    },
-    {
-      "name": "666.exchange",
-      "slug": "666-exchange",
-      "profileUrl": "https://monerica.com/site/666-exchange",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-24"
     },
     {
       "name": "AnonRefill.com",
@@ -505,6 +495,16 @@
       "category": "Businesses \u203a Electronics/ Computer Hardware",
       "status": "Scam",
       "kycPolicy": "Not Stated",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-12"
+    },
+    {
+      "name": "Changer-man",
+      "slug": "changer-man",
+      "profileUrl": "https://monerica.com/site/changer-man",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
       "updated": "2026-11-12"
     }

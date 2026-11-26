@@ -4,7 +4,31 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Thu, 26 Nov 2026 00:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:58:02 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] 666.exchange — Status changed: Questionable → Verified</title>
+      <link>https://monerica.com/site/666-exchange</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Questionable → Verified</description>
+      <guid isPermaLink="false">666-exchange-STATUS_CHANGE-2026-11-26T06:58:02Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Anubiz Host — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/anubiz-host</link>
+      <description>Category: Web Hosting › Offshore &amp; Privacy Hosting | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">anubiz-host-NEW_LISTING-2026-11-26T06:58:02Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] GhostBuy — Added to directory (Status: Admitted, KYC: Not Stated)</title>
+      <link>https://monerica.com/site/ghostbuy</link>
+      <description>Category: Businesses › Proxy Shopping | Added to directory (Status: Admitted, KYC: Not Stated)</description>
+      <guid isPermaLink="false">ghostbuy-NEW_LISTING-2026-11-26T06:58:02Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Spammail.org — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/spammail-org</link>
+      <description>Category: Businesses › Email Providers/ Forwarders | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">spammail-org-NEW_LISTING-2026-11-26T06:58:02Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] DediJet — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/dedijet</link>
@@ -220,30 +244,6 @@
       <link>https://monerica.com/site/yourcryptopal</link>
       <description>Category: Exchanges › Centralized Exchanges (Account Required) | Warning added: Listed as a scam: do not use.</description>
       <guid isPermaLink="false">yourcryptopal-WARNING_ADDED-2026-11-23T00:44:18Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] monerotalk.org — Removed from directory (was Questionable)</title>
-      <link>https://monerica.com/site/monerotalk-org</link>
-      <description>Category: Communities › Forums | Removed from directory (was Questionable)</description>
-      <guid isPermaLink="false">monerotalk-org-REMOVED_LISTING-2026-11-23T00:44:18Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] CORE — Added to directory (Status: Admitted, KYC: Varies By Provider)</title>
-      <link>https://monerica.com/site/core</link>
-      <description>Category: Exchanges › Aggregators | Added to directory (Status: Admitted, KYC: Varies By Provider)</description>
-      <guid isPermaLink="false">core-NEW_LISTING-2026-11-22T18:33:33Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Swapgate — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/swapgate</link>
-      <description>Category: Exchanges › Instant Swaps (No Account) | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">swapgate-STATUS_CHANGE-2026-11-22T18:33:33Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] L&#x27;Épicerie Libre — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/l-epicerie-libre</link>
-      <description>Category: Businesses › Food &amp; Drink (Online) | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">l-epicerie-libre-NEW_LISTING-2026-11-21T18:31:02Z</guid>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,45 @@
 [
   {
+    "timestamp": "2026-11-26T06:58:02Z",
+    "type": "STATUS_CHANGE",
+    "severity": "info",
+    "name": "666.exchange",
+    "slug": "666-exchange",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/666-exchange",
+    "detail": "Status changed: Questionable \u2192 Verified"
+  },
+  {
+    "timestamp": "2026-11-26T06:58:02Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Anubiz Host",
+    "slug": "anubiz-host",
+    "category": "Web Hosting \u203a Offshore & Privacy Hosting",
+    "profileUrl": "https://monerica.com/site/anubiz-host",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-26T06:58:02Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "GhostBuy",
+    "slug": "ghostbuy",
+    "category": "Businesses \u203a Proxy Shopping",
+    "profileUrl": "https://monerica.com/site/ghostbuy",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
+    "timestamp": "2026-11-26T06:58:02Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Spammail.org",
+    "slug": "spammail-org",
+    "category": "Businesses \u203a Email Providers/ Forwarders",
+    "profileUrl": "https://monerica.com/site/spammail-org",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-26T00:50:32Z",
     "type": "NEW_LISTING",
     "severity": "info",
@@ -1958,45 +1998,5 @@
     "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
     "profileUrl": "https://monerica.com/site/lyra-hosting",
     "detail": "Status changed: Admitted \u2192 Questionable"
-  },
-  {
-    "timestamp": "2026-11-03T00:36:58Z",
-    "type": "NEW_LISTING",
-    "severity": "info",
-    "name": "PIVArena",
-    "slug": "pivarena",
-    "category": "Businesses \u203a Gambling",
-    "profileUrl": "https://monerica.com/site/pivarena",
-    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
-  },
-  {
-    "timestamp": "2026-11-03T00:36:58Z",
-    "type": "STATUS_CHANGE",
-    "severity": "high",
-    "name": "Vpster",
-    "slug": "vpster",
-    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
-    "profileUrl": "https://monerica.com/site/vpster",
-    "detail": "Status changed: Admitted \u2192 Questionable"
-  },
-  {
-    "timestamp": "2026-11-03T00:36:58Z",
-    "type": "REMOVED_LISTING",
-    "severity": "medium",
-    "name": "Cloudzy",
-    "slug": "cloudzy",
-    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
-    "profileUrl": "https://monerica.com/site/cloudzy",
-    "detail": "Removed from directory (was Admitted)"
-  },
-  {
-    "timestamp": "2026-11-03T00:36:58Z",
-    "type": "REMOVED_LISTING",
-    "severity": "medium",
-    "name": "Hiddence",
-    "slug": "hiddence",
-    "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
-    "profileUrl": "https://monerica.com/site/hiddence",
-    "detail": "Removed from directory (was Questionable)"
   }
 ]

@@ -379,15 +379,19 @@
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
-    "status": "Questionable",
+    "status": "Verified",
     "kycPolicy": "Guaranteed No KYC",
     "liquidity": "Own",
     "rates": "Fixed & Float",
     "country": "RU",
     "founded": "2026-10-21",
     "description": "Instant crypto swap service with floating and fixed rates, payouts across multiple networks, an affiliate program and an API. Pays out from its own reserve.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-11-23",
-    "updated": "2026-11-24"
+    "updated": "2026-11-26"
   },
   "67-tax": {
     "name": "67.tax",
@@ -1476,6 +1480,21 @@
     "description": "Your tax-deductible gift keeps Antiwar.com reporting on foreign policy. Our dedicated writers and reporters rely on your support to stay on the frontlines.",
     "added": "2023-08-23",
     "updated": "2026-11-12"
+  },
+  "anubiz-host": {
+    "name": "Anubiz Host",
+    "slug": "anubiz-host",
+    "profileUrl": "https://monerica.com/site/anubiz-host",
+    "website": "https://anubizhost.com",
+    "category": "Web Hosting",
+    "subcategory": "Offshore & Privacy Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/offshore",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "founded": "2025-04-20",
+    "description": "Offshore KVM VPS, HPC and Windows VPS, dedicated servers and Tor hosting in 10 jurisdictions including Iceland, Romania, Switzerland and Hong Kong. Email-only signup.",
+    "added": "2026-11-26",
+    "updated": "2026-11-26"
   },
   "anyip": {
     "name": "anyIP",
@@ -5826,7 +5845,7 @@
     "founded": "2021-10-20",
     "description": "A non-profit that uses cryptocurrency to reimburse volunteers who deliver supplies and food to homeless and houseless humans around the world.",
     "added": "2022-06-22",
-    "updated": "2026-11-25"
+    "updated": "2026-11-26"
   },
   "crypto-goodies": {
     "name": "Crypto Goodies",
@@ -8978,6 +8997,20 @@
     },
     "added": "2023-12-23",
     "updated": "2026-11-24"
+  },
+  "ghostbuy": {
+    "name": "GhostBuy",
+    "slug": "ghostbuy",
+    "profileUrl": "https://monerica.com/site/ghostbuy",
+    "website": "https://ghostbuy.shop/",
+    "category": "Businesses",
+    "subcategory": "Proxy Shopping",
+    "categoryUrl": "https://monerica.com/businesses/proxy-shopping",
+    "status": "Admitted",
+    "javascript": "Required",
+    "description": "Proxy shopping service that sources goods from web shops on request, with private requests and manual review of each order.",
+    "added": "2026-11-26",
+    "updated": "2026-11-26"
   },
   "ghostsims": {
     "name": "GhostSims",
@@ -23334,6 +23367,27 @@
     "description": "Brazilian Bitcoin platform for swaps between BTC, XMR, USDT, USDC and ETH, plus P2P trading, Bitcoin-collateralized loans and a sats lottery. No account needed to swap.",
     "added": "2025-11-21",
     "updated": "2026-11-12"
+  },
+  "spammail-org": {
+    "name": "Spammail.org",
+    "slug": "spammail-org",
+    "profileUrl": "https://monerica.com/site/spammail-org",
+    "website": "https://spammail.org",
+    "category": "Businesses",
+    "subcategory": "Email Providers/ Forwarders",
+    "categoryUrl": "https://monerica.com/businesses/email-providers-forwarders",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
+    "tags": [
+      "Account Not Required",
+      "Affiliate Program"
+    ],
+    "country": "AT",
+    "founded": "2026-05-15",
+    "description": "Disposable email with aliases on custom domains, PGP, IMAP/SMTP, unified inbox, reply as alias, plus Bitwarden and browser extension support.",
+    "added": "2026-11-26",
+    "updated": "2026-11-26"
   },
   "spar": {
     "name": "SPAR",
