@@ -376,6 +376,12 @@
     "slug": "666-exchange",
     "profileUrl": "https://monerica.com/site/666-exchange",
     "website": "https://666.exchange",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://666exphe2bpdhzvjrrrkrshi4cimij6whee3vcdbeaihbgjlya7cm2id.onion/"
+      }
+    ],
     "category": "Exchanges",
     "subcategory": "Instant Swaps (No Account)",
     "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
@@ -385,7 +391,7 @@
     "rates": "Fixed & Float",
     "country": "RU",
     "founded": "2026-10-21",
-    "description": "Instant crypto swap service with floating and fixed rates, payouts across multiple networks, an affiliate program and an API. Pays out from its own reserve.",
+    "description": "Instant crypto swap service with floating and fixed rates, payouts across many networks, an affiliate program and an API. Pays out from its own reserve.",
     "rating": {
       "average": 5,
       "reviews": 1
@@ -2030,7 +2036,7 @@
     "description": "Private Cross Chain Swaps. Buy and exchange \u2014 fast, secure, no limits or default KYC. Low fees, instant swaps, and free AML verification.",
     "rating": {
       "average": 4.9,
-      "reviews": 12
+      "reviews": 13
     },
     "added": "2025-12-09",
     "updated": "2026-11-18"
@@ -7146,6 +7152,21 @@
     "added": "2025-06-05",
     "updated": "2026-11-10"
   },
+  "dotberry": {
+    "name": "Dotberry",
+    "slug": "dotberry",
+    "profileUrl": "https://monerica.com/site/dotberry",
+    "website": "https://dotberry.com",
+    "category": "Web Hosting",
+    "subcategory": "Domains & DNS",
+    "categoryUrl": "https://monerica.com/web-hosting/domains",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "founded": "2008-11-25",
+    "description": "Domain registration with WHOIS privacy, DNS management and free email forwarding for many TLDs. Email-only signup, instant activation after payment.",
+    "added": "2026-11-26",
+    "updated": "2026-11-26"
+  },
   "dotwee": {
     "name": "DotWee",
     "slug": "dotwee",
@@ -10962,6 +10983,10 @@
     "country": "US",
     "founded": "2025-05-01",
     "description": "Prepaid shipping labels online with no account: USPS, UPS, FedEx, Canada Post, DPD, Evri and other carriers. Instant PDF and bulk CSV import.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-02-22",
     "updated": "2026-11-13"
   },
@@ -11904,51 +11929,6 @@
     "founded": "2020-08-04",
     "description": "Kryptor is a free, open-source file encryption and signing tool for Windows, Linux and macOS, a simpler alternative to GPG, age and Minisign.",
     "added": "2025-05-20",
-    "updated": "2026-11-13"
-  },
-  "kucoin": {
-    "name": "KuCoin",
-    "slug": "kucoin",
-    "profileUrl": "https://monerica.com/site/kucoin",
-    "website": "https://www.kucoin.com",
-    "category": "Exchanges",
-    "subcategory": "Centralized Exchanges (Account Required)",
-    "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
-    "status": "Verified",
-    "kycPolicy": "Mandatory KYC",
-    "liquidity": "Own",
-    "javascript": "Required",
-    "restrictions": {
-      "countriesNotServed": [
-        "AS",
-        "BY",
-        "CN",
-        "FR",
-        "GU",
-        "HK",
-        "KZ",
-        "MP",
-        "MY",
-        "NL",
-        "PR",
-        "RU",
-        "SG",
-        "US",
-        "UZ"
-      ]
-    },
-    "tags": [
-      "API Available",
-      "Perpetuals"
-    ],
-    "country": "SC",
-    "founded": "2013-11-13",
-    "description": "Centralized crypto exchange with 1000+ coins, offering Monero (XMR) spot and margin trading on XMR/USDT and XMR perpetual futures.",
-    "rating": {
-      "average": 4,
-      "reviews": 1
-    },
-    "added": "2022-06-22",
     "updated": "2026-11-13"
   },
   "kuk-fan": {
@@ -20242,6 +20222,10 @@
     ],
     "founded": "2026-10-31",
     "description": "Non-custodial instant swap terminal with fixed and float rates, 24/7 automated settlement, Tor mirror, Telegram bot and single-sided liquidity pools. No account needed.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-11-09",
     "updated": "2026-11-09"
   },
@@ -22507,7 +22491,7 @@
       "reviews": 3
     },
     "added": "2023-10-01",
-    "updated": "2026-11-23"
+    "updated": "2026-11-26"
   },
   "silent-link": {
     "name": "Silent Link",
@@ -26905,7 +26889,7 @@
     "updated": "2026-11-18"
   },
   "waxybridge": {
-    "name": "WaxyBridge",
+    "name": "Waxybridge",
     "slug": "waxybridge",
     "profileUrl": "https://monerica.com/site/waxybridge",
     "website": "https://waxybridge.com",
@@ -26916,7 +26900,7 @@
     "founded": "2026-09-17",
     "description": "Browser-based WhatsApp client with provisioned accounts, so you can message any phone number without your own SIM, with no IP leaks or device fingerprinting.",
     "added": "2026-10-02",
-    "updated": "2026-11-20"
+    "updated": "2026-11-26"
   },
   "web-wipe": {
     "name": "Web Wipe",
@@ -27737,21 +27721,6 @@
     "description": "Free Monero stagenet faucet that sends test sXMR to a stagenet address after a captcha, for developers testing wallets and apps; unused sXMR can be returned.",
     "added": "2026-07-26",
     "updated": "2026-11-12"
-  },
-  "xmr-tickets": {
-    "name": "XMR Tickets",
-    "slug": "xmr-tickets",
-    "profileUrl": "https://monerica.com/site/xmr-tickets",
-    "website": "https://xmrtickets.com/",
-    "category": "Businesses",
-    "subcategory": "Travel & Accommodation",
-    "categoryUrl": "https://monerica.com/businesses/travel",
-    "status": "Admitted",
-    "kycPolicy": "Guaranteed No KYC",
-    "founded": "2026-11-06",
-    "description": "UK National Rail train tickets with instant online checkout.",
-    "added": "2026-11-20",
-    "updated": "2026-11-20"
   },
   "xmr-to-btc-atomic-swap": {
     "name": "XMR to BTC Atomic Swap",
@@ -28606,6 +28575,21 @@
     "description": "Belgium-based shop selling XmrSigner and SeedSigner hardware wallets, titanium and steel seed backups, smartcards and 3D-printed tools for Monero and Bitcoin self-custody.",
     "added": "2024-03-02",
     "updated": "2026-11-18"
+  },
+  "xmr-tickets": {
+    "name": "xmrtickets",
+    "slug": "xmr-tickets",
+    "profileUrl": "https://monerica.com/site/xmr-tickets",
+    "website": "https://xmrtickets.com/",
+    "category": "Businesses",
+    "subcategory": "Travel & Accommodation",
+    "categoryUrl": "https://monerica.com/businesses/travel",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "founded": "2026-11-06",
+    "description": "UK National Rail train tickets with instant online checkout.",
+    "added": "2026-11-20",
+    "updated": "2026-11-26"
   },
   "xpg": {
     "name": "XPG",

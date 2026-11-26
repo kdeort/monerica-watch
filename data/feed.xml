@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Thu, 26 Nov 2026 12:59:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:45:38 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] Dotberry — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/dotberry</link>
+      <description>Category: Web Hosting › Domains &amp; DNS | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">dotberry-NEW_LISTING-2026-11-26T18:45:38Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] KuCoin — Removed from directory (was Verified)</title>
+      <link>https://monerica.com/site/kucoin</link>
+      <description>Category: Exchanges › Centralized Exchanges (Account Required) | Removed from directory (was Verified)</description>
+      <guid isPermaLink="false">kucoin-REMOVED_LISTING-2026-11-26T18:45:38Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] CloudSat — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/cloudsat</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/xmr-company</link>
       <description>Category: Businesses › Digital Goods/ Services | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
       <guid isPermaLink="false">xmr-company-NEW_LISTING-2026-11-23T18:48:35Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] BlankSearch — Added to directory (Status: Admitted, KYC: Not Stated)</title>
-      <link>https://monerica.com/site/blanksearch</link>
-      <description>Category: Non-Profits › Search Engines | Added to directory (Status: Admitted, KYC: Not Stated)</description>
-      <guid isPermaLink="false">blanksearch-NEW_LISTING-2026-11-23T00:44:18Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Mentality Cloud Services — Status changed: Admitted → Verified</title>
-      <link>https://monerica.com/site/mentality-cloud-services</link>
-      <description>Category: Web Hosting › VPS Hosting | Status changed: Admitted → Verified</description>
-      <guid isPermaLink="false">mentality-cloud-services-STATUS_CHANGE-2026-11-23T00:44:18Z</guid>
     </item>
   </channel>
 </rss>
