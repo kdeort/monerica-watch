@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Wed, 25 Nov 2026 18:40:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 00:50:32 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] DediJet — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/dedijet</link>
+      <description>Category: Web Hosting › Dedicated Servers | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">dedijet-NEW_LISTING-2026-11-26T00:50:32Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] LowCostServ — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/lowcostserv</link>
+      <description>Category: Web Hosting › Offshore &amp; Privacy Hosting | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">lowcostserv-NEW_LISTING-2026-11-26T00:50:32Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] Black Cat VPN — Status changed: Admitted → Verified</title>
       <link>https://monerica.com/site/black-cat-vpn</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/l-epicerie-libre</link>
       <description>Category: Businesses › Food &amp; Drink (Online) | Added to directory (Status: Admitted, KYC: Not Stated)</description>
       <guid isPermaLink="false">l-epicerie-libre-NEW_LISTING-2026-11-21T18:31:02Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] LibreMonero — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/libremonero</link>
-      <description>Category: Merchant Services › Integrations | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">libremonero-NEW_LISTING-2026-11-21T18:31:02Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] VividVPS — Added to directory (Status: Admitted, KYC: Rare KYC)</title>
-      <link>https://monerica.com/site/vividvps</link>
-      <description>Category: Web Hosting › VPS Hosting | Added to directory (Status: Admitted, KYC: Rare KYC)</description>
-      <guid isPermaLink="false">vividvps-NEW_LISTING-2026-11-21T18:31:02Z</guid>
     </item>
   </channel>
 </rss>

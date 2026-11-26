@@ -6666,6 +6666,26 @@
     "added": "2026-05-15",
     "updated": "2026-11-09"
   },
+  "dedijet": {
+    "name": "DediJet",
+    "slug": "dedijet",
+    "profileUrl": "https://monerica.com/site/dedijet",
+    "website": "https://dedijet.com",
+    "category": "Web Hosting",
+    "subcategory": "Dedicated Servers",
+    "categoryUrl": "https://monerica.com/web-hosting/dedicated-servers",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "Affiliate Program",
+      "API Available",
+      "Sells Tor Exit Hosting"
+    ],
+    "founded": "2026-10-14",
+    "description": "Instant bare-metal dedicated servers with full root, unmetered bandwidth and DDoS protection in 8 locations across the US, Europe and Asia. Email-only signup.",
+    "added": "2026-11-25",
+    "updated": "2026-11-25"
+  },
   "defcon777": {
     "name": "defcon777",
     "slug": "defcon777",
@@ -12837,6 +12857,29 @@
     "description": "Spanish-language educational channel covering Monero mining, wallets, nodes, news, and privacy tools.",
     "added": "2023-08-23",
     "updated": "2026-08-12"
+  },
+  "lowcostserv": {
+    "name": "LowCostServ",
+    "slug": "lowcostserv",
+    "profileUrl": "https://monerica.com/site/lowcostserv",
+    "website": "https://lowcostserv.com",
+    "category": "Web Hosting",
+    "subcategory": "Offshore & Privacy Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/offshore",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "restrictions": {
+      "vpn": "Allowed",
+      "tor": "Allowed"
+    },
+    "tags": [
+      "DMCA Ignored",
+      "Email Not Required"
+    ],
+    "founded": "2026-11-10",
+    "description": "Offshore VPS, dedicated, GPU and Windows RDP servers with unmetered bandwidth, plus domain names. Access-key login with no email, password or ID.",
+    "added": "2026-11-25",
+    "updated": "2026-11-25"
   },
   "lucida": {
     "name": "Lucida",
