@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-26T12:59:34Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "CloudSat",
+    "slug": "cloudsat",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/cloudsat",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
+    "timestamp": "2026-11-26T12:59:34Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "NordSwap",
+    "slug": "nordswap",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/nordswap",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-26T06:58:02Z",
     "type": "STATUS_CHANGE",
     "severity": "info",
@@ -1978,25 +1998,5 @@
     "category": "Media \u203a Music & Radio",
     "profileUrl": "https://monerica.com/site/crypt0-bear",
     "detail": "Status changed: Admitted \u2192 Verified"
-  },
-  {
-    "timestamp": "2026-11-03T06:49:57Z",
-    "type": "NEW_LISTING",
-    "severity": "info",
-    "name": "The Drug Users Bible",
-    "slug": "the-drug-users-bible",
-    "category": "Non-Profits \u203a Miscellaneous",
-    "profileUrl": "https://monerica.com/site/the-drug-users-bible",
-    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
-  },
-  {
-    "timestamp": "2026-11-03T00:36:58Z",
-    "type": "STATUS_CHANGE",
-    "severity": "high",
-    "name": "Lyra Hosting",
-    "slug": "lyra-hosting",
-    "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
-    "profileUrl": "https://monerica.com/site/lyra-hosting",
-    "detail": "Status changed: Admitted \u2192 Questionable"
   }
 ]

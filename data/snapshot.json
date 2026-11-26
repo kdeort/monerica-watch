@@ -4949,6 +4949,24 @@
     "added": "2024-09-01",
     "updated": "2026-11-12"
   },
+  "cloudsat": {
+    "name": "CloudSat",
+    "slug": "cloudsat",
+    "profileUrl": "https://monerica.com/site/cloudsat",
+    "website": "https://cloudsat.io",
+    "category": "Web Hosting",
+    "subcategory": "VPS Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/vps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "tags": [
+      "API Available"
+    ],
+    "founded": "2026-11-17",
+    "description": "KVM cloud VPS on AMD EPYC with NVMe storage in 13 regions, plus Windows RDP, GPU and bare-metal servers. Hourly billing, email-only signup, API access.",
+    "added": "2026-11-26",
+    "updated": "2026-11-26"
+  },
   "clover-bot": {
     "name": "Clover bot",
     "slug": "clover-bot",
@@ -17496,6 +17514,29 @@
     "description": "Privacy-first VPS and dedicated servers in Stockholm, Helsinki, Oslo and Reykjavik. No KYC, email-only signup. VPS from $3.90/mo, bare metal from $69/mo.",
     "added": "2026-09-04",
     "updated": "2026-11-17"
+  },
+  "nordswap": {
+    "name": "NordSwap",
+    "slug": "nordswap",
+    "profileUrl": "https://monerica.com/site/nordswap",
+    "website": "https://nordswap.io",
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Third Party",
+    "rates": "Fixed & Float",
+    "tags": [
+      "Account Not Required",
+      "Affiliate Program",
+      "API Available",
+      "Email Not Required"
+    ],
+    "founded": "2026-11-25",
+    "description": "Instant crypto swaps across 1,000+ assets with fixed or floating rates, with the network fee and limits shown before you send. Public API available.",
+    "added": "2026-11-26",
+    "updated": "2026-11-26"
   },
   "nosint": {
     "name": "NoSINT",

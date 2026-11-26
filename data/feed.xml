@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Thu, 26 Nov 2026 06:58:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:59:34 +0000</lastBuildDate>
+    <item>
+      <title>[NEW_LISTING] CloudSat — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/cloudsat</link>
+      <description>Category: Web Hosting › VPS Hosting | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">cloudsat-NEW_LISTING-2026-11-26T12:59:34Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] NordSwap — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/nordswap</link>
+      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">nordswap-NEW_LISTING-2026-11-26T12:59:34Z</guid>
+    </item>
     <item>
       <title>[STATUS_CHANGE] 666.exchange — Status changed: Questionable → Verified</title>
       <link>https://monerica.com/site/666-exchange</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/mentality-cloud-services</link>
       <description>Category: Web Hosting › VPS Hosting | Status changed: Admitted → Verified</description>
       <guid isPermaLink="false">mentality-cloud-services-STATUS_CHANGE-2026-11-23T00:44:18Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] Yourcryptopal — Status changed: Questionable → Scam</title>
-      <link>https://monerica.com/site/yourcryptopal</link>
-      <description>Category: Exchanges › Centralized Exchanges (Account Required) | Status changed: Questionable → Scam</description>
-      <guid isPermaLink="false">yourcryptopal-STATUS_CHANGE-2026-11-23T00:44:18Z</guid>
-    </item>
-    <item>
-      <title>[WARNING_ADDED] Yourcryptopal — Warning added: Listed as a scam: do not use.</title>
-      <link>https://monerica.com/site/yourcryptopal</link>
-      <description>Category: Exchanges › Centralized Exchanges (Account Required) | Warning added: Listed as a scam: do not use.</description>
-      <guid isPermaLink="false">yourcryptopal-WARNING_ADDED-2026-11-23T00:44:18Z</guid>
     </item>
   </channel>
 </rss>
