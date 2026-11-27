@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": "2026-11-27T18:44:02Z",
+    "type": "STATUS_CHANGE",
+    "severity": "high",
+    "name": "CloudSat",
+    "slug": "cloudsat",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/cloudsat",
+    "detail": "Status changed: Admitted \u2192 Scam"
+  },
+  {
+    "timestamp": "2026-11-27T18:44:02Z",
+    "type": "WARNING_ADDED",
+    "severity": "high",
+    "name": "CloudSat",
+    "slug": "cloudsat",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/cloudsat",
+    "detail": "Warning added: Listed as a scam: do not use."
+  },
+  {
+    "timestamp": "2026-11-27T18:44:02Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "EQVPS",
+    "slug": "eqvps",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/eqvps",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-27T06:59:38Z",
     "type": "KYC_CHANGE",
     "severity": "medium",
@@ -1968,35 +1998,5 @@
     "category": "Non-Profits \u203a Technologies",
     "profileUrl": "https://monerica.com/site/monerodm",
     "detail": "Removed from directory (was Admitted)"
-  },
-  {
-    "timestamp": "2026-11-03T18:37:35Z",
-    "type": "REMOVED_LISTING",
-    "severity": "medium",
-    "name": "NoKyc e-Sim",
-    "slug": "nokyc-e-sim",
-    "category": "Phone & SMS \u203a eSIMs & SIM Cards",
-    "profileUrl": "https://monerica.com/site/nokyc-e-sim",
-    "detail": "Removed from directory (was Scam)"
-  },
-  {
-    "timestamp": "2026-11-03T18:37:35Z",
-    "type": "REMOVED_LISTING",
-    "severity": "medium",
-    "name": "Roboex",
-    "slug": "roboex",
-    "category": "Exchanges \u203a Instant Swaps",
-    "profileUrl": "https://monerica.com/site/roboex",
-    "detail": "Removed from directory (was Admitted)"
-  },
-  {
-    "timestamp": "2026-11-03T18:37:35Z",
-    "type": "REMOVED_LISTING",
-    "severity": "medium",
-    "name": "ServGhost",
-    "slug": "servghost",
-    "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
-    "profileUrl": "https://monerica.com/site/servghost",
-    "detail": "Removed from directory (was Scam)"
   }
 ]

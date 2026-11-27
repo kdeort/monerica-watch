@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-27T12:54:16Z",
-  "total": 1454,
+  "generated": "2026-11-27T18:07:21Z",
+  "total": 1455,
   "verified": 292,
   "admitted": 1010,
   "questionable": 94,
-  "scam": 58,
-  "no_kyc": 377,
+  "scam": 59,
+  "no_kyc": 378,
   "tor_enabled": 153,
   "active_warnings": [
+    {
+      "name": "CloudSat",
+      "slug": "cloudsat",
+      "profileUrl": "https://monerica.com/site/cloudsat",
+      "category": "Web Hosting \u203a VPS Hosting",
+      "status": "Scam",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Listed as a scam: do not use.",
+      "updated": "2026-11-27"
+    },
     {
       "name": "XMRHub",
       "slug": "xmrhub",
@@ -495,16 +505,6 @@
       "category": "Businesses \u203a Electronics/ Computer Hardware",
       "status": "Scam",
       "kycPolicy": "Not Stated",
-      "warning": "Listed as a scam: do not use.",
-      "updated": "2026-11-12"
-    },
-    {
-      "name": "Changer-man",
-      "slug": "changer-man",
-      "profileUrl": "https://monerica.com/site/changer-man",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Scam",
-      "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
       "updated": "2026-11-12"
     }
