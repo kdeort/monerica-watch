@@ -17422,21 +17422,25 @@
     "name": "Noiz",
     "slug": "noiz",
     "profileUrl": "https://monerica.com/site/noiz",
-    "website": "https://noiz.co.za",
+    "website": "https://www.noiz.co.za",
     "category": "Web Hosting",
     "subcategory": "Shared & Cloud Hosting",
     "categoryUrl": "https://monerica.com/web-hosting/shared-hosting",
     "status": "Verified",
     "javascript": "Optional",
+    "restrictions": {
+      "vpn": "Allowed",
+      "tor": "Allowed"
+    },
     "tags": [
       "Affiliate Program",
       "Owns Physical Servers"
     ],
     "country": "ZA",
     "founded": "2016-08-01",
-    "description": "Hosting, cyber security, software and support, offers a range of services: domains, shared hosting, VPS and dedicated servers, managed applications and integrations.",
+    "description": "South African web hosting from the Samrand facility: domains, shared and reseller hosting, cloud servers, dedicated servers, managed applications and sysadmin services.",
     "added": "2024-11-20",
-    "updated": "2026-11-12"
+    "updated": "2026-11-27"
   },
   "nonease": {
     "name": "Nonease",
@@ -21943,8 +21947,8 @@
     "founded": "2021-07-18",
     "description": "Anonymous VPS, cloud and dedicated servers plus web hosting in the Netherlands, Germany, Finland, the USA, Canada and Singapore.",
     "rating": {
-      "average": 4,
-      "reviews": 6
+      "average": 4.1,
+      "reviews": 7
     },
     "added": "2023-09-12",
     "updated": "2026-11-12"
