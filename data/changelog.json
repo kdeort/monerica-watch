@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-11-27T00:54:30Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Zornado",
+    "slug": "zornado",
+    "category": "Exchanges \u203a Instant Swaps (No Account)",
+    "profileUrl": "https://monerica.com/site/zornado",
+    "detail": "Added to directory (Status: Admitted, KYC: Not Stated)"
+  },
+  {
     "timestamp": "2026-11-26T18:45:38Z",
     "type": "NEW_LISTING",
     "severity": "info",
@@ -1988,15 +1998,5 @@
     "category": "Businesses \u203a Marketplaces (Peer-to-Peer)",
     "profileUrl": "https://monerica.com/site/uprampr",
     "detail": "Removed from directory (was Admitted)"
-  },
-  {
-    "timestamp": "2026-11-03T18:37:35Z",
-    "type": "REMOVED_LISTING",
-    "severity": "medium",
-    "name": "VPSOffshore",
-    "slug": "vpsoffshore",
-    "category": "Web Hosting \u203a VPS & Dedicated Server Providers",
-    "profileUrl": "https://monerica.com/site/vpsoffshore",
-    "detail": "Removed from directory (was Scam)"
   }
 ]

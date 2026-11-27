@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-26T18:27:19Z",
-  "total": 1452,
+  "generated": "2026-11-26T20:02:24Z",
+  "total": 1453,
   "verified": 292,
-  "admitted": 1008,
+  "admitted": 1009,
   "questionable": 94,
   "scam": 58,
   "no_kyc": 375,
-  "tor_enabled": 152,
+  "tor_enabled": 153,
   "active_warnings": [
     {
       "name": "XMRHub",

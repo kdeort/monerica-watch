@@ -29122,5 +29122,32 @@
     "description": "Monitor your home, office, or wherever you want. Using off the shelf hardware with any camera, you can design a system as large or as small as you need.",
     "added": "2025-08-10",
     "updated": "2026-02-16"
+  },
+  "zornado": {
+    "name": "Zornado",
+    "slug": "zornado",
+    "profileUrl": "https://monerica.com/site/zornado",
+    "website": "https://zornado.cash",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://oz4zlzj3wv7lz2w2vxmrbzzboo4cinlgft3g35ytcichlhtvfxxsqxad.onion"
+      }
+    ],
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Not Stated",
+    "liquidity": "Third Party",
+    "rates": "Float",
+    "tags": [
+      "Account Not Required",
+      "API Available",
+      "Email Not Required"
+    ],
+    "description": "Instant crypto swaps across 196 pairs with signed quotes and receipts, refund address protection and a Tor onion mirror.",
+    "added": "2026-11-26",
+    "updated": "2026-11-26"
   }
 }
