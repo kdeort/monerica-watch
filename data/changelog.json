@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2026-11-27T06:59:38Z",
+    "type": "KYC_CHANGE",
+    "severity": "medium",
+    "name": "DROPS.ST",
+    "slug": "drops-st",
+    "category": "Merchant Services \u203a Integrations",
+    "profileUrl": "https://monerica.com/site/drops-st",
+    "detail": "KYC policy changed: Not Stated \u2192 Guaranteed No KYC"
+  },
+  {
+    "timestamp": "2026-11-27T06:59:38Z",
+    "type": "NEW_LISTING",
+    "severity": "info",
+    "name": "Kvantis",
+    "slug": "kvantis",
+    "category": "Web Hosting \u203a VPS Hosting",
+    "profileUrl": "https://monerica.com/site/kvantis",
+    "detail": "Added to directory (Status: Admitted, KYC: Guaranteed No KYC)"
+  },
+  {
     "timestamp": "2026-11-27T00:54:30Z",
     "type": "NEW_LISTING",
     "severity": "info",
@@ -1978,25 +1998,5 @@
     "category": "Web Hosting \u203a Offshore & Privacy-Focused Hosting",
     "profileUrl": "https://monerica.com/site/servghost",
     "detail": "Removed from directory (was Scam)"
-  },
-  {
-    "timestamp": "2026-11-03T18:37:35Z",
-    "type": "REMOVED_LISTING",
-    "severity": "medium",
-    "name": "SpotGPUs",
-    "slug": "spotgpus",
-    "category": "Web Hosting \u203a Cloud & Web Hosting Providers",
-    "profileUrl": "https://monerica.com/site/spotgpus",
-    "detail": "Removed from directory (was Scam)"
-  },
-  {
-    "timestamp": "2026-11-03T18:37:35Z",
-    "type": "REMOVED_LISTING",
-    "severity": "medium",
-    "name": "Uprampr",
-    "slug": "uprampr",
-    "category": "Businesses \u203a Marketplaces (Peer-to-Peer)",
-    "profileUrl": "https://monerica.com/site/uprampr",
-    "detail": "Removed from directory (was Admitted)"
   }
 ]

@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Fri, 27 Nov 2026 00:54:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:59:38 +0000</lastBuildDate>
+    <item>
+      <title>[KYC_CHANGE] DROPS.ST — KYC policy changed: Not Stated → Guaranteed No KYC</title>
+      <link>https://monerica.com/site/drops-st</link>
+      <description>Category: Merchant Services › Integrations | KYC policy changed: Not Stated → Guaranteed No KYC</description>
+      <guid isPermaLink="false">drops-st-KYC_CHANGE-2026-11-27T06:59:38Z</guid>
+    </item>
+    <item>
+      <title>[NEW_LISTING] Kvantis — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
+      <link>https://monerica.com/site/kvantis</link>
+      <description>Category: Web Hosting › VPS Hosting | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
+      <guid isPermaLink="false">kvantis-NEW_LISTING-2026-11-27T06:59:38Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] Zornado — Added to directory (Status: Admitted, KYC: Not Stated)</title>
       <link>https://monerica.com/site/zornado</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/ivek</link>
       <description>Category: Jobs &amp; Freelancers › Developers &amp; Consultants | Added to directory (Status: Admitted, KYC: Not Stated)</description>
       <guid isPermaLink="false">ivek-NEW_LISTING-2026-11-23T18:48:35Z</guid>
-    </item>
-    <item>
-      <title>[STATUS_CHANGE] OffCard.xyz — Status changed: Questionable → Verified</title>
-      <link>https://monerica.com/site/offcard-xyz</link>
-      <description>Category: Cards › Reloadable Cards | Status changed: Questionable → Verified</description>
-      <guid isPermaLink="false">offcard-xyz-STATUS_CHANGE-2026-11-23T18:48:35Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] Paxwolfswap — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/paxwolfswap</link>
-      <description>Category: Exchanges › Miscellaneous | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">paxwolfswap-NEW_LISTING-2026-11-23T18:48:35Z</guid>
     </item>
   </channel>
 </rss>

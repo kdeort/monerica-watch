@@ -7235,15 +7235,15 @@
     "profileUrl": "https://monerica.com/site/drops-st",
     "website": "https://drops.st/",
     "category": "Merchant Services",
-    "subcategory": "Miscellaneous",
-    "categoryUrl": "https://monerica.com/merchant-services/miscellaneous",
+    "subcategory": "Integrations",
+    "categoryUrl": "https://monerica.com/merchant-services/integrations",
     "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
     "javascript": "Optional",
-    "country": "CA",
     "founded": "2026-03-18",
-    "description": "Private online-shop software for dispensaries and retailers, with website and Telegram ordering, wholesale workflows, product and order management, and staff permissions.",
+    "description": "No-KYC shop platform: open a web + Telegram shop on your own domain in minutes. Accepts XMR, BTC, cash, cards, e-Transfer and bank transfers.",
     "added": "2026-10-10",
-    "updated": "2026-11-12"
+    "updated": "2026-11-27"
   },
   "dualcoin": {
     "name": "Dualcoin",
@@ -11996,6 +11996,38 @@
     "description": "Non-custodial, Tor-native cryptocurrency exchange. Fully functional without JavaScript or registration. Prioritizes user privacy and control.",
     "added": "2026-10-26",
     "updated": "2026-11-09"
+  },
+  "kvantis": {
+    "name": "Kvantis",
+    "slug": "kvantis",
+    "profileUrl": "https://monerica.com/site/kvantis",
+    "website": "https://kvantis.org",
+    "category": "Web Hosting",
+    "subcategory": "VPS Hosting",
+    "categoryUrl": "https://monerica.com/web-hosting/vps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "javascript": "Required",
+    "restrictions": {
+      "countriesNotServed": [
+        "BY",
+        "CU",
+        "IR",
+        "KP",
+        "RU",
+        "SY"
+      ],
+      "vpn": "Allowed",
+      "tor": "May trigger verification",
+      "other": "No mining, spam, phishing or port scanning. Sanctioned countries not served."
+    },
+    "tags": [
+      "API Available"
+    ],
+    "founded": "2026-07-15",
+    "description": "Cloud VPS, dedicated CPU and NVIDIA GPU servers across 45+ locations on Vultr, Hetzner, DigitalOcean and Linode, with hourly billing, REST API and email-only signup.",
+    "added": "2026-11-27",
+    "updated": "2026-11-27"
   },
   "kvatools-io": {
     "name": "kVATools.io",
