@@ -1,13 +1,23 @@
 {
-  "generated": "2026-11-27T18:07:21Z",
-  "total": 1455,
+  "generated": "2026-11-27T23:43:40Z",
+  "total": 1457,
   "verified": 292,
-  "admitted": 1010,
+  "admitted": 1012,
   "questionable": 94,
   "scam": 59,
-  "no_kyc": 378,
-  "tor_enabled": 153,
+  "no_kyc": 379,
+  "tor_enabled": 155,
   "active_warnings": [
+    {
+      "name": "67.tax",
+      "slug": "67-tax",
+      "profileUrl": "https://monerica.com/site/67-tax",
+      "category": "Exchanges \u203a Instant Swaps (No Account)",
+      "status": "Questionable",
+      "kycPolicy": "Guaranteed No KYC",
+      "warning": "Marked as Questionable",
+      "updated": "2026-11-27"
+    },
     {
       "name": "CloudSat",
       "slug": "cloudsat",
@@ -117,16 +127,6 @@
       "kycPolicy": "Guaranteed No KYC",
       "warning": "Listed as a scam: do not use.",
       "updated": "2026-11-17"
-    },
-    {
-      "name": "67.tax",
-      "slug": "67-tax",
-      "profileUrl": "https://monerica.com/site/67-tax",
-      "category": "Exchanges \u203a Instant Swaps (No Account)",
-      "status": "Questionable",
-      "kycPolicy": "Guaranteed No KYC",
-      "warning": "Marked as Questionable",
-      "updated": "2026-11-16"
     },
     {
       "name": "ChangeHero",

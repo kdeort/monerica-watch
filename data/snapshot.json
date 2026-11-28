@@ -427,11 +427,11 @@
     "founded": "2026-08-28",
     "description": "Instant Monero exchange without an account. No email, no identity documents at any stage, including refunds. Payouts come from our own XMR reserve.",
     "rating": {
-      "average": 1,
-      "reviews": 1
+      "average": 3,
+      "reviews": 2
     },
     "added": "2026-09-07",
-    "updated": "2026-11-16"
+    "updated": "2026-11-27"
   },
   "99stack": {
     "name": "99Stack",
@@ -9972,6 +9972,33 @@
     "added": "2025-06-12",
     "updated": "2026-11-24"
   },
+  "helendor": {
+    "name": "Helendor",
+    "slug": "helendor",
+    "profileUrl": "https://monerica.com/site/helendor",
+    "website": "https://helendor.org/en/",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://23ce7dmy44tksnls4nx4vqxxtvlmkbihqzrlmyfgsfucluihpg4r6lid.onion/en/"
+      }
+    ],
+    "category": "Exchanges",
+    "subcategory": "Instant Swaps (No Account)",
+    "categoryUrl": "https://monerica.com/exchanges/instant-swaps",
+    "status": "Admitted",
+    "kycPolicy": "Guaranteed No KYC",
+    "liquidity": "Third Party",
+    "tags": [
+      "Account Not Required",
+      "Email Not Required"
+    ],
+    "country": "AO",
+    "founded": "2022-10-13",
+    "description": "Instant crypto exchange across 60+ coins and stablecoins with no signup, including XMR to BTC swaps. Atomic swaps and Tor access are available for added privacy.",
+    "added": "2025-07-27",
+    "updated": "2026-11-27"
+  },
   "helihost": {
     "name": "HelioHost",
     "slug": "helihost",
@@ -14719,6 +14746,30 @@
     "added": "2022-06-22",
     "updated": "2026-11-09"
   },
+  "monero-love": {
+    "name": "Monero Love",
+    "slug": "monero-love",
+    "profileUrl": "https://monerica.com/site/monero-love",
+    "website": "https://monero.love",
+    "otherLinks": [
+      {
+        "label": "Tor",
+        "url": "http://monerodgop4pkzfq2exi3tms4u5vsayfsiri62gc3s45gosske2hszqd.onion"
+      },
+      {
+        "label": "I2P",
+        "url": "http://4rzvjehuvmerz2ypbfaxselr4nvyhgv2ytmejq6pdyglgrqikgla.b32.i2p"
+      }
+    ],
+    "category": "Media",
+    "subcategory": "News (English)",
+    "categoryUrl": "https://monerica.com/media/news-english",
+    "status": "Admitted",
+    "javascript": "Optional",
+    "description": "Monero news and practical guides to wallets, mining and privacy, plus public nodes, a block explorer, network statistics and pool monitoring.",
+    "added": "2026-11-27",
+    "updated": "2026-11-27"
+  },
   "monero-magazine": {
     "name": "Monero Magazine",
     "slug": "monero-magazine",
@@ -18013,7 +18064,7 @@
     "description": "Create a Visa card with Apple Pay and Google Pay support, ATM withdrawals, and the ability to send funds directly to your ACH bank account \u2014 all without KYC.",
     "rating": {
       "average": 4.1,
-      "reviews": 9
+      "reviews": 10
     },
     "added": "2026-09-15",
     "updated": "2026-11-25"
