@@ -17323,6 +17323,10 @@
     "country": "US",
     "founded": "2026-07-13",
     "description": "Accept Brazilian payments through PIX and receive it in your crypto of choice - Monero fully supported No documents asked.",
+    "rating": {
+      "average": 4,
+      "reviews": 1
+    },
     "added": "2026-10-08",
     "updated": "2026-11-12"
   },
@@ -24625,7 +24629,7 @@
     "category": "Exchanges",
     "subcategory": "Aggregators",
     "categoryUrl": "https://monerica.com/exchanges/aggregators",
-    "status": "Admitted",
+    "status": "Verified",
     "kycPolicy": "Varies By Provider",
     "liquidity": "Third Party",
     "rates": "Fixed & Float",
@@ -24643,8 +24647,12 @@
     ],
     "founded": "2026-11-22",
     "description": "Swap aggregator comparing instant exchanges, bridges and DEXs, ranking routes by amount received after fees, with the KYC risk of each route shown. Non-custodial.",
+    "rating": {
+      "average": 5,
+      "reviews": 1
+    },
     "added": "2026-11-24",
-    "updated": "2026-11-24"
+    "updated": "2026-11-28"
   },
   "swaps": {
     "name": "Swaps",
@@ -28743,29 +28751,6 @@
     "description": "Xray-core is an open-source network proxy platform by Project X (XTLS), origin of the XTLS and REALITY protocols, used to build proxy and VPN tools.",
     "added": "2026-01-15",
     "updated": "2026-11-12"
-  },
-  "xt-com": {
-    "name": "XT.COM",
-    "slug": "xt-com",
-    "profileUrl": "https://monerica.com/site/xt-com",
-    "website": "https://www.xt.com/",
-    "category": "Exchanges",
-    "subcategory": "Centralized Exchanges (Account Required)",
-    "categoryUrl": "https://monerica.com/exchanges/centralized-exchanges",
-    "status": "Admitted",
-    "kycPolicy": "Mandatory KYC",
-    "liquidity": "Own",
-    "javascript": "Required",
-    "restrictions": {
-      "countriesNotServed": [
-        "US"
-      ]
-    },
-    "country": "SG",
-    "founded": "2018-01-01",
-    "description": "Centralized cryptocurrency exchange offering spot, margin and futures trading, P2P, copy trading and earn products, with an XMR/USDT Monero spot market.",
-    "added": "2022-06-22",
-    "updated": "2026-11-13"
   },
   "xvpnc": {
     "name": "XVPNc",

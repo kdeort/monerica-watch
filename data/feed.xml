@@ -4,7 +4,19 @@
     <title>Monerica Watch — KYC &amp; Scam Alert Feed</title>
     <link>https://monerica.com</link>
     <description>Automated alerts for status, KYC policy, and scam changes on Monerica.com</description>
-    <lastBuildDate>Sat, 28 Nov 2026 00:51:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:54:36 +0000</lastBuildDate>
+    <item>
+      <title>[STATUS_CHANGE] SwapRouter — Status changed: Admitted → Verified</title>
+      <link>https://monerica.com/site/swaprouter</link>
+      <description>Category: Exchanges › Aggregators | Status changed: Admitted → Verified</description>
+      <guid isPermaLink="false">swaprouter-STATUS_CHANGE-2026-11-28T06:54:36Z</guid>
+    </item>
+    <item>
+      <title>[REMOVED_LISTING] XT.COM — Removed from directory (was Admitted)</title>
+      <link>https://monerica.com/site/xt-com</link>
+      <description>Category: Exchanges › Centralized Exchanges (Account Required) | Removed from directory (was Admitted)</description>
+      <guid isPermaLink="false">xt-com-REMOVED_LISTING-2026-11-28T06:54:36Z</guid>
+    </item>
     <item>
       <title>[NEW_LISTING] Helendor — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
       <link>https://monerica.com/site/helendor</link>
@@ -232,18 +244,6 @@
       <link>https://monerica.com/site/slowbeardigger</link>
       <description>Category: Jobs &amp; Freelancers › Developers &amp; Consultants | Removed from directory (was Admitted)</description>
       <guid isPermaLink="false">slowbeardigger-REMOVED_LISTING-2026-11-24T18:47:18Z</guid>
-    </item>
-    <item>
-      <title>[REMOVED_LISTING] XMRsafe — Removed from directory (was Admitted)</title>
-      <link>https://monerica.com/site/xmrsafe</link>
-      <description>Category: Wallets › Hardware Wallets | Removed from directory (was Admitted)</description>
-      <guid isPermaLink="false">xmrsafe-REMOVED_LISTING-2026-11-24T18:47:18Z</guid>
-    </item>
-    <item>
-      <title>[NEW_LISTING] 666.exchange — Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</title>
-      <link>https://monerica.com/site/666-exchange</link>
-      <description>Category: Exchanges › Instant Swaps (No Account) | Added to directory (Status: Admitted, KYC: Guaranteed No KYC)</description>
-      <guid isPermaLink="false">666-exchange-NEW_LISTING-2026-11-24T00:47:36Z</guid>
     </item>
   </channel>
 </rss>
